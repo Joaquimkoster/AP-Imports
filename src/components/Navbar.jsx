@@ -50,12 +50,12 @@ function Navbar() {
             Início
           </a>
 
-          <a href="#produtos" onClick={closeMenu}>
-            Produtos
-          </a>
-
           <a href="#categorias" onClick={closeMenu}>
             Categorias
+          </a>
+
+          <a href="#produtos" onClick={closeMenu}>
+            Produtos
           </a>
 
           <a href="#sobre" onClick={closeMenu}>

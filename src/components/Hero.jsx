@@ -112,14 +112,9 @@ function Hero() {
         const products = heroRef.current.querySelectorAll(
           ".hero-stage .hero-product"
         );
-        const reflections = heroRef.current.querySelectorAll(
-          ".hero-reflection .hero-product"
-        );
-
-        const cleanups = Array.from(products, (product, index) => {
+        const cleanups = Array.from(products, (product) => {
           const hoverArea = product.parentElement;
-          // Animate the matching reflection along with its product.
-          const movements = [product, reflections[index]].map((target) => ({
+          const movements = [product].map((target) => ({
             x: gsap.quickTo(target, "x", { duration: 0.45, ease: "power3.out" }),
             y: gsap.quickTo(target, "y", { duration: 0.45, ease: "power3.out" }),
             rotation: gsap.quickTo(target, "rotation", {
@@ -207,7 +202,7 @@ function Hero() {
           <span className="hero-label">PRODUTOS IMPORTADOS</span>
 
           <h1>
-            Qualidade <br />
+            <span className="hero-title-quality">Qualidade</span> <br />
             sem <span>fronteiras.</span>
           </h1>
 
@@ -223,13 +218,9 @@ function Hero() {
         </div>
 
         <div className="hero-scene">
-          <div className="hero-floor" aria-hidden="true" />
           <div className="hero-display">
             <div className="hero-stage">
               <ProductArrangement />
-            </div>
-            <div className="hero-reflection" aria-hidden="true">
-              <ProductArrangement reflection />
             </div>
           </div>
         </div>
