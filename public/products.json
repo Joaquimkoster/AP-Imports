@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Sauvage Elixir",
+    "category": "perfumes",
+    "price": 899.90,
+    "image": "/images/Hero/Sauvage.webp",
+    "description": "Perfume masculino Dior Sauvage Elixir.",
+    "featured": true,
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Victoria's Secret Bombshell",
+    "category": "perfumes",
+    "price": 599.90,
+    "image": "/images/Hero/Victoria.webp",
+    "description": "Fragrância feminina Victoria's Secret.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "iPhone",
+    "category": "eletronicos",
+    "price": 4999.90,
+    "image": "/images/Hero/Iphone.webp",
+    "description": "Smartphone Apple.",
+    "featured": true,
+    "available": true
+  }
+]

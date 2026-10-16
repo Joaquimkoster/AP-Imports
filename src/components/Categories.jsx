@@ -1,4 +1,4 @@
-import { ArrowUpRight, Tent, Sparkles, Tags } from "lucide-react";
+import { ArrowUpRight, Tags } from "lucide-react";
 import "./Categories.css";
 
 const categories = [
@@ -20,7 +20,7 @@ const categories = [
   {
     id: "saude-beleza-moda",
     name: "Saúde, Beleza e Moda",
-    icon: Sparkles,
+    image: "/images/Saude.webp",
   },
   {
     id: "ofertas-promocoes",

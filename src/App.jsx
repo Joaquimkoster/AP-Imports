@@ -1,43 +1,25 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Categories from "./components/Categories";
+import Products from "./components/Products";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      {/* MENU DE NAVEGAÇÃO */}
       <Navbar />
 
       <main>
-        {/* PRIMEIRA SEÇÃO - HERO 3D */}
         <Hero />
-
-        {/* SEGUNDA SEÇÃO - CATEGORIAS */}
         <Categories />
+        <Products />
 
-        {/* TERCEIRA SEÇÃO - PRODUTOS */}
-        <section
-          id="produtos"
-          style={{ minHeight: "60vh", padding: "100px 5%" }}
-        >
-          <h2>Produtos</h2>
-        </section>
-
-        {/* QUARTA SEÇÃO - SOBRE */}
-        <section
-          id="sobre"
-          style={{ minHeight: "40vh", padding: "100px 5%" }}
-        >
+        <section id="sobre" className="info-section">
           <h2>Sobre nós</h2>
         </section>
 
-        {/* QUINTA SEÇÃO - CONTATO */}
-        <section
-          id="contato"
-          style={{ minHeight: "40vh", padding: "100px 5%" }}
-        >
+        <section id="contato" className="info-section">
           <h2>Contato</h2>
         </section>
       </main>

@@ -1,5 +1,6 @@
 import { useEffect, useRef } from "react";
 import gsap from "gsap";
+import ScrollScene from "./ScrollScene";
 import "./Hero.css";
 
 const imagePath = "/images/Hero/";
@@ -80,30 +81,6 @@ function Hero() {
   const heroRef = useRef(null);
 
   useEffect(() => {
-    const ctx = gsap.context(() => {
-      if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-        return;
-      }
-
-      gsap.from(".hero-content > *", {
-        opacity: 0,
-        y: 24,
-        duration: 0.9,
-        stagger: 0.12,
-        ease: "power3.out",
-        clearProps: "transform,opacity",
-      });
-
-      // Introduce the complete display before individual hover interactions.
-      gsap.from(".hero-display", {
-        opacity: 0,
-        y: 28,
-        duration: 1.2,
-        ease: "power3.out",
-        clearProps: "transform,opacity",
-      });
-    }, heroRef);
-
     const media = gsap.matchMedia();
 
     media.add(
@@ -191,7 +168,6 @@ function Hero() {
 
     return () => {
       media.revert();
-      ctx.revert();
     };
   }, []);
 
@@ -218,11 +194,11 @@ function Hero() {
         </div>
 
         <div className="hero-scene">
-          <div className="hero-display">
+          <ScrollScene className="hero-display" delay={60}>
             <div className="hero-stage">
               <ProductArrangement />
             </div>
-          </div>
+          </ScrollScene>
         </div>
       </div>
     </section>

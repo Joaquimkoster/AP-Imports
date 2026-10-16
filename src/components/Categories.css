@@ -1,6 +1,5 @@
 .categories {
   width: 100%;
-  min-height: 100svh;
   display: flex;
   align-items: center;
   padding: 150px 5% 110px;
@@ -148,6 +147,10 @@
 }
 
 @media (max-width: 800px) {
+  .categories {
+    padding-block: 80px;
+  }
+
   .categories-header {
     flex-direction: column;
     align-items: flex-start;
@@ -191,17 +194,46 @@
 
 @media (max-width: 600px) {
   .categories {
-    padding: 120px 5% 80px;
+    padding: 64px 24px;
+    border-top: 1px solid #1c1c1c;
+  }
+
+  .categories-label {
+    margin-bottom: 14px;
+    font-size: 9px;
+    letter-spacing: 2.5px;
+  }
+
+  .categories-header {
+    gap: 14px;
+    margin-bottom: 26px;
+  }
+
+  .categories-header h2 {
+    max-width: 320px;
+    font-size: 34px;
+    letter-spacing: -0.8px;
+    text-wrap: balance;
+  }
+
+  .categories-header > p {
+    font-size: 14px;
+    line-height: 1.7;
+  }
+
+  .categories-grid {
+    gap: 12px;
   }
 
   .category-card {
-    padding: 12px 14px 16px;
-    grid-template-rows: 130px 1fr;
-    gap: 8px;
+    padding: 10px 12px 14px;
+    grid-template-rows: 124px 1fr;
+    gap: 10px;
+    border-radius: 16px;
   }
 
   .category-image {
-    height: 130px;
+    height: 124px;
   }
 
   .category-icon {
@@ -212,25 +244,52 @@
   .category-info {
     gap: 8px;
     padding-top: 12px;
+    min-height: 62px;
+    align-items: flex-start;
   }
 
   .category-info h3 {
-    font-size: 19px;
+    font-size: 17px;
+    line-height: 1.35;
   }
 
   .category-arrow {
     width: 16px;
     height: 16px;
+    margin-top: 3px;
   }
 
   .category-card-offers {
-    padding: 20px;
+    gap: 16px;
+    padding: 18px;
+    background: #12100c;
+  }
+
+  .category-card-offers .category-info {
+    align-items: center;
+  }
+
+  .category-card-offers h3 {
+    font-size: 18px;
   }
 }
 
 @media (max-width: 360px) {
-  .categories-grid {
-    grid-template-columns: 1fr;
+  .categories {
+    padding-inline: 20px;
+  }
+
+  .category-card {
+    grid-template-rows: 104px 1fr;
+    padding-inline: 10px;
+  }
+
+  .category-image {
+    height: 104px;
+  }
+
+  .category-info h3 {
+    font-size: 16px;
   }
 }
 

@@ -1,10 +1,38 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Search, Menu, X, MessageCircle } from "lucide-react";
 import "./Navbar.css";
 
 function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
+  const menuButtonRef = useRef(null);
+
+  useEffect(() => {
+    if (!menuOpen) return;
+
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+
+    const handleKeyDown = (event) => {
+      if (event.key === "Escape") {
+        setMenuOpen(false);
+        menuButtonRef.current?.focus();
+      }
+    };
+    const desktop = window.matchMedia("(min-width: 901px)");
+    const handleResize = () => {
+      if (desktop.matches) setMenuOpen(false);
+    };
+
+    document.addEventListener("keydown", handleKeyDown);
+    desktop.addEventListener("change", handleResize);
+
+    return () => {
+      document.body.style.overflow = previousOverflow;
+      document.removeEventListener("keydown", handleKeyDown);
+      desktop.removeEventListener("change", handleResize);
+    };
+  }, [menuOpen]);
 
   // Detectar quando o usuário rola a página
   useEffect(() => {
@@ -27,7 +55,7 @@ function Navbar() {
   };
 
   return (
-    <header className={`navbar ${scrolled ? "scrolled" : ""}`}>
+    <header className={`navbar ${scrolled ? "scrolled" : ""} ${menuOpen ? "menu-open" : ""}`}>
       <div className="navbar-container">
 
         {/* LOGO */}
@@ -44,6 +72,7 @@ function Navbar() {
         {/* LINKS DE NAVEGAÇÃO */}
         <nav
           id="navbar-navigation"
+          aria-label="Navegação principal"
           className={`navbar-links ${menuOpen ? "active" : ""}`}
         >
           <a href="#inicio" onClick={closeMenu}>
@@ -74,6 +103,7 @@ function Navbar() {
             href="#produtos"
             className="navbar-icon"
             aria-label="Pesquisar produtos"
+            onClick={closeMenu}
           >
             <Search size={21} strokeWidth={1.6} />
           </a>
@@ -82,6 +112,7 @@ function Navbar() {
             href="#contato"
             className="navbar-icon"
             aria-label="Contato pelo WhatsApp"
+            onClick={closeMenu}
           >
             <MessageCircle size={21} strokeWidth={1.6} />
           </a>
@@ -89,6 +120,7 @@ function Navbar() {
           {/* BOTÃO MENU MOBILE */}
           <button
             type="button"
+            ref={menuButtonRef}
             className="navbar-menu-button"
             onClick={() => setMenuOpen(!menuOpen)}
             aria-label={menuOpen ? "Fechar menu" : "Abrir menu"}
@@ -104,6 +136,15 @@ function Navbar() {
 
         </div>
       </div>
+      {menuOpen && (
+        <button
+          type="button"
+          className="navbar-backdrop"
+          aria-label="Fechar menu de navegação"
+          onClick={closeMenu}
+          tabIndex={-1}
+        />
+      )}
     </header>
   );
 }
