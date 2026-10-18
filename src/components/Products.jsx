@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { Search, ArrowUpRight, ChevronDown, ChevronLeft, ChevronRight, X, PackageSearch, Sparkles } from "lucide-react";
 import ScrollScene from "./ScrollScene";
+import { whatsappUrl } from "../data/contact";
 import "./Products.css";
 
 const categories = [
@@ -116,14 +117,12 @@ function Products() {
 
   // WHATSAPP
   function orderProduct(product) {
-    // Substitua pelo WhatsApp comercial, com DDI e DDD.
-    const phone = "5511999999999";
-
     const message = `Olá! Tenho interesse no produto: ${product.name}. Gostaria de mais informações.`;
-
-    const url = `https://wa.me/${phone}?text=${encodeURIComponent(
-      message
-    )}`;
+    const url = whatsappUrl(message);
+    if (!url) {
+      window.location.hash = "contato";
+      return;
+    }
 
     window.open(url, "_blank", "noopener,noreferrer");
   }

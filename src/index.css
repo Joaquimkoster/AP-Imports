@@ -1,4 +1,5 @@
 :root {
+  --header-height: 104px;
   font-family: Arial, Helvetica, sans-serif;
   color-scheme: dark;
   scrollbar-color: #51442e #000;
@@ -16,7 +17,7 @@
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 104px;
+  scroll-padding-top: 0;
 }
 
 body {
@@ -42,8 +43,8 @@ button {
 }
 
 @media (max-width: 900px) {
-  html {
-    scroll-padding-top: 88px;
+  :root {
+    --header-height: 88px;
   }
 
   html,
@@ -58,8 +59,8 @@ button {
 }
 
 @media (max-width: 600px) {
-  html {
-    scroll-padding-top: 76px;
+  :root {
+    --header-height: 76px;
   }
 
   body {

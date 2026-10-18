@@ -39,11 +39,7 @@ function update() {
 
   if (needsMeasure) {
     scenes.forEach((scene) => {
-      let top = 0;
-      for (let node = scene.element; node; node = node.offsetParent) {
-        top += node.offsetTop;
-        if (node.offsetParent) top += node.offsetParent.clientTop;
-      }
+      const top = scene.element.getBoundingClientRect().top + scrollY;
       // Trigger from the layout box, independently of the animated clipping.
       scene.top = top;
       scene.height = scene.element.offsetHeight;
@@ -91,7 +87,7 @@ function register(element, delay) {
   if (!scenes.size) {
     preference = window.matchMedia("(prefers-reduced-motion: reduce)");
     preference.addEventListener("change", updatePreference);
-    window.addEventListener("scroll", scheduleUpdate, { passive: true });
+    window.addEventListener("scroll", scheduleMeasure, { passive: true, capture: true });
     window.addEventListener("resize", scheduleMeasure, { passive: true });
     window.addEventListener("load", scheduleMeasure);
     document.addEventListener("focusin", scheduleUpdate);
@@ -120,7 +116,7 @@ function register(element, delay) {
     resizeObserver?.disconnect();
     resizeObserver = undefined;
     preference.removeEventListener("change", updatePreference);
-    window.removeEventListener("scroll", scheduleUpdate);
+    window.removeEventListener("scroll", scheduleMeasure, { capture: true });
     window.removeEventListener("resize", scheduleMeasure);
     window.removeEventListener("load", scheduleMeasure);
     document.removeEventListener("focusin", scheduleUpdate);

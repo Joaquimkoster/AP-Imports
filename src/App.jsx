@@ -2,6 +2,8 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Categories from "./components/Categories";
 import Products from "./components/Products";
+import About from "./components/About";
+import Contact from "./components/Contact";
 
 import "./App.css";
 
@@ -15,13 +17,9 @@ function App() {
         <Categories />
         <Products />
 
-        <section id="sobre" className="info-section">
-          <h2>Sobre nós</h2>
-        </section>
+        <About />
 
-        <section id="contato" className="info-section">
-          <h2>Contato</h2>
-        </section>
+        <Contact />
       </main>
     </>
   );
