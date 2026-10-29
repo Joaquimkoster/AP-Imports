@@ -1,6 +1,5 @@
 import { useEffect, useRef } from "react";
 import gsap from "gsap";
-import ScrollScene from "./ScrollScene";
 import "./Hero.css";
 
 const imagePath = "/images/Hero/";
@@ -194,11 +193,11 @@ function Hero() {
         </div>
 
         <div className="hero-scene">
-          <ScrollScene className="hero-display" delay={60}>
+          <div className="hero-display">
             <div className="hero-stage">
               <ProductArrangement />
             </div>
-          </ScrollScene>
+          </div>
         </div>
       </div>
     </section>

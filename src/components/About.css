@@ -1,7 +1,6 @@
 .about {
   display: flex;
   padding-inline: 5%;
-  border-top: 1px solid #1c1c1c;
   background: var(--background);
 }
 

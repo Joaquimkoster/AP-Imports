@@ -1,26 +1,38 @@
-main > section[id] {
-  height: 100vh;
-  height: 100dvh;
-  min-height: 0;
-  width: 100%;
-  overflow: auto;
-  align-items: safe center;
-  padding-top: calc(var(--header-height) + 24px);
-  padding-bottom: 24px;
-  scroll-margin-top: 0;
+main {
+  padding-top: 24px;
 }
 
-main > section.hero {
-  padding: 0;
+.catalog-container {
+  width: min(1200px, calc(100% - 48px));
+  margin-inline: auto;
 }
 
-.hero .hero-container {
-  padding-top: calc(var(--header-height) + 24px);
-  padding-bottom: 24px;
+.catalog-container > .products {
+  margin-top: 24px;
 }
 
-.info-section {
-  display: flex;
-  align-items: center;
-  padding: 100px 5%;
+.floating-contact {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 20;
+  display: grid;
+  place-items: center;
+  width: 64px;
+  height: 64px;
+  border: 1px solid #e1bf80;
+  border-radius: 50%;
+  background: var(--gold);
+  color: #080808;
+  box-shadow: 0 6px 24px #0008;
+}
+
+@media (max-width: 700px) {
+  .catalog-container { width: calc(100% - 32px); }
+}
+
+@media (max-width: 600px) {
+  main { padding-top: 12px; }
+  .catalog-container > .products { margin-top: 20px; }
+  .floating-contact { right: 16px; bottom: max(16px, env(safe-area-inset-bottom)); width: 58px; height: 58px; }
 }
