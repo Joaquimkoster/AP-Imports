@@ -6,7 +6,6 @@ function CatalogBanner() {
     <div className="catalog-banner" aria-labelledby="catalog-title">
       <div className="banner-brand">
         <img src="/images/Logo.webp" alt="A&P Imports" width="180" height="180" />
-        <span>ESCOLHAS QUE INSPIRAM</span>
       </div>
       <div className="banner-content">
         <span className="banner-eyebrow">PRODUTOS IMPORTADOS</span>

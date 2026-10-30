@@ -9,6 +9,7 @@ export const contact = {
 export const teamContacts = [
   {
     name: "Adriana",
+    description: "Conte à Adriana o que você procura e encontre uma opção que combine com você.",
     initials: "A",
     image: "/images/contacts/adriana.jpeg",
     phone: "+55 (11) 95602-9153",
@@ -16,6 +17,7 @@ export const teamContacts = [
   },
   {
     name: "Gessica",
+    description: "Ficou em dúvida? A Gessica te ajuda com os detalhes para escolher com confiança.",
     initials: "G",
     image: "/images/contacts/gessica.jpeg",
     phone: "+55 (45) 9956-7888",

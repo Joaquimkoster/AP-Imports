@@ -1,5 +1,6 @@
 import { ArrowUpRight, Bot, MessageCircle } from "lucide-react";
 import { teamContacts, chatbotContact, whatsappUrl } from "../data/contact";
+import { scrollToSection } from "../utils/scrollToSection";
 import "./Contact.css";
 
 function Contact() {
@@ -8,8 +9,10 @@ function Contact() {
   return (
     <section id="contato" className="contact" aria-labelledby="contact-title">
       <div className="contact-container">
-        <span className="contact-label">ATENDIMENTO A&P IMPORTS</span>
-        <h2 id="contact-title">Fale com nossa <span>equipe.</span></h2>
+        <div className="contact-heading">
+          <span className="contact-label">ATENDIMENTO A&P IMPORTS</span>
+          <h2 id="contact-title">Fale com nossa <span>equipe.</span></h2>
+        </div>
 
         <div className="contact-team">
           {contacts.map((member) => {
@@ -18,6 +21,7 @@ function Contact() {
 
             return (
               <article className={`contact-person${member.isBot ? " contact-person-bot" : ""}`} key={member.name}>
+                <span className="contact-role">{member.isBot ? "ASSISTENTE VIRTUAL" : "ATENDIMENTO PESSOAL"}</span>
                 <div className="contact-avatar" aria-hidden="true">
                   {member.image ? (
                     <img src={member.image} alt="" width="72" height="72" loading="lazy" decoding="async" />
@@ -26,12 +30,12 @@ function Contact() {
                 <h3>{member.name}</h3>
                 <p className="contact-description">
                   {member.isBot
-                    ? (pending ? "Em breve, mais uma forma de tirar suas dúvidas pelo WhatsApp." : "Tire suas dúvidas com nosso assistente virtual pelo WhatsApp.")
-                    : "Conte o que procura e receba ajuda para escolher seu próximo produto."}
+                    ? (pending ? "Em breve, tire suas dúvidas e explore nosso catálogo com um assistente no WhatsApp." : "Tire suas dúvidas com nosso assistente virtual pelo WhatsApp.")
+                    : member.description}
                 </p>
                 {member.phone ? (
                   <a className="contact-phone" href={`tel:+${member.whatsapp}`}>{member.phone}</a>
-                ) : <span className="contact-phone contact-coming-soon">{pending ? "Estamos preparando essa novidade." : "Atendimento pelo WhatsApp"}</span>}
+                ) : <span className="contact-phone contact-note">{pending ? "Novidade em preparação" : "Atendimento pelo WhatsApp"}</span>}
                 {url ? (
                   <a className="contact-whatsapp" href={url} target="_blank" rel="noopener noreferrer" aria-label={`Chamar ${member.name} no WhatsApp`}>
                     <MessageCircle size={18} aria-hidden="true" />
@@ -49,11 +53,10 @@ function Contact() {
           })}
         </div>
 
-
         <footer className="contact-footer">
           <span>A&P IMPORTS</span>
           <span>© {new Date().getFullYear()} A&P Imports. Todos os direitos reservados.</span>
-          <a href="#produtos">Voltar ao catálogo <ArrowUpRight size={14} aria-hidden="true" /></a>
+          <a href="#catalogo" onClick={(event) => scrollToSection(event, "catalogo")}>Voltar ao catálogo <ArrowUpRight size={14} aria-hidden="true" /></a>
         </footer>
       </div>
     </section>

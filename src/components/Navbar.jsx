@@ -1,15 +1,14 @@
 import { Search, X } from "lucide-react";
 import "./Navbar.css";
 
-function Navbar({ search, onSearchChange }) {
+function ProductSearch({ search, onSearchChange }) {
   function handleSearch(event) {
     event.preventDefault();
-    document.getElementById("produtos")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    document.querySelector(".products-results")?.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
   return (
-    <header className="navbar">
-      <div className="navbar-container">
+    <div className="product-search">
         <form className="navbar-search" role="search" onSubmit={handleSearch}>
           <Search size={18} aria-hidden="true" />
           <input
@@ -25,9 +24,8 @@ function Navbar({ search, onSearchChange }) {
             </button>
           )}
         </form>
-      </div>
-    </header>
+    </div>
   );
 }
 
-export default Navbar;
+export default ProductSearch;

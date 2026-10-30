@@ -1,29 +1,27 @@
 import { useState } from "react";
-import { MessageCircle } from "lucide-react";
-import Navbar from "./components/Navbar";
+import { ArrowDownRight, MessageCircle } from "lucide-react";
 import CatalogBanner from "./components/CatalogBanner";
 import Products from "./components/Products";
 import Contact from "./components/Contact";
-import { whatsappUrl } from "./data/contact";
+import { scrollToSection } from "./utils/scrollToSection";
 import "./App.css";
 
 function App() {
   const [search, setSearch] = useState("");
-  const sellerUrl = whatsappUrl("Olá! Gostaria de saber mais sobre os produtos da A&P Imports.");
 
   return (
     <>
-      <Navbar search={search} onSearchChange={setSearch} />
       <main>
-        <div className="catalog-container">
+        <section id="catalogo" className="catalog-container" aria-labelledby="catalog-title">
           <CatalogBanner />
           <Products search={search} onSearchChange={setSearch} />
-        </div>
+          <div className="catalog-assistance">
+            <span><MessageCircle size={18} aria-hidden="true" /> Dúvidas sobre algum produto? A gente ajuda você a escolher.</span>
+            <a href="#contato" onClick={(event) => scrollToSection(event, "contato")}>Converse com a equipe <ArrowDownRight size={19} aria-hidden="true" /></a>
+          </div>
+        </section>
         <Contact />
       </main>
-      <a className="floating-contact" href={sellerUrl || "#contato"} aria-label="Falar com a A&P Imports" {...(sellerUrl ? { target: "_blank", rel: "noopener noreferrer" } : {})}>
-        <MessageCircle size={28} aria-hidden="true" />
-      </a>
     </>
   );
 }

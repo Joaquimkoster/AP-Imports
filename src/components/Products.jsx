@@ -1,6 +1,8 @@
-import { useEffect, useMemo, useState } from "react";
-import { ArrowUpRight, ChevronDown, ChevronLeft, ChevronRight, X, PackageSearch } from "lucide-react";
-import { whatsappUrl } from "../data/contact";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { ArrowUpRight, ChevronLeft, ChevronRight, X, PackageSearch } from "lucide-react";
+import { scrollToSection } from "../utils/scrollToSection";
+import ProductSearch from "./Navbar";
+import ProductSort from "./ProductSort";
 import "./Products.css";
 
 const categories = [
@@ -15,6 +17,7 @@ const categories = [
 const ITEMS_PER_PAGE = 24;
 
 function Products({ search, onSearchChange }) {
+  const resultsRef = useRef(null);
   const [products, setProducts] = useState([]);
   const [category, setCategory] = useState("todos");
   const [sort, setSort] = useState("default");
@@ -64,6 +67,10 @@ function Products({ search, onSearchChange }) {
   useEffect(() => {
     setPage(1);
   }, [search]);
+
+  useEffect(() => {
+    if (resultsRef.current) resultsRef.current.scrollTop = 0;
+  }, [category, sort, page, search]);
 
   // FILTRAR E ORDENAR
   const filteredProducts = useMemo(() => {
@@ -116,18 +123,6 @@ function Products({ search, onSearchChange }) {
     setPage(1);
   }
 
-  // WHATSAPP
-  function orderProduct(product) {
-    const message = `Olá! Tenho interesse no produto: ${product.name}. Gostaria de mais informações.`;
-    const url = whatsappUrl(message);
-    if (!url) {
-      window.location.hash = "contato";
-      return;
-    }
-
-    window.open(url, "_blank", "noopener,noreferrer");
-  }
-
   return (
     <section className="products" id="produtos" aria-labelledby="products-title">
       <div className="products-container">
@@ -157,24 +152,16 @@ function Products({ search, onSearchChange }) {
           </div>
           {!loading && !error && (
             <div className="products-results-actions">
-            <div className="products-sort-field">
-              <select className="products-sort" value={sort} aria-label="Ordenar produtos" onChange={(event) => { setSort(event.target.value); setPage(1); }}>
-                <option value="default">Seleção da loja</option>
-                <option value="price-low">Menor preço</option>
-                <option value="price-high">Maior preço</option>
-                <option value="name">Nome A-Z</option>
-              </select>
-              <ChevronDown size={18} aria-hidden="true" />
-            </div>
-            {hasFilters && (
-              <button type="button" className="products-reset" onClick={resetFilters}>
+            <ProductSort value={sort} onChange={(value) => { setSort(value); setPage(1); }} />
+              <button type="button" className={`products-reset${hasFilters ? "" : " is-hidden"}`} disabled={!hasFilters} aria-hidden={!hasFilters} onClick={resetFilters}>
                 <X size={14} aria-hidden="true" />
                 Limpar filtros
               </button>
-            )}
             </div>
           )}
         </div>
+
+        <ProductSearch search={search} onSearchChange={onSearchChange} />
 
         {/* CONTADOR */}
         {!loading && !error && (
@@ -187,10 +174,11 @@ function Products({ search, onSearchChange }) {
           </div>
         )}
 
+        <div className="products-content" ref={resultsRef} role="region" aria-label="Resultados do catálogo" tabIndex={0}>
         {/* CARREGAMENTO */}
         {loading && (
           <div className="products-loading" role="status">
-            <p className="products-message">Carregando nossa seleção...</p>
+            <p className="sr-only">Carregando nossa seleção...</p>
             <div className="products-grid" aria-hidden="true">
               {Array.from({ length: 3 }, (_, index) => (
                 <div className="product-skeleton" key={index} />
@@ -254,7 +242,7 @@ function Products({ search, onSearchChange }) {
                       className="product-button"
                       aria-label={product.available ? `Consultar ${product.name}` : `${product.name} indisponível`}
                       disabled={!product.available}
-                      onClick={() => orderProduct(product)}
+                      onClick={(event) => scrollToSection(event, "contato")}
                     >
                       {product.available ? (
                         <span>Consultar<span className="product-button-detail"> produto</span></span>
@@ -311,6 +299,7 @@ function Products({ search, onSearchChange }) {
             )}
           </>
         )}
+        </div>
       </div>
     </section>
   );
