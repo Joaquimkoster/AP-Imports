@@ -14,10 +14,29 @@ const categories = [
   { id: "ofertas-promocoes", name: "Ofertas e Promoções" },
 ];
 
-const ITEMS_PER_PAGE = 24;
+const ROWS_PER_PAGE = 5;
+const MOBILE_QUERY = "(max-width: 600px)";
+
+// 5 linhas por página: 3 colunas no desktop, 2 no celular
+function useItemsPerPage() {
+  const [columns, setColumns] = useState(() =>
+    window.matchMedia(MOBILE_QUERY).matches ? 2 : 3
+  );
+
+  useEffect(() => {
+    const media = window.matchMedia(MOBILE_QUERY);
+    const update = () => setColumns(media.matches ? 2 : 3);
+    media.addEventListener("change", update);
+    return () => media.removeEventListener("change", update);
+  }, []);
+
+  return columns * ROWS_PER_PAGE;
+}
 
 function Products({ search, onSearchChange }) {
   const resultsRef = useRef(null);
+  const firstRender = useRef(true);
+  const itemsPerPage = useItemsPerPage();
   const [products, setProducts] = useState([]);
   const [category, setCategory] = useState("todos");
   const [sort, setSort] = useState("default");
@@ -69,8 +88,16 @@ function Products({ search, onSearchChange }) {
   }, [search]);
 
   useEffect(() => {
-    if (resultsRef.current) resultsRef.current.scrollTop = 0;
-  }, [category, sort, page, search]);
+    setPage(1);
+  }, [itemsPerPage]);
+
+  useEffect(() => {
+    if (firstRender.current) {
+      firstRender.current = false;
+      return;
+    }
+    document.getElementById("categorias")?.scrollIntoView({ block: "start", behavior: "smooth" });
+  }, [page]);
 
   // FILTRAR E ORDENAR
   const filteredProducts = useMemo(() => {
@@ -87,12 +114,17 @@ function Products({ search, onSearchChange }) {
 
     result = [...result];
 
-    if (sort === "price-low") {
-      result.sort((a, b) => a.price - b.price);
-    }
+    if (sort === "price-low" || sort === "price-high") {
+      result.sort((a, b) => {
+        const aHasPrice = Number.isFinite(a.price);
+        const bHasPrice = Number.isFinite(b.price);
 
-    if (sort === "price-high") {
-      result.sort((a, b) => b.price - a.price);
+        if (!aHasPrice || !bHasPrice) {
+          return Number(bHasPrice) - Number(aHasPrice);
+        }
+
+        return sort === "price-low" ? a.price - b.price : b.price - a.price;
+      });
     }
 
     if (sort === "name") {
@@ -106,12 +138,12 @@ function Products({ search, onSearchChange }) {
 
   // PAGINAÇÃO
   const totalPages = Math.ceil(
-    filteredProducts.length / ITEMS_PER_PAGE
+    filteredProducts.length / itemsPerPage
   );
 
   const visibleProducts = filteredProducts.slice(
-    (page - 1) * ITEMS_PER_PAGE,
-    page * ITEMS_PER_PAGE
+    (page - 1) * itemsPerPage,
+    page * itemsPerPage
   );
 
   const hasFilters = search !== "" || category !== "todos" || sort !== "default";
@@ -228,13 +260,13 @@ function Products({ search, onSearchChange }) {
                     <h3>{product.name}</h3>
 
                     <strong className="product-price">
-                      {Number(product.price).toLocaleString(
+                      {Number.isFinite(product.price) ? product.price.toLocaleString(
                         "pt-BR",
                         {
                           style: "currency",
-                          currency: "BRL",
+                          currency: product.currency || "BRL",
                         }
-                      )}
+                      ) : "Sob consulta"}
                     </strong>
 
                     <button

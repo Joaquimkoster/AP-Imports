@@ -1,32 +1,252 @@
 [
   {
-    "id": 1,
-    "name": "Sauvage Elixir",
-    "category": "perfumes",
-    "price": 899.90,
-    "image": "/images/Hero/Sauvage.webp",
-    "description": "Perfume masculino Dior Sauvage Elixir.",
-    "featured": true,
-    "available": true
-  },
-  {
-    "id": 2,
-    "name": "Victoria's Secret Bombshell",
-    "category": "perfumes",
-    "price": 599.90,
-    "image": "/images/Hero/Victoria.webp",
-    "description": "Fragrância feminina Victoria's Secret.",
+    "id": 8,
+    "name": "MEDICUBE AGE-R BOOSTER PRO MINI PLUS PINK",
+    "category": "saude-beleza-moda",
+    "price": 449.10,
+    "image": "/images/products/medicube-age-r-booster-pro-mini-plus-pink.png",
+    "description": "Aparelho facial Medicube Age-R Booster Pro Mini Plus na cor Pink para a rotina de cuidados com a pele.",
     "featured": false,
     "available": true
   },
   {
-    "id": 3,
-    "name": "iPhone",
+    "id": 4,
+    "name": "MEDICUBE AGE-R BOOSTER PRO MINI PLUS IVORY",
+    "category": "saude-beleza-moda",
+    "price": 449.10,
+    "image": "/images/products/medicube-age-r-booster-pro-mini-plus-ivory.png",
+    "description": "Aparelho facial Medicube Age-R Booster Pro Mini Plus na cor Ivory para a rotina de cuidados com a pele.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "MEDICUBE AGE-R BOOSTER PRO X2 PINK",
+    "category": "saude-beleza-moda",
+    "price": 1248.24,
+    "image": "/images/products/medicube-age-r-booster-pro-x2-pink.png",
+    "description": "Aparelho facial Medicube Age-R Booster Pro X2 na cor Pink para a rotina de cuidados com a pele.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "MEDICUBE AGE-R BOOSTER PRO X2 WHITE",
+    "category": "saude-beleza-moda",
+    "price": 1248.24,
+    "image": "/images/products/medicube-age-r-booster-pro-x2-white.png",
+    "description": "Aparelho facial Medicube Age-R Booster Pro X2 na cor White para a rotina de cuidados com a pele.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 7,
+    "name": "MEDICUBE AZELAIC ACID 16 BB SOOTHING SERUM 30ML",
+    "category": "saude-beleza-moda",
+    "price": 79.25,
+    "image": "/images/products/medicube-azelaic-acid-16-bb-soothing-serum-30ml.png",
+    "description": "Sérum facial Medicube Azelaic Acid 16 BB Soothing Serum, embalagem de 30 ml.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 9,
+    "name": "MEDICUBE AZELAIC ACID EXOSOME SHOT 2000 30ML",
+    "category": "saude-beleza-moda",
+    "price": 75.29,
+    "image": "/images/products/medicube-azelaic-acid-exosome-shot-2000-30ml.png",
+    "description": "Sérum facial Medicube Azelaic Acid Exosome Shot 2000, embalagem de 30 ml.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 10,
+    "name": "MEDICUBE AZELAIC ACID CAPSULA CLEANSING FOAM 120GR",
+    "category": "saude-beleza-moda",
+    "price": 115.58,
+    "image": "/images/products/medicube-azelaic-acid-capsula-cleansing-foam-120gr.png",
+    "description": "Espuma de limpeza facial Medicube Azelaic Acid Capsule Cleansing Foam, embalagem de 120 g.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 11,
+    "name": "MEDICUBE AZELAIC ACID EXOSOME SHOT 7500 30ML",
+    "category": "saude-beleza-moda",
+    "price": 85.86,
+    "image": "/images/products/medicube-azelaic-acid-exosome-shot-7500-30ml.png",
+    "description": "Sérum facial Medicube Azelaic Acid Exosome Shot 7500, embalagem de 30 ml.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 12,
+    "name": "MOTOROLA MOTO G86 POWER 5G 256GB 8GB RAM VERMELHO",
     "category": "eletronicos",
-    "price": 4999.90,
-    "image": "/images/Hero/Iphone.webp",
-    "description": "Smartphone Apple.",
-    "featured": true,
+    "price": 1460.00,
+    "image": "/images/products/motorola-moto-g86-power-5g-vermelho-256gb-8gb.png",
+    "description": "Smartphone Motorola Moto G86 Power 5G na cor vermelha, com 256 GB de armazenamento e 8 GB de RAM.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 13,
+    "name": "XIAOMI REDMI NOTE 15 PRO 5G 256GB 8GB RAM PRETO",
+    "category": "eletronicos",
+    "price": 1950.00,
+    "image": "/images/products/xiaomi-redmi-note-15-pro-5g-preto-256gb-8gb.png",
+    "description": "Smartphone Xiaomi Redmi Note 15 Pro 5G na cor preta, com 256 GB de armazenamento, 8 GB de RAM, câmera de 200 MP e bateria de 6580 mAh.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 14,
+    "name": "XIAOMI POCO X8 PRO MAX 512GB 12GB RAM LARANJA",
+    "category": "eletronicos",
+    "price": 3150.00,
+    "image": "/images/products/xiaomi-poco-x8-pro-max-laranja-512gb-12gb.png",
+    "description": "Smartphone Xiaomi Poco X8 Pro Max na cor laranja, com 512 GB de armazenamento e 12 GB de RAM.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 15,
+    "name": "JEAN PAUL GAULTIER SCANDAL EAU DE PARFUM 80ML",
+    "category": "perfumes",
+    "price": 500.00,
+    "image": "/images/products/jean-paul-gaultier-scandal-eau-de-parfum-80ml.png",
+    "description": "Perfume feminino Jean Paul Gaultier Scandal Eau de Parfum, frasco de 80 ml.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 16,
+    "name": "LANDERFIT HYDROLYZED COLLAGEN 180 CÁPSULAS",
+    "category": "saude-beleza-moda",
+    "price": 270.00,
+    "image": "/images/products/landerfit-hydrolyzed-collagen-180-capsulas.png",
+    "description": "Colágeno hidrolisado Landerfit com vitamina C e ácido hialurônico, pote com 180 cápsulas.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 17,
+    "name": "DORPH CREATINE GUMMIES 60 UNIDADES",
+    "category": "saude-beleza-moda",
+    "price": 260.00,
+    "image": "/images/products/dorph-creatine-gummies-60-unidades.png",
+    "description": "Creatina em gummies Dorph, pote com 60 unidades de 5 g (30 porções). Sabores: Red Fruits, Green Grape e Strawberry.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 18,
+    "name": "EARTH'S CREATION VITAMINA E 180MG 400 IU 100 SOFTGELS",
+    "category": "saude-beleza-moda",
+    "price": 260.00,
+    "image": "/images/products/earths-creation-vitamina-e-180mg-100-softgels.png",
+    "description": "Vitamina E Earth's Creation 180 mg (400 IU), pote com 100 softgels. Ação antioxidante e auxílio na proteção das células.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 19,
+    "name": "EARTH'S CREATION VITAMINA D 5000 IU 100 SOFTGELS",
+    "category": "saude-beleza-moda",
+    "price": 260.00,
+    "image": "/images/products/earths-creation-vitamina-d-5000iu-100-softgels.png",
+    "description": "Vitamina D natural Earth's Creation 5000 IU (125 mcg), pote com 100 softgels. Suporte à imunidade e auxílio na saúde óssea.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 20,
+    "name": "EARTH'S CREATION VITAMINA C 500MG 100 TABLETS",
+    "category": "saude-beleza-moda",
+    "price": 260.00,
+    "image": "/images/products/earths-creation-vitamina-c-500mg-100-tablets.png",
+    "description": "Vitamina C Earth's Creation 500 mg, pote com 100 tablets. Suporte à imunidade e ação antioxidante.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 21,
+    "name": "SELINA SELINA EAU DE PARFUM 35ML",
+    "category": "perfumes",
+    "price": 29.90,
+    "image": "/images/products/selina-selina-eau-de-parfum-35ml.png",
+    "description": "Perfume Selina Selina Eau de Parfum, frasco de 35 ml em versão compacta.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 22,
+    "name": "CLUB DE NUIT UNTOLD EAU DE PARFUM 35ML",
+    "category": "perfumes",
+    "price": 29.90,
+    "image": "/images/products/club-de-nuit-untold-eau-de-parfum-35ml.png",
+    "description": "Perfume Club de Nuit Untold Eau de Parfum, frasco de 35 ml em versão compacta.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 23,
+    "name": "SHAKAN EAU DE PARFUM 35ML",
+    "category": "perfumes",
+    "price": 29.90,
+    "image": "/images/products/shakan-eau-de-parfum-35ml.png",
+    "description": "Perfume Shakan Eau de Parfum, frasco de 35 ml em versão compacta.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 24,
+    "name": "AFEEP EAU DE PARFUM 35ML",
+    "category": "perfumes",
+    "price": 29.90,
+    "image": "/images/products/afeep-eau-de-parfum-35ml.png",
+    "description": "Perfume Afeep Eau de Parfum, frasco de 35 ml em versão compacta.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 25,
+    "name": "YARA TOUS EAU DE PARFUM 35ML",
+    "category": "perfumes",
+    "price": 29.90,
+    "image": "/images/products/yara-tous-eau-de-parfum-35ml.png",
+    "description": "Perfume Yara Tous Eau de Parfum, frasco de 35 ml em versão compacta.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 26,
+    "name": "YARA CANDY EAU DE PARFUM 35ML",
+    "category": "perfumes",
+    "price": 29.90,
+    "image": "/images/products/yara-candy-eau-de-parfum-35ml.png",
+    "description": "Perfume Yara Candy Eau de Parfum, frasco de 35 ml em versão compacta.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 27,
+    "name": "YARA ROSA EAU DE PARFUM 35ML",
+    "category": "perfumes",
+    "price": 29.90,
+    "image": "/images/products/yara-rosa-eau-de-parfum-35ml.png",
+    "description": "Perfume Yara na versão rosa, Eau de Parfum, frasco de 35 ml em versão compacta.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 28,
+    "name": "YARA MOI EAU DE PARFUM 35ML",
+    "category": "perfumes",
+    "price": 29.90,
+    "image": "/images/products/yara-moi-eau-de-parfum-35ml.png",
+    "description": "Perfume Yara Moi Eau de Parfum, frasco de 35 ml em versão compacta.",
+    "featured": false,
     "available": true
   }
 ]

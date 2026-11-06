@@ -19,8 +19,8 @@ function App() {
             <span><MessageCircle size={18} aria-hidden="true" /> Dúvidas sobre algum produto? A gente ajuda você a escolher.</span>
             <a href="#contato" onClick={(event) => scrollToSection(event, "contato")}>Converse com a equipe <ArrowDownRight size={19} aria-hidden="true" /></a>
           </div>
+          <Contact />
         </section>
-        <Contact />
       </main>
     </>
   );

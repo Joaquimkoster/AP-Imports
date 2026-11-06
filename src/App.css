@@ -8,9 +8,8 @@ main {
 
 .catalog-container {
   width: min(1680px, calc(100% - 96px));
-  min-height: 100svh;
   margin-inline: auto;
-  padding: clamp(24px, calc(27svh - 210px), 150px) 0 clamp(24px, 3.5svh, 48px);
+  padding: clamp(24px, calc(27svh - 210px), 150px) 0 0;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -34,14 +33,14 @@ main {
 .catalog-assistance a:hover { color: #ffe1a0; }
 
 @media (min-width: 901px) and (max-height: 850px) {
-  .catalog-container { padding-block: 20px; }
+  .catalog-container { padding-block: 20px 0; }
 }
 
 @media (max-width: 1100px) {
   .catalog-container { width: calc(100% - 48px); }
 }
 @media (max-width: 600px) {
-  .catalog-container { width: calc(100% - 32px); padding-block: 16px 32px; }
+  .catalog-container { width: calc(100% - 32px); padding-block: 16px 0; }
   .catalog-container > .products { margin-top: 20px; }
   .catalog-assistance { display: none; }
 }
