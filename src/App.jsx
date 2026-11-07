@@ -3,6 +3,7 @@ import { ArrowDownRight, MessageCircle } from "lucide-react";
 import CatalogBanner from "./components/CatalogBanner";
 import Products from "./components/Products";
 import Contact from "./components/Contact";
+import WhatsAppFloat from "./components/WhatsAppFloat";
 import { scrollToSection } from "./utils/scrollToSection";
 import "./App.css";
 
@@ -22,6 +23,7 @@ function App() {
           <Contact />
         </section>
       </main>
+      <WhatsAppFloat />
     </>
   );
 }

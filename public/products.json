@@ -328,5 +328,135 @@
     "description": "Perfume masculino Krip Melek Eau de Parfum, frasco de 100 ml.",
     "featured": false,
     "available": true
+  },
+  {
+    "id": 37,
+    "name": "KRIP SUGAR EAU DE PARFUM FEMININO 100ML",
+    "category": "perfumes",
+    "price": 99.00,
+    "image": "/images/products/krip-sugar-eau-de-parfum-feminino-100ml.png",
+    "description": "Perfume feminino Krip Sugar Eau de Parfum, frasco de 100 ml.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 38,
+    "name": "LANCÔME LA VIE EST BELLE EAU DE PARFUM FEMININO 100ML",
+    "category": "perfumes",
+    "price": 475.20,
+    "image": "/images/products/lancome-la-vie-est-belle-eau-de-parfum-100ml.png",
+    "description": "Perfume feminino Lancôme La Vie Est Belle Eau de Parfum, frasco de 100 ml. Feito com preciosos ingredientes naturais, revela uma fragrância moderna e marcante.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 39,
+    "name": "KRIP HUBB EAU DE PARFUM FEMININO 100ML",
+    "category": "perfumes",
+    "price": 99.00,
+    "image": "/images/products/krip-hubb-eau-de-parfum-feminino-100ml.png",
+    "description": "Perfume feminino Krip Hubb Eau de Parfum, frasco de 100 ml.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 40,
+    "name": "CAROLINA HERRERA GOOD GIRL EAU DE PARFUM FEMININO 80ML",
+    "category": "perfumes",
+    "price": 501.53,
+    "image": "/images/products/carolina-herrera-good-girl-eau-de-parfum-80ml.png",
+    "description": "Perfume feminino Carolina Herrera Good Girl Eau de Parfum, frasco de 80 ml. Uma fragrância poderosa e sensual, com uma mescla audaciosa de notas contrastantes.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 41,
+    "name": "KRIP BAHAR EAU DE PARFUM FEMININO 100ML",
+    "category": "perfumes",
+    "price": 99.00,
+    "image": "/images/products/krip-bahar-eau-de-parfum-feminino-100ml.png",
+    "description": "Perfume feminino Krip Bahar Eau de Parfum, frasco de 100 ml.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 42,
+    "name": "CHRISTIAN DIOR MISS DIOR EAU DE PARFUM FEMININO 100ML",
+    "category": "perfumes",
+    "price": 620.33,
+    "image": "/images/products/christian-dior-miss-dior-eau-de-parfum-100ml.png",
+    "description": "Perfume feminino Christian Dior Miss Dior Eau de Parfum, frasco de 100 ml. Uma fragrância cheia de vida, que captura a essência do amor e da feminilidade.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 43,
+    "name": "KRIP NUR EAU DE PARFUM FEMININO 100ML",
+    "category": "perfumes",
+    "price": 99.00,
+    "image": "/images/products/krip-nur-eau-de-parfum-feminino-100ml.png",
+    "description": "Perfume feminino Krip Nur Eau de Parfum, frasco de 100 ml.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 44,
+    "name": "GIORGIO ARMANI SÌ EAU DE PARFUM FEMININO 100ML",
+    "category": "perfumes",
+    "price": 607.20,
+    "image": "/images/products/giorgio-armani-si-eau-de-parfum-100ml.png",
+    "description": "Perfume feminino Giorgio Armani Sì Eau de Parfum, frasco de 100 ml. Fragrância chipré para a mulher moderna e confiante.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 45,
+    "name": "KRIP SABAH EAU DE PARFUM FEMININO 100ML",
+    "category": "perfumes",
+    "price": 99.00,
+    "image": "/images/products/krip-sabah-eau-de-parfum-feminino-100ml.png",
+    "description": "Perfume feminino Krip Sabah Eau de Parfum, frasco de 100 ml.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 46,
+    "name": "CHANEL COCO MADEMOISELLE EAU DE PARFUM FEMININO 100ML",
+    "category": "perfumes",
+    "price": 983.40,
+    "image": "/images/products/chanel-coco-mademoiselle-eau-de-parfum-100ml.png",
+    "description": "Perfume feminino Chanel Coco Mademoiselle Eau de Parfum, frasco de 100 ml. Um spray elegante e luxuoso, mais próximo de força e caráter para a forma de se expressar.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 47,
+    "name": "KRIP SHEIK EAU DE PARFUM UNISSEX 100ML",
+    "category": "perfumes",
+    "price": 99.00,
+    "image": "/images/products/krip-sheik-eau-de-parfum-unissex-100ml.png",
+    "description": "Perfume unissex Krip Sheik Eau de Parfum, frasco de 100 ml.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 48,
+    "name": "ISSEY MIYAKE L'EAU D'ISSEY POUR HOMME EAU DE TOILETTE MASCULINO 125ML",
+    "category": "perfumes",
+    "price": 232.66,
+    "image": "/images/products/issey-miyake-leau-dissey-pour-homme-eau-de-toilette-125ml.png",
+    "description": "Perfume masculino Issey Miyake L'Eau d'Issey Pour Homme Eau de Toilette, frasco de 125 ml. Fragrância refrescante, amadeirada e aquática.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 49,
+    "name": "KRIP JABAL EAU DE PARFUM MASCULINO 100ML",
+    "category": "perfumes",
+    "price": 99.00,
+    "image": "/images/products/krip-jabal-eau-de-parfum-masculino-100ml.png",
+    "description": "Perfume masculino Krip Jabal Eau de Parfum, frasco de 100 ml.",
+    "featured": false,
+    "available": true
   }
 ]

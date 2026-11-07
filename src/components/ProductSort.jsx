@@ -1,14 +1,15 @@
 import { useEffect, useId, useRef, useState } from "react";
 import { Check, ChevronDown } from "lucide-react";
 
-const options = [
+const sortOptions = [
   { value: "default", label: "Seleção da loja" },
+  { value: "newest", label: "Mais recentes" },
   { value: "price-low", label: "Menor preço" },
   { value: "price-high", label: "Maior preço" },
   { value: "name", label: "Nome A-Z" },
 ];
 
-function ProductSort({ value, onChange }) {
+function ProductSort({ value, onChange, options = sortOptions, label = "Ordenar produtos", prefix = "", className = "" }) {
   const [open, setOpen] = useState(false);
   const [activeIndex, setActiveIndex] = useState(0);
   const fieldRef = useRef(null);
@@ -63,7 +64,7 @@ function ProductSort({ value, onChange }) {
 
   return (
     <div
-      className="products-sort-field"
+      className={`products-sort-field${className ? " " + className : ""}`}
       ref={fieldRef}
       onBlur={(event) => {
         if (!event.currentTarget.contains(event.relatedTarget)) setOpen(false);
@@ -74,7 +75,7 @@ function ProductSort({ value, onChange }) {
         className="products-sort"
         type="button"
         role="combobox"
-        aria-label={`Ordenar produtos: ${options[selectedIndex].label}`}
+        aria-label={`${label}: ${options[selectedIndex].label}`}
         aria-expanded={open}
         aria-haspopup="listbox"
         aria-controls={listId}
@@ -85,11 +86,11 @@ function ProductSort({ value, onChange }) {
           setOpen((previous) => !previous);
         }}
       >
-        <span>{options[selectedIndex].label}</span>
+        <span>{prefix}{options[selectedIndex].label}</span>
         <ChevronDown size={16} aria-hidden="true" />
       </button>
       {open && (
-        <ul className="products-sort-menu" id={listId} role="listbox" aria-label="Ordenar produtos">
+        <ul className="products-sort-menu" id={listId} role="listbox" aria-label={label}>
           {options.map((option, index) => (
             <li
               key={option.value}

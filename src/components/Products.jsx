@@ -1,8 +1,9 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { ArrowUpRight, ChevronLeft, ChevronRight, X, PackageSearch } from "lucide-react";
 import { scrollToSection } from "../utils/scrollToSection";
 import ProductSearch from "./Navbar";
 import ProductSort from "./ProductSort";
+import ProductModal from "./ProductModal";
 import "./Products.css";
 
 const categories = [
@@ -15,7 +16,6 @@ const categories = [
   { id: "saude", name: "Saúde" },
   { id: "beleza", name: "Beleza" },
   { id: "moda", name: "Moda" },
-  { id: "promocoes", name: "Promoções" },
 ];
 
 const ROWS_PER_PAGE = 5;
@@ -45,6 +45,7 @@ function Products({ search, onSearchChange }) {
   const [category, setCategory] = useState("todos");
   const [sort, setSort] = useState("default");
   const [page, setPage] = useState(1);
+  const [selected, setSelected] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
 
@@ -131,6 +132,25 @@ function Products({ search, onSearchChange }) {
       });
     }
 
+    if (sort === "newest") {
+      result.sort((a, b) => b.id - a.id);
+    }
+
+    if (sort === "default") {
+      // Intercala as categorias para a vitrine não começar com um tipo só
+      const groups = new Map();
+      result.forEach((item) => {
+        if (!groups.has(item.category)) groups.set(item.category, []);
+        groups.get(item.category).push(item);
+      });
+      const queues = [...groups.values()];
+      const mixed = [];
+      while (queues.some((queue) => queue.length)) {
+        queues.forEach((queue) => queue.length && mixed.push(queue.shift()));
+      }
+      result = mixed;
+    }
+
     if (sort === "name") {
       result.sort((a, b) =>
         a.name.localeCompare(b.name, "pt-BR")
@@ -152,6 +172,8 @@ function Products({ search, onSearchChange }) {
 
   const hasFilters = search !== "" || category !== "todos" || sort !== "default";
 
+  const closeModal = useCallback(() => setSelected(null), []);
+
   function resetFilters() {
     onSearchChange("");
     setCategory("todos");
@@ -166,26 +188,14 @@ function Products({ search, onSearchChange }) {
         <h2 id="products-title" className="sr-only">Catálogo de produtos</h2>
         <div className="products-controls" id="categorias">
           {/* CATEGORIAS */}
-          <div className="products-categories" role="group" aria-label="Filtrar por categoria">
-            {categories.map((item) => (
-              <button
-                key={item.id}
-                type="button"
-                className={
-                  category === item.id
-                    ? "products-category active"
-                    : "products-category"
-                }
-                aria-pressed={category === item.id}
-                onClick={() => {
-                  setCategory(item.id);
-                  setPage(1);
-                }}
-              >
-                {item.name}
-              </button>
-            ))}
-          </div>
+          <ProductSort
+            className="products-category-field"
+            label="Filtrar por categoria"
+            prefix="Categoria: "
+            options={categories.map((item) => ({ value: item.id, label: item.name }))}
+            value={category}
+            onChange={(value) => { setCategory(value); setPage(1); }}
+          />
           {!loading && !error && (
             <div className="products-results-actions">
             <ProductSort value={sort} onChange={(value) => { setSort(value); setPage(1); }} />
@@ -241,7 +251,7 @@ function Products({ search, onSearchChange }) {
                   className="product-card"
                   key={product.id}
                 >
-                  <div className="product-image">
+                  <div className="product-image" onClick={() => setSelected(product)}>
                     <img
                       src={product.image}
                       alt={product.name}
@@ -276,17 +286,11 @@ function Products({ search, onSearchChange }) {
                     <button
                       type="button"
                       className="product-button"
-                      aria-label={product.available ? `Consultar ${product.name}` : `${product.name} indisponível`}
-                      disabled={!product.available}
-                      onClick={(event) => scrollToSection(event, "contato")}
+                      aria-label={`Ver detalhes de ${product.name}`}
+                      onClick={() => setSelected(product)}
                     >
-                      {product.available ? (
-                        <span>Consultar<span className="product-button-detail"> produto</span></span>
-                      ) : "Indisponível"}
-
-                      {product.available && (
-                        <ArrowUpRight size={17} />
-                      )}
+                      <span>{product.available ? "Consultar" : "Ver detalhes"}<span className="product-button-detail"> produto</span></span>
+                      <ArrowUpRight size={17} />
                     </button>
                   </div>
                 </article>
@@ -337,6 +341,14 @@ function Products({ search, onSearchChange }) {
         )}
         </div>
       </div>
+
+      {selected && (
+        <ProductModal
+          product={selected}
+          categoryName={categories.find((item) => item.id === selected.category)?.name || selected.category}
+          onClose={closeModal}
+        />
+      )}
     </section>
   );
 }
