@@ -9,9 +9,13 @@ const categories = [
   { id: "todos", name: "Todos" },
   { id: "eletronicos", name: "Eletrônicos" },
   { id: "perfumes", name: "Perfumes" },
-  { id: "lazer-hobby-camping", name: "Lazer, Hobby e Camping" },
-  { id: "saude-beleza-moda", name: "Saúde, Beleza e Moda" },
-  { id: "ofertas-promocoes", name: "Ofertas e Promoções" },
+  { id: "lazer", name: "Lazer" },
+  { id: "hobby", name: "Hobby" },
+  { id: "camping", name: "Camping" },
+  { id: "saude", name: "Saúde" },
+  { id: "beleza", name: "Beleza" },
+  { id: "moda", name: "Moda" },
+  { id: "promocoes", name: "Promoções" },
 ];
 
 const ROWS_PER_PAGE = 5;

@@ -2,7 +2,7 @@
   {
     "id": 8,
     "name": "MEDICUBE AGE-R BOOSTER PRO MINI PLUS PINK",
-    "category": "saude-beleza-moda",
+    "category": "beleza",
     "price": 449.10,
     "image": "/images/products/medicube-age-r-booster-pro-mini-plus-pink.png",
     "description": "Aparelho facial Medicube Age-R Booster Pro Mini Plus na cor Pink para a rotina de cuidados com a pele.",
@@ -12,7 +12,7 @@
   {
     "id": 4,
     "name": "MEDICUBE AGE-R BOOSTER PRO MINI PLUS IVORY",
-    "category": "saude-beleza-moda",
+    "category": "beleza",
     "price": 449.10,
     "image": "/images/products/medicube-age-r-booster-pro-mini-plus-ivory.png",
     "description": "Aparelho facial Medicube Age-R Booster Pro Mini Plus na cor Ivory para a rotina de cuidados com a pele.",
@@ -22,7 +22,7 @@
   {
     "id": 5,
     "name": "MEDICUBE AGE-R BOOSTER PRO X2 PINK",
-    "category": "saude-beleza-moda",
+    "category": "beleza",
     "price": 1248.24,
     "image": "/images/products/medicube-age-r-booster-pro-x2-pink.png",
     "description": "Aparelho facial Medicube Age-R Booster Pro X2 na cor Pink para a rotina de cuidados com a pele.",
@@ -32,7 +32,7 @@
   {
     "id": 6,
     "name": "MEDICUBE AGE-R BOOSTER PRO X2 WHITE",
-    "category": "saude-beleza-moda",
+    "category": "beleza",
     "price": 1248.24,
     "image": "/images/products/medicube-age-r-booster-pro-x2-white.png",
     "description": "Aparelho facial Medicube Age-R Booster Pro X2 na cor White para a rotina de cuidados com a pele.",
@@ -42,7 +42,7 @@
   {
     "id": 7,
     "name": "MEDICUBE AZELAIC ACID 16 BB SOOTHING SERUM 30ML",
-    "category": "saude-beleza-moda",
+    "category": "beleza",
     "price": 79.25,
     "image": "/images/products/medicube-azelaic-acid-16-bb-soothing-serum-30ml.png",
     "description": "Sérum facial Medicube Azelaic Acid 16 BB Soothing Serum, embalagem de 30 ml.",
@@ -52,7 +52,7 @@
   {
     "id": 9,
     "name": "MEDICUBE AZELAIC ACID EXOSOME SHOT 2000 30ML",
-    "category": "saude-beleza-moda",
+    "category": "beleza",
     "price": 75.29,
     "image": "/images/products/medicube-azelaic-acid-exosome-shot-2000-30ml.png",
     "description": "Sérum facial Medicube Azelaic Acid Exosome Shot 2000, embalagem de 30 ml.",
@@ -62,7 +62,7 @@
   {
     "id": 10,
     "name": "MEDICUBE AZELAIC ACID CAPSULA CLEANSING FOAM 120GR",
-    "category": "saude-beleza-moda",
+    "category": "beleza",
     "price": 115.58,
     "image": "/images/products/medicube-azelaic-acid-capsula-cleansing-foam-120gr.png",
     "description": "Espuma de limpeza facial Medicube Azelaic Acid Capsule Cleansing Foam, embalagem de 120 g.",
@@ -72,7 +72,7 @@
   {
     "id": 11,
     "name": "MEDICUBE AZELAIC ACID EXOSOME SHOT 7500 30ML",
-    "category": "saude-beleza-moda",
+    "category": "beleza",
     "price": 85.86,
     "image": "/images/products/medicube-azelaic-acid-exosome-shot-7500-30ml.png",
     "description": "Sérum facial Medicube Azelaic Acid Exosome Shot 7500, embalagem de 30 ml.",
@@ -122,7 +122,7 @@
   {
     "id": 16,
     "name": "LANDERFIT HYDROLYZED COLLAGEN 180 CÁPSULAS",
-    "category": "saude-beleza-moda",
+    "category": "saude",
     "price": 270.00,
     "image": "/images/products/landerfit-hydrolyzed-collagen-180-capsulas.png",
     "description": "Colágeno hidrolisado Landerfit com vitamina C e ácido hialurônico, pote com 180 cápsulas.",
@@ -132,7 +132,7 @@
   {
     "id": 17,
     "name": "DORPH CREATINE GUMMIES 60 UNIDADES",
-    "category": "saude-beleza-moda",
+    "category": "saude",
     "price": 260.00,
     "image": "/images/products/dorph-creatine-gummies-60-unidades.png",
     "description": "Creatina em gummies Dorph, pote com 60 unidades de 5 g (30 porções). Sabores: Red Fruits, Green Grape e Strawberry.",
@@ -142,7 +142,7 @@
   {
     "id": 18,
     "name": "EARTH'S CREATION VITAMINA E 180MG 400 IU 100 SOFTGELS",
-    "category": "saude-beleza-moda",
+    "category": "saude",
     "price": 260.00,
     "image": "/images/products/earths-creation-vitamina-e-180mg-100-softgels.png",
     "description": "Vitamina E Earth's Creation 180 mg (400 IU), pote com 100 softgels. Ação antioxidante e auxílio na proteção das células.",
@@ -152,7 +152,7 @@
   {
     "id": 19,
     "name": "EARTH'S CREATION VITAMINA D 5000 IU 100 SOFTGELS",
-    "category": "saude-beleza-moda",
+    "category": "saude",
     "price": 260.00,
     "image": "/images/products/earths-creation-vitamina-d-5000iu-100-softgels.png",
     "description": "Vitamina D natural Earth's Creation 5000 IU (125 mcg), pote com 100 softgels. Suporte à imunidade e auxílio na saúde óssea.",
@@ -162,7 +162,7 @@
   {
     "id": 20,
     "name": "EARTH'S CREATION VITAMINA C 500MG 100 TABLETS",
-    "category": "saude-beleza-moda",
+    "category": "saude",
     "price": 260.00,
     "image": "/images/products/earths-creation-vitamina-c-500mg-100-tablets.png",
     "description": "Vitamina C Earth's Creation 500 mg, pote com 100 tablets. Suporte à imunidade e ação antioxidante.",
@@ -246,6 +246,86 @@
     "price": 29.90,
     "image": "/images/products/yara-moi-eau-de-parfum-35ml.png",
     "description": "Perfume Yara Moi Eau de Parfum, frasco de 35 ml em versão compacta.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 29,
+    "name": "PACO RABANNE 1 MILLION EAU DE TOILETTE TRADICIONAL",
+    "category": "perfumes",
+    "price": 440.00,
+    "image": "/images/products/paco-rabanne-1-million-eau-de-toilette.png",
+    "description": "Perfume masculino Paco Rabanne 1 Million Eau de Toilette, versão tradicional.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 30,
+    "name": "PACO RABANNE 1 MILLION GOLDEN OUD PARFUM INTENSE",
+    "category": "perfumes",
+    "price": 585.00,
+    "image": "/images/products/paco-rabanne-1-million-golden-oud-parfum-intense.png",
+    "description": "Perfume masculino Paco Rabanne 1 Million Golden Oud Parfum Intense, o novo 1 Million Oud conhecido como \"lanterna verde\".",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 31,
+    "name": "INVICTA PRO MASTER PULSEIRA DE BORRACHA",
+    "category": "moda",
+    "price": 850.00,
+    "image": "/images/products/invicta-pro-master-pulseira-de-borracha.png",
+    "description": "Relógio masculino Invicta Pro Master cronógrafo, caixa de aço inoxidável e pulseira de borracha.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 32,
+    "name": "AZZARO POUR HOMME EAU DE TOILETTE 200ML",
+    "category": "perfumes",
+    "price": 350.00,
+    "image": "/images/products/azzaro-pour-homme-eau-de-toilette-200ml.png",
+    "description": "Perfume masculino Azzaro Pour Homme Eau de Toilette, frasco de 200 ml.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 33,
+    "name": "DYSPORT 500 UNIDADES",
+    "category": "saude",
+    "price": 499.00,
+    "image": "/images/products/dysport-500-unidades.png",
+    "description": "Dysport (toxina botulínica tipo A), frasco de 500 unidades. Medicamento de uso restrito: venda somente para profissionais de saúde habilitados, mediante comprovação de registro profissional.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 34,
+    "name": "KRIP SAMA EAU DE PARFUM MASCULINO 100ML",
+    "category": "perfumes",
+    "price": 99.00,
+    "image": "/images/products/krip-sama-inspirado-allure-homme-sport.png",
+    "description": "Perfume masculino Krip Sama Eau de Parfum, frasco de 100 ml, fragrância inspirada no Allure Homme Sport. Notas de topo: laranja, notas oceânicas, aldeídos e mandarina sanguínea. Notas de coração: pimenta, néroli e cedro. Notas de base: baunilha, fava tonka, almíscar branco, âmbar, vetiver e resina de elemi.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 35,
+    "name": "CHANEL ALLURE HOMME SPORT EAU DE TOILETTE MASCULINO 100ML",
+    "category": "perfumes",
+    "price": 858.00,
+    "image": "/images/products/chanel-allure-homme-sport-eau-de-toilette-100ml.png",
+    "description": "Perfume masculino Chanel Allure Homme Sport Eau de Toilette, frasco de 100 ml. Fragrância fresca e amadeirada, com notas de laranja, mandarina, pimenta, néroli, cedro, baunilha, fava tonka e almíscar branco.",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 36,
+    "name": "KRIP MELEK EAU DE PARFUM MASCULINO 100ML",
+    "category": "perfumes",
+    "price": 99.00,
+    "image": "/images/products/krip-melek-eau-de-parfum-100ml.png",
+    "description": "Perfume masculino Krip Melek Eau de Parfum, frasco de 100 ml.",
     "featured": false,
     "available": true
   }

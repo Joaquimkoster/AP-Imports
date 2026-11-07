@@ -1,0 +1,5 @@
+Tool: built-in imagegen
+Transparent background: true
+Input: latest user attachment, Medicube Ivory product photo.
+
+Use case: background-extraction. Edit target: the most recent user attachment, a product photograph of MEDICUBE AGE-R BOOSTER PRO MINI PLUS IVORY on white. Remove only the white background, leaving a genuinely transparent RGBA PNG. Preserve the original ivory device exactly: full slender body, metallic circular head with blue illuminated ring, front button, medicube logo, original colors, proportions, perspective and photographic details. Keep the entire product centered and fully visible, with transparent margins. No cast shadow, no halo, no added objects, no text additions. Do not use earlier images; edit only the most recent attached image.

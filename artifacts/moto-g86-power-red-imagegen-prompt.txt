@@ -1,0 +1,5 @@
+Tool: built-in imagegen
+Transparent background: true
+Source: https://www.wirelessplace.com/cdn/shop/files/1_75e380d8-0695-440b-bc55-89b5f71a53a0_700x700.png?v=1781707430
+
+undefined
