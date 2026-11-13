@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { ArrowUpRight, ChevronLeft, ChevronRight, X, PackageSearch } from "lucide-react";
+import { ArrowUpRight, ChevronLeft, ChevronRight, X, PackageSearch, Package } from "lucide-react";
 import { scrollToSection } from "../utils/scrollToSection";
 import ProductSearch from "./Navbar";
 import ProductSort from "./ProductSort";
@@ -10,12 +10,12 @@ const categories = [
   { id: "todos", name: "Todos" },
   { id: "eletronicos", name: "Eletrônicos" },
   { id: "perfumes", name: "Perfumes" },
-  { id: "lazer", name: "Lazer" },
-  { id: "hobby", name: "Hobby" },
-  { id: "camping", name: "Camping" },
-  { id: "saude", name: "Saúde" },
   { id: "beleza", name: "Beleza" },
+  { id: "saude", name: "Saúde" },
   { id: "moda", name: "Moda" },
+  { id: "casa", name: "Casa" },
+  { id: "alimentos", name: "Alimentos" },
+  { id: "medicamentos", name: "Medicamentos" },
 ];
 
 const ROWS_PER_PAGE = 5;
@@ -252,16 +252,21 @@ function Products({ search, onSearchChange }) {
                   key={product.id}
                 >
                   <div className="product-image" onClick={() => setSelected(product)}>
-                    <img
-                      src={product.image}
-                      alt={product.name}
-                      loading="lazy"
-                      decoding="async"
-                      width="600"
-                      height="600"
-                    />
-
-
+                    {product.image ? (
+                      <img
+                        src={product.image}
+                        alt={product.name}
+                        loading="lazy"
+                        decoding="async"
+                        width="600"
+                        height="600"
+                      />
+                    ) : (
+                      <span className="product-image-empty" aria-hidden="true">
+                        <Package size={44} strokeWidth={1.1} />
+                        <small>Foto em breve</small>
+                      </span>
+                    )}
                   </div>
 
                   <div className="product-info">

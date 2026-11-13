@@ -164,3 +164,7 @@
   .products-controls .products-reset { order: 3; flex: 1 1 100%; justify-content: center; min-height: 36px; padding: 0; }
   .products-sort > span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 }
+
+/* PRODUTO SEM FOTO */
+.product-image-empty { display: flex; flex-direction: column; align-items: center; gap: 10px; color: #8d7443; }
+.product-image-empty small { font-size: 12px; letter-spacing: 1px; text-transform: uppercase; }

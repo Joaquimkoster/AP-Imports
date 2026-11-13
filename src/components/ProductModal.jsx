@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import { MessageCircle, X } from "lucide-react";
+import { MessageCircle, Package, X } from "lucide-react";
 import { teamContacts, whatsappUrl } from "../data/contact";
 
 function formatPrice(product) {
@@ -47,7 +47,14 @@ function ProductModal({ product, categoryName, onClose }) {
         </button>
 
         <div className="product-modal-image">
-          <img src={product.image} alt={product.name} />
+          {product.image ? (
+            <img src={product.image} alt={product.name} />
+          ) : (
+            <span className="product-image-empty" aria-hidden="true">
+              <Package size={56} strokeWidth={1.1} />
+              <small>Foto em breve</small>
+            </span>
+          )}
         </div>
 
         <div className="product-modal-info">
