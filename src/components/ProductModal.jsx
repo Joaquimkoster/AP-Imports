@@ -1,12 +1,7 @@
 import { useEffect, useRef } from "react";
 import { MessageCircle, Package, X } from "lucide-react";
 import { teamContacts, whatsappUrl } from "../data/contact";
-
-function formatPrice(product) {
-  return Number.isFinite(product.price)
-    ? product.price.toLocaleString("pt-BR", { style: "currency", currency: product.currency || "BRL" })
-    : "Sob consulta";
-}
+import ProductPrice from "./ProductPrice";
 
 function ProductModal({ product, categoryName, onClose }) {
   const closeRef = useRef(null);
@@ -28,10 +23,6 @@ function ProductModal({ product, categoryName, onClose }) {
       previous?.focus?.();
     };
   }, [onClose]);
-
-  const price = formatPrice(product);
-  const message = (name) =>
-    `Olá, ${name}! Vi no site da A&P Imports o produto ${product.name}${Number.isFinite(product.price) ? ` (${price})` : ""} e gostaria de mais informações.`;
 
   return (
     <div className="product-modal-backdrop" onClick={onClose}>
@@ -60,14 +51,21 @@ function ProductModal({ product, categoryName, onClose }) {
         <div className="product-modal-info">
           <span className="product-category">{categoryName}</span>
           <h3 id="product-modal-title">{product.name}</h3>
-          <strong className="product-price">{price}</strong>
+          <ProductPrice product={product} />
+          {product.category === "medicamentos" && (
+            <dl className="product-specifications">
+              <div><dt>Dose / concentração</dt><dd>{product.dosage || "Não informada no catálogo"}</dd></div>
+              {product.totalAmount && <div><dt>Conteúdo total</dt><dd>{product.totalAmount}</dd></div>}
+              <div><dt>Apresentação</dt><dd>{product.presentation}</dd></div>
+            </dl>
+          )}
           {product.description && <p className="product-modal-description">{product.description}</p>}
 
           {product.available ? (
             <div className="product-modal-actions">
-              <span>Peça pelo WhatsApp:</span>
+              <span>Fale com a equipe pelo WhatsApp:</span>
               {teamContacts.map((member) => {
-                const url = whatsappUrl(message(member.name), member.whatsapp);
+                const url = whatsappUrl("Olá!", member.whatsapp);
                 return url ? (
                   <a
                     key={member.name}

@@ -16,7 +16,7 @@ function Contact() {
 
         <div className="contact-team">
           {contacts.map((member) => {
-            const url = whatsappUrl(`Olá, ${member.name}! Vim pelo site da A&P Imports e gostaria de mais informações sobre os produtos.`, member.whatsapp);
+            const url = whatsappUrl("Olá!", member.whatsapp);
             const pending = !url;
 
             return (

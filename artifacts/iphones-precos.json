@@ -1,0 +1,438 @@
+{
+  "checkedOn": "2026-11-20",
+  "source": "Compras Paraguai",
+  "discountPercent": 20,
+  "formula": "price = originalPrice * 0.80, arredondado para centavos (ROUND_HALF_UP)",
+  "referencePolicy": "Valores de referência em reais transcritos das páginas consultadas. São uma fotografia da pesquisa; algumas páginas têm listagens de datas anteriores. Não há atualização automática nem confirmação de estoque.",
+  "selectionPolicy": "Modelos e capacidades com preço observado. Condições Swap, CPO e recondicionado identificadas no nome. Anúncios sem condição explícita não recebem promessa de produto lacrado.",
+  "unpricedVariants": [
+    "iPhone 18 e iPhone 18 Plus: não encontrados com preço de produto nas páginas consultadas.",
+    "iPhone 17 512GB: não encontrado com preço de produto nas páginas consultadas."
+  ],
+  "notes": [
+    "Os registros anteriores de iPhone foram substituídos pelas apresentações pesquisadas. O antigo iPhone 14 Plus seminovo de 256GB foi substituído pela oferta de 128GB do Compras Paraguai.",
+    "iPhone 17 Pro Max 256GB: referência de uma oferta correspondente ao modelo, R$ 7.259,00, em vez do mínimo agregado de R$ 4.700,50.",
+    "iPhone 17 Pro 1TB: referência de uma oferta correspondente ao modelo, R$ 8.613,00, em vez do mínimo agregado de R$ 3.712,00.",
+    "iPhone 16 Pro Max 256GB: preço identificado na recomendação do Compras Paraguai na página do iPhone 14 128GB."
+  ],
+  "previousIphones": [
+    {
+      "id": 104,
+      "name": "Apple iPhone 18 Pro Max",
+      "category": "eletronicos",
+      "price": 9500.0,
+      "image": null,
+      "description": "iPhone com 256 GB, chip A20 Pro, lançado em setembro de 2026. Cor bordô.",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": 105,
+      "name": "Apple iPhone 17 Pro Max",
+      "category": "eletronicos",
+      "price": 7900.0,
+      "image": null,
+      "description": "iPhone com 256 GB e chip A19 Pro. Cor laranja-cósmico.",
+      "featured": false,
+      "available": true
+    },
+    {
+      "id": 106,
+      "name": "Apple iPhone 14 Plus (seminovo)",
+      "category": "eletronicos",
+      "price": 2399.0,
+      "image": null,
+      "description": "iPhone seminovo em bom estado, com 256 GB e saúde da bateria em 86%.",
+      "featured": false,
+      "available": true
+    }
+  ],
+  "iphoneCount": 48,
+  "modelCount": 20,
+  "products": [
+    {
+      "id": 168,
+      "name": "Apple iPhone 14 128GB",
+      "referenceBRL": 3245.0,
+      "discountPercent": 20,
+      "finalBRL": 2596.0,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-14-128gb_43627/"
+    },
+    {
+      "id": 169,
+      "name": "Apple iPhone 14 256GB (Swap Grade A)",
+      "referenceBRL": 1764.1,
+      "discountPercent": 20,
+      "finalBRL": 1411.28,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+14"
+    },
+    {
+      "id": 106,
+      "name": "Apple iPhone 14 Plus 128GB",
+      "referenceBRL": 3628.5,
+      "discountPercent": 20,
+      "finalBRL": 2902.8,
+      "sourceUrl": "https://mobile.comprasparaguai.com.br/celular/?ordem=menor-preco&page=12&precomin=370"
+    },
+    {
+      "id": 170,
+      "name": "Apple iPhone 14 Pro 128GB (Swap Grade A)",
+      "referenceBRL": 2330.5,
+      "discountPercent": 20,
+      "finalBRL": 1864.4,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+14"
+    },
+    {
+      "id": 171,
+      "name": "Apple iPhone 14 Pro 256GB (Swap Grade A)",
+      "referenceBRL": 2566.5,
+      "discountPercent": 20,
+      "finalBRL": 2053.2,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+14"
+    },
+    {
+      "id": 172,
+      "name": "Apple iPhone 14 Pro Max 128GB (Swap Grade A)",
+      "referenceBRL": 2737.6,
+      "discountPercent": 20,
+      "finalBRL": 2190.08,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+14"
+    },
+    {
+      "id": 173,
+      "name": "Apple iPhone 14 Pro Max 256GB (Swap Grade A)",
+      "referenceBRL": 3068.0,
+      "discountPercent": 20,
+      "finalBRL": 2454.4,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+14"
+    },
+    {
+      "id": 174,
+      "name": "Apple iPhone 15 128GB",
+      "referenceBRL": 2419.0,
+      "discountPercent": 20,
+      "finalBRL": 1935.2,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-15-128gb_48875/"
+    },
+    {
+      "id": 175,
+      "name": "Apple iPhone 15 256GB (CPO)",
+      "referenceBRL": 3776.0,
+      "discountPercent": 20,
+      "finalBRL": 3020.8,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15"
+    },
+    {
+      "id": 176,
+      "name": "Apple iPhone 15 Plus 128GB",
+      "referenceBRL": 2464.0,
+      "discountPercent": 20,
+      "finalBRL": 1971.2,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15+plus"
+    },
+    {
+      "id": 177,
+      "name": "Apple iPhone 15 Plus 256GB",
+      "referenceBRL": 3901.5,
+      "discountPercent": 20,
+      "finalBRL": 3121.2,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15+plus"
+    },
+    {
+      "id": 178,
+      "name": "Apple iPhone 15 Pro 128GB",
+      "referenceBRL": 3003.48,
+      "discountPercent": 20,
+      "finalBRL": 2402.78,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=IPHONE+15+PRO+128"
+    },
+    {
+      "id": 179,
+      "name": "Apple iPhone 15 Pro 256GB",
+      "referenceBRL": 3335.0,
+      "discountPercent": 20,
+      "finalBRL": 2668.0,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-15-pro-256gb_48865/"
+    },
+    {
+      "id": 180,
+      "name": "Apple iPhone 15 Pro 512GB",
+      "referenceBRL": 7139.0,
+      "discountPercent": 20,
+      "finalBRL": 5711.2,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15"
+    },
+    {
+      "id": 181,
+      "name": "Apple iPhone 15 Pro 1TB",
+      "referenceBRL": 3746.5,
+      "discountPercent": 20,
+      "finalBRL": 2997.2,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15"
+    },
+    {
+      "id": 182,
+      "name": "Apple iPhone 15 Pro Max 256GB (Swap Grade A)",
+      "referenceBRL": 3245.0,
+      "discountPercent": 20,
+      "finalBRL": 2596.0,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15"
+    },
+    {
+      "id": 183,
+      "name": "Apple iPhone 15 Pro Max 512GB (Swap Grade A)",
+      "referenceBRL": 3864.5,
+      "discountPercent": 20,
+      "finalBRL": 3091.6,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15"
+    },
+    {
+      "id": 184,
+      "name": "Apple iPhone 15 Pro Max 1TB (Swap Grade A)",
+      "referenceBRL": 4248.0,
+      "discountPercent": 20,
+      "finalBRL": 3398.4,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15"
+    },
+    {
+      "id": 185,
+      "name": "Apple iPhone 16 128GB",
+      "referenceBRL": 4316.6,
+      "discountPercent": 20,
+      "finalBRL": 3453.28,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+16"
+    },
+    {
+      "id": 186,
+      "name": "Apple iPhone 16 256GB (CPO)",
+      "referenceBRL": 4008.1,
+      "discountPercent": 20,
+      "finalBRL": 3206.48,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?page=2&q=iphone+16"
+    },
+    {
+      "id": 187,
+      "name": "Apple iPhone 16 Plus 128GB",
+      "referenceBRL": 5434.0,
+      "discountPercent": 20,
+      "finalBRL": 4347.2,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-plus-128gb_55959/"
+    },
+    {
+      "id": 188,
+      "name": "Apple iPhone 16 Pro 128GB",
+      "referenceBRL": 3711.1,
+      "discountPercent": 20,
+      "finalBRL": 2968.88,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-pro-128gb_55846/"
+    },
+    {
+      "id": 189,
+      "name": "Apple iPhone 16 Pro 256GB (Swap Grade A)",
+      "referenceBRL": 3898.5,
+      "discountPercent": 20,
+      "finalBRL": 3118.8,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+16"
+    },
+    {
+      "id": 190,
+      "name": "Apple iPhone 16 Pro 512GB (Recondicionado)",
+      "referenceBRL": 4250.2,
+      "discountPercent": 20,
+      "finalBRL": 3400.16,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?page=2&q=iphone+16"
+    },
+    {
+      "id": 191,
+      "name": "Apple iPhone 16 Pro Max 256GB",
+      "referenceBRL": 4926.5,
+      "discountPercent": 20,
+      "finalBRL": 3941.2,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-14-128gb_43627/"
+    },
+    {
+      "id": 192,
+      "name": "Apple iPhone 16 Pro Max 512GB (Recondicionado)",
+      "referenceBRL": 4966.35,
+      "discountPercent": 20,
+      "finalBRL": 3973.08,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+16"
+    },
+    {
+      "id": 193,
+      "name": "Apple iPhone 16 Pro Max 1TB",
+      "referenceBRL": 10561.19,
+      "discountPercent": 20,
+      "finalBRL": 8448.95,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-pro-max-1tb_55849/"
+    },
+    {
+      "id": 194,
+      "name": "Apple iPhone 16e 128GB",
+      "referenceBRL": 3332.0,
+      "discountPercent": 20,
+      "finalBRL": 2665.6,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18"
+    },
+    {
+      "id": 195,
+      "name": "Apple iPhone 16e 256GB",
+      "referenceBRL": 3164.0,
+      "discountPercent": 20,
+      "finalBRL": 2531.2,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+16e"
+    },
+    {
+      "id": 196,
+      "name": "Apple iPhone 17 256GB",
+      "referenceBRL": 5236.0,
+      "discountPercent": 20,
+      "finalBRL": 4188.8,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17"
+    },
+    {
+      "id": 197,
+      "name": "Apple iPhone 17e 256GB",
+      "referenceBRL": 3156.5,
+      "discountPercent": 20,
+      "finalBRL": 2525.2,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-17e-256gb_67681/"
+    },
+    {
+      "id": 198,
+      "name": "Apple iPhone Air 256GB",
+      "referenceBRL": 5265.75,
+      "discountPercent": 20,
+      "finalBRL": 4212.6,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17"
+    },
+    {
+      "id": 199,
+      "name": "Apple iPhone Air 512GB",
+      "referenceBRL": 5801.25,
+      "discountPercent": 20,
+      "finalBRL": 4641.0,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17"
+    },
+    {
+      "id": 200,
+      "name": "Apple iPhone 17 Pro 256GB",
+      "referenceBRL": 6188.0,
+      "discountPercent": 20,
+      "finalBRL": 4950.4,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17"
+    },
+    {
+      "id": 201,
+      "name": "Apple iPhone 17 Pro 512GB",
+      "referenceBRL": 8091.94,
+      "discountPercent": 20,
+      "finalBRL": 6473.55,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17"
+    },
+    {
+      "id": 202,
+      "name": "Apple iPhone 17 Pro 1TB",
+      "referenceBRL": 8613.0,
+      "discountPercent": 20,
+      "finalBRL": 6890.4,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-17-pro-1tb_64048/"
+    },
+    {
+      "id": 105,
+      "name": "Apple iPhone 17 Pro Max 256GB",
+      "referenceBRL": 7259.0,
+      "discountPercent": 20,
+      "finalBRL": 5807.2,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-17-pro-max-256gb_64041/"
+    },
+    {
+      "id": 203,
+      "name": "Apple iPhone 17 Pro Max 512GB",
+      "referenceBRL": 8240.75,
+      "discountPercent": 20,
+      "finalBRL": 6592.6,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17"
+    },
+    {
+      "id": 204,
+      "name": "Apple iPhone 17 Pro Max 1TB",
+      "referenceBRL": 9847.25,
+      "discountPercent": 20,
+      "finalBRL": 7877.8,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17"
+    },
+    {
+      "id": 205,
+      "name": "Apple iPhone 17 Pro Max 2TB",
+      "referenceBRL": 11096.75,
+      "discountPercent": 20,
+      "finalBRL": 8877.4,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17"
+    },
+    {
+      "id": 206,
+      "name": "Apple iPhone 18 Pro 256GB",
+      "referenceBRL": 7437.5,
+      "discountPercent": 20,
+      "finalBRL": 5950.0,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18"
+    },
+    {
+      "id": 207,
+      "name": "Apple iPhone 18 Pro 512GB",
+      "referenceBRL": 8597.75,
+      "discountPercent": 20,
+      "finalBRL": 6878.2,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18"
+    },
+    {
+      "id": 208,
+      "name": "Apple iPhone 18 Pro 1TB",
+      "referenceBRL": 11186.0,
+      "discountPercent": 20,
+      "finalBRL": 8948.8,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18"
+    },
+    {
+      "id": 209,
+      "name": "Apple iPhone 18 Pro 2TB",
+      "referenceBRL": 16362.5,
+      "discountPercent": 20,
+      "finalBRL": 13090.0,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18"
+    },
+    {
+      "id": 104,
+      "name": "Apple iPhone 18 Pro Max 256GB",
+      "referenceBRL": 8151.5,
+      "discountPercent": 20,
+      "finalBRL": 6521.2,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18"
+    },
+    {
+      "id": 210,
+      "name": "Apple iPhone 18 Pro Max 512GB",
+      "referenceBRL": 9758.0,
+      "discountPercent": 20,
+      "finalBRL": 7806.4,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18"
+    },
+    {
+      "id": 211,
+      "name": "Apple iPhone 18 Pro Max 1TB",
+      "referenceBRL": 12554.5,
+      "discountPercent": 20,
+      "finalBRL": 10043.6,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18"
+    },
+    {
+      "id": 212,
+      "name": "Apple iPhone 18 Pro Max 2TB",
+      "referenceBRL": 16422.0,
+      "discountPercent": 20,
+      "finalBRL": 13137.6,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18"
+    }
+  ]
+}

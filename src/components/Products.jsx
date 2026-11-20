@@ -1,9 +1,9 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { ArrowUpRight, ChevronLeft, ChevronRight, X, PackageSearch, Package } from "lucide-react";
-import { scrollToSection } from "../utils/scrollToSection";
 import ProductSearch from "./Navbar";
 import ProductSort from "./ProductSort";
 import ProductModal from "./ProductModal";
+import ProductPrice from "./ProductPrice";
 import "./Products.css";
 
 const categories = [
@@ -108,7 +108,8 @@ function Products({ search, onSearchChange }) {
   const filteredProducts = useMemo(() => {
     let result = products.filter((product) => {
       const normalize = (value) => value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-      const matchesSearch = normalize(product.name).includes(normalize(search.trim()));
+      const searchableText = [product.name, product.description, product.dosage, product.presentation, product.totalAmount].filter(Boolean).join(" ");
+      const matchesSearch = normalize(searchableText).includes(normalize(search.trim()));
 
       const matchesCategory =
         category === "todos" ||
@@ -278,15 +279,14 @@ function Products({ search, onSearchChange }) {
 
                     <h3>{product.name}</h3>
 
-                    <strong className="product-price">
-                      {Number.isFinite(product.price) ? product.price.toLocaleString(
-                        "pt-BR",
-                        {
-                          style: "currency",
-                          currency: product.currency || "BRL",
-                        }
-                      ) : "Sob consulta"}
-                    </strong>
+                    {product.category === "medicamentos" && (
+                      <p className="product-presentation">
+                        {product.dosage || "Dose não informada"}
+                        {product.totalAmount && ` · Total: ${product.totalAmount}`}
+                      </p>
+                    )}
+
+                    <ProductPrice product={product} />
 
                     <button
                       type="button"
@@ -294,7 +294,7 @@ function Products({ search, onSearchChange }) {
                       aria-label={`Ver detalhes de ${product.name}`}
                       onClick={() => setSelected(product)}
                     >
-                      <span>{product.available ? "Consultar" : "Ver detalhes"}<span className="product-button-detail"> produto</span></span>
+                      <span>{product.available ? "Falar com a equipe" : "Ver detalhes"}</span>
                       <ArrowUpRight size={17} />
                     </button>
                   </div>

@@ -173,7 +173,7 @@
     "id": 18,
     "name": "Carolina Herrera 212 Men NYC",
     "category": "perfumes",
-    "price": null,
+    "price": 399,
     "image": null,
     "description": "Eau de Toilette masculino de 100 ml da Carolina Herrera. Frasco prateado e caixa cinza com o 212 em destaque.",
     "featured": false,
@@ -303,7 +303,7 @@
     "id": 31,
     "name": "Jean Paul Gaultier Scandal (frasco roxo)",
     "category": "perfumes",
-    "price": null,
+    "price": 599,
     "image": null,
     "description": "Perfume feminino da linha Scandal, com frasco roxo canelado e tampa prateada em forma de pernas.",
     "featured": false,
@@ -313,7 +313,7 @@
     "id": 32,
     "name": "Jean Paul Gaultier Scandal Pour Homme Le Parfum",
     "category": "perfumes",
-    "price": null,
+    "price": 499,
     "image": null,
     "description": "Eau de Parfum masculino da linha Scandal, com frasco preto laqueado e tampa dourada em forma de coroa.",
     "featured": false,
@@ -423,7 +423,7 @@
     "id": 43,
     "name": "Lattafa Fakhar (Pride of Lattafa)",
     "category": "perfumes",
-    "price": null,
+    "price": 250,
     "image": null,
     "description": "Eau de Parfum feminino da Lattafa, em frasco branco e rosé redondo com caixa branca de relevo prateado.",
     "featured": false,
@@ -643,7 +643,7 @@
     "id": 65,
     "name": "Rabanne Lady Million Empire",
     "category": "perfumes",
-    "price": null,
+    "price": 799,
     "image": null,
     "description": "Eau de Parfum feminino da Rabanne, com frasco em forma de diamante rosé.",
     "featured": false,
@@ -710,16 +710,6 @@
     "available": true
   },
   {
-    "id": 72,
-    "name": "Krip Men",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Perfume de inspiração Krip, inspirado em Sauvage Elixir (Dior). Notas de bergamota, pimenta, lavanda, vetiver, ambroxan e cedro.",
-    "featured": false,
-    "available": true
-  },
-  {
     "id": 73,
     "name": "Krip Daiman",
     "category": "perfumes",
@@ -740,32 +730,12 @@
     "available": true
   },
   {
-    "id": 75,
-    "name": "Krip Melek",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Perfume de inspiração Krip, inspirado em 1 Million (Rabanne). Notas de mandarina, toranja, hortelã, canela, rosa, âmbar e couro.",
-    "featured": false,
-    "available": true
-  },
-  {
     "id": 76,
     "name": "Krip Sama",
     "category": "perfumes",
     "price": 101.7,
     "image": null,
     "description": "Perfume de inspiração Krip, inspirado em Allure Homme Sport (Chanel). Notas de laranja, oceânicas, pimenta, néroli, cedro e fava tonka.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 77,
-    "name": "Krip Nur",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Perfume de inspiração Krip, inspirado em Sì (Giorgio Armani). Notas de cassis, rosa de maio, frésia, baunilha e patchouli.",
     "featured": false,
     "available": true
   },
@@ -840,46 +810,6 @@
     "available": true
   },
   {
-    "id": 85,
-    "name": "Victoria's Secret Bare Vanilla Kit Mist + Loção",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Kit de presente com Fragrance Mist de 75 ml e Fragrance Lotion de 75 ml, na doce fragrância Bare Vanilla.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 86,
-    "name": "Victoria's Secret Love Spell Kit Mist + Loção",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Kit de presente com Fragrance Mist de 75 ml e Fragrance Lotion de 75 ml, na fragrância Love Spell.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 87,
-    "name": "Victoria's Secret Pure Seduction Kit Mist + Loção",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Kit de presente com Fragrance Mist de 75 ml e Fragrance Lotion de 75 ml, na fragrância Pure Seduction.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 88,
-    "name": "Victoria's Secret Body Splash e Loção Hidratante",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Body splash de 250 ml e loção de 236 ml em várias fragrâncias: Bare Vanilla, Coconut Passion, Love Spell Shimmer, Pure Seduction Shimmer, Temptation e Velvet Petals.",
-    "featured": false,
-    "available": true
-  },
-  {
     "id": 89,
     "name": "Victoria's Secret Fragrance Mist 250 ml",
     "category": "perfumes",
@@ -936,16 +866,6 @@
     "price": 270.0,
     "image": null,
     "description": "Suplemento com 180 cápsulas de colágeno hidrolisado, vitamina C e ácido hialurônico. Sem lactose e sem glúten.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 95,
-    "name": "GNC Women's Ultra Mega Multivitamin",
-    "category": "saude",
-    "price": null,
-    "image": null,
-    "description": "Multivitamínico feminino de liberação prolongada, com 180 caplets, o suficiente para 90 dias.",
     "featured": false,
     "available": true
   },
@@ -1030,44 +950,986 @@
     "available": true
   },
   {
-    "id": 104,
-    "name": "Apple iPhone 18 Pro Max",
+    "id": 168,
+    "name": "Apple iPhone 14 128GB",
     "category": "eletronicos",
-    "price": 9500.0,
+    "price": 2596.0,
     "image": null,
-    "description": "iPhone com 256 GB, chip A20 Pro, lançado em setembro de 2026. Cor bordô.",
+    "description": "Apple iPhone 14 com 128GB de armazenamento.",
     "featured": false,
-    "available": true
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 14",
+    "originalPrice": 3245.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-14-128gb_43627/",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
   },
   {
-    "id": 105,
-    "name": "Apple iPhone 17 Pro Max",
+    "id": 169,
+    "name": "Apple iPhone 14 256GB (Swap Grade A)",
     "category": "eletronicos",
-    "price": 7900.0,
+    "price": 1411.28,
     "image": null,
-    "description": "iPhone com 256 GB e chip A19 Pro. Cor laranja-cósmico.",
+    "description": "Apple iPhone 14 com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
     "featured": false,
-    "available": true
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 14",
+    "originalPrice": 1764.1,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "condition": "Swap Grade A"
   },
   {
     "id": 106,
-    "name": "Apple iPhone 14 Plus (seminovo)",
+    "name": "Apple iPhone 14 Plus 128GB",
     "category": "eletronicos",
-    "price": 2399.0,
+    "price": 2902.8,
     "image": null,
-    "description": "iPhone seminovo em bom estado, com 256 GB e saúde da bateria em 86%.",
+    "description": "Apple iPhone 14 Plus com 128GB de armazenamento.",
     "featured": false,
-    "available": true
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 14 Plus",
+    "originalPrice": 3628.5,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://mobile.comprasparaguai.com.br/celular/?ordem=menor-preco&page=12&precomin=370",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "catalogItems": [
+      106
+    ]
   },
   {
-    "id": 107,
-    "name": "Apple iPhones com Garantia de 1 Ano",
+    "id": 170,
+    "name": "Apple iPhone 14 Pro 128GB (Swap Grade A)",
     "category": "eletronicos",
-    "price": null,
+    "price": 1864.4,
     "image": null,
-    "description": "Tabela com 26 opções de iPhone, do iPhone 12 de 128 GB ao iPhone 18 Pro Max de 256 GB, todos com 1 ano de garantia da loja.",
+    "description": "Apple iPhone 14 Pro com 128GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
     "featured": false,
-    "available": true
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 14 Pro",
+    "originalPrice": 2330.5,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "condition": "Swap Grade A"
+  },
+  {
+    "id": 171,
+    "name": "Apple iPhone 14 Pro 256GB (Swap Grade A)",
+    "category": "eletronicos",
+    "price": 2053.2,
+    "image": null,
+    "description": "Apple iPhone 14 Pro com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 14 Pro",
+    "originalPrice": 2566.5,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "condition": "Swap Grade A"
+  },
+  {
+    "id": 172,
+    "name": "Apple iPhone 14 Pro Max 128GB (Swap Grade A)",
+    "category": "eletronicos",
+    "price": 2190.08,
+    "image": null,
+    "description": "Apple iPhone 14 Pro Max com 128GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 14 Pro Max",
+    "originalPrice": 2737.6,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "condition": "Swap Grade A"
+  },
+  {
+    "id": 173,
+    "name": "Apple iPhone 14 Pro Max 256GB (Swap Grade A)",
+    "category": "eletronicos",
+    "price": 2454.4,
+    "image": null,
+    "description": "Apple iPhone 14 Pro Max com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 14 Pro Max",
+    "originalPrice": 3068.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "condition": "Swap Grade A"
+  },
+  {
+    "id": 174,
+    "name": "Apple iPhone 15 128GB",
+    "category": "eletronicos",
+    "price": 1935.2,
+    "image": null,
+    "description": "Apple iPhone 15 com 128GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 15",
+    "originalPrice": 2419.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-15-128gb_48875/",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 175,
+    "name": "Apple iPhone 15 256GB (CPO)",
+    "category": "eletronicos",
+    "price": 3020.8,
+    "image": null,
+    "description": "Apple iPhone 15 com 256GB de armazenamento. Apresentação do anúncio: CPO.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 15",
+    "originalPrice": 3776.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "condition": "CPO"
+  },
+  {
+    "id": 176,
+    "name": "Apple iPhone 15 Plus 128GB",
+    "category": "eletronicos",
+    "price": 1971.2,
+    "image": null,
+    "description": "Apple iPhone 15 Plus com 128GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 15 Plus",
+    "originalPrice": 2464.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15+plus",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 177,
+    "name": "Apple iPhone 15 Plus 256GB",
+    "category": "eletronicos",
+    "price": 3121.2,
+    "image": null,
+    "description": "Apple iPhone 15 Plus com 256GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 15 Plus",
+    "originalPrice": 3901.5,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15+plus",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 178,
+    "name": "Apple iPhone 15 Pro 128GB",
+    "category": "eletronicos",
+    "price": 2402.78,
+    "image": null,
+    "description": "Apple iPhone 15 Pro com 128GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 15 Pro",
+    "originalPrice": 3003.48,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=IPHONE+15+PRO+128",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 179,
+    "name": "Apple iPhone 15 Pro 256GB",
+    "category": "eletronicos",
+    "price": 2668.0,
+    "image": null,
+    "description": "Apple iPhone 15 Pro com 256GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 15 Pro",
+    "originalPrice": 3335.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-15-pro-256gb_48865/",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 180,
+    "name": "Apple iPhone 15 Pro 512GB",
+    "category": "eletronicos",
+    "price": 5711.2,
+    "image": null,
+    "description": "Apple iPhone 15 Pro com 512GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 15 Pro",
+    "originalPrice": 7139.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 181,
+    "name": "Apple iPhone 15 Pro 1TB",
+    "category": "eletronicos",
+    "price": 2997.2,
+    "image": null,
+    "description": "Apple iPhone 15 Pro com 1TB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "1TB",
+    "model": "iPhone 15 Pro",
+    "originalPrice": 3746.5,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 182,
+    "name": "Apple iPhone 15 Pro Max 256GB (Swap Grade A)",
+    "category": "eletronicos",
+    "price": 2596.0,
+    "image": null,
+    "description": "Apple iPhone 15 Pro Max com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 15 Pro Max",
+    "originalPrice": 3245.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "condition": "Swap Grade A"
+  },
+  {
+    "id": 183,
+    "name": "Apple iPhone 15 Pro Max 512GB (Swap Grade A)",
+    "category": "eletronicos",
+    "price": 3091.6,
+    "image": null,
+    "description": "Apple iPhone 15 Pro Max com 512GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 15 Pro Max",
+    "originalPrice": 3864.5,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "condition": "Swap Grade A"
+  },
+  {
+    "id": 184,
+    "name": "Apple iPhone 15 Pro Max 1TB (Swap Grade A)",
+    "category": "eletronicos",
+    "price": 3398.4,
+    "image": null,
+    "description": "Apple iPhone 15 Pro Max com 1TB de armazenamento. Apresentação do anúncio: Swap Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "1TB",
+    "model": "iPhone 15 Pro Max",
+    "originalPrice": 4248.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "condition": "Swap Grade A"
+  },
+  {
+    "id": 185,
+    "name": "Apple iPhone 16 128GB",
+    "category": "eletronicos",
+    "price": 3453.28,
+    "image": null,
+    "description": "Apple iPhone 16 com 128GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 16",
+    "originalPrice": 4316.6,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+16",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 186,
+    "name": "Apple iPhone 16 256GB (CPO)",
+    "category": "eletronicos",
+    "price": 3206.48,
+    "image": null,
+    "description": "Apple iPhone 16 com 256GB de armazenamento. Apresentação do anúncio: CPO.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 16",
+    "originalPrice": 4008.1,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?page=2&q=iphone+16",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "condition": "CPO"
+  },
+  {
+    "id": 187,
+    "name": "Apple iPhone 16 Plus 128GB",
+    "category": "eletronicos",
+    "price": 4347.2,
+    "image": null,
+    "description": "Apple iPhone 16 Plus com 128GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 16 Plus",
+    "originalPrice": 5434.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-plus-128gb_55959/",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 188,
+    "name": "Apple iPhone 16 Pro 128GB",
+    "category": "eletronicos",
+    "price": 2968.88,
+    "image": null,
+    "description": "Apple iPhone 16 Pro com 128GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 16 Pro",
+    "originalPrice": 3711.1,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-pro-128gb_55846/",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 189,
+    "name": "Apple iPhone 16 Pro 256GB (Swap Grade A)",
+    "category": "eletronicos",
+    "price": 3118.8,
+    "image": null,
+    "description": "Apple iPhone 16 Pro com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 16 Pro",
+    "originalPrice": 3898.5,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+16",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "condition": "Swap Grade A"
+  },
+  {
+    "id": 190,
+    "name": "Apple iPhone 16 Pro 512GB (Recondicionado)",
+    "category": "eletronicos",
+    "price": 3400.16,
+    "image": null,
+    "description": "Apple iPhone 16 Pro com 512GB de armazenamento. Apresentação do anúncio: Recondicionado.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 16 Pro",
+    "originalPrice": 4250.2,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?page=2&q=iphone+16",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "condition": "Recondicionado"
+  },
+  {
+    "id": 191,
+    "name": "Apple iPhone 16 Pro Max 256GB",
+    "category": "eletronicos",
+    "price": 3941.2,
+    "image": null,
+    "description": "Apple iPhone 16 Pro Max com 256GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 16 Pro Max",
+    "originalPrice": 4926.5,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-14-128gb_43627/",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 192,
+    "name": "Apple iPhone 16 Pro Max 512GB (Recondicionado)",
+    "category": "eletronicos",
+    "price": 3973.08,
+    "image": null,
+    "description": "Apple iPhone 16 Pro Max com 512GB de armazenamento. Apresentação do anúncio: Recondicionado.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 16 Pro Max",
+    "originalPrice": 4966.35,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+16",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "condition": "Recondicionado"
+  },
+  {
+    "id": 193,
+    "name": "Apple iPhone 16 Pro Max 1TB",
+    "category": "eletronicos",
+    "price": 8448.95,
+    "image": null,
+    "description": "Apple iPhone 16 Pro Max com 1TB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "1TB",
+    "model": "iPhone 16 Pro Max",
+    "originalPrice": 10561.19,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-pro-max-1tb_55849/",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 194,
+    "name": "Apple iPhone 16e 128GB",
+    "category": "eletronicos",
+    "price": 2665.6,
+    "image": null,
+    "description": "Apple iPhone 16e com 128GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 16e",
+    "originalPrice": 3332.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 195,
+    "name": "Apple iPhone 16e 256GB",
+    "category": "eletronicos",
+    "price": 2531.2,
+    "image": null,
+    "description": "Apple iPhone 16e com 256GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 16e",
+    "originalPrice": 3164.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+16e",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 196,
+    "name": "Apple iPhone 17 256GB",
+    "category": "eletronicos",
+    "price": 4188.8,
+    "image": null,
+    "description": "Apple iPhone 17 com 256GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 17",
+    "originalPrice": 5236.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 197,
+    "name": "Apple iPhone 17e 256GB",
+    "category": "eletronicos",
+    "price": 2525.2,
+    "image": null,
+    "description": "Apple iPhone 17e com 256GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 17e",
+    "originalPrice": 3156.5,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-17e-256gb_67681/",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 198,
+    "name": "Apple iPhone Air 256GB",
+    "category": "eletronicos",
+    "price": 4212.6,
+    "image": null,
+    "description": "Apple iPhone Air com 256GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone Air",
+    "originalPrice": 5265.75,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 199,
+    "name": "Apple iPhone Air 512GB",
+    "category": "eletronicos",
+    "price": 4641.0,
+    "image": null,
+    "description": "Apple iPhone Air com 512GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone Air",
+    "originalPrice": 5801.25,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 200,
+    "name": "Apple iPhone 17 Pro 256GB",
+    "category": "eletronicos",
+    "price": 4950.4,
+    "image": null,
+    "description": "Apple iPhone 17 Pro com 256GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 17 Pro",
+    "originalPrice": 6188.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 201,
+    "name": "Apple iPhone 17 Pro 512GB",
+    "category": "eletronicos",
+    "price": 6473.55,
+    "image": null,
+    "description": "Apple iPhone 17 Pro com 512GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 17 Pro",
+    "originalPrice": 8091.94,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 202,
+    "name": "Apple iPhone 17 Pro 1TB",
+    "category": "eletronicos",
+    "price": 6890.4,
+    "image": null,
+    "description": "Apple iPhone 17 Pro com 1TB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "1TB",
+    "model": "iPhone 17 Pro",
+    "originalPrice": 8613.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-17-pro-1tb_64048/",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 105,
+    "name": "Apple iPhone 17 Pro Max 256GB",
+    "category": "eletronicos",
+    "price": 5807.2,
+    "image": null,
+    "description": "Apple iPhone 17 Pro Max com 256GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 17 Pro Max",
+    "originalPrice": 7259.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-17-pro-max-256gb_64041/",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "catalogItems": [
+      105
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Apple iPhone 17 Pro Max 512GB",
+    "category": "eletronicos",
+    "price": 6592.6,
+    "image": null,
+    "description": "Apple iPhone 17 Pro Max com 512GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 17 Pro Max",
+    "originalPrice": 8240.75,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 204,
+    "name": "Apple iPhone 17 Pro Max 1TB",
+    "category": "eletronicos",
+    "price": 7877.8,
+    "image": null,
+    "description": "Apple iPhone 17 Pro Max com 1TB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "1TB",
+    "model": "iPhone 17 Pro Max",
+    "originalPrice": 9847.25,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 205,
+    "name": "Apple iPhone 17 Pro Max 2TB",
+    "category": "eletronicos",
+    "price": 8877.4,
+    "image": null,
+    "description": "Apple iPhone 17 Pro Max com 2TB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "2TB",
+    "model": "iPhone 17 Pro Max",
+    "originalPrice": 11096.75,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 206,
+    "name": "Apple iPhone 18 Pro 256GB",
+    "category": "eletronicos",
+    "price": 5950.0,
+    "image": null,
+    "description": "Apple iPhone 18 Pro com 256GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 18 Pro",
+    "originalPrice": 7437.5,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 207,
+    "name": "Apple iPhone 18 Pro 512GB",
+    "category": "eletronicos",
+    "price": 6878.2,
+    "image": null,
+    "description": "Apple iPhone 18 Pro com 512GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 18 Pro",
+    "originalPrice": 8597.75,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 208,
+    "name": "Apple iPhone 18 Pro 1TB",
+    "category": "eletronicos",
+    "price": 8948.8,
+    "image": null,
+    "description": "Apple iPhone 18 Pro com 1TB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "1TB",
+    "model": "iPhone 18 Pro",
+    "originalPrice": 11186.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 209,
+    "name": "Apple iPhone 18 Pro 2TB",
+    "category": "eletronicos",
+    "price": 13090.0,
+    "image": null,
+    "description": "Apple iPhone 18 Pro com 2TB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "2TB",
+    "model": "iPhone 18 Pro",
+    "originalPrice": 16362.5,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Apple iPhone 18 Pro Max 256GB",
+    "category": "eletronicos",
+    "price": 6521.2,
+    "image": null,
+    "description": "Apple iPhone 18 Pro Max com 256GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 18 Pro Max",
+    "originalPrice": 8151.5,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    },
+    "catalogItems": [
+      104
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Apple iPhone 18 Pro Max 512GB",
+    "category": "eletronicos",
+    "price": 7806.4,
+    "image": null,
+    "description": "Apple iPhone 18 Pro Max com 512GB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 18 Pro Max",
+    "originalPrice": 9758.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 211,
+    "name": "Apple iPhone 18 Pro Max 1TB",
+    "category": "eletronicos",
+    "price": 10043.6,
+    "image": null,
+    "description": "Apple iPhone 18 Pro Max com 1TB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "1TB",
+    "model": "iPhone 18 Pro Max",
+    "originalPrice": 12554.5,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
+  },
+  {
+    "id": 212,
+    "name": "Apple iPhone 18 Pro Max 2TB",
+    "category": "eletronicos",
+    "price": 13137.6,
+    "image": null,
+    "description": "Apple iPhone 18 Pro Max com 2TB de armazenamento.",
+    "featured": false,
+    "available": true,
+    "storage": "2TB",
+    "model": "iPhone 18 Pro Max",
+    "originalPrice": 16422.0,
+    "discountPercent": 20,
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "checkedOn": "2026-11-20",
+      "referenceCurrency": "BRL"
+    }
   },
   {
     "id": 108,
@@ -1076,16 +1938,6 @@
     "price": 850.0,
     "image": null,
     "description": "Relógio masculino da Invicta, linha Pro Diver. Caixa de aço inoxidável, mostrador preto com cronógrafo de 3 submostradores e pulseira de borracha.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 109,
-    "name": "Tênis Importados",
-    "category": "moda",
-    "price": null,
-    "image": null,
-    "description": "Tênis casuais importados em 3 opções de cor: preto, branco com vermelho e bege.",
     "featured": false,
     "available": true
   },
@@ -1116,26 +1968,6 @@
     "price": 90.78,
     "image": null,
     "description": "Creme clareador de 35 ml com niacinamida 5%, ácido tranexâmico 5%, Melazero V2 1% e ceramida NP.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 113,
-    "name": "Celimax Noni Starter Kit Calming + Radiance",
-    "category": "beleza",
-    "price": null,
-    "image": null,
-    "description": "Kit de 3 miniaturas para pele calma e iluminada: Noni Toner de 20 ml, Noni Ampoule de 10 ml e Noni Cream de 10 ml.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 114,
-    "name": "Numbuzin No.9 NAD+ Retinol Volumetox Eye Cream",
-    "category": "beleza",
-    "price": null,
-    "image": null,
-    "description": "Creme para a área dos olhos de 10 ml, com NAD+, retinol e 50 peptídeos. Aplicador em formato de seringa.",
     "featured": false,
     "available": true
   },
@@ -1260,203 +2092,445 @@
     "available": true
   },
   {
-    "id": 127,
-    "name": "Medicube AGE-R Booster Pro (Branco)",
-    "category": "beleza",
-    "price": null,
-    "image": null,
-    "description": "Aparelho facial 6 em 1 na cor branca: booster, microcorrente, Derma Shot, Air Shot, vibração e LED. Com visor digital e app AGE-R.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 128,
-    "name": "Medicube AGE-R Booster Pro (Rosa)",
-    "category": "beleza",
-    "price": null,
-    "image": null,
-    "description": "Aparelho facial 6 em 1 na cor rosa: booster, microcorrente, Derma Shot, Air Shot, vibração e LED. Com visor digital e app AGE-R.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 129,
-    "name": "Medicube AGE-R Booster-H (Creme)",
-    "category": "beleza",
-    "price": null,
-    "image": null,
-    "description": "Aparelho de absorção (glow) na cor creme, que usa eletroporação para potencializar a absorção do skincare.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 130,
-    "name": "Medicube AGE-R Booster-H (Rosa)",
-    "category": "beleza",
-    "price": null,
-    "image": null,
-    "description": "Aparelho de absorção (glow) na cor rosa, que usa eletroporação para potencializar a absorção do skincare.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 131,
-    "name": "Cortina Jacquard Preta com Ilhós",
-    "category": "casa",
-    "price": null,
-    "image": null,
-    "description": "Cortina em jacquard preto com padrão geométrico, ilhós cromados e prendedor de cordão com pérolas.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 132,
-    "name": "Jogo de Lençol Queen 5000 Fios",
-    "category": "casa",
-    "price": null,
-    "image": null,
-    "description": "Jogo de 3 peças tamanho Queen: 1 lençol com elástico de 162 × 203 × 40 cm e 2 fronhas de 52 × 75 cm. Nas cores rosa, branco, bege e cinza.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 133,
-    "name": "Goldsun Toalha de Banho 100% Algodão",
-    "category": "casa",
-    "price": null,
-    "image": null,
-    "description": "Toalha de banho de 80 × 160 cm, 100% algodão, em 6 cores: azul-claro, azul-acinzentado, rosa, ameixa, verde-oliva e cru.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 134,
-    "name": "Goldsun Toalha de Banho Secagem Rápida Premium",
-    "category": "casa",
-    "price": null,
-    "image": null,
-    "description": "Toalha de banho de 90 × 160 cm, modelo TP-8Q, felpuda com borda em relevo e lavável na máquina. Cores verde, bege, vinho, azul royal, azul-marinho, rosa e cinza.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 135,
-    "name": "Toalhas de Mesa Natalinas Bordadas",
-    "category": "casa",
-    "price": null,
-    "image": null,
-    "description": "Toalhas bordadas de 85 × 85 cm, modelo TN-32, com Papai Noel, sinos, velas e bico-de-papagaio. Nas cores vermelho, branco e verde.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 136,
-    "name": "Manta Infantil com Relevo de Corações",
-    "category": "casa",
-    "price": null,
-    "image": null,
-    "description": "Manta macia para berço com relevo de corações e viés na borda. Nas cores pêssego, vinho e branco.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 137,
-    "name": "Matador Torero Jogo de Cama Bordado",
-    "category": "casa",
-    "price": null,
-    "image": null,
-    "description": "Jogo de cama com bordado geométrico em losangos, em bolsa de tecido com alças. Nas cores vermelho, azul, bege e rosé.",
-    "featured": false,
-    "available": true
-  },
-  {
-    "id": 138,
-    "name": "Azeites de Oliva Extravirgem Argentinos",
-    "category": "alimentos",
-    "price": null,
-    "image": null,
-    "description": "Azeites extravirgens argentinos de 500 ml: La Riojana Clásico, Zuccardi Blend de Terroirs e Alto Olivo. Origem em Mendoza e La Rioja.",
-    "featured": false,
-    "available": true
-  },
-  {
     "id": 139,
-    "name": "Tirzepatidas, Retatrutidas e Peptídeos",
+    "name": "Gluconex 15 mg",
     "category": "medicamentos",
     "price": null,
     "image": null,
-    "description": "Linha de injetáveis importados do Paraguai: tirzepatida 15 mg (Gluconex, Lipoless, Tirzec, Tirzedral, Slimex e T.G.), retatrutida (Synedica e Veltrame Diamond) e peptídeos como BPC-157, AOD-9604, Ipamorelin, CJC-1295, TB-500, PT-141, MOTS-c, KPV e GHK-Cu. Aviso: a Anvisa proibiu a venda, a importação e o uso de várias dessas marcas por falta de registro sanitário, e a retatrutida não tem registro em nenhum país. No Brasil, a única tirzepatida aprovada é o Mounjaro.",
+    "description": "Tirzepatida. Apresentação não informada no catálogo.",
     "featured": false,
-    "available": false
+    "available": true,
+    "dosage": "15 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Lipoless 15 mg",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Tirzepatida. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": "15 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Tirzec 15 mg",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Tirzepatida. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": "15 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Tirzedral 15 mg",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Tirzepatida. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": "15 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Slimex 15 mg",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Tirzepatida. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": "15 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 151,
+    "name": "T.G. 15 mg",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Tirzepatida. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": "15 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Synedica 40 mg",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Retatrutida. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": "40 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Synedica 60 mg",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Retatrutida. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": "60 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Veltrame Diamond 120 mg",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Retatrutida. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": "120 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 155,
+    "name": "BPC-157",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Peptídeo. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": null,
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 156,
+    "name": "AOD-9604",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Peptídeo. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": null,
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Ipamorelin",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Peptídeo. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": null,
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 158,
+    "name": "CJC-1295",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Peptídeo. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": null,
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 159,
+    "name": "TB-500",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Peptídeo. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": null,
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 160,
+    "name": "MOTS-c",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Peptídeo. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": null,
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 161,
+    "name": "KPV",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Peptídeo. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": null,
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Oxygen GHK-Cu 100 mg",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Peptídeo GHK-Cu. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": "100 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Lipostabil (fosfatidilcolina)",
+    "category": "medicamentos",
+    "price": null,
+    "image": null,
+    "description": "Fosfatidilcolina. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": true,
+    "dosage": null,
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      139
+    ]
   },
   {
     "id": 140,
-    "name": "Tirzepatidas MD (multidose) 60 mg",
+    "name": "Slimex MD 15 — 60 mg multidose",
     "category": "medicamentos",
-    "price": null,
+    "price": 680,
     "image": null,
-    "description": "Frascos multidose de tirzepatida de 60 mg, com 15 mg por dose: Slimex MD 15, Lipoland Multidosis, Catedral T 15 MD, Tirzec 15 e Lipoless MD 15. Aviso: Slimex MD, Tirzec e Lipoless estão entre as marcas proibidas pela Anvisa, e a situação da Lipoland não foi confirmada.",
+    "description": "Tirzepatida · Slimex. Frasco multidose com 60 mg no total e 15 mg por dose.",
     "featured": false,
-    "available": false
+    "available": true,
+    "dosage": "15 mg",
+    "presentation": "Frasco multidose de 60 mg",
+    "catalogItems": [
+      140
+    ],
+    "totalAmount": "60 mg"
+  },
+  {
+    "id": 164,
+    "name": "Lipoland Multidosis — 60 mg multidose",
+    "category": "medicamentos",
+    "price": 680,
+    "image": null,
+    "description": "Tirzepatida · Landerlan Gold Series. Frasco multidose com 60 mg no total e 15 mg por dose.",
+    "featured": false,
+    "available": true,
+    "dosage": "15 mg",
+    "presentation": "Frasco multidose de 60 mg",
+    "catalogItems": [
+      140
+    ],
+    "totalAmount": "60 mg"
+  },
+  {
+    "id": 165,
+    "name": "Catedral T 15 MD — 60 mg multidose",
+    "category": "medicamentos",
+    "price": 680,
+    "image": null,
+    "description": "Tirzepatida · Laboratorios Catedral. Frasco multidose com 60 mg no total e 15 mg por dose.",
+    "featured": false,
+    "available": true,
+    "dosage": "15 mg/0,5 mL",
+    "presentation": "Frasco multidose de 60 mg",
+    "catalogItems": [
+      140
+    ],
+    "totalAmount": "60 mg"
+  },
+  {
+    "id": 166,
+    "name": "Tirzec 15 MD — 60 mg multidose",
+    "category": "medicamentos",
+    "price": 680,
+    "image": null,
+    "description": "Tirzepatida · Tirzec. Frasco multidose com 60 mg no total e 15 mg por dose.",
+    "featured": false,
+    "available": true,
+    "dosage": "15 mg/0,5 mL",
+    "presentation": "Frasco multidose de 60 mg",
+    "catalogItems": [
+      140
+    ],
+    "totalAmount": "60 mg"
+  },
+  {
+    "id": 167,
+    "name": "Lipoless MD 15 — 60 mg multidose",
+    "category": "medicamentos",
+    "price": 680,
+    "image": null,
+    "description": "Tirzepatida · Eticos. Frasco multidose com 60 mg no total e 15 mg por dose.",
+    "featured": false,
+    "available": true,
+    "dosage": "15 mg/0,6 mL",
+    "presentation": "Frasco multidose de 60 mg",
+    "catalogItems": [
+      140
+    ],
+    "totalAmount": "60 mg"
   },
   {
     "id": 141,
     "name": "Ipsen Dysport 500 U",
     "category": "medicamentos",
-    "price": null,
+    "price": 499,
     "image": null,
-    "description": "Toxina botulínica tipo A de 500 unidades por frasco, da Ipsen, injetável (SC/IM), conservada na geladeira entre 2 °C e 8 °C. Aviso: medicamento de uso profissional, vendido sob prescrição. A embalagem é a do Reino Unido, em inglês, e exige transporte refrigerado.",
+    "description": "Toxina botulínica tipo A. 1 frasco.",
     "featured": false,
-    "available": false
+    "available": true,
+    "dosage": "500 U",
+    "presentation": "1 frasco",
+    "catalogItems": [
+      141
+    ]
   },
   {
     "id": 142,
     "name": "PT-141 (bremelanotida) 20 mg",
     "category": "medicamentos",
-    "price": null,
+    "price": 799,
     "image": null,
-    "description": "Bremelanotida de 20 mg, em frasco para injeção subcutânea. Aviso: medicamento injetável vendido sob prescrição. O frasco não informa fabricante nem registro sanitário.",
+    "description": "Bremelanotida. 1 frasco.",
     "featured": false,
-    "available": false
+    "available": true,
+    "dosage": "20 mg",
+    "presentation": "1 frasco",
+    "catalogItems": [
+      139,
+      142
+    ]
   },
   {
     "id": 143,
     "name": "Combo Smart Collection Nº 244 + Lipostabil",
     "category": "medicamentos",
-    "price": null,
+    "price": 299,
     "image": null,
-    "description": "Combo com o perfume Smart Collection Nº 244 (Eau de Parfum de 25 ml) e Lipostabil Endovena (fosfatidilcolina) em 5 ampolas de 5 ml. Aviso: Lipostabil é injetável de uso endovenoso, e o uso para gordura localizada não é a indicação de bula; deve ser avaliado por médico.",
+    "description": "Perfume e fosfatidilcolina. Perfume de 25 ml + 5 ampolas de 5 ml.",
     "featured": false,
-    "available": false
+    "available": true,
+    "dosage": null,
+    "presentation": "Perfume de 25 ml + 5 ampolas de 5 ml",
+    "catalogItems": [
+      143
+    ]
   },
   {
     "id": 144,
     "name": "Lispax 20 (lisdexanfetamina 20 mg)",
     "category": "medicamentos",
-    "price": null,
+    "price": 350,
     "image": null,
-    "description": "Dimesilato de lisdexanfetamina de 20 mg, caixa com 30 cápsulas, do laboratório Climfa. Aviso: substância controlada, que no Brasil só pode ser vendida em farmácia com notificação de receita. Lispax não é o Venvanse.",
+    "description": "Dimesilato de lisdexanfetamina · Climfa. 30 cápsulas.",
     "featured": false,
-    "available": false
+    "available": true,
+    "dosage": "20 mg",
+    "presentation": "30 cápsulas",
+    "catalogItems": [
+      144
+    ]
   },
   {
     "id": 145,
     "name": "36 Horas (tadalafila 20 mg)",
     "category": "medicamentos",
-    "price": null,
+    "price": 99,
     "image": null,
-    "description": "Tadalafila de 20 mg, caixa com 20 comprimidos revestidos, da Laboratorios Catedral. Aviso: vendido sob prescrição. A embalagem é estrangeira, em espanhol, e não é a versão registrada para venda no Brasil.",
+    "description": "Tadalafila · Laboratorios Catedral. 20 comprimidos revestidos.",
     "featured": false,
-    "available": false
+    "available": true,
+    "dosage": "20 mg",
+    "presentation": "20 comprimidos revestidos",
+    "catalogItems": [
+      145
+    ]
   },
   {
     "id": 146,
     "name": "Stun Medical Line Body Safe & Easy 55",
     "category": "medicamentos",
-    "price": null,
+    "price": 1299,
     "image": null,
-    "description": "Preenchedor corporal de ácido hialurônico reticulado de 55 mL (20 mg/mL, tipo Hard), da Stun Medical. Aviso: preenchedor injetável de uso exclusivo profissional, que deve ser aplicado por médico habilitado e ter registro na Anvisa.",
+    "description": "Ácido hialurônico reticulado · Stun Medical. Seringa de 55 mL.",
     "featured": false,
-    "available": false
+    "available": true,
+    "dosage": "20 mg/mL",
+    "presentation": "Seringa de 55 mL",
+    "catalogItems": [
+      146
+    ],
+    "totalAmount": "55 mL"
   }
 ]

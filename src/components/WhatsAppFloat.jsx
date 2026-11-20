@@ -3,7 +3,7 @@ import { teamContacts, whatsappUrl } from "../data/contact";
 
 function WhatsAppFloat() {
   const member = teamContacts[0];
-  const url = whatsappUrl("Olá! Vim pelo site da A&P Imports e gostaria de mais informações sobre os produtos.", member?.whatsapp);
+  const url = whatsappUrl("Olá!", member?.whatsapp);
   if (!url) return null;
 
   return (

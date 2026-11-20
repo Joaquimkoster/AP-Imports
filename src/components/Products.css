@@ -46,6 +46,8 @@
 .product-category { color: #d4b474; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; line-height: 1.5; }
 .product-info h3 { min-height: 24px; margin: 8px 0 14px; color: var(--text); font-size: 18px; font-weight: 600; line-height: 1.3; }
 .product-price { margin-top: auto; color: var(--gold); font-size: 21px; line-height: 1.5; }
+.product-pricing { display: grid; gap: 4px; width: 100%; margin-top: auto; }
+.product-modal-info .product-pricing { margin-top: 0; }
 .product-button { display: flex; align-items: center; justify-content: space-between; gap: 8px; width: 100%; min-height: 44px; margin-top: 12px; padding: 10px 14px; border: 1px solid #977339; border-radius: 7px; background: linear-gradient(110deg, #241b0e60, #090805); box-shadow: inset 0 0 0 2px #0008; color: var(--gold); font-size: 15px; text-align: left; }
 .product-button > svg { width: 19px; height: 19px; }
 .product-button-detail { display: inline; }
@@ -123,6 +125,11 @@
 .product-modal-info h3 { margin: 0; color: #f6f1e7; font-size: 22px; line-height: 1.3; }
 .product-modal-info .product-price { font-size: 28px; }
 .product-modal-description { margin: 0; color: #cfc8b9; font-size: 15px; line-height: 1.6; }
+.product-presentation { margin: -4px 0 12px; color: #cfc8b9; font-size: 14px; line-height: 1.5; }
+.product-specifications { display: grid; gap: 10px; width: 100%; margin: 0; font-size: 14px; line-height: 1.5; }
+.product-specifications > div { display: grid; gap: 2px; }
+.product-specifications dt { color: #a59b85; }
+.product-specifications dd { margin: 0; color: #f6f1e7; overflow-wrap: anywhere; }
 .product-modal-actions { display: flex; flex-direction: column; gap: 10px; width: 100%; margin-top: auto; padding-top: 8px; }
 .product-modal-actions > span { color: #a59b85; font-size: 13px; }
 .product-modal-whatsapp { display: flex; align-items: center; justify-content: center; gap: 8px; min-height: 46px; padding: 10px 16px; border-radius: 8px; background: var(--gold-gradient); color: #080808; font-size: 15px; font-weight: 700; text-decoration: none; }
