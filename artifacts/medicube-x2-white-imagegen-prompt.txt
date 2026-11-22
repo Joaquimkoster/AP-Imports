@@ -1,5 +1,0 @@
-Tool: built-in imagegen
-Transparent background: true
-Input: latest user attachment, Medicube Age-R Booster Pro X2 White product photo.
-
-undefined

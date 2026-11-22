@@ -1,5 +1,0 @@
-Tool: built-in imagegen
-Transparent background: true
-Input: latest user attachment, Medicube Azelaic Acid 16 serum box and bottle.
-
-undefined

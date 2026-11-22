@@ -23,3 +23,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Exportações e materiais temporários; históricos JSON são preservados.
+/artifacts/*.png
+/artifacts/*.pdf
+/artifacts/*.csv
+/artifacts/*-imagegen-prompt.txt

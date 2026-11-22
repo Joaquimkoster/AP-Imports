@@ -9,19 +9,45 @@ export const contact = {
 export const teamContacts = [
   {
     name: "Adriana",
-    description: "Conte à Adriana o que você procura e encontre uma opção que combine com você.",
     initials: "A",
     image: "/images/contacts/adriana.jpeg",
     phone: "+55 (11) 95602-9153",
     whatsapp: "5511956029153",
   },
   {
+    name: "Duda",
+    initials: "D",
+    image: "/images/contacts/duda.png",
+    phone: "+55 (51) 8043-9808",
+    whatsapp: "555180439808",
+  },
+  {
+    name: "Josi",
+    initials: "J",
+    image: "/images/contacts/josi.png",
+    phone: "+55 (19) 99848-8494",
+    whatsapp: "5519998488494",
+  },
+  {
+    name: "Vanessa",
+    initials: "V",
+    image: "/images/contacts/vanessa.png",
+    phone: "+55 (21) 97248-8640",
+    whatsapp: "5521972488640",
+  },
+  {
+    name: "Cecilia",
+    initials: "C",
+    image: "/images/contacts/cecilia.png",
+    phone: "+55 (11) 99219-9461",
+    whatsapp: "5511992199461",
+  },
+  {
     name: "Gessica",
-    description: "Ficou em dúvida? A Gessica te ajuda com os detalhes para escolher com confiança.",
     initials: "G",
-    image: "/images/contacts/gessica.jpeg",
-    phone: "+55 (45) 9956-7888",
-    whatsapp: "554599567888",
+    image: "/images/contacts/gessica.png",
+    phone: "+55 (11) 94766-2484",
+    whatsapp: "5511947662484",
   },
 ];
 

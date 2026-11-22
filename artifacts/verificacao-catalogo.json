@@ -2,7 +2,7 @@
   "source": "Catalogo_de_Produtos.pdf",
   "sourceRecords": 146,
   "siteProductsBefore": 146,
-  "siteProductsAfter": 188,
+  "siteProductsAfter": 197,
   "medicationProducts": 29,
   "missingSourceRecords": [
     72,
@@ -30,7 +30,7 @@
     137,
     138
   ],
-  "pricePolicy": "Preços dos iPhones: Compras Paraguai com desconto de 20%, documentados em artifacts/iphones-precos.json. Demais preços preservados.",
+  "pricePolicy": "iPhones: referências do Compras Paraguai pesquisadas em 20/11/2026, recalculadas em 21/11/2026 com acréscimo de 20%, documentadas em artifacts/iphones-precos.json. Novos Samsung, Motorola e Xiaomi: referências pesquisadas em 21/11/2026 com acréscimo de 20%, documentadas em artifacts/smartphones-precos.json. Demais preços preservados.",
   "notes": [
     "Itens 139 e 140 desmembrados por marca e apresentação. PT-141 genérico do item 139 associado ao item 142, que informa 20 mg e preço.",
     "O valor R$ 680 refere-se a cada frasco multidose de 60 mg (15 mg por dose), não ao anúncio genérico de 15 mg.",
@@ -38,7 +38,8 @@
     "Não há preço de produto no item 139. Doses dos peptídeos sem quantidade no PDF permanecem não informadas.",
     "Coleções e kits das demais categorias foram preservados conforme os registros originais do PDF.",
     "Todos os links de WhatsApp enviam somente Olá!, conforme solicitado, sem referência ao produto ou pedido de compra.",
-    "O agrupamento do item 107 continua removido. iPhones foram cadastrados individualmente por modelo, armazenamento e condição a partir do Compras Paraguai."
+    "O agrupamento do item 107 continua removido. iPhones foram cadastrados individualmente por modelo, armazenamento e condição a partir do Compras Paraguai.",
+    "Em 21/11/2026, adicionados três modelos distintos de Samsung, Motorola e Xiaomi por marca, de qualquer faixa de preço, conforme a ordenação Mais Novos das fichas agrupadas do Compras Paraguai. Regra de preço dos 48 iPhones corrigida para acréscimo de 20% sobre a referência original."
   ],
   "coverage": [
     {
@@ -1064,5 +1065,6 @@
     137,
     138
   ],
-  "iphoneProducts": 48
+  "iphoneProducts": 48,
+  "addedSmartphones": 9
 }

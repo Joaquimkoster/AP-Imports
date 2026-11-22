@@ -1,16 +1,36 @@
-# React + Vite
+# A&P Imports
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Catálogo de produtos em React e Vite, com busca, filtros, paginação e atendimento pelo WhatsApp.
 
-Currently, two official plugins are available:
+## Executar
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Com uma versão do Node.js compatível com o Vite instalado:
 
-## React Compiler
+```sh
+npm ci
+npm run dev
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Verificar e compilar
 
-## Expanding the Oxlint configuration
+```sh
+npm run lint
+npm run build
+npm run preview
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+O build gera `dist/`. Essa pasta é recriada a partir do código e não deve ser editada manualmente. `node_modules/` contém as dependências instaladas; ambas as pastas são ignoradas pelo Git.
+
+## Conteúdo
+
+- `public/products.json`: cadastro exibido no catálogo. Preços ausentes permanecem como `null`.
+- `public/images/`: logo, fotos da equipe e imagens dos produtos usados pelo site.
+- `src/data/contact.js`: contatos da equipe e configuração do chatbot. Um número vazio mantém o chatbot como “Em breve”.
+- `src/components/`: catálogo, busca, ordenação, detalhes dos produtos e atendimento.
+- `artifacts/iphones-precos.json` e `artifacts/smartphones-precos.json`: referências, fontes e cálculos dos preços pesquisados.
+- `artifacts/verificacao-catalogo.json`: histórico da conferência do catálogo.
+- `artifacts/imagens-produtos.json`: origem das fotos do Compras Paraguai, fabricantes e outras lojas, além dos produtos que ainda precisam de identificação ou imagem correspondente.
+
+Nos aparelhos documentados nesses históricos, o preço final é o preço-base do Compras Paraguai multiplicado por **1,20**, arredondado para centavos. As referências têm data de consulta e não são atualizadas automaticamente. Os demais produtos mantêm seus próprios preços cadastrados.
+
+PDFs, CSVs, capturas de tela e prompts temporários em `artifacts/` não fazem parte do site e são ignorados pelo Git. Arquivos colocados em `public/` são copiados para `dist/`, por isso essa pasta deve conter apenas os recursos usados pela aplicação.

@@ -3,6 +3,8 @@ import { teamContacts, chatbotContact, whatsappUrl } from "../data/contact";
 import { scrollToSection } from "../utils/scrollToSection";
 import "./Contact.css";
 
+const currentYear = new Date().getFullYear();
+
 function Contact() {
   const contacts = [...teamContacts, { ...chatbotContact, isBot: true }];
 
@@ -28,11 +30,6 @@ function Contact() {
                   ) : member.isBot ? <Bot size={32} strokeWidth={1.5} /> : member.initials}
                 </div>
                 <h3>{member.name}</h3>
-                <p className="contact-description">
-                  {member.isBot
-                    ? (pending ? "Em breve, tire suas dúvidas e explore nosso catálogo com um assistente no WhatsApp." : "Tire suas dúvidas com nosso assistente virtual pelo WhatsApp.")
-                    : member.description}
-                </p>
                 {member.phone ? (
                   <a className="contact-phone" href={`tel:+${member.whatsapp}`}>{member.phone}</a>
                 ) : <span className="contact-phone contact-note">{pending ? "Novidade em preparação" : "Atendimento pelo WhatsApp"}</span>}
@@ -55,7 +52,7 @@ function Contact() {
 
         <footer className="contact-footer">
           <span>A&P IMPORTS</span>
-          <span>© {new Date().getFullYear()} A&P Imports. Todos os direitos reservados.</span>
+          <span>© {currentYear} A&P Imports. Todos os direitos reservados.</span>
           <a href="#catalogo" onClick={(event) => scrollToSection(event, "catalogo")}>Voltar ao catálogo <ArrowUpRight size={14} aria-hidden="true" /></a>
         </footer>
       </div>

@@ -1,33 +1,62 @@
 import { useEffect, useRef } from "react";
+import { createPortal } from "react-dom";
 import { MessageCircle, Package, X } from "lucide-react";
 import { teamContacts, whatsappUrl } from "../data/contact";
 import ProductPrice from "./ProductPrice";
 
 function ProductModal({ product, categoryName, onClose }) {
   const closeRef = useRef(null);
+  const backdropRef = useRef(null);
+  const dialogRef = useRef(null);
 
   useEffect(() => {
     const previous = document.activeElement;
     const overflow = document.body.style.overflow;
+    const background = Array.from(document.body.children)
+      .filter((element) => element !== backdropRef.current)
+      .map((element) => ({ element, inert: element.inert }));
+
+    background.forEach(({ element }) => { element.inert = true; });
     document.body.style.overflow = "hidden";
     closeRef.current?.focus();
 
     const onKey = (event) => {
-      if (event.key === "Escape") onClose();
+      if (event.key === "Escape") {
+        event.preventDefault();
+        onClose();
+      }
+      if (event.key !== "Tab") return;
+
+      const focusable = Array.from(dialogRef.current.querySelectorAll(
+        'a[href], button:not(:disabled), input:not(:disabled), select:not(:disabled), textarea:not(:disabled), [tabindex]:not([tabindex="-1"])'
+      )).filter((element) => element.getClientRects().length > 0);
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      const outside = !dialogRef.current.contains(document.activeElement);
+
+      if (event.shiftKey && (document.activeElement === first || outside)) {
+        event.preventDefault();
+        last?.focus();
+      } else if (!event.shiftKey && (document.activeElement === last || outside)) {
+        event.preventDefault();
+        first?.focus();
+      }
     };
     document.addEventListener("keydown", onKey);
 
     return () => {
       document.removeEventListener("keydown", onKey);
+      background.forEach(({ element, inert }) => { element.inert = inert; });
       document.body.style.overflow = overflow;
-      previous?.focus?.();
+      if (previous?.isConnected) previous.focus?.({ preventScroll: true });
     };
   }, [onClose]);
 
-  return (
-    <div className="product-modal-backdrop" onClick={onClose}>
+  return createPortal(
+    <div className="product-modal-backdrop" ref={backdropRef} onClick={onClose}>
       <div
         className="product-modal"
+        ref={dialogRef}
         role="dialog"
         aria-modal="true"
         aria-labelledby="product-modal-title"
@@ -65,7 +94,7 @@ function ProductModal({ product, categoryName, onClose }) {
             <div className="product-modal-actions">
               <span>Fale com a equipe pelo WhatsApp:</span>
               {teamContacts.map((member) => {
-                const url = whatsappUrl("Olá!", member.whatsapp);
+                const url = whatsappUrl(`Olá, tudo bem? Gostei do ${product.name}, pode me falar mais sobre?`, member.whatsapp);
                 return url ? (
                   <a
                     key={member.name}
@@ -85,7 +114,8 @@ function ProductModal({ product, categoryName, onClose }) {
           )}
         </div>
       </div>
-    </div>
+    </div>,
+    document.body
   );
 }
 

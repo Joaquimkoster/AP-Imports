@@ -1,5 +1,0 @@
-Tool: built-in imagegen
-Transparent background: true
-Input: latest user attachment, Medicube Azelaic Acid Exosome Shot 2000 30 ml.
-
-undefined

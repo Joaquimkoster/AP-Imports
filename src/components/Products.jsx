@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import { ArrowUpRight, ChevronLeft, ChevronRight, X, PackageSearch, Package } from "lucide-react";
 import ProductSearch from "./Navbar";
 import ProductSort from "./ProductSort";
@@ -22,29 +22,32 @@ const ROWS_PER_PAGE = 5;
 const MOBILE_QUERY = "(max-width: 600px)";
 
 // 5 linhas por página: 3 colunas no desktop, 2 no celular
-function useItemsPerPage() {
+function useItemsPerPage(onChange) {
   const [columns, setColumns] = useState(() =>
     window.matchMedia(MOBILE_QUERY).matches ? 2 : 3
   );
 
   useEffect(() => {
     const media = window.matchMedia(MOBILE_QUERY);
-    const update = () => setColumns(media.matches ? 2 : 3);
+    const update = () => {
+      setColumns(media.matches ? 2 : 3);
+      onChange();
+    };
     media.addEventListener("change", update);
     return () => media.removeEventListener("change", update);
-  }, []);
+  }, [onChange]);
 
   return columns * ROWS_PER_PAGE;
 }
 
-function Products({ search, onSearchChange }) {
-  const resultsRef = useRef(null);
-  const firstRender = useRef(true);
-  const itemsPerPage = useItemsPerPage();
+function Products() {
+  const [search, setSearch] = useState("");
   const [products, setProducts] = useState([]);
   const [category, setCategory] = useState("todos");
   const [sort, setSort] = useState("default");
   const [page, setPage] = useState(1);
+  const resetPage = useCallback(() => setPage(1), []);
+  const itemsPerPage = useItemsPerPage(resetPage);
   const [selected, setSelected] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
@@ -87,22 +90,6 @@ function Products({ search, onSearchChange }) {
 
     return () => controller.abort();
   }, []);
-
-  useEffect(() => {
-    setPage(1);
-  }, [search]);
-
-  useEffect(() => {
-    setPage(1);
-  }, [itemsPerPage]);
-
-  useEffect(() => {
-    if (firstRender.current) {
-      firstRender.current = false;
-      return;
-    }
-    document.getElementById("categorias")?.scrollIntoView({ block: "start", behavior: "smooth" });
-  }, [page]);
 
   // FILTRAR E ORDENAR
   const filteredProducts = useMemo(() => {
@@ -175,8 +162,21 @@ function Products({ search, onSearchChange }) {
 
   const closeModal = useCallback(() => setSelected(null), []);
 
+  function handleSearchChange(value) {
+    setSearch(value);
+    resetPage();
+  }
+
+  function changePage(value) {
+    setPage(value);
+    document.getElementById("categorias")?.scrollIntoView({
+      block: "start",
+      behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth",
+    });
+  }
+
   function resetFilters() {
-    onSearchChange("");
+    setSearch("");
     setCategory("todos");
     setSort("default");
     setPage(1);
@@ -208,7 +208,7 @@ function Products({ search, onSearchChange }) {
           )}
         </div>
 
-        <ProductSearch search={search} onSearchChange={onSearchChange} />
+        <ProductSearch search={search} onSearchChange={handleSearchChange} />
 
         {/* CONTADOR */}
         {!loading && !error && (
@@ -221,7 +221,7 @@ function Products({ search, onSearchChange }) {
           </div>
         )}
 
-        <div className="products-content" ref={resultsRef} role="region" aria-label="Resultados do catálogo" tabIndex={0}>
+        <div className="products-content" role="region" aria-label="Resultados do catálogo" tabIndex={0}>
         {/* CARREGAMENTO */}
         {loading && (
           <div className="products-loading" role="status">
@@ -252,7 +252,7 @@ function Products({ search, onSearchChange }) {
                   className="product-card"
                   key={product.id}
                 >
-                  <div className="product-image" onClick={() => setSelected(product)}>
+                  <button type="button" className="product-image" aria-label={`Ver detalhes de ${product.name}`} onClick={() => setSelected(product)}>
                     {product.image ? (
                       <img
                         src={product.image}
@@ -268,7 +268,7 @@ function Products({ search, onSearchChange }) {
                         <small>Foto em breve</small>
                       </span>
                     )}
-                  </div>
+                  </button>
 
                   <div className="product-info">
                     <span className="product-category">
@@ -323,7 +323,7 @@ function Products({ search, onSearchChange }) {
                   type="button"
                   aria-label="Página anterior"
                   disabled={page === 1}
-                  onClick={() => setPage(page - 1)}
+                  onClick={() => changePage(page - 1)}
                 >
                   <ChevronLeft size={19} />
                 </button>
@@ -336,7 +336,7 @@ function Products({ search, onSearchChange }) {
                   type="button"
                   aria-label="Próxima página"
                   disabled={page === totalPages}
-                  onClick={() => setPage(page + 1)}
+                  onClick={() => changePage(page + 1)}
                 >
                   <ChevronRight size={19} />
                 </button>
