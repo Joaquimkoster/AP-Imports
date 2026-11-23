@@ -2,14 +2,14 @@
   "checkedOn": "2026-11-21",
   "source": "Compras Paraguai",
   "markupPercent": 20,
-  "formula": "price = originalPrice * 1.20, arredondado para centavos (ROUND_HALF_UP)",
+  "formula": "finalBRL = ROUND_HALF_UP(referenceUSD * média PTAX de venda * 1.20, 2); sem reconversão de BRL, sem reajuste adicional de 3,69% e sem arredondamento intermediário.",
   "selectionPolicy": "Três modelos distintos por marca, de qualquer faixa de preço, usando as primeiras fichas de produto agrupadas da ordenação Mais Novos do Compras Paraguai. Anúncios avulsos de lojistas e variações de cor, memória ou capacidade não contam como novos modelos. A ordenação reflete o cadastro do comparador; não é uma confirmação independente das datas de lançamento pelos fabricantes.",
   "selectionUrls": {
     "Samsung": "https://www.comprasparaguai.com.br/celular--samsung/?ordem=novos&page=1",
     "Motorola": "https://www.comprasparaguai.com.br/celular--motorola/?ordem=novos&page=1",
     "Xiaomi": "https://www.comprasparaguai.com.br/celular--xiaomi/?ordem=novos&page=1"
   },
-  "referencePolicy": "Valores em reais observados em 21/11/2026, por apresentação e código de oferta. Preços estáticos; não há atualização automática.",
+  "referencePolicy": "Preços originais USD de ofertas individuais conferidas em 23/11/2026; conversão única pela média oficial PTAX de 03 a 19/11/2026 e acréscimo único de 20%. Valores e fontes em artifacts/precificacao-usd-2026-11-23.json. Não há atualização automática.",
   "products": [
     {
       "id": 213,
@@ -19,13 +19,16 @@
       "storage": "128GB",
       "ram": "4GB",
       "network": "4G",
-      "referenceBRL": 1194.0,
-      "markupPercent": 20,
-      "finalBRL": 1432.8,
-      "sourceUrl": "https://www.comprasparaguai.com.br/celular-samsung-galaxy-a18-sm-a185g-dual-chip-128gb-4g_73589/",
-      "sourceOfferCode": "1691559",
+      "finalBRL": 1342.36,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-samsung-galaxy-a18-sm-a185g-dual-sim-de-128gb4gb-ram-de-67-5052mp-13mp-preto__5745055/",
       "imageSourceUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_samsung_galaxy_a18_sm_a185g_dual_chip_128gb_4g_208513_e77cb2fe-c02c-4b7b-82c5-2d52f3653c08.big.avif",
-      "imagePath": "/images/products/comprasparaguai-73589.avif"
+      "imagePath": "/images/products/comprasparaguai-73589.avif",
+      "referenceUSD": "199.00",
+      "referenceCurrency": "USD",
+      "checkedOn": "2026-11-23",
+      "status": "verified",
+      "markupPercent": 20,
+      "sourceOfferCode": "1691559"
     },
     {
       "id": 214,
@@ -35,13 +38,16 @@
       "storage": "64GB",
       "ram": "4GB",
       "network": "4G",
-      "referenceBRL": 825.0,
-      "markupPercent": 20,
-      "finalBRL": 990.0,
-      "sourceUrl": "https://www.comprasparaguai.com.br/celular-samsung-galaxy-a08-sm-a085f-dual-chip-64gb-4g_73366/",
-      "sourceOfferCode": "1443271",
+      "finalBRL": 927.51,
+      "sourceUrl": "https://www.comprasparaguai.com.br/smartphone-samsung-galaxy-a08-sm-a085f-64gb-4gb-ram-dual-sim-tela-67-prata-caixa-slim__5733745/",
       "imageSourceUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_samsung_galaxy_a08_sm_a085f_dual_chip_64gb_4g_208150_5740cdb9-e318-4ae4-be4f-514b0268b453.big.avif",
-      "imagePath": "/images/products/comprasparaguai-73366.avif"
+      "imagePath": "/images/products/comprasparaguai-73366.avif",
+      "referenceUSD": "137.50",
+      "referenceCurrency": "USD",
+      "checkedOn": "2026-11-23",
+      "status": "verified",
+      "markupPercent": 20,
+      "sourceOfferCode": "1443271"
     },
     {
       "id": 215,
@@ -51,13 +57,16 @@
       "storage": "256GB",
       "ram": "8GB",
       "network": "5G",
-      "referenceBRL": 3588.0,
-      "markupPercent": 20,
-      "finalBRL": 4305.6,
-      "sourceUrl": "https://www.comprasparaguai.com.br/celular-samsung-galaxy-s26-fe-sm-s741b-dual-chip-256gb-5g_71091/",
-      "sourceOfferCode": "164623",
+      "finalBRL": 4033.83,
+      "sourceUrl": "https://www.comprasparaguai.com.br/samsung-galaxy-s26-fe-sm-s741bds-5g-dual-256-gb-graphite__5547239/",
       "imageSourceUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_samsung_galaxy_s26_fe_sm_s741b_dual_chip_256gb_5g_204168_c7f3300a-e28a-45d2-af2d-4f49c2e5bcdb.big.avif",
-      "imagePath": "/images/products/comprasparaguai-71091.avif"
+      "imagePath": "/images/products/comprasparaguai-71091.avif",
+      "referenceUSD": "598.00",
+      "referenceCurrency": "USD",
+      "checkedOn": "2026-11-23",
+      "status": "verified",
+      "markupPercent": 20,
+      "sourceOfferCode": "164623"
     },
     {
       "id": 216,
@@ -67,16 +76,19 @@
       "storage": "256GB",
       "ram": "4GB",
       "network": "5G",
-      "referenceBRL": 1374.0,
-      "markupPercent": 20,
-      "finalBRL": 1648.8,
-      "sourceUrl": "https://www.comprasparaguai.com.br/celular-motorola-moto-g47-xt-2625-dual-chip-256gb-5g_72926/",
-      "sourceOfferCode": "1691658",
+      "finalBRL": 1214.2,
+      "sourceUrl": "https://www.comprasparaguai.com.br/motorola-xt2625-1-moto-g47-4gb256gb-pantone-grey__5678121/",
       "imageSourceUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_motorola_moto_g47_xt_2625_dual_chip_256gb_5g_207412_72c0c669-802f-4521-a4c8-8527997256e8.big.avif",
       "imagePath": "/images/products/comprasparaguai-72926.avif",
       "notes": [
         "Referência de R$ 1.374,00 para a oferta de 256GB identificada pelo código 1691658. O mínimo agregado de R$ 1.362,00 não foi usado para evitar divergência de apresentação."
-      ]
+      ],
+      "referenceUSD": "180.00",
+      "referenceCurrency": "USD",
+      "checkedOn": "2026-11-23",
+      "status": "verified",
+      "markupPercent": 20,
+      "sourceOfferCode": "840493623900"
     },
     {
       "id": 217,
@@ -86,13 +98,16 @@
       "storage": "128GB",
       "ram": "4GB",
       "network": "5G",
-      "referenceBRL": 1170.0,
-      "markupPercent": 20,
-      "finalBRL": 1404.0,
-      "sourceUrl": "https://www.comprasparaguai.com.br/celular-motorola-moto-g37-xt-2625-dual-chip-128gb-5g_72925/",
-      "sourceOfferCode": "1691634",
+      "finalBRL": 1011.83,
+      "sourceUrl": "https://www.comprasparaguai.com.br/motorola-xt2625-13-moto-g37-4gb128gb-pantone-green__5678127/",
       "imageSourceUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_motorola_moto_g37_xt_2625_dual_chip_128gb_5g_207409_d246dfd8-bf32-4cc6-bed2-e972c09c7cd9.big.avif",
-      "imagePath": "/images/products/comprasparaguai-72925.avif"
+      "imagePath": "/images/products/comprasparaguai-72925.avif",
+      "referenceUSD": "150.00",
+      "referenceCurrency": "USD",
+      "checkedOn": "2026-11-23",
+      "status": "verified",
+      "markupPercent": 20,
+      "sourceOfferCode": "840493636467"
     },
     {
       "id": 218,
@@ -102,13 +117,16 @@
       "storage": "256GB",
       "ram": "8GB",
       "network": "5G",
-      "referenceBRL": 1770.0,
-      "markupPercent": 20,
-      "finalBRL": 2124.0,
-      "sourceUrl": "https://www.comprasparaguai.com.br/celular-motorola-moto-g-max-xt-2621-dual-chip-256gb-5g_72359/",
-      "sourceOfferCode": "1444049",
+      "finalBRL": 1989.93,
+      "sourceUrl": "https://www.comprasparaguai.com.br/smartphone-motorola-moto-g-max-xt2621-5-256gb-8gb-ram-dual-sim-tela-68-azul__5664473/",
       "imageSourceUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_motorola_moto_g_max_xt_2621_dual_chip_256gb_5g_206435_ff1427c6-3fab-4e5b-abd6-f1d5f4fb2ad6.big.avif",
-      "imagePath": "/images/products/comprasparaguai-72359.avif"
+      "imagePath": "/images/products/comprasparaguai-72359.avif",
+      "referenceUSD": "295.00",
+      "referenceCurrency": "USD",
+      "checkedOn": "2026-11-23",
+      "status": "verified",
+      "markupPercent": 20,
+      "sourceOfferCode": "1444049"
     },
     {
       "id": 219,
@@ -118,13 +136,16 @@
       "storage": "256GB",
       "ram": "4GB",
       "network": "4G",
-      "referenceBRL": 1198.5,
-      "markupPercent": 20,
-      "finalBRL": 1438.2,
-      "sourceUrl": "https://www.comprasparaguai.com.br/celular-xiaomi-redmi-note-17-dual-chip-256gb-4g-ram-4gb-global_73369/",
-      "sourceOfferCode": "1438857",
+      "finalBRL": 1347.42,
+      "sourceUrl": "https://www.comprasparaguai.com.br/smartphone-xiaomi-redmi-note-17-4g-global-256gb-4gb-ram-dual-sim-tela-699-preto__5625275/",
       "imageSourceUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_xiaomi_redmi_note_17_dual_chip_256gb_4g_ram_4gb_global_208156_5af63519-5feb-4f68-88e6-1f5afb296747.big.avif",
-      "imagePath": "/images/products/comprasparaguai-73369.avif"
+      "imagePath": "/images/products/comprasparaguai-73369.avif",
+      "referenceUSD": "199.75",
+      "referenceCurrency": "USD",
+      "checkedOn": "2026-11-23",
+      "status": "verified",
+      "markupPercent": 20,
+      "sourceOfferCode": "1438857"
     },
     {
       "id": 220,
@@ -134,13 +155,16 @@
       "storage": "128GB",
       "ram": "6GB",
       "network": "5G",
-      "referenceBRL": 1494.0,
-      "markupPercent": 20,
-      "finalBRL": 1792.8,
-      "sourceUrl": "https://www.comprasparaguai.com.br/celular-xiaomi-poco-x8-dual-chip-128gb-5g-global_72930/",
-      "sourceOfferCode": "1692310",
+      "finalBRL": 1679.64,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-xiaomi-poco-x8-nfc-dual-sim-de-128gb6gb-ram-de-683-50mp16mp-preto-global__5745220/",
       "imageSourceUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_xiaomi_poco_x8_dual_chip_128gb_5g_global_207424_2ed7672c-0cb7-42cd-b190-03b89ae899b9.big.avif",
-      "imagePath": "/images/products/comprasparaguai-72930.avif"
+      "imagePath": "/images/products/comprasparaguai-72930.avif",
+      "referenceUSD": "249.00",
+      "referenceCurrency": "USD",
+      "checkedOn": "2026-11-23",
+      "status": "verified",
+      "markupPercent": 20,
+      "sourceOfferCode": "1692310"
     },
     {
       "id": 221,
@@ -150,13 +174,22 @@
       "storage": "256GB",
       "ram": "6GB",
       "network": "5G",
-      "referenceBRL": 1818.0,
-      "markupPercent": 20,
-      "finalBRL": 2181.6,
-      "sourceUrl": "https://www.comprasparaguai.com.br/celular-xiaomi-redmi-note-17-pro-dual-chip-256gb-5g-ram-6gb-global_72927/",
-      "sourceOfferCode": "1653854",
+      "finalBRL": 2043.9,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-xiaomi-redmi-note-17-pro-5g-dual-sim-de-256gb6gb-ram-de-683-508mp16mp-purple__5745041/",
       "imageSourceUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_xiaomi_redmi_note_17_pro_dual_chip_256gb_5g_ram_6gb_global_207416_6696ff3d-c251-460f-8bc9-d48103324c79.big.avif",
-      "imagePath": "/images/products/comprasparaguai-72927.avif"
+      "imagePath": "/images/products/comprasparaguai-72927.avif",
+      "referenceUSD": "303.00",
+      "referenceCurrency": "USD",
+      "checkedOn": "2026-11-23",
+      "status": "verified",
+      "markupPercent": 20,
+      "sourceOfferCode": "1653847"
     }
-  ]
+  ],
+  "pricingUpdatedOn": "2026-11-23",
+  "notes": [
+    "Em 23/11/2026, reajuste cambial de aproximadamente 3,69% sobre a base com acréscimo de 20%, sem duplicar o markup. Referências e datas de pesquisa originais preservadas; não houve nova consulta de preços dos produtos.",
+    "Correção final de 23/11/2026: valores recalculados a partir de USD com média PTAX oficial e 20%. O índice adicional aplicado antes sobre referências em BRL foi removido. Preços sem base USD confiável ficam null e sob consulta; os valores anteriores estão preservados no relatório atual."
+  ],
+  "currentPricingReport": "artifacts/precificacao-usd-2026-11-23.json"
 }

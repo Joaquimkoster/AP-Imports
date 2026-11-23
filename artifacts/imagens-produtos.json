@@ -1,13 +1,13 @@
 {
-  "checkedOn": "2026-11-22",
+  "checkedOn": "2026-11-23",
   "source": "Compras Paraguai, fabricantes e outras lojas",
   "matchingPolicy": "Fotos das fontes documentadas, conferidas por marca, nome e dosagem/modelo identificável. Volumes, kits, concentrações e cores explícitos são respeitados. Pequenas variações de grafia são documentadas nas notas, sem alterar o cadastro. Quando o cadastro não define o formato, a apresentação ilustrada pela fonte é registrada nas notas sem preencher dados ausentes. Fotos novas com fundo branco são preservadas na resolução baixada, sem remover fundo ou redesenhar os produtos. Fotografias de iPhones ilustram o modelo; a condição comercial segue o cadastro.",
-  "totalProducts": 197,
-  "withImage": 171,
-  "addedImages": 162,
+  "totalProducts": 247,
+  "withImage": 221,
+  "addedImages": 212,
   "pendingCount": 26,
   "statusCounts": {
-    "matched": 171,
+    "matched": 221,
     "ambiguous": 21,
     "not_found": 5
   },
@@ -1576,7 +1576,7 @@
     },
     {
       "id": 178,
-      "name": "Apple iPhone 15 Pro 128GB",
+      "name": "Apple iPhone 15 Pro 128GB (Swap)",
       "category": "eletronicos",
       "status": "matched",
       "image": "/images/products/comprasparaguai-70498.avif",
@@ -1584,11 +1584,13 @@
       "sourceTitle": "Celular Apple iPhone 15 Pro 128GB Swap Grade A",
       "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_15_pro_128gb_swap_grade_a_202912_764fdc5b-eb4f-4d8c-8474-bdd5b0b5f5b3.big.avif",
       "sha256": "206460e6765e067bc09bc5f89eddde2578e8281a5bfcf335fae02e7e57f4fda3",
-      "notes": []
+      "notes": [
+        "Condição comercial explicitada no nome durante a conferência de preço em USD; foto continua ilustrando o mesmo modelo e capacidade."
+      ]
     },
     {
       "id": 179,
-      "name": "Apple iPhone 15 Pro 256GB",
+      "name": "Apple iPhone 15 Pro 256GB (Swap Grade A+)",
       "category": "eletronicos",
       "status": "matched",
       "image": "/images/products/comprasparaguai-70498.avif",
@@ -1596,7 +1598,9 @@
       "sourceTitle": "Celular Apple iPhone 15 Pro 256GB Swap Grade A",
       "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_15_pro_256gb_swap_grade_a_203011_827a226d-71c4-4819-aded-5220b6cc8f92.big.avif",
       "sha256": "206460e6765e067bc09bc5f89eddde2578e8281a5bfcf335fae02e7e57f4fda3",
-      "notes": []
+      "notes": [
+        "Condição comercial explicitada no nome durante a conferência de preço em USD; foto continua ilustrando o mesmo modelo e capacidade."
+      ]
     },
     {
       "id": 180,
@@ -1612,7 +1616,7 @@
     },
     {
       "id": 181,
-      "name": "Apple iPhone 15 Pro 1TB",
+      "name": "Apple iPhone 15 Pro 1TB (Swap Grade A+)",
       "category": "eletronicos",
       "status": "matched",
       "image": "/images/products/comprasparaguai-51440.jpg",
@@ -1620,7 +1624,9 @@
       "sourceTitle": "Celular Apple iPhone 15 Pro 1TB Recondicionado",
       "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_15_pro_1tb_recondicionado_170495.big.jpg",
       "sha256": "08628ef059796db8483e795db77eff451f1022d5185f0b52da56a43f84f2153e",
-      "notes": []
+      "notes": [
+        "Condição comercial explicitada no nome durante a conferência de preço em USD; foto continua ilustrando o mesmo modelo e capacidade."
+      ]
     },
     {
       "id": 182,
@@ -1660,7 +1666,7 @@
     },
     {
       "id": 185,
-      "name": "Apple iPhone 16 128GB",
+      "name": "Apple iPhone 16 128GB (Swap)",
       "category": "eletronicos",
       "status": "matched",
       "image": "/images/products/comprasparaguai-55869.jpg",
@@ -1668,7 +1674,9 @@
       "sourceTitle": "Celular Apple iPhone 16 128GB",
       "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_16_128gb_179265.big.jpg",
       "sha256": "8021ceba13ab60753fed6b639187ab0fe05eccd1e82a2d6ae575dd91de4bf394",
-      "notes": []
+      "notes": [
+        "Condição comercial explicitada no nome durante a conferência de preço em USD; foto continua ilustrando o mesmo modelo e capacidade."
+      ]
     },
     {
       "id": 186,
@@ -2862,6 +2870,767 @@
         "Conferência de correspondência exata em andamento."
       ],
       "sha256": "442ad18b97804f507a71b8d4eb96274b674b28b8709f66f1d936384197a2fa36"
+    },
+    {
+      "id": 222,
+      "name": "Apple iPhone 12 64GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-31205.jpg",
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-12-64gb_31205/",
+      "sourceTitle": "Cel iPhone 12 64GB Preto CH Branco",
+      "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_12_64gb_120982.big.jpg",
+      "sha256": "f65f1f2c1b7d23608d7f10b4422dfd990653f0e066ab506e326c9eca5f4a4ccf",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 223,
+      "name": "Apple iPhone 12 128GB (Swap Grade A)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-4585795.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/swap-iphone-12-128gb-grad-a-green__4585795/",
+      "sourceTitle": "Swap iPhone 12 128GB Grad A Green",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/94260eb83075ad073cb0027bbf3a5ba7b412aebd.webp",
+      "sha256": "69a2ec76951cc22c194c91086cb8b3c7184b4121f5e7af063e059d78812d759f",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 224,
+      "name": "Apple iPhone 12 256GB (Swap Grade A++)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5549578.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-12-256gb-swap-a-black__5549578/",
+      "sourceTitle": "iPhone 12 256GB Swap A++ Black",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/231e5355d378b26775cf941eb04fba10d5d85fed.webp",
+      "sha256": "085a830af6939ef38cc295dc8e2eb3a511dcaeca7c8f709f5e5b6a22e31bdd2f",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 225,
+      "name": "Apple iPhone 12 mini 64GB (Swap)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5611672.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-12-mini-64gb-swap-azul__5611672/",
+      "sourceTitle": "Celular Apple iPhone 12 Mini 64GB Swap Azul",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/96309b1ddcd057a9de5f0a2fdbb24d9b9930ef29.webp",
+      "sha256": "1dad0fcb4ed5a7d49de0147c69f64f4068ffa732fcbc07ba6d4bbc42488aaf4d",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 226,
+      "name": "Apple iPhone 12 mini 128GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5611672.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-12-mini-64gb-swap-azul__5611672/",
+      "sourceTitle": "iPhone 12 mini",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/96309b1ddcd057a9de5f0a2fdbb24d9b9930ef29.webp",
+      "sha256": "1dad0fcb4ed5a7d49de0147c69f64f4068ffa732fcbc07ba6d4bbc42488aaf4d",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro.",
+        "Imagem ilustrativa do mesmo modelo compartilhada entre capacidades; o armazenamento deve ser lido no nome e na descrição."
+      ]
+    },
+    {
+      "id": 227,
+      "name": "Apple iPhone 12 mini 256GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5611672.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-12-mini-64gb-swap-azul__5611672/",
+      "sourceTitle": "iPhone 12 mini",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/96309b1ddcd057a9de5f0a2fdbb24d9b9930ef29.webp",
+      "sha256": "1dad0fcb4ed5a7d49de0147c69f64f4068ffa732fcbc07ba6d4bbc42488aaf4d",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro.",
+        "Imagem ilustrativa do mesmo modelo compartilhada entre capacidades; o armazenamento deve ser lido no nome e na descrição."
+      ]
+    },
+    {
+      "id": 228,
+      "name": "Apple iPhone 12 Pro 128GB (Swap Grade A+)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-3659464.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-12-pro-128gb-black-swap-a__3659464/",
+      "sourceTitle": "iPhone 12 Pro 128GB Black Swap A+",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/cb1f1448b3e568f3e85abd4cfc74fb6eb5a20fed.webp",
+      "sha256": "148e65b7893df4082972e2c03f2b647106998151d330abd52b7d968c2c07b239",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 229,
+      "name": "Apple iPhone 12 Pro 256GB (Swap Grade B)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-4585846.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/swap-iphone-12-pro-256gb-grad-b-black__4585846/",
+      "sourceTitle": "Swap iPhone 12 Pro 256GB Grad B Black",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/f65bee01cde9906445995bf6979e9a0f9daf0f37.webp",
+      "sha256": "24bda1abfa702b8dcecea323b94e669edd34b2f1d9257d4d7ed7d1bd84a8e219",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Apple iPhone 12 Pro 512GB (Swap Grade B)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-4676347.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/swap-iphone-12-pro-512gb-grad-b-blue__4676347/",
+      "sourceTitle": "Swap iPhone 12 Pro 512GB Grad B Blue",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/5ac435fec1422724f85d2a788f16dac7dc2cb96a.webp",
+      "sha256": "39631c64bfdbdf1c2d157a1e5f1dbc46172369e9e24a37a4a7dd59984d58fe33",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 231,
+      "name": "Apple iPhone 12 Pro Max 128GB (Swap Grade A-)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-4592353.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/swap-iphone-12-pro-max-128gb-grad-a-blue__4592353/",
+      "sourceTitle": "Swap iPhone 12 Pro Max 128GB Grad A- Blue",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/bed808cb94ba0abadf4abf4992ca0218d680e78b.webp",
+      "sha256": "4c6e9974152501407f4d9b4bf6fadf3d541fdfa4bcf4013f11e2bcb1c1a2ad7f",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 232,
+      "name": "Apple iPhone 12 Pro Max 256GB (Swap Grade A+)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-4798524.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-12-pro-max-256gb-blue-swap-a__4798524/",
+      "sourceTitle": "iPhone 12 Pro Max 256GB Blue Swap A+",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/8416f48f74965272a3edee507eba35de8b13eab8.webp",
+      "sha256": "99bce7b876d29e72fd3451ce188debdb5f84da154980d0e9359b3b49c6901450",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 233,
+      "name": "Apple iPhone 12 Pro Max 512GB (Seminovo Grade A)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5789297.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-12-pro-max-512gb-dourado-seminovo-grade-a-americano__5789297/",
+      "sourceTitle": "iPhone 12 Pro Max 512GB Dourado Seminovo - Grade A (Americano)",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/a81d3de1b8330852b070498c024d96bbf626e6cf.webp",
+      "sha256": "a8be3c317c45b35594dd304e171109facd4e4298d0eeaa45e98b625cc4cde46b",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 234,
+      "name": "Apple iPhone 13 128GB (Swap Grade A-)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-4617904.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/apple-iphone-13-128gb-tela-super-retina-xdr6-cam-dupla-121212mp-black-swap-grade-a-menos-1-mes-de-garantia__4617904/",
+      "sourceTitle": "Apple iPhone 13 128GB Tela Super Retina XDR.6 Cam Dupla 12+12/12MP / Black - Swap | Grade A Menos ( 1 Mes de Garantia)",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/fe4214f383ce624828b1c1975acda77cc4f02303.webp",
+      "sha256": "d8a5c4e24806238fb225835028c8059ce3e18931a37d7f43edb96428251c72fb",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 235,
+      "name": "Apple iPhone 13 256GB (Swap Grade A-)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5122829.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-13-256gb-verde-swap-a-menos-americano__5122829/",
+      "sourceTitle": "iPhone 13 256GB Verde Swap A Menos (Americano)",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/ca8f501b83ba3006532aa2e288e489b1ed35e6a5.webp",
+      "sha256": "ebe1d19b6bff3d7782166b312ff7388daabbfa669574f524198ea4b890219872",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 236,
+      "name": "Apple iPhone 13 512GB (CPO)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5224461.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/cel-iphone-13-512gb-cpo-negro__5224461/",
+      "sourceTitle": "Cel iPhone 13 512GB Cpo Negro",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/7f7f63fc1cd9f5a36929fe602f054290ae588328.webp",
+      "sha256": "381afbac5982438a5471b358b9418d8cb1eb352415de69a9ab1a1a16720509fd",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 237,
+      "name": "Apple iPhone 13 mini 128GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-53797.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-13-mini-128gb-recondicionado_53797/",
+      "sourceTitle": "iPhone 13 mini",
+      "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_13_mini_128gb_recondicionado_187824_24d960ef-c7d0-4422-b4ea-2f00687d6c76.big.webp",
+      "sha256": "f8bab844a6e12aa1b3e284ff825c502acf7bb12c9af80932f1af71c59c58e742",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 238,
+      "name": "Apple iPhone 13 mini 256GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-53797.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-13-mini-128gb-recondicionado_53797/",
+      "sourceTitle": "iPhone 13 mini",
+      "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_13_mini_128gb_recondicionado_187824_24d960ef-c7d0-4422-b4ea-2f00687d6c76.big.webp",
+      "sha256": "f8bab844a6e12aa1b3e284ff825c502acf7bb12c9af80932f1af71c59c58e742",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro.",
+        "Imagem ilustrativa do mesmo modelo compartilhada entre capacidades; o armazenamento deve ser lido no nome e na descrição."
+      ]
+    },
+    {
+      "id": 239,
+      "name": "Apple iPhone 13 mini 512GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-53797.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-13-mini-128gb-recondicionado_53797/",
+      "sourceTitle": "iPhone 13 mini",
+      "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_13_mini_128gb_recondicionado_187824_24d960ef-c7d0-4422-b4ea-2f00687d6c76.big.webp",
+      "sha256": "f8bab844a6e12aa1b3e284ff825c502acf7bb12c9af80932f1af71c59c58e742",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro.",
+        "Imagem ilustrativa do mesmo modelo compartilhada entre capacidades; o armazenamento deve ser lido no nome e na descrição."
+      ]
+    },
+    {
+      "id": 240,
+      "name": "Apple iPhone 13 Pro 128GB (Swap Grade A-)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-4472023.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-13-pro-128gb-azul-swap-grado-a-menos-americano__4472023/",
+      "sourceTitle": "iPhone 13 Pro 128GB Azul Swap Grado A Menos (Americano)",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/ad2ea2fc55a6494f41b6f002b018b1284770d06e.webp",
+      "sha256": "7d6a9d2997109d52e1597a949391bb458cffce7e12564086e6e8be6a7d50c954",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Apple iPhone 13 Pro 256GB (Swap Grade A-)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-4473851.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-13-pro-256gb-verde-swap-a-menos-americano__4473851/",
+      "sourceTitle": "iPhone 13 Pro 256GB Verde Swap A Menos (Americano)",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/f2b72b148a5a6bf08b99d36f9121c31d9bd46015.webp",
+      "sha256": "f001491e517807624b9ee56ec089ae3bff6c2eb1e92bc735b3e77a87364bdf8f",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Apple iPhone 13 Pro 512GB (Swap Grade B)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5280960.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/apple-iphone-13-pro-512gb-tela-super-retina-xdr-61-cam-tripla-121212mp12mp-ios-15-graphite-swap-grade-b-1-mes-garantia-fully-tested-100-funcional__5280960/",
+      "sourceTitle": "Apple iPhone 13 Pro 512GB Tela Super Retina XDR 6.1 Cam Tripla 12+12+12MP/12MP Ios 15 Graphite - Swap 'Grade B' (1 Mês Garantia) / Fully Tested - 100% Funcional",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/7ed1ca1c640e429dbb59ba812fa0a2332e836f24.webp",
+      "sha256": "26310936936c93f7849ac28f80ac3bb2819e8db19fd764be4ed260994abc6546",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Apple iPhone 13 Pro 1TB (Swap)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5460637.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-13-pro-1tb-americano-verde-swap-hso__5460637/",
+      "sourceTitle": "iPhone 13 Pro 1TB Americano Verde Swap Hso",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/b7c3fcaf92b4db54a99c928c4abc0b94f73d8c5f.webp",
+      "sha256": "c91583c421e62956435a8d210b3937718182daa5d31edbf5895d8cbae56ff80d",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Apple iPhone 13 Pro Max 128GB (Swap Grade A)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-3802439.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-13-pro-max-128gb-azul-swap-grade-a-americano__3802439/",
+      "sourceTitle": "iPhone 13 Pro Max 128GB Azul Swap Grade A (Americano)",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/fddbf4db355a84502187e90b7d5febb848230757.webp",
+      "sha256": "a1e0d0dfade28355291c56ec602cdd2170d9dcc14905c41c37013b28b5fa769e",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Apple iPhone 13 Pro Max 256GB (Swap Grade A+)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-4127219.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-13-pro-max-256gb-silver-swap-a__4127219/",
+      "sourceTitle": "iPhone 13 Pro Max 256GB Silver Swap A+",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/ac5766a912d65f015355e40b75b850d5d4c7406d.webp",
+      "sha256": "b0fe4d8ae0af09410c2170c09cd3de38f39976b92c686a0484e2742a1e5eb04b",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Apple iPhone 13 Pro Max 512GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5361450.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-13-pro-max-512gb__5361450/",
+      "sourceTitle": "iPhone 13 Pro Max 512GB",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/dc7fdf33fca351a4a40211cc4a1425f3daf654d1.webp",
+      "sha256": "feb76e51d4c1d41355f234d1add4ee1baaf9764ea4b720016336b5c87fe9ef13",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Apple iPhone 13 Pro Max 1TB (Swap Grade A+)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5040496.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-13-pro-max-1tb-azul-swap-a__5040496/",
+      "sourceTitle": "iPhone 13 Pro Max 1TB Azul Swap A+",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/8be81ee452b702d28049793e4d6088ded1f0b0d5.webp",
+      "sha256": "1179b0909e61f8cf3a937530927d5900baeb511a2871f7c43e82e6cee8e2f811",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Apple iPhone SE (3ª geração) 64GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5361446.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-se-3ra-gen-64gb__5361446/",
+      "sourceTitle": "iPhone Se (3RA Gen) 64GB",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/7fb402daf6e39b284e41aeb676ecff0cbee4113e.webp",
+      "sha256": "c85f3f5af36cc718e724295dc61b0123c2a6ded159bf9ff1e6a49ee3f99eba86",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Apple iPhone SE (3ª geração) 128GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5361446.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-se-3ra-gen-64gb__5361446/",
+      "sourceTitle": "iPhone SE (3ª geração)",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/7fb402daf6e39b284e41aeb676ecff0cbee4113e.webp",
+      "sha256": "c85f3f5af36cc718e724295dc61b0123c2a6ded159bf9ff1e6a49ee3f99eba86",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro.",
+        "Imagem ilustrativa do mesmo modelo compartilhada entre capacidades; o armazenamento deve ser lido no nome e na descrição."
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Apple iPhone SE (3ª geração) 256GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5361446.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-se-3ra-gen-64gb__5361446/",
+      "sourceTitle": "iPhone SE (3ª geração)",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/7fb402daf6e39b284e41aeb676ecff0cbee4113e.webp",
+      "sha256": "c85f3f5af36cc718e724295dc61b0123c2a6ded159bf9ff1e6a49ee3f99eba86",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro.",
+        "Imagem ilustrativa do mesmo modelo compartilhada entre capacidades; o armazenamento deve ser lido no nome e na descrição."
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Apple iPhone 14 512GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-70524.avif",
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-14-256gb-swap-grade-a_70524/",
+      "sourceTitle": "iPhone 14",
+      "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_14_256gb_swap_grade_a_203003_2eefeedc-cd7c-44b2-b8d3-61363488fe70.big.avif",
+      "sha256": "a239d36fa1108a639049704ab8d0f615e23b5cf4fabfe2975c7bad05c53bc73b",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro.",
+        "Imagem ilustrativa do mesmo modelo compartilhada entre capacidades; o armazenamento deve ser lido no nome e na descrição."
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Apple iPhone 14 Plus 256GB (Seminovo Grade A)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5789305.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-14-plus-256gb-preto-seminovo-grade-a-americano__5789305/",
+      "sourceTitle": "iPhone 14 Plus 256GB Preto Seminovo - Grade A (Americano)",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/53e84188214d495f2f1f4390484035a6bf344085.webp",
+      "sha256": "7f6b4ab0915bc0b378f85b0799fd35a5233b216672f984355eeee1f296e8ef74",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Apple iPhone 14 Plus 512GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5483146.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-14-plus-512gb-yellow__5483146/",
+      "sourceTitle": "Celular Apple iPhone 14 Plus 512GB Yellow",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/e6453675d5cc7a167d9819e441aeb9c69c4ef546.webp",
+      "sha256": "7344f26cd250769d5c0c1be6ba82b8fd4082b0c6b5da6b27a1cb8b94fbb27609",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Apple iPhone 14 Pro 512GB (Swap Grade A-)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-4955742.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/swap-iphone-14-pro-512gb-grade-a-silver__4955742/",
+      "sourceTitle": "Swap iPhone 14 Pro 512GB Grade A- Silver",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/1cbaca230d11b5451c4b8567dcfb00380f3d6f34.webp",
+      "sha256": "4c540fb45575fd15c152d6a1a2cf1d41e17d6f74338db329e1fd8f9788ebfe63",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Apple iPhone 14 Pro 1TB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5361451.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-14-pro-1tb__5361451/",
+      "sourceTitle": "iPhone 14 Pro 1TB",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/b35a9c9fedb93fbc19db469c54c0349cd6998d65.webp",
+      "sha256": "b16dc9433658f911f7687306428ca9c2f91c6d1f813dc35f42caf37825171e0d",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Apple iPhone 14 Pro Max 512GB (Swap Grade A)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5542412.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/apple-iphone-14-pro-max-swap-a-512gb-6gb-ram-tela-67-roxo__5542412/",
+      "sourceTitle": "Apple iPhone 14 Pro Max *Swap A* 512GB 6GB Ram Tela 6.7\" - Roxo",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/8b7c7b2d2db110f8e0ca5acee9ed2e320109b570.webp",
+      "sha256": "fb63c2eea60b238dc72a3c231d44172b2a803493decfb832b533bfc2b57fec32",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Apple iPhone 14 Pro Max 1TB (Swap Grade A+)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5463565.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-14-pro-max-1tb-preto-swap-a__5463565/",
+      "sourceTitle": "iPhone 14 Pro Max 1TB Preto Swap A+",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/a0e7fa30e911762644df365d054e77c8e58f3213.webp",
+      "sha256": "76ea65bc0b40685023e2e0a0c2c290b973575c64b7040659fe9d70f5d99b4b22",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 258,
+      "name": "Apple iPhone 15 512GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-69636.avif",
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-15-plus-128gb-swap-grade-a_70532/",
+      "sourceTitle": "iPhone 15",
+      "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_15_plus_128gb_swap_grade_a_203031_da3604ca-6e27-4d95-b9b4-252d7d5b9766.big.avif",
+      "sha256": "ea8169a5b6ec14b429854d0559c1913a077433f058469a90b78d24e7ff9d3516",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro.",
+        "Imagem ilustrativa do mesmo modelo compartilhada entre capacidades; o armazenamento deve ser lido no nome e na descrição."
+      ]
+    },
+    {
+      "id": 259,
+      "name": "Apple iPhone 15 Plus 512GB (Seminovo Grade A)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5789312.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-15-plus-512gb-pink-seminovo-grade-a-americano__5789312/",
+      "sourceTitle": "iPhone 15 Plus 512GB Pink Seminovo - Grade A (Americano)",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/cccf054e41d5315e1321d458926a0c1ce89c792d.webp",
+      "sha256": "3161004b0d69c99adb57ca95fdb50798ee60cee5d341fa5957139df14cff8fd8",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 260,
+      "name": "Apple iPhone 16 512GB (Swap Grade A)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-4734270.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-16-512gb-esim-branco-americano-swap-a__4734270/",
+      "sourceTitle": "iPhone 16 512GB Esim Branco Americano Swap A",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/a776407967ed2e5d0f07f883620096fe51d38675.webp",
+      "sha256": "e3bcda64e603084dbca13b631bfaa8095df384ef0fa090cba7bd957f09238754",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 261,
+      "name": "Apple iPhone 16 Plus 256GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5600317.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-plus-a3290-hna-256gb-8gb-ram-tela-67-teal__5600317/",
+      "sourceTitle": "Celular Apple iPhone 16 Plus A3290 HN/A 256GB 8GB Ram Tela 6.7\" - Teal",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/9b5dc617385e44ab7c88d1ed63bd0a1ecee3e2d8.webp",
+      "sha256": "8d27d82d087a322ae9d729536cf0367d6bff2bb0360669512d4b08957403b1a9",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 262,
+      "name": "Apple iPhone 16 Plus 512GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5600317.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-plus-a3290-hna-256gb-8gb-ram-tela-67-teal__5600317/",
+      "sourceTitle": "iPhone 16 Plus",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/9b5dc617385e44ab7c88d1ed63bd0a1ecee3e2d8.webp",
+      "sha256": "8d27d82d087a322ae9d729536cf0367d6bff2bb0360669512d4b08957403b1a9",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro.",
+        "Imagem ilustrativa do mesmo modelo compartilhada entre capacidades; o armazenamento deve ser lido no nome e na descrição."
+      ]
+    },
+    {
+      "id": 263,
+      "name": "Apple iPhone 16 Pro 1TB (Seminovo Grade A)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5789318.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-16-pro-1tb-preto-seminovo-grade-a-americano__5789318/",
+      "sourceTitle": "iPhone 16 Pro 1TB Preto Seminovo - Grade A (Americano)",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/89c7bd217e66b0fecffcea413c04f7c458ac237c.webp",
+      "sha256": "b28d8ff9c9f3b2ce46af8a7408c78dc73f9cb050b847178c64faeb4f81eed1e7",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 264,
+      "name": "Apple iPhone 16e 512GB (Seminovo Grade A)",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5789309.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-16e-512gb-branco-seminovo-grade-a-americano__5789309/",
+      "sourceTitle": "iPhone 16E 512GB Branco Seminovo - Grade A (Americano)",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/930ce485a60c71000b27959e2f37320dc8022f9b.webp",
+      "sha256": "5fd3194f554ee44f1d39e1db57b6a36c9cebcf09e8f7e54cd4cfd451ce4651c6",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 265,
+      "name": "Apple iPhone 17 512GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5056093.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/apple-iphone-17-512gb-lavander__5056093/",
+      "sourceTitle": "Apple iPhone 17 512GB Lavander",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/b78ba2c507f56cf0b2d77dedebc72c440bb94e4d.webp",
+      "sha256": "75ff7189e1e52b78f72b213a41406d105686096995b62e28babb397e5cffb817",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 266,
+      "name": "Apple iPhone 17e 512GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-67681.avif",
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-17e-256gb_67681/",
+      "sourceTitle": "iPhone 17e",
+      "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_17e_256gb_198448_29cab8bd-3b72-4fb2-9f4a-03fcb8716a49.big.avif",
+      "sha256": "9f2df6b0406224f8e13966c3ab8f77846b910a331c8628a9bc7369b44c16adc2",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro.",
+        "Imagem ilustrativa do mesmo modelo compartilhada entre capacidades; o armazenamento deve ser lido no nome e na descrição."
+      ]
+    },
+    {
+      "id": 267,
+      "name": "Apple iPhone Air 1TB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5511551.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/apple-iphone-air-1tb-ll-tela-super-retina-xdr-oled-65-promotion-120hz-cam-48mp18mp-chip-a19-pro-esim-ios-light-gold-anatel__5511551/",
+      "sourceTitle": "Apple iPhone Air 1TB LL Tela Super Retina XDR Oled 6.5 / Promotion 120HZ / Cam 48MP/ 18MP / Chip A19 Pro / Esim Ios - Light Gold (Anatel)",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/ece8ac67e0241da5ec7e7bc4c6e326161f1f208e.webp",
+      "sha256": "cee33531300f2d9d3728b82ccc7dbe0a6e93d38167e15516b091c7326462766c",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 268,
+      "name": "Apple iPhone Duo 256GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5731883.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-duo-256gb-night-sky__5731883/",
+      "sourceTitle": "iPhone Duo 256GB Night SKY",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/0a98f342a4600c3e3cc477e64c3e76a8e2509b4d.webp",
+      "sha256": "87d6633817b78aa7155bfe88fec6359044be32aeae646e85bbbdc1b20abbb22e",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 269,
+      "name": "Apple iPhone Duo 512GB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5731886.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-duo-512gb-white__5731886/",
+      "sourceTitle": "iPhone Duo 512GB White",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/d34dc84bd0f0d5a81160a7bbc673f951ccddc0f7.webp",
+      "sha256": "af9335f499936eafca67bd87273a843a76e551c06e543c05efa20076afed321f",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 270,
+      "name": "Apple iPhone Duo 1TB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5732689.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/cel-apple-new-iphone-duo-1tb-a-3447-night-sky-lla__5732689/",
+      "sourceTitle": "Cel Apple New iPhone Duo 1TB A-3447 Night SKY LL/A",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/f0e2f84ad4a2a81db1829dc8e2b500b0dd5a9bc8.webp",
+      "sha256": "4add7eb54b2b7cabb005ed6d111e7bab050d9b6a2b347736ecdb89377b3ff422",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro."
+      ]
+    },
+    {
+      "id": 271,
+      "name": "Apple iPhone Duo 2TB",
+      "category": "eletronicos",
+      "status": "matched",
+      "image": "/images/products/comprasparaguai-5731883.webp",
+      "sourceUrl": "https://www.comprasparaguai.com.br/iphone-duo-256gb-night-sky__5731883/",
+      "sourceTitle": "iPhone Duo",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/0a98f342a4600c3e3cc477e64c3e76a8e2509b4d.webp",
+      "sha256": "87d6633817b78aa7155bfe88fec6359044be32aeae646e85bbbdc1b20abbb22e",
+      "checkedOn": "2026-11-23",
+      "notes": [
+        "Foto conferida por modelo; a condição comercial é a indicada no cadastro.",
+        "Imagem ilustrativa do mesmo modelo compartilhada entre capacidades; o armazenamento deve ser lido no nome e na descrição."
+      ]
     }
   ],
   "additionalSearch": {
@@ -2882,5 +3651,14 @@
     ],
     "remainingCount": 26,
     "userClarification": "Usuário não conhece marca e dosagem dos peptídeos BPC-157, AOD-9604, Ipamorelin, CJC-1295, TB-500, MOTS-c e KPV; mantidos pendentes."
+  },
+  "iphoneExpansion": {
+    "checkedOn": "2026-11-23",
+    "addedProducts": 50,
+    "withImage": 50,
+    "priceReport": "artifacts/iphones-expansao-2026-11-23.json",
+    "notes": [
+      "Fotos do Compras Paraguai conferidas por modelo, incluindo reutilização documentada de fotos ilustrativas entre capacidades do mesmo modelo."
+    ]
   }
 }

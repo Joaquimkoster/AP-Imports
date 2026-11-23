@@ -2,7 +2,7 @@
   "source": "Catalogo_de_Produtos.pdf",
   "sourceRecords": 146,
   "siteProductsBefore": 146,
-  "siteProductsAfter": 197,
+  "siteProductsAfter": 247,
   "medicationProducts": 29,
   "missingSourceRecords": [
     72,
@@ -30,7 +30,7 @@
     137,
     138
   ],
-  "pricePolicy": "iPhones: referências do Compras Paraguai pesquisadas em 20/11/2026, recalculadas em 21/11/2026 com acréscimo de 20%, documentadas em artifacts/iphones-precos.json. Novos Samsung, Motorola e Xiaomi: referências pesquisadas em 21/11/2026 com acréscimo de 20%, documentadas em artifacts/smartphones-precos.json. Demais preços preservados.",
+  "pricePolicy": "Precificação atual em artifacts/precificacao-usd-2026-11-23.json: 247 produtos revisados; 188 com referência USD individual (ou soma documentada dos componentes do kit), média oficial PTAX de venda de 03 a 19/11/2026 e acréscimo único de 20%, com arredondamento apenas ao final. 59 produtos sem base USD ou apresentação confirmada ficam null/sob consulta, incluindo 30 que tinham preço anterior não verificável. Removido o reajuste extra de 3,69% e o uso de BRL como base cambial. Os históricos anteriores foram marcados como substituídos.",
   "notes": [
     "Itens 139 e 140 desmembrados por marca e apresentação. PT-141 genérico do item 139 associado ao item 142, que informa 20 mg e preço.",
     "O valor R$ 680 refere-se a cada frasco multidose de 60 mg (15 mg por dose), não ao anúncio genérico de 15 mg.",
@@ -39,7 +39,10 @@
     "Coleções e kits das demais categorias foram preservados conforme os registros originais do PDF.",
     "Todos os links de WhatsApp enviam somente Olá!, conforme solicitado, sem referência ao produto ou pedido de compra.",
     "O agrupamento do item 107 continua removido. iPhones foram cadastrados individualmente por modelo, armazenamento e condição a partir do Compras Paraguai.",
-    "Em 21/11/2026, adicionados três modelos distintos de Samsung, Motorola e Xiaomi por marca, de qualquer faixa de preço, conforme a ordenação Mais Novos das fichas agrupadas do Compras Paraguai. Regra de preço dos 48 iPhones corrigida para acréscimo de 20% sobre a referência original."
+    "Em 21/11/2026, adicionados três modelos distintos de Samsung, Motorola e Xiaomi por marca, de qualquer faixa de preço, conforme a ordenação Mais Novos das fichas agrupadas do Compras Paraguai. Regra de preço dos 48 iPhones corrigida para acréscimo de 20% sobre a referência original.",
+    "Reajuste de 23/11/2026 documentado por produto, com arredondamento comercial para centavos. Referências do Paraguai preservadas nas datas originais, sem nova pesquisa de ofertas. Nenhuma alteração de identidade, condição, apresentação ou disponibilidade dos produtos.",
+    "Expansão dos iPhones concluída em 23/11/2026: 98 versões, 30 modelos, 247 produtos totais. Os 197 registros anteriores e seus preços foram preservados; IDs novos 222 a 271. Cobertura de capacidades verificada contra a lista oficial da Apple.",
+    "Correção de moeda de 23/11/2026: média confirmada diretamente na API do BCB, 188 fontes USD conferidas e 59 pendências documentadas. Em quatro iPhones cuja condição não estava especificada, nome e descrição passaram a explicitar Swap/Grade A+ conforme a oferta. Nenhuma marca, capacidade, dose ou apresentação foi substituída para obter preço."
   ],
   "coverage": [
     {
@@ -1065,6 +1068,40 @@
     137,
     138
   ],
-  "iphoneProducts": 48,
-  "addedSmartphones": 9
+  "iphoneProducts": 98,
+  "addedSmartphones": 9,
+  "latestPriceAdjustment": "artifacts/precificacao-usd-2026-11-23.json",
+  "latestIphoneExpansion": "artifacts/iphones-expansao-2026-11-23.json",
+  "pricingSummary": {
+    "totalProducts": 247,
+    "pricedProducts": 188,
+    "pendingProducts": 59,
+    "previouslyPricedNowPending": 30,
+    "previouslyUnpricedNowPriced": 0,
+    "byCategory": {
+      "beleza": {
+        "verified": 14,
+        "pending": 1
+      },
+      "eletronicos": {
+        "verified": 98,
+        "pending": 12
+      },
+      "medicamentos": {
+        "pending": 25,
+        "verified": 4
+      },
+      "moda": {
+        "pending": 1
+      },
+      "perfumes": {
+        "verified": 68,
+        "pending": 14
+      },
+      "saude": {
+        "pending": 6,
+        "verified": 4
+      }
+    }
+  }
 }

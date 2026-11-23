@@ -1,0 +1,1899 @@
+{
+  "pricingUpdatedOn": "2026-11-23",
+  "currency": "BRL",
+  "policy": "Reajuste comercial único pela variação entre a média parcial da PTAX de venda de novembro e o fechamento de outubro. As referências de produtos em BRL não foram pesquisadas novamente nem reconvertidas a partir de USD. O fechamento de outubro é o índice-base escolhido para este reajuste, não a cotação original de cada produto.",
+  "authorization": "Usuário autorizou aplicar o mesmo reajuste aos valores atuais dos produtos sem referência de preço documentada do Paraguai. Não há novo acréscimo de 20% nesses valores.",
+  "exchangeRate": {
+    "indicator": "USD/BRL PTAX de venda",
+    "originalPublisher": "Banco Central do Brasil",
+    "checkedOn": "2026-11-23",
+    "periodStart": "2026-11-03",
+    "periodEnd": "2026-11-19",
+    "status": "Média parcial de novembro de 2026; apenas fechamentos publicados, sem boletins intradiários, fins de semana ou feriados.",
+    "observationCount": 13,
+    "dailyClosings": [
+      {
+        "date": "2026-11-03",
+        "sellBRL": 5.4935
+      },
+      {
+        "date": "2026-11-04",
+        "sellBRL": 5.4778
+      },
+      {
+        "date": "2026-11-05",
+        "sellBRL": 5.4621
+      },
+      {
+        "date": "2026-11-06",
+        "sellBRL": 5.5013
+      },
+      {
+        "date": "2026-11-09",
+        "sellBRL": 5.5146
+      },
+      {
+        "date": "2026-11-10",
+        "sellBRL": 5.584
+      },
+      {
+        "date": "2026-11-11",
+        "sellBRL": 5.5606
+      },
+      {
+        "date": "2026-11-12",
+        "sellBRL": 5.6143
+      },
+      {
+        "date": "2026-11-13",
+        "sellBRL": 5.6518
+      },
+      {
+        "date": "2026-11-16",
+        "sellBRL": 5.7324
+      },
+      {
+        "date": "2026-11-17",
+        "sellBRL": 5.7851
+      },
+      {
+        "date": "2026-11-18",
+        "sellBRL": 5.8102
+      },
+      {
+        "date": "2026-11-19",
+        "sellBRL": 5.8889
+      }
+    ],
+    "meanBRL": 5.621276923076923,
+    "benchmarkDate": "2026-10-30",
+    "benchmarkBRL": 5.4212,
+    "factor": 1.0369063902967837,
+    "adjustmentPercent": 3.6906390296783567,
+    "sources": [
+      {
+        "url": "https://dolarclaro.com/pt/br/historico/2026/11/",
+        "role": "Fechamentos diários, média parcial e fechamento de outubro reproduzidos da PTAX."
+      },
+      {
+        "url": "https://mesadodolar.com.br/ptax/2026/11",
+        "role": "Conferência dos 13 fechamentos e da média parcial."
+      },
+      {
+        "url": "https://mesadodolar.com.br/ptax",
+        "role": "Conferência do fechamento de 30/10/2026."
+      },
+      {
+        "url": "https://ptax.bcb.gov.br/ptax_internet/consultarTodasAsMoedas.do?method=consultaTodasMoedas",
+        "role": "Tabela oficial consultada: fechamento de 19/11/2026; USD venda 5,8889."
+      }
+    ],
+    "sourceLimitations": "A API histórica do BCB não ficou acessível nesta consulta. A série diária e a base de outubro foram transcritas das fontes secundárias indicadas; o último fechamento foi confirmado na tabela oficial do BCB."
+  },
+  "formulas": {
+    "factor": "(soma dos 13 fechamentos / 13) / 5.4212, sem arredondamentos intermediários",
+    "compras-paraguai-reference": "finalBRL = ROUND_HALF_UP(referenceBRL * 1.20 * factor, 2). Os 20% são aplicados uma única vez à referência preservada.",
+    "existing-catalog-price": "finalBRL = ROUND_HALF_UP(previousBRL * factor, 2). Nenhum novo markup aplicado.",
+    "unpriced": "Preço null preservado.",
+    "repeatPolicy": "Fotografia de um único reajuste. Reproduzir usando previousBRL/referenceBRL deste arquivo, nunca o preço já reajustado."
+  },
+  "summary": {
+    "totalProducts": 197,
+    "adjustedProducts": 179,
+    "withDocumentedMarkup": 57,
+    "existingCatalogAdjusted": 122,
+    "unpricedPreserved": 18
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Afnan Supremacy Collector's Edition",
+      "previousBRL": 169.5,
+      "method": "existing-catalog-price",
+      "finalBRL": 175.76,
+      "increaseBRL": 6.26
+    },
+    {
+      "id": 2,
+      "name": "Al Absar Treats Berry Bliss",
+      "previousBRL": 320.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 331.81,
+      "increaseBRL": 11.81
+    },
+    {
+      "id": 3,
+      "name": "Al Absar Treats Caramel Rush",
+      "previousBRL": 196.62,
+      "method": "existing-catalog-price",
+      "finalBRL": 203.88,
+      "increaseBRL": 7.26
+    },
+    {
+      "id": 4,
+      "name": "Al Absar Treats Choco Craze",
+      "previousBRL": 196.62,
+      "method": "existing-catalog-price",
+      "finalBRL": 203.88,
+      "increaseBRL": 7.26
+    },
+    {
+      "id": 5,
+      "name": "Al Malakia Sultan El Oud",
+      "previousBRL": 122.04,
+      "method": "existing-catalog-price",
+      "finalBRL": 126.54,
+      "increaseBRL": 4.5
+    },
+    {
+      "id": 6,
+      "name": "Al Wataniah Eqaab",
+      "previousBRL": 94.92,
+      "method": "existing-catalog-price",
+      "finalBRL": 98.42,
+      "increaseBRL": 3.5
+    },
+    {
+      "id": 7,
+      "name": "Al Wataniah Kayaan Classic",
+      "previousBRL": 149.9,
+      "method": "existing-catalog-price",
+      "finalBRL": 155.43,
+      "increaseBRL": 5.53
+    },
+    {
+      "id": 8,
+      "name": "Al Wataniah Sabah Al Ward",
+      "previousBRL": 88.14,
+      "method": "existing-catalog-price",
+      "finalBRL": 91.39,
+      "increaseBRL": 3.25
+    },
+    {
+      "id": 9,
+      "name": "Al Wataniah Watani",
+      "previousBRL": 249.99,
+      "method": "existing-catalog-price",
+      "finalBRL": 259.22,
+      "increaseBRL": 9.23
+    },
+    {
+      "id": 10,
+      "name": "Amaran Kings & Queens Tobacco",
+      "previousBRL": 81.29,
+      "method": "existing-catalog-price",
+      "finalBRL": 84.29,
+      "increaseBRL": 3.0
+    },
+    {
+      "id": 11,
+      "name": "Arabiyat Prestige Marwa",
+      "previousBRL": 281.38,
+      "method": "existing-catalog-price",
+      "finalBRL": 291.76,
+      "increaseBRL": 10.38
+    },
+    {
+      "id": 12,
+      "name": "Ard Al Zaafaran Ana Al Malikah (I Am The Queen)",
+      "previousBRL": 148.9,
+      "method": "existing-catalog-price",
+      "finalBRL": 154.4,
+      "increaseBRL": 5.5
+    },
+    {
+      "id": 13,
+      "name": "Ard Al Zaafaran Bint Hooran Rose Passion",
+      "previousBRL": 122.04,
+      "method": "existing-catalog-price",
+      "finalBRL": 126.54,
+      "increaseBRL": 4.5
+    },
+    {
+      "id": 14,
+      "name": "Armaf Club de Nuit Bling",
+      "previousBRL": 181.22,
+      "method": "existing-catalog-price",
+      "finalBRL": 187.91,
+      "increaseBRL": 6.69
+    },
+    {
+      "id": 15,
+      "name": "Armaf Club de Nuit Intenso Fuego",
+      "previousBRL": 250.86,
+      "method": "existing-catalog-price",
+      "finalBRL": 260.12,
+      "increaseBRL": 9.26
+    },
+    {
+      "id": 16,
+      "name": "Armaf Club de Nuit Untold",
+      "previousBRL": 29.9,
+      "method": "existing-catalog-price",
+      "finalBRL": 31.0,
+      "increaseBRL": 1.1
+    },
+    {
+      "id": 17,
+      "name": "Azzaro Pour Homme",
+      "previousBRL": 350.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 362.92,
+      "increaseBRL": 12.92
+    },
+    {
+      "id": 18,
+      "name": "Carolina Herrera 212 Men NYC",
+      "previousBRL": 399,
+      "method": "existing-catalog-price",
+      "finalBRL": 413.73,
+      "increaseBRL": 14.73
+    },
+    {
+      "id": 19,
+      "name": "Carolina Herrera 212 Sexy",
+      "previousBRL": 447.41,
+      "method": "existing-catalog-price",
+      "finalBRL": 463.92,
+      "increaseBRL": 16.51
+    },
+    {
+      "id": 20,
+      "name": "Carolina Herrera 212 VIP Men",
+      "previousBRL": 406.73,
+      "method": "existing-catalog-price",
+      "finalBRL": 421.74,
+      "increaseBRL": 15.01
+    },
+    {
+      "id": 21,
+      "name": "Carolina Herrera 212 VIP Rosé",
+      "previousBRL": 474.53,
+      "method": "existing-catalog-price",
+      "finalBRL": 492.04,
+      "increaseBRL": 17.51
+    },
+    {
+      "id": 22,
+      "name": "Carolina Herrera Very Good Girl",
+      "previousBRL": 511.82,
+      "method": "existing-catalog-price",
+      "finalBRL": 530.71,
+      "increaseBRL": 18.89
+    },
+    {
+      "id": 23,
+      "name": "Dolce & Gabbana Light Blue",
+      "previousBRL": 284.76,
+      "method": "existing-catalog-price",
+      "finalBRL": 295.27,
+      "increaseBRL": 10.51
+    },
+    {
+      "id": 24,
+      "name": "Dolce & Gabbana Q",
+      "previousBRL": 357.65,
+      "method": "existing-catalog-price",
+      "finalBRL": 370.85,
+      "increaseBRL": 13.2
+    },
+    {
+      "id": 25,
+      "name": "Ferrari Scuderia Ferrari Black",
+      "previousBRL": 108.41,
+      "method": "existing-catalog-price",
+      "finalBRL": 112.41,
+      "increaseBRL": 4.0
+    },
+    {
+      "id": 26,
+      "name": "Ferrari Scuderia Ferrari Red",
+      "previousBRL": 88.14,
+      "method": "existing-catalog-price",
+      "finalBRL": 91.39,
+      "increaseBRL": 3.25
+    },
+    {
+      "id": 27,
+      "name": "Issey Miyake L'Eau d'Issey Pour Homme",
+      "previousBRL": 238.99,
+      "method": "existing-catalog-price",
+      "finalBRL": 247.81,
+      "increaseBRL": 8.82
+    },
+    {
+      "id": 28,
+      "name": "Jean Paul Gaultier La Belle",
+      "previousBRL": 467.75,
+      "method": "existing-catalog-price",
+      "finalBRL": 485.01,
+      "increaseBRL": 17.26
+    },
+    {
+      "id": 29,
+      "name": "Jean Paul Gaultier Le Male",
+      "previousBRL": 410.12,
+      "method": "existing-catalog-price",
+      "finalBRL": 425.26,
+      "increaseBRL": 15.14
+    },
+    {
+      "id": 30,
+      "name": "Jean Paul Gaultier Scandal",
+      "previousBRL": 508.43,
+      "method": "existing-catalog-price",
+      "finalBRL": 527.19,
+      "increaseBRL": 18.76
+    },
+    {
+      "id": 31,
+      "name": "Jean Paul Gaultier Scandal (frasco roxo)",
+      "previousBRL": 599,
+      "method": "existing-catalog-price",
+      "finalBRL": 621.11,
+      "increaseBRL": 22.11
+    },
+    {
+      "id": 32,
+      "name": "Jean Paul Gaultier Scandal Pour Homme Le Parfum",
+      "previousBRL": 499,
+      "method": "existing-catalog-price",
+      "finalBRL": 517.42,
+      "increaseBRL": 18.42
+    },
+    {
+      "id": 33,
+      "name": "Kit Miniaturas Lattafa Khamrah + Ameerat Al Arab",
+      "previousBRL": 120.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 124.43,
+      "increaseBRL": 4.43
+    },
+    {
+      "id": 34,
+      "name": "Lancôme La Vie Est Belle",
+      "previousBRL": 488.16,
+      "method": "existing-catalog-price",
+      "finalBRL": 506.18,
+      "increaseBRL": 18.02
+    },
+    {
+      "id": 35,
+      "name": "Lattafa Afeef (35 ml)",
+      "previousBRL": 29.9,
+      "method": "existing-catalog-price",
+      "finalBRL": 31.0,
+      "increaseBRL": 1.1
+    },
+    {
+      "id": 36,
+      "name": "Lattafa Afeef (100 ml)",
+      "previousBRL": 322.06,
+      "method": "existing-catalog-price",
+      "finalBRL": 333.95,
+      "increaseBRL": 11.89
+    },
+    {
+      "id": 37,
+      "name": "Lattafa Ajwad Pink to Pink Cream Elixir",
+      "previousBRL": 128.82,
+      "method": "existing-catalog-price",
+      "finalBRL": 133.57,
+      "increaseBRL": 4.75
+    },
+    {
+      "id": 38,
+      "name": "Lattafa Asad",
+      "previousBRL": 128.14,
+      "method": "existing-catalog-price",
+      "finalBRL": 132.87,
+      "increaseBRL": 4.73
+    },
+    {
+      "id": 39,
+      "name": "Lattafa Asad Bourbon",
+      "previousBRL": 162.72,
+      "method": "existing-catalog-price",
+      "finalBRL": 168.73,
+      "increaseBRL": 6.01
+    },
+    {
+      "id": 40,
+      "name": "Lattafa Asad Elixir",
+      "previousBRL": 168.07,
+      "method": "existing-catalog-price",
+      "finalBRL": 174.27,
+      "increaseBRL": 6.2
+    },
+    {
+      "id": 41,
+      "name": "Lattafa Badee Al Oud Black Exposed",
+      "previousBRL": 155.94,
+      "method": "existing-catalog-price",
+      "finalBRL": 161.7,
+      "increaseBRL": 5.76
+    },
+    {
+      "id": 42,
+      "name": "Lattafa Emeer",
+      "previousBRL": 199.4,
+      "method": "existing-catalog-price",
+      "finalBRL": 206.76,
+      "increaseBRL": 7.36
+    },
+    {
+      "id": 43,
+      "name": "Lattafa Fakhar (Pride of Lattafa)",
+      "previousBRL": 250,
+      "method": "existing-catalog-price",
+      "finalBRL": 259.23,
+      "increaseBRL": 9.23
+    },
+    {
+      "id": 44,
+      "name": "Lattafa Pride Ansaam Gold",
+      "previousBRL": 105.1,
+      "method": "existing-catalog-price",
+      "finalBRL": 108.98,
+      "increaseBRL": 3.88
+    },
+    {
+      "id": 45,
+      "name": "Lattafa Pride Tharwah Gold",
+      "previousBRL": 237.23,
+      "method": "existing-catalog-price",
+      "finalBRL": 245.99,
+      "increaseBRL": 8.76
+    },
+    {
+      "id": 46,
+      "name": "Lattafa Tibyan",
+      "previousBRL": 219.99,
+      "method": "existing-catalog-price",
+      "finalBRL": 228.11,
+      "increaseBRL": 8.12
+    },
+    {
+      "id": 47,
+      "name": "Lattafa Yara (35 ml)",
+      "previousBRL": 29.9,
+      "method": "existing-catalog-price",
+      "finalBRL": 31.0,
+      "increaseBRL": 1.1
+    },
+    {
+      "id": 48,
+      "name": "Lattafa Yara",
+      "previousBRL": 132.22,
+      "method": "existing-catalog-price",
+      "finalBRL": 137.1,
+      "increaseBRL": 4.88
+    },
+    {
+      "id": 49,
+      "name": "Lattafa Yara Candy (35 ml)",
+      "previousBRL": 29.9,
+      "method": "existing-catalog-price",
+      "finalBRL": 31.0,
+      "increaseBRL": 1.1
+    },
+    {
+      "id": 50,
+      "name": "Lattafa Yara Moi (35 ml)",
+      "previousBRL": 29.9,
+      "method": "existing-catalog-price",
+      "finalBRL": 31.0,
+      "increaseBRL": 1.1
+    },
+    {
+      "id": 51,
+      "name": "Lattafa Yara Tous (35 ml)",
+      "previousBRL": 29.9,
+      "method": "existing-catalog-price",
+      "finalBRL": 31.0,
+      "increaseBRL": 1.1
+    },
+    {
+      "id": 52,
+      "name": "Maison Alhambra Infini Oud Joyous",
+      "previousBRL": 94.92,
+      "method": "existing-catalog-price",
+      "finalBRL": 98.42,
+      "increaseBRL": 3.5
+    },
+    {
+      "id": 53,
+      "name": "Maison Alhambra La Vivacité Intensa",
+      "previousBRL": 94.24,
+      "method": "existing-catalog-price",
+      "finalBRL": 97.72,
+      "increaseBRL": 3.48
+    },
+    {
+      "id": 54,
+      "name": "Maison Alhambra Moondrift Blue Intense",
+      "previousBRL": 94.92,
+      "method": "existing-catalog-price",
+      "finalBRL": 98.42,
+      "increaseBRL": 3.5
+    },
+    {
+      "id": 55,
+      "name": "Maison Alhambra Narissa Ruby",
+      "previousBRL": 73.9,
+      "method": "existing-catalog-price",
+      "finalBRL": 76.63,
+      "increaseBRL": 2.73
+    },
+    {
+      "id": 56,
+      "name": "Maison Alhambra Salvo",
+      "previousBRL": 108.48,
+      "method": "existing-catalog-price",
+      "finalBRL": 112.48,
+      "increaseBRL": 4.0
+    },
+    {
+      "id": 57,
+      "name": "Marc Jacobs Daisy Dream",
+      "previousBRL": 332.22,
+      "method": "existing-catalog-price",
+      "finalBRL": 344.48,
+      "increaseBRL": 12.26
+    },
+    {
+      "id": 58,
+      "name": "Marc Jacobs Perfect Absolute",
+      "previousBRL": 610.2,
+      "method": "existing-catalog-price",
+      "finalBRL": 632.72,
+      "increaseBRL": 22.52
+    },
+    {
+      "id": 59,
+      "name": "Perfumes de Bolso 35 ml",
+      "previousBRL": 49.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 50.81,
+      "increaseBRL": 1.81
+    },
+    {
+      "id": 60,
+      "name": "Rabanne 1 Million",
+      "previousBRL": 352.49,
+      "method": "existing-catalog-price",
+      "finalBRL": 365.5,
+      "increaseBRL": 13.01
+    },
+    {
+      "id": 61,
+      "name": "Rabanne 1 Million Golden Oud",
+      "previousBRL": 494.94,
+      "method": "existing-catalog-price",
+      "finalBRL": 513.21,
+      "increaseBRL": 18.27
+    },
+    {
+      "id": 62,
+      "name": "Rabanne 1 Million Parfum",
+      "previousBRL": 710.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 736.2,
+      "increaseBRL": 26.2
+    },
+    {
+      "id": 63,
+      "name": "Rabanne Invictus",
+      "previousBRL": 352.49,
+      "method": "existing-catalog-price",
+      "finalBRL": 365.5,
+      "increaseBRL": 13.01
+    },
+    {
+      "id": 64,
+      "name": "Rabanne Lady Million",
+      "previousBRL": 413.51,
+      "method": "existing-catalog-price",
+      "finalBRL": 428.77,
+      "increaseBRL": 15.26
+    },
+    {
+      "id": 65,
+      "name": "Rabanne Lady Million Empire",
+      "previousBRL": 799,
+      "method": "existing-catalog-price",
+      "finalBRL": 828.49,
+      "increaseBRL": 29.49
+    },
+    {
+      "id": 66,
+      "name": "Selina Selina",
+      "previousBRL": 29.9,
+      "method": "existing-catalog-price",
+      "finalBRL": 31.0,
+      "increaseBRL": 1.1
+    },
+    {
+      "id": 67,
+      "name": "Shakhan",
+      "previousBRL": 29.9,
+      "method": "existing-catalog-price",
+      "finalBRL": 31.0,
+      "increaseBRL": 1.1
+    },
+    {
+      "id": 68,
+      "name": "Valentino Uomo Born in Roma",
+      "previousBRL": 610.2,
+      "method": "existing-catalog-price",
+      "finalBRL": 632.72,
+      "increaseBRL": 22.52
+    },
+    {
+      "id": 69,
+      "name": "Versace Bright Crystal Absolu",
+      "previousBRL": 432.49,
+      "method": "existing-catalog-price",
+      "finalBRL": 448.45,
+      "increaseBRL": 15.96
+    },
+    {
+      "id": 70,
+      "name": "Versace Yellow Diamond",
+      "previousBRL": 366.05,
+      "method": "existing-catalog-price",
+      "finalBRL": 379.56,
+      "increaseBRL": 13.51
+    },
+    {
+      "id": 71,
+      "name": "Versace Yellow Diamond Intense",
+      "previousBRL": 366.05,
+      "method": "existing-catalog-price",
+      "finalBRL": 379.56,
+      "increaseBRL": 13.51
+    },
+    {
+      "id": 73,
+      "name": "Krip Daiman",
+      "previousBRL": 101.7,
+      "method": "existing-catalog-price",
+      "finalBRL": 105.45,
+      "increaseBRL": 3.75
+    },
+    {
+      "id": 74,
+      "name": "Krip Jabal",
+      "previousBRL": 101.7,
+      "method": "existing-catalog-price",
+      "finalBRL": 105.45,
+      "increaseBRL": 3.75
+    },
+    {
+      "id": 76,
+      "name": "Krip Sama",
+      "previousBRL": 101.7,
+      "method": "existing-catalog-price",
+      "finalBRL": 105.45,
+      "increaseBRL": 3.75
+    },
+    {
+      "id": 78,
+      "name": "Krip Bahar",
+      "previousBRL": 101.7,
+      "method": "existing-catalog-price",
+      "finalBRL": 105.45,
+      "increaseBRL": 3.75
+    },
+    {
+      "id": 79,
+      "name": "Krip Hubb",
+      "previousBRL": 101.7,
+      "method": "existing-catalog-price",
+      "finalBRL": 105.45,
+      "increaseBRL": 3.75
+    },
+    {
+      "id": 80,
+      "name": "Krip Sugar",
+      "previousBRL": 101.7,
+      "method": "existing-catalog-price",
+      "finalBRL": 105.45,
+      "increaseBRL": 3.75
+    },
+    {
+      "id": 81,
+      "name": "Lattafa Yara Kit Perfume + Desodorante",
+      "previousBRL": 229.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 237.45,
+      "increaseBRL": 8.45
+    },
+    {
+      "id": 82,
+      "name": "Lattafa Eclaire Kit Perfume + Desodorante",
+      "previousBRL": 239.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 247.82,
+      "increaseBRL": 8.82
+    },
+    {
+      "id": 83,
+      "name": "Lattafa Asad Fragrance Gift Set",
+      "previousBRL": 289.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 299.67,
+      "increaseBRL": 10.67
+    },
+    {
+      "id": 84,
+      "name": "Kit Mystical One & Only Perfume + Loção",
+      "previousBRL": 99.9,
+      "method": "existing-catalog-price",
+      "finalBRL": 103.59,
+      "increaseBRL": 3.69
+    },
+    {
+      "id": 89,
+      "name": "Victoria's Secret Fragrance Mist 250 ml",
+      "previousBRL": 99.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 102.65,
+      "increaseBRL": 3.65
+    },
+    {
+      "id": 90,
+      "name": "Earth's Creation Vitamina E 180 mg (400 UI)",
+      "previousBRL": 260.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 269.6,
+      "increaseBRL": 9.6
+    },
+    {
+      "id": 91,
+      "name": "Earth's Creation Vitamina D Natural 5.000 UI",
+      "previousBRL": 260.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 269.6,
+      "increaseBRL": 9.6
+    },
+    {
+      "id": 92,
+      "name": "Earth's Creation Vitamina C 500 mg",
+      "previousBRL": 260.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 269.6,
+      "increaseBRL": 9.6
+    },
+    {
+      "id": 93,
+      "name": "Dorph Creatine Gummies 5 g",
+      "previousBRL": 260.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 269.6,
+      "increaseBRL": 9.6
+    },
+    {
+      "id": 94,
+      "name": "Landerfit Hydrolyzed Collagen + Vitamina C + Ácido Hialurônico",
+      "previousBRL": 270.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 279.96,
+      "increaseBRL": 9.96
+    },
+    {
+      "id": 96,
+      "name": "Eticos Quenavin L-Cistina + Vitaminas e Minerais",
+      "previousBRL": 279.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 289.3,
+      "increaseBRL": 10.3
+    },
+    {
+      "id": 97,
+      "name": "Wellness LabsRx Resveratrol NAD+ 1500",
+      "previousBRL": 399.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 413.73,
+      "increaseBRL": 14.73
+    },
+    {
+      "id": 98,
+      "name": "Biyode Hair, Skin & Nails Gummies",
+      "previousBRL": 235.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 243.67,
+      "increaseBRL": 8.67
+    },
+    {
+      "id": 99,
+      "name": "Elemento Puro Ômegado Ômega 3 Neuro 1400 mg",
+      "previousBRL": 199.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 206.34,
+      "increaseBRL": 7.34
+    },
+    {
+      "id": 100,
+      "name": "Elemento Puro Termodo Cafeína Anidra 200 mg",
+      "previousBRL": 199.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 206.34,
+      "increaseBRL": 7.34
+    },
+    {
+      "id": 101,
+      "name": "Xiaomi POCO X8 Pro Max 5G",
+      "previousBRL": 3150.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 3266.26,
+      "increaseBRL": 116.26
+    },
+    {
+      "id": 102,
+      "name": "Xiaomi Redmi Note 15 Pro 5G",
+      "previousBRL": 1950.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 2021.97,
+      "increaseBRL": 71.97
+    },
+    {
+      "id": 103,
+      "name": "Motorola Moto G Power 5G",
+      "previousBRL": 1460.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 1513.88,
+      "increaseBRL": 53.88
+    },
+    {
+      "id": 168,
+      "name": "Apple iPhone 14 128GB",
+      "previousBRL": 3894.0,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3245.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-14-128gb_43627/",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 4037.71,
+      "increaseBRL": 143.71
+    },
+    {
+      "id": 169,
+      "name": "Apple iPhone 14 256GB (Swap Grade A)",
+      "previousBRL": 2116.92,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 1764.1,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 2195.05,
+      "increaseBRL": 78.13
+    },
+    {
+      "id": 106,
+      "name": "Apple iPhone 14 Plus 128GB",
+      "previousBRL": 4354.2,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3628.5,
+      "markupPercent": 20,
+      "sourceUrl": "https://mobile.comprasparaguai.com.br/celular/?ordem=menor-preco&page=12&precomin=370",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 4514.9,
+      "increaseBRL": 160.7
+    },
+    {
+      "id": 170,
+      "name": "Apple iPhone 14 Pro 128GB (Swap Grade A)",
+      "previousBRL": 2796.6,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 2330.5,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 2899.81,
+      "increaseBRL": 103.21
+    },
+    {
+      "id": 171,
+      "name": "Apple iPhone 14 Pro 256GB (Swap Grade A)",
+      "previousBRL": 3079.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 2566.5,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 3193.46,
+      "increaseBRL": 113.66
+    },
+    {
+      "id": 172,
+      "name": "Apple iPhone 14 Pro Max 128GB (Swap Grade A)",
+      "previousBRL": 3285.12,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 2737.6,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 3406.36,
+      "increaseBRL": 121.24
+    },
+    {
+      "id": 173,
+      "name": "Apple iPhone 14 Pro Max 256GB (Swap Grade A)",
+      "previousBRL": 3681.6,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3068.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 3817.47,
+      "increaseBRL": 135.87
+    },
+    {
+      "id": 174,
+      "name": "Apple iPhone 15 128GB",
+      "previousBRL": 2902.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 2419.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-15-128gb_48875/",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 3009.93,
+      "increaseBRL": 107.13
+    },
+    {
+      "id": 175,
+      "name": "Apple iPhone 15 256GB (CPO)",
+      "previousBRL": 4531.2,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3776.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 4698.43,
+      "increaseBRL": 167.23
+    },
+    {
+      "id": 176,
+      "name": "Apple iPhone 15 Plus 128GB",
+      "previousBRL": 2956.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 2464.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15+plus",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 3065.92,
+      "increaseBRL": 109.12
+    },
+    {
+      "id": 177,
+      "name": "Apple iPhone 15 Plus 256GB",
+      "previousBRL": 4681.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3901.5,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15+plus",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 4854.59,
+      "increaseBRL": 172.79
+    },
+    {
+      "id": 178,
+      "name": "Apple iPhone 15 Pro 128GB",
+      "previousBRL": 3604.18,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3003.48,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=IPHONE+15+PRO+128",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 3737.19,
+      "increaseBRL": 133.01
+    },
+    {
+      "id": 179,
+      "name": "Apple iPhone 15 Pro 256GB",
+      "previousBRL": 4002.0,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3335.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-15-pro-256gb_48865/",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 4149.7,
+      "increaseBRL": 147.7
+    },
+    {
+      "id": 180,
+      "name": "Apple iPhone 15 Pro 512GB",
+      "previousBRL": 8566.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 7139.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 8882.97,
+      "increaseBRL": 316.17
+    },
+    {
+      "id": 181,
+      "name": "Apple iPhone 15 Pro 1TB",
+      "previousBRL": 4495.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3746.5,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 4661.72,
+      "increaseBRL": 165.92
+    },
+    {
+      "id": 182,
+      "name": "Apple iPhone 15 Pro Max 256GB (Swap Grade A)",
+      "previousBRL": 3894.0,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3245.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 4037.71,
+      "increaseBRL": 143.71
+    },
+    {
+      "id": 183,
+      "name": "Apple iPhone 15 Pro Max 512GB (Swap Grade A)",
+      "previousBRL": 4637.4,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3864.5,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 4808.55,
+      "increaseBRL": 171.15
+    },
+    {
+      "id": 184,
+      "name": "Apple iPhone 15 Pro Max 1TB (Swap Grade A)",
+      "previousBRL": 5097.6,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 4248.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 5285.73,
+      "increaseBRL": 188.13
+    },
+    {
+      "id": 185,
+      "name": "Apple iPhone 16 128GB",
+      "previousBRL": 5179.92,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 4316.6,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+16",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 5371.09,
+      "increaseBRL": 191.17
+    },
+    {
+      "id": 186,
+      "name": "Apple iPhone 16 256GB (CPO)",
+      "previousBRL": 4809.72,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 4008.1,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?page=2&q=iphone+16",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 4987.23,
+      "increaseBRL": 177.51
+    },
+    {
+      "id": 187,
+      "name": "Apple iPhone 16 Plus 128GB",
+      "previousBRL": 6520.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 5434.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-plus-128gb_55959/",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 6761.46,
+      "increaseBRL": 240.66
+    },
+    {
+      "id": 188,
+      "name": "Apple iPhone 16 Pro 128GB",
+      "previousBRL": 4453.32,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3711.1,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-pro-128gb_55846/",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 4617.68,
+      "increaseBRL": 164.36
+    },
+    {
+      "id": 189,
+      "name": "Apple iPhone 16 Pro 256GB (Swap Grade A)",
+      "previousBRL": 4678.2,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3898.5,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+16",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 4850.86,
+      "increaseBRL": 172.66
+    },
+    {
+      "id": 190,
+      "name": "Apple iPhone 16 Pro 512GB (Recondicionado)",
+      "previousBRL": 5100.24,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 4250.2,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?page=2&q=iphone+16",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 5288.47,
+      "increaseBRL": 188.23
+    },
+    {
+      "id": 191,
+      "name": "Apple iPhone 16 Pro Max 256GB",
+      "previousBRL": 5911.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 4926.5,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-14-128gb_43627/",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 6129.98,
+      "increaseBRL": 218.18
+    },
+    {
+      "id": 192,
+      "name": "Apple iPhone 16 Pro Max 512GB (Recondicionado)",
+      "previousBRL": 5959.62,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 4966.35,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+16",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 6179.57,
+      "increaseBRL": 219.95
+    },
+    {
+      "id": 193,
+      "name": "Apple iPhone 16 Pro Max 1TB",
+      "previousBRL": 12673.43,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 10561.19,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-pro-max-1tb_55849/",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 13141.16,
+      "increaseBRL": 467.73
+    },
+    {
+      "id": 194,
+      "name": "Apple iPhone 16e 128GB",
+      "previousBRL": 3998.4,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3332.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 4145.97,
+      "increaseBRL": 147.57
+    },
+    {
+      "id": 195,
+      "name": "Apple iPhone 16e 256GB",
+      "previousBRL": 3796.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3164.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+16e",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 3936.93,
+      "increaseBRL": 140.13
+    },
+    {
+      "id": 196,
+      "name": "Apple iPhone 17 256GB",
+      "previousBRL": 6283.2,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 5236.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 6515.09,
+      "increaseBRL": 231.89
+    },
+    {
+      "id": 197,
+      "name": "Apple iPhone 17e 256GB",
+      "previousBRL": 3787.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3156.5,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-17e-256gb_67681/",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 3927.59,
+      "increaseBRL": 139.79
+    },
+    {
+      "id": 198,
+      "name": "Apple iPhone Air 256GB",
+      "previousBRL": 6318.9,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 5265.75,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 6552.11,
+      "increaseBRL": 233.21
+    },
+    {
+      "id": 199,
+      "name": "Apple iPhone Air 512GB",
+      "previousBRL": 6961.5,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 5801.25,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 7218.42,
+      "increaseBRL": 256.92
+    },
+    {
+      "id": 200,
+      "name": "Apple iPhone 17 Pro 256GB",
+      "previousBRL": 7425.6,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 6188.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 7699.65,
+      "increaseBRL": 274.05
+    },
+    {
+      "id": 201,
+      "name": "Apple iPhone 17 Pro 512GB",
+      "previousBRL": 9710.33,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 8091.94,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 10068.7,
+      "increaseBRL": 358.37
+    },
+    {
+      "id": 202,
+      "name": "Apple iPhone 17 Pro 1TB",
+      "previousBRL": 10335.6,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 8613.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-17-pro-1tb_64048/",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 10717.05,
+      "increaseBRL": 381.45
+    },
+    {
+      "id": 105,
+      "name": "Apple iPhone 17 Pro Max 256GB",
+      "previousBRL": 8710.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 7259.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-17-pro-max-256gb_64041/",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 9032.28,
+      "increaseBRL": 321.48
+    },
+    {
+      "id": 203,
+      "name": "Apple iPhone 17 Pro Max 512GB",
+      "previousBRL": 9888.9,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 8240.75,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 10253.86,
+      "increaseBRL": 364.96
+    },
+    {
+      "id": 204,
+      "name": "Apple iPhone 17 Pro Max 1TB",
+      "previousBRL": 11816.7,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 9847.25,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 12252.81,
+      "increaseBRL": 436.11
+    },
+    {
+      "id": 205,
+      "name": "Apple iPhone 17 Pro Max 2TB",
+      "previousBRL": 13316.1,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 11096.75,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 13807.55,
+      "increaseBRL": 491.45
+    },
+    {
+      "id": 206,
+      "name": "Apple iPhone 18 Pro 256GB",
+      "previousBRL": 8925.0,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 7437.5,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 9254.39,
+      "increaseBRL": 329.39
+    },
+    {
+      "id": 207,
+      "name": "Apple iPhone 18 Pro 512GB",
+      "previousBRL": 10317.3,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 8597.75,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 10698.07,
+      "increaseBRL": 380.77
+    },
+    {
+      "id": 208,
+      "name": "Apple iPhone 18 Pro 1TB",
+      "previousBRL": 13423.2,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 11186.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 13918.6,
+      "increaseBRL": 495.4
+    },
+    {
+      "id": 209,
+      "name": "Apple iPhone 18 Pro 2TB",
+      "previousBRL": 19635.0,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 16362.5,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 20359.66,
+      "increaseBRL": 724.66
+    },
+    {
+      "id": 104,
+      "name": "Apple iPhone 18 Pro Max 256GB",
+      "previousBRL": 9781.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 8151.5,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 10142.81,
+      "increaseBRL": 361.01
+    },
+    {
+      "id": 210,
+      "name": "Apple iPhone 18 Pro Max 512GB",
+      "previousBRL": 11709.6,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 9758.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 12141.76,
+      "increaseBRL": 432.16
+    },
+    {
+      "id": 211,
+      "name": "Apple iPhone 18 Pro Max 1TB",
+      "previousBRL": 15065.4,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 12554.5,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 15621.41,
+      "increaseBRL": 556.01
+    },
+    {
+      "id": 212,
+      "name": "Apple iPhone 18 Pro Max 2TB",
+      "previousBRL": 19706.4,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 16422.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
+      "sourceCheckedOn": "2026-11-20",
+      "finalBRL": 20433.69,
+      "increaseBRL": 727.29
+    },
+    {
+      "id": 108,
+      "name": "Invicta Pro Diver Chronograph",
+      "previousBRL": 850.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 881.37,
+      "increaseBRL": 31.37
+    },
+    {
+      "id": 110,
+      "name": "Celimax The Vita-A Retinal Shot Tightening Booster",
+      "previousBRL": 61.02,
+      "method": "existing-catalog-price",
+      "finalBRL": 63.27,
+      "increaseBRL": 2.25
+    },
+    {
+      "id": 111,
+      "name": "Alluvi Labs Glow Dual Regenerative Capsule Cream",
+      "previousBRL": 630.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 653.25,
+      "increaseBRL": 23.25
+    },
+    {
+      "id": 112,
+      "name": "Celimax Pore + Dark Spot Brightening Cream",
+      "previousBRL": 90.78,
+      "method": "existing-catalog-price",
+      "finalBRL": 94.13,
+      "increaseBRL": 3.35
+    },
+    {
+      "id": 115,
+      "name": "Eticos Retinal Soft Cream",
+      "previousBRL": 249.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 258.19,
+      "increaseBRL": 9.19
+    },
+    {
+      "id": 116,
+      "name": "Medicube Azelaic Acid Exosome Shot 7500",
+      "previousBRL": 88.14,
+      "method": "existing-catalog-price",
+      "finalBRL": 91.39,
+      "increaseBRL": 3.25
+    },
+    {
+      "id": 117,
+      "name": "Medicube Azelaic Acid Exosome Shot 2000",
+      "previousBRL": 77.29,
+      "method": "existing-catalog-price",
+      "finalBRL": 80.14,
+      "increaseBRL": 2.85
+    },
+    {
+      "id": 118,
+      "name": "Medicube Azelaic Acid 16 BB Soothing Serum",
+      "previousBRL": 80.68,
+      "method": "existing-catalog-price",
+      "finalBRL": 83.66,
+      "increaseBRL": 2.98
+    },
+    {
+      "id": 119,
+      "name": "Medicube Azelaic Acid Capsule Cleansing Foam",
+      "previousBRL": 87.73,
+      "method": "existing-catalog-price",
+      "finalBRL": 90.97,
+      "increaseBRL": 3.24
+    },
+    {
+      "id": 120,
+      "name": "Medicube PDRN Pink Peptide Serum",
+      "previousBRL": 75.94,
+      "method": "existing-catalog-price",
+      "finalBRL": 78.74,
+      "increaseBRL": 2.8
+    },
+    {
+      "id": 121,
+      "name": "Medicube Zero Pore Pad 2.0",
+      "previousBRL": 84.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 87.1,
+      "increaseBRL": 3.1
+    },
+    {
+      "id": 122,
+      "name": "Medicube Red Foam Cleanser",
+      "previousBRL": 88.14,
+      "method": "existing-catalog-price",
+      "finalBRL": 91.39,
+      "increaseBRL": 3.25
+    },
+    {
+      "id": 123,
+      "name": "Medicube TXA Niacinamide Capsule Cream",
+      "previousBRL": 81.36,
+      "method": "existing-catalog-price",
+      "finalBRL": 84.36,
+      "increaseBRL": 3.0
+    },
+    {
+      "id": 124,
+      "name": "Medicube Collagen Lifting Mask",
+      "previousBRL": 16.94,
+      "method": "existing-catalog-price",
+      "finalBRL": 17.57,
+      "increaseBRL": 0.63
+    },
+    {
+      "id": 125,
+      "name": "Kerasys Advanced Keratin Bond Volume Shampoo + Tratamento",
+      "previousBRL": 210.0,
+      "method": "existing-catalog-price",
+      "finalBRL": 217.75,
+      "increaseBRL": 7.75
+    },
+    {
+      "id": 126,
+      "name": "Shiseido Fino Premium Touch Hair Oil",
+      "previousBRL": 67.06,
+      "method": "existing-catalog-price",
+      "finalBRL": 69.53,
+      "increaseBRL": 2.47
+    },
+    {
+      "id": 139,
+      "name": "Gluconex 15 mg",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 147,
+      "name": "Lipoless 15 mg",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 148,
+      "name": "Tirzec 15 mg",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 149,
+      "name": "Tirzedral 15 mg",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 150,
+      "name": "Slimex 15 mg",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 151,
+      "name": "T.G. 15 mg",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 152,
+      "name": "Synedica 40 mg",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 153,
+      "name": "Synedica 60 mg",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 154,
+      "name": "Veltrame Diamond 120 mg",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 155,
+      "name": "BPC-157",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 156,
+      "name": "AOD-9604",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 157,
+      "name": "Ipamorelin",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 158,
+      "name": "CJC-1295",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 159,
+      "name": "TB-500",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 160,
+      "name": "MOTS-c",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 161,
+      "name": "KPV",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 162,
+      "name": "Oxygen GHK-Cu 100 mg",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 163,
+      "name": "Lipostabil (fosfatidilcolina)",
+      "previousBRL": null,
+      "method": "unpriced",
+      "finalBRL": null
+    },
+    {
+      "id": 140,
+      "name": "Slimex MD 15 — 60 mg multidose",
+      "previousBRL": 680,
+      "method": "existing-catalog-price",
+      "finalBRL": 705.1,
+      "increaseBRL": 25.1
+    },
+    {
+      "id": 164,
+      "name": "Lipoland Multidosis — 60 mg multidose",
+      "previousBRL": 680,
+      "method": "existing-catalog-price",
+      "finalBRL": 705.1,
+      "increaseBRL": 25.1
+    },
+    {
+      "id": 165,
+      "name": "Catedral T 15 MD — 60 mg multidose",
+      "previousBRL": 680,
+      "method": "existing-catalog-price",
+      "finalBRL": 705.1,
+      "increaseBRL": 25.1
+    },
+    {
+      "id": 166,
+      "name": "Tirzec 15 MD — 60 mg multidose",
+      "previousBRL": 680,
+      "method": "existing-catalog-price",
+      "finalBRL": 705.1,
+      "increaseBRL": 25.1
+    },
+    {
+      "id": 167,
+      "name": "Lipoless MD 15 — 60 mg multidose",
+      "previousBRL": 680,
+      "method": "existing-catalog-price",
+      "finalBRL": 705.1,
+      "increaseBRL": 25.1
+    },
+    {
+      "id": 141,
+      "name": "Ipsen Dysport 500 U",
+      "previousBRL": 499,
+      "method": "existing-catalog-price",
+      "finalBRL": 517.42,
+      "increaseBRL": 18.42
+    },
+    {
+      "id": 142,
+      "name": "PT-141 (bremelanotida) 20 mg",
+      "previousBRL": 799,
+      "method": "existing-catalog-price",
+      "finalBRL": 828.49,
+      "increaseBRL": 29.49
+    },
+    {
+      "id": 143,
+      "name": "Combo Smart Collection Nº 244 + Lipostabil",
+      "previousBRL": 299,
+      "method": "existing-catalog-price",
+      "finalBRL": 310.04,
+      "increaseBRL": 11.04
+    },
+    {
+      "id": 144,
+      "name": "Lispax 20 (lisdexanfetamina 20 mg)",
+      "previousBRL": 350,
+      "method": "existing-catalog-price",
+      "finalBRL": 362.92,
+      "increaseBRL": 12.92
+    },
+    {
+      "id": 145,
+      "name": "36 Horas (tadalafila 20 mg)",
+      "previousBRL": 99,
+      "method": "existing-catalog-price",
+      "finalBRL": 102.65,
+      "increaseBRL": 3.65
+    },
+    {
+      "id": 146,
+      "name": "Stun Medical Line Body Safe & Easy 55",
+      "previousBRL": 1299,
+      "method": "existing-catalog-price",
+      "finalBRL": 1346.94,
+      "increaseBRL": 47.94
+    },
+    {
+      "id": 213,
+      "name": "Samsung Galaxy A18 128GB 4G",
+      "previousBRL": 1432.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 1194.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-samsung-galaxy-a18-sm-a185g-dual-chip-128gb-4g_73589/",
+      "sourceCheckedOn": "2026-11-21",
+      "finalBRL": 1485.68,
+      "increaseBRL": 52.88
+    },
+    {
+      "id": 214,
+      "name": "Samsung Galaxy A08 64GB 4G",
+      "previousBRL": 990.0,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 825.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-samsung-galaxy-a08-sm-a085f-dual-chip-64gb-4g_73366/",
+      "sourceCheckedOn": "2026-11-21",
+      "finalBRL": 1026.54,
+      "increaseBRL": 36.54
+    },
+    {
+      "id": 215,
+      "name": "Samsung Galaxy S26 FE 256GB 5G",
+      "previousBRL": 4305.6,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 3588.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-samsung-galaxy-s26-fe-sm-s741b-dual-chip-256gb-5g_71091/",
+      "sourceCheckedOn": "2026-11-21",
+      "finalBRL": 4464.5,
+      "increaseBRL": 158.9
+    },
+    {
+      "id": 216,
+      "name": "Motorola Moto G47 256GB 5G",
+      "previousBRL": 1648.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 1374.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-motorola-moto-g47-xt-2625-dual-chip-256gb-5g_72926/",
+      "sourceCheckedOn": "2026-11-21",
+      "finalBRL": 1709.65,
+      "increaseBRL": 60.85
+    },
+    {
+      "id": 217,
+      "name": "Motorola Moto G37 128GB 5G",
+      "previousBRL": 1404.0,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 1170.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-motorola-moto-g37-xt-2625-dual-chip-128gb-5g_72925/",
+      "sourceCheckedOn": "2026-11-21",
+      "finalBRL": 1455.82,
+      "increaseBRL": 51.82
+    },
+    {
+      "id": 218,
+      "name": "Motorola Moto G Max 256GB 5G",
+      "previousBRL": 2124.0,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 1770.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-motorola-moto-g-max-xt-2621-dual-chip-256gb-5g_72359/",
+      "sourceCheckedOn": "2026-11-21",
+      "finalBRL": 2202.39,
+      "increaseBRL": 78.39
+    },
+    {
+      "id": 219,
+      "name": "Xiaomi Redmi Note 17 256GB 4G",
+      "previousBRL": 1438.2,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 1198.5,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-xiaomi-redmi-note-17-dual-chip-256gb-4g-ram-4gb-global_73369/",
+      "sourceCheckedOn": "2026-11-21",
+      "finalBRL": 1491.28,
+      "increaseBRL": 53.08
+    },
+    {
+      "id": 220,
+      "name": "Xiaomi POCO X8 128GB 5G",
+      "previousBRL": 1792.8,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 1494.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-xiaomi-poco-x8-dual-chip-128gb-5g-global_72930/",
+      "sourceCheckedOn": "2026-11-21",
+      "finalBRL": 1858.97,
+      "increaseBRL": 66.17
+    },
+    {
+      "id": 221,
+      "name": "Xiaomi Redmi Note 17 Pro 256GB 5G",
+      "previousBRL": 2181.6,
+      "method": "compras-paraguai-reference",
+      "referenceBRL": 1818.0,
+      "markupPercent": 20,
+      "sourceUrl": "https://www.comprasparaguai.com.br/celular-xiaomi-redmi-note-17-pro-dual-chip-256gb-5g-ram-6gb-global_72927/",
+      "sourceCheckedOn": "2026-11-21",
+      "finalBRL": 2262.11,
+      "increaseBRL": 80.51
+    }
+  ],
+  "pricingStatus": "superseded",
+  "currentPricingReport": "artifacts/precificacao-usd-2026-11-23.json",
+  "supersededReason": "A precificação abaixo é uma fotografia histórica anterior à correção. Foi substituída pela conversão única USD × média PTAX × 1,20; não reaplicar as fórmulas ou os preços desta fotografia.",
+  "status": "superseded"
+}

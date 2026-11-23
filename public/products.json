@@ -3,2093 +3,4421 @@
     "id": 1,
     "name": "Afnan Supremacy Collector's Edition",
     "category": "perfumes",
-    "price": 169.5,
+    "price": 323.72,
     "image": "/images/products/comprasparaguai-70422.avif",
     "description": "Eau de Parfum masculino de 100 ml da Afnan, em caixa preta com relevo e frasco que imita pedra salpicada. Uma edição de colecionador para quem gosta de presença.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 47.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-afnan-supremacy-collectors-edition-edp-100ml__5279421/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 2,
     "name": "Al Absar Treats Berry Bliss",
     "category": "perfumes",
-    "price": 320.0,
+    "price": null,
     "image": null,
     "description": "Eau de Parfum unissex de 100 ml da linha Treats, com frasco em forma de bolo de frutas vermelhas. Fragrância gourmand frutada, doce e divertida.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 3,
     "name": "Al Absar Treats Caramel Rush",
     "category": "perfumes",
-    "price": 196.62,
+    "price": 195.62,
     "image": "/images/products/comprasparaguai-69948.avif",
     "description": "Eau de Parfum unissex de 100 ml da linha Treats. Gourmand de caramelo e baunilha em um frasco que parece uma sobremesa.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 29,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/al-absar-treats-caramel-rush-100ml-edp__5383509/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 4,
     "name": "Al Absar Treats Choco Craze",
     "category": "perfumes",
-    "price": 196.62,
+    "price": 195.62,
     "image": "/images/products/comprasparaguai-69949.avif",
     "description": "Eau de Parfum unissex de 100 ml da linha Treats. Gourmand de chocolate em um frasco que lembra um bolo coberto de calda.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 29,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/al-absar-treats-choco-craze-100ml-edp__5383507/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 5,
     "name": "Al Malakia Sultan El Oud",
     "category": "perfumes",
-    "price": 122.04,
+    "price": 121.42,
     "image": "/images/products/comprasparaguai-66536.avif",
     "description": "Eau de Parfum de 100 ml da Al Malakia, com frasco dourado trabalhado e detalhes em azul. Um perfume árabe de aparência nobre.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 18,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-al-malakia-sultan-el-oud-eau-de-parfum-unissex-100ml__4950546/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 6,
     "name": "Al Wataniah Eqaab",
     "category": "perfumes",
-    "price": 94.92,
+    "price": 94.44,
     "image": "/images/products/comprasparaguai-48936.jpg",
     "description": "Eau de Parfum masculino de 100 ml da Al Wataniah. A tampa em forma de águia e a caixa azul com prata dão o tom imponente.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 14,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-al-wataniah-eqaab-masc-edp-100ml__4496457/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 7,
     "name": "Al Wataniah Kayaan Classic",
     "category": "perfumes",
-    "price": 149.9,
+    "price": 128.17,
     "image": "/images/products/comprasparaguai-5332602.webp",
     "description": "Eau de Parfum de 100 ml da Al Wataniah, em caixa preta com ornamento prateado e frasco em tom lilás acinzentado.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 19,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/per-al-wataniah-kayaan-classic-m-edp-100ml__5332602/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 8,
     "name": "Al Wataniah Sabah Al Ward",
     "category": "perfumes",
-    "price": 88.14,
+    "price": 86.01,
     "image": "/images/products/comprasparaguai-44197.jpg",
     "description": "Eau de Parfum feminino da Al Wataniah, com frasco em degradê rosa e violeta e detalhes dourados em arabesco.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 12.75,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/al-wataniah-sabah-al-ward-100ml-edp-cs__4486441/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 9,
     "name": "Al Wataniah Watani",
     "category": "perfumes",
-    "price": 249.99,
+    "price": 87.69,
     "image": "/images/products/comprasparaguai-4453316.webp",
     "description": "Eau de Parfum da Al Wataniah, com frasco de vidro e arabescos em tom cobre que deixam o líquido âmbar à mostra.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 13,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-al-wataniah-watani-feminino-eau-de-parfum-100ml__4453316/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 10,
     "name": "Amaran Kings & Queens Tobacco",
     "category": "perfumes",
-    "price": 81.29,
+    "price": 80.88,
     "image": "/images/products/comprasparaguai-54742.png",
     "description": "Eau de Parfum de 100 ml da Amaran Paris. Frasco vermelho-escuro com busto dourado e a palavra Tobacco em destaque.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 11.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-amaran-kings-queens-tobacco-eau-de-parfum-unissex-100ml__4546209/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 11,
     "name": "Arabiyat Prestige Marwa",
     "category": "perfumes",
-    "price": 281.38,
+    "price": 279.94,
     "image": "/images/products/comprasparaguai-72482.avif",
     "description": "Eau de Parfum de 100 ml da Arabiyat Prestige, com frasco facetado que lembra uma joia prateada e caixa branca elegante.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 41.5,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-arabiyat-prestige-marwa-eau-de-parfum-unissex-100ml__5665267/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 12,
     "name": "Ard Al Zaafaran Ana Al Malikah (I Am The Queen)",
     "category": "perfumes",
-    "price": 148.9,
+    "price": 148.4,
     "image": "/images/products/comprasparaguai-5542585.webp",
     "description": "Eau de Parfum feminino de 100 ml, com frasco em tom champanhe e tampa em forma de coroa. Perfeito para quem se sente rainha.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 22,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-ard-al-zaafaran-i-am-queen-ana-al-malikah-edp-feminino-100ml__5542585/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 13,
     "name": "Ard Al Zaafaran Bint Hooran Rose Passion",
     "category": "perfumes",
-    "price": 122.04,
+    "price": 134.91,
     "image": "/images/products/comprasparaguai-62958.webp",
     "description": "Eau de Parfum feminino de 100 ml, com frasco rosa-pink e laço de cetim. Romântico e cheio de personalidade.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 20,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-ard-al-zaafaran-bint-hooran-rose-passion-edp-feminino-100ml__5061688/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 14,
     "name": "Armaf Club de Nuit Bling",
     "category": "perfumes",
-    "price": 181.22,
+    "price": 178.76,
     "image": "/images/products/comprasparaguai-65523.avif",
     "description": "Eau de Parfum de 75 ml da Armaf. Frasco coberto de brilhos escuros com pingente e caixa que reflete como céu estrelado.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 26.5,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perf-uni-armaf-club-de-nuit-bling-edp-75ml-silver__5386486/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 15,
     "name": "Armaf Club de Nuit Intenso Fuego",
     "category": "perfumes",
-    "price": 250.86,
+    "price": 242.84,
     "image": "/images/products/comprasparaguai-71184.avif",
     "description": "Eau de Parfum masculino da Armaf, com frasco em degradê do cristalino ao vermelho e pingente preto.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 36,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perf-uni-armaf-club-de-nuit-intenso-fuego-edp-105ml__5647614/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 16,
     "name": "Armaf Club de Nuit Untold",
     "category": "perfumes",
-    "price": 29.9,
+    "price": null,
     "image": "/images/products/comprasparaguai-5274136.webp",
     "description": "Eau de Parfum unissex de 35 ml em versão compacta, boa para levar na bolsa. Caixa roxa com o frasco vermelho ilustrado.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 17,
     "name": "Azzaro Pour Homme",
     "category": "perfumes",
-    "price": 350.0,
+    "price": 236.03,
     "image": "/images/products/comprasparaguai-4255.jpg",
     "description": "Eau de Toilette masculino de 200 ml, um clássico da Azzaro. Embalagem preta com o emblema prateado da marca.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 34.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-azzaro-pour-homme-eau-de-toilette-masculino-200ml__4485094/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 18,
     "name": "Carolina Herrera 212 Men NYC",
     "category": "perfumes",
-    "price": 399,
+    "price": 384.16,
     "image": "/images/products/comprasparaguai-801.png",
     "description": "Eau de Toilette masculino de 100 ml da Carolina Herrera. Frasco prateado e caixa cinza com o 212 em destaque.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 56.95,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perf-masc-carolina-herrera-212-men-nyc-edt-100ml__5385310/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 19,
     "name": "Carolina Herrera 212 Sexy",
     "category": "perfumes",
-    "price": 447.41,
+    "price": 438.39,
     "image": "/images/products/comprasparaguai-3679.png",
     "description": "Eau de Parfum feminino de 100 ml da Carolina Herrera, em tom rosado com acabamento metalizado.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 64.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-carolina-herrera-212-sexy-edp-100ml-8211-feminino__4349169/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 20,
     "name": "Carolina Herrera 212 VIP Men",
     "category": "perfumes",
-    "price": 406.73,
+    "price": 404.39,
     "image": "/images/products/comprasparaguai-3681.png",
     "description": "Eau de Toilette masculino de 100 ml da Carolina Herrera. Frasco prateado e caixa preta com a frase Are You On The List.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 59.95,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perf-masc-carolina-herrera-212-vip-men-edt-100ml__5385304/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 21,
     "name": "Carolina Herrera 212 VIP Rosé",
     "category": "perfumes",
-    "price": 474.53,
+    "price": 472.12,
     "image": "/images/products/comprasparaguai-7131.png",
     "description": "Eau de Parfum feminino da Carolina Herrera, com frasco em formato de cápsula e acabamento rosé dourado.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 69.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/ch-212-vip-rose-edp-fem-80ml__4614308/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 22,
     "name": "Carolina Herrera Very Good Girl",
     "category": "perfumes",
-    "price": 511.82,
+    "price": 509.22,
     "image": "/images/products/comprasparaguai-36427.png",
     "description": "Eau de Parfum feminino da Carolina Herrera, no famoso frasco em forma de sapato de salto vermelho.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 75.49,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-carolina-herrera-very-good-girl-eau-de-parfum-feminino-80ml__4484033/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 23,
     "name": "Dolce & Gabbana Light Blue",
     "category": "perfumes",
-    "price": 284.76,
+    "price": 330.46,
     "image": "/images/products/comprasparaguai-831.jpg",
     "description": "Eau de Toilette feminino de 100 ml da Dolce & Gabbana. Frasco fosco e caixa azul-clara para um visual fresco e leve.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 48.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-dolce038gabbana-light-blue-edt-8211-feminino-100ml__4325389/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 24,
     "name": "Dolce & Gabbana Q",
     "category": "perfumes",
-    "price": 357.65,
+    "price": 355.76,
     "image": "/images/products/comprasparaguai-49429.png",
     "description": "Eau de Parfum feminino da Dolce & Gabbana, com tampa em forma de coroa dourada e pedras vermelhas.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 52.74,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-dolce-gabbana-q-eau-de-parfum-feminino-100ml__5789179/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 25,
     "name": "Ferrari Scuderia Ferrari Black",
     "category": "perfumes",
-    "price": 108.41,
+    "price": 107.86,
     "image": "/images/products/comprasparaguai-7261.jpg",
     "description": "Eau de Toilette masculino de 125 ml da Ferrari. Frasco preto com o cavalinho amarelo da marca.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 15.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-ferrari-scuderia-black-eau-de-toilette-masculino-125ml__4484037/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 26,
     "name": "Ferrari Scuderia Ferrari Red",
     "category": "perfumes",
-    "price": 88.14,
+    "price": 87.69,
     "image": "/images/products/comprasparaguai-16041.jpg",
     "description": "Eau de Toilette masculino da Ferrari, com frasco e caixa vermelhos e o cavalinho amarelo da marca.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 13,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/pferrari-red-scuderia-m-125ml__4255991/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 27,
     "name": "Issey Miyake L'Eau d'Issey Pour Homme",
     "category": "perfumes",
-    "price": 238.99,
+    "price": 237.78,
     "image": "/images/products/comprasparaguai-871.jpg",
     "description": "Eau de Toilette masculino de 125 ml da Issey Miyake, com frasco fosco de tampa prateada e caixa clara.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 35.25,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-issey-miyake-leau-dissey-pour-homme-edt-125ml-msc__4934903/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 28,
     "name": "Jean Paul Gaultier La Belle",
     "category": "perfumes",
-    "price": 467.75,
+    "price": 465.1,
     "image": "/images/products/comprasparaguai-29415.jpg",
     "description": "Eau de Parfum feminino de 100 ml da Jean Paul Gaultier, no frasco em forma de busto com detalhes de rosas douradas.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 68.95,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perf-fem-jean-paul-g-la-belle-edp-100ml__5385361/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 29,
     "name": "Jean Paul Gaultier Le Male",
     "category": "perfumes",
-    "price": 410.12,
+    "price": 408.04,
     "image": "/images/products/comprasparaguai-874.jpg",
     "description": "Eau de Toilette masculino de 125 ml da Jean Paul Gaultier, no frasco em forma de torso listrado e lata metálica.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 60.49,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-jean-paul-gaultier-le-male-eau-de-toilette-masculino-125ml__4490334/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 30,
     "name": "Jean Paul Gaultier Scandal",
     "category": "perfumes",
-    "price": 508.43,
+    "price": 485.68,
     "image": "/images/products/comprasparaguai-18262.jpg",
     "description": "Eau de Parfum feminino de 80 ml da Jean Paul Gaultier, em caixa rosa aveludada com o ícone das pernas douradas.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 72,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-feminino-jean-paul-gaultier-scandal-edp-80-ml__4594778/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 31,
     "name": "Jean Paul Gaultier Scandal (frasco roxo)",
     "category": "perfumes",
-    "price": 599,
+    "price": 634.08,
     "image": "/images/products/comprasparaguai-62379.webp",
     "description": "Perfume feminino da linha Scandal, com frasco roxo canelado e tampa prateada em forma de pernas.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 94,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-jean-paul-gaultier-scandal-intense-eau-de-parfum-femenino-80-ml__5279687/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 32,
     "name": "Jean Paul Gaultier Scandal Pour Homme Le Parfum",
     "category": "perfumes",
-    "price": 499,
+    "price": 445.21,
     "image": "/images/products/comprasparaguai-48944.png",
     "description": "Eau de Parfum masculino da linha Scandal, com frasco preto laqueado e tampa dourada em forma de coroa.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 66,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-jean-paul-g-scandal-le-parfum-100-ml-masculino-eau-de-parfum-intense__5595306/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 33,
     "name": "Kit Miniaturas Lattafa Khamrah + Ameerat Al Arab",
     "category": "perfumes",
-    "price": 120.0,
+    "price": 148.4,
     "image": "/images/products/comprasparaguai-5775899.webp",
     "description": "Caixa de presente Mystical com 4 miniaturas: 2 Lattafa Khamrah e 2 Asdaaf Ameerat Al Arab, nas cores vermelho e rosa.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 22,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/kit-mini-khamrah-mystical-4-pecas-30-ml-cada__5775899/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 34,
     "name": "Lancôme La Vie Est Belle",
     "category": "perfumes",
-    "price": 488.16,
+    "price": 499.1,
     "image": "/images/products/comprasparaguai-7965.png",
     "description": "L'Eau de Parfum feminino de 100 ml da Lancôme, em frasco recarregável. Uma fragrância clássica e doce.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 73.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-lancome-la-vie-est-belle-edp-100ml-8211-feminino__4367594/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 35,
     "name": "Lattafa Afeef (35 ml)",
     "category": "perfumes",
-    "price": 29.9,
+    "price": null,
     "image": "/images/products/comprasparaguai-5272035.webp",
     "description": "Eau de Parfum unissex de 35 ml em versão compacta, ideal para levar na bolsa. Caixa branca e dourada com leque de pavão.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 36,
     "name": "Lattafa Afeef (100 ml)",
     "category": "perfumes",
-    "price": 322.06,
+    "price": 303.48,
     "image": "/images/products/comprasparaguai-57079.png",
     "description": "Eau de Parfum unissex de 100 ml, com frasco dourado e tampa de pavões cravejados de pedras coloridas.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 44.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/lattafa-afeef-edp-unisex-100ml__5673061/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 37,
     "name": "Lattafa Ajwad Pink to Pink Cream Elixir",
     "category": "perfumes",
-    "price": 128.82,
+    "price": 107.93,
     "image": "/images/products/comprasparaguai-70795.avif",
     "description": "Eau de Parfum feminino de 60 ml, com caixa e frasco coloridos em tons de rosa, amarelo e azul-bebê.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 16,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-lattafa-ajwad-pink-to-pink-creamy-elixir-edp-60ml__5593102/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 38,
     "name": "Lattafa Asad",
     "category": "perfumes",
-    "price": 128.14,
+    "price": 128.1,
     "image": "/images/products/comprasparaguai-52480.jpg",
     "description": "Eau de Parfum masculino da Lattafa, em caixa preta com medalhão dourado de leão.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 18.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-lattafa-asad-eau-de-parfum-masculino-100ml__4629782/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 39,
     "name": "Lattafa Asad Bourbon",
     "category": "perfumes",
-    "price": 162.72,
+    "price": 161.83,
     "image": "/images/products/comprasparaguai-57732.jpg",
     "description": "Eau de Parfum masculino de 100 ml da Lattafa, com frasco e caixa em tom marrom-avermelhado e detalhes cobre.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 23.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-lattafa-asad-bourbon-eau-de-parfum-masculino-100ml__4666050/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 40,
     "name": "Lattafa Asad Elixir",
     "category": "perfumes",
-    "price": 168.07,
+    "price": 166.95,
     "image": "/images/products/comprasparaguai-64625.webp",
     "description": "Eau de Parfum masculino de 100 ml da Lattafa, em frasco preto fosco com faixas cruzadas em tom bronze.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 24.75,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-lattafa-asad-elixir-edp-masculino-100ml__5667591/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 41,
     "name": "Lattafa Badee Al Oud Black Exposed",
     "category": "perfumes",
-    "price": 155.94,
+    "price": 155.15,
     "image": "/images/products/comprasparaguai-70306.avif",
     "description": "Eau de Parfum de 100 ml da Lattafa, com frasco preto lapidado e caixa dourada com moldura trabalhada.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 23,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/lattafa-badeeblack-exposed-100ml-edp-cs__5662785/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 42,
     "name": "Lattafa Emeer",
     "category": "perfumes",
-    "price": 199.4,
+    "price": 198.39,
     "image": "/images/products/comprasparaguai-54506.jpg",
     "description": "Eau de Parfum de 100 ml da Lattafa, com frasco dourado vazado em arabesco e tampa com detalhes vermelhos.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 29.41,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perf-uni-lattafa-emeer-edp-100ml__5385204/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 43,
     "name": "Lattafa Fakhar (Pride of Lattafa)",
     "category": "perfumes",
-    "price": 250,
+    "price": 138.22,
     "image": "/images/products/comprasparaguai-53628.jpg",
     "description": "Eau de Parfum feminino da Lattafa, em frasco branco e rosé redondo com caixa branca de relevo prateado.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 20.49,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-lattafa-fakhar-rose-gold-edp-100ml-8211-feminino__4337841/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 44,
     "name": "Lattafa Pride Ansaam Gold",
     "category": "perfumes",
-    "price": 105.1,
+    "price": 104.56,
     "image": "/images/products/comprasparaguai-55316.jpg",
     "description": "Eau de Parfum de 100 ml da Lattafa Pride, com caixa vinho e frasco com flores douradas de ginkgo.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 15.5,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-lattafa-pride-ansaam-gold-edp-unissex-100ml__4774283/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 45,
     "name": "Lattafa Pride Tharwah Gold",
     "category": "perfumes",
-    "price": 237.23,
+    "price": 229.28,
     "image": "/images/products/comprasparaguai-48909.png",
     "description": "Eau de Parfum de 100 ml da Lattafa Pride, com frasco âmbar translúcido e emblema atômico dourado.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 33.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-lattafa-tharwah-gold-eau-de-parfum-femenino-100ml__4992115/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 46,
     "name": "Lattafa Tibyan",
     "category": "perfumes",
-    "price": 219.99,
+    "price": null,
     "image": null,
     "description": "Eau de Parfum feminino da Lattafa, com frasco alongado em rosa-claro e tampa preta com detalhes dourados.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 47,
     "name": "Lattafa Yara (35 ml)",
     "category": "perfumes",
-    "price": 29.9,
+    "price": null,
     "image": null,
     "description": "Eau de Parfum feminino de 35 ml da Lattafa, versão rosa original em tamanho compacto para a bolsa.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 48,
     "name": "Lattafa Yara",
     "category": "perfumes",
-    "price": 132.22,
+    "price": 138.28,
     "image": "/images/products/comprasparaguai-50537.jpg",
     "description": "Eau de Parfum feminino da Lattafa, versão rosa original em frasco padrão. Um dos queridinhos da marca.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 20.5,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-lattafa-yara-eau-de-parfum-feminino-100ml__4342586/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 49,
     "name": "Lattafa Yara Candy (35 ml)",
     "category": "perfumes",
-    "price": 29.9,
+    "price": null,
     "image": null,
     "description": "Eau de Parfum feminino de 35 ml da Lattafa, versão Candy em vermelho, em tamanho compacto.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 50,
     "name": "Lattafa Yara Moi (35 ml)",
     "category": "perfumes",
-    "price": 29.9,
+    "price": null,
     "image": null,
     "description": "Eau de Parfum feminino de 35 ml da Lattafa, versão Moi em tom bege, em tamanho compacto.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 51,
     "name": "Lattafa Yara Tous (35 ml)",
     "category": "perfumes",
-    "price": 29.9,
+    "price": null,
     "image": null,
     "description": "Eau de Parfum feminino de 35 ml da Lattafa, versão Tous em laranja, em tamanho compacto.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 52,
     "name": "Maison Alhambra Infini Oud Joyous",
     "category": "perfumes",
-    "price": 94.92,
+    "price": 94.44,
     "image": "/images/products/comprasparaguai-51202.png",
     "description": "Eau de Parfum de 100 ml da Maison Alhambra, em frasco preto com losango dourado e verde.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 14,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-maison-alhambra-infini-oud-joyous-eau-de-parfum-unissex-100ml__4781707/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 53,
     "name": "Maison Alhambra La Vivacité Intensa",
     "category": "perfumes",
-    "price": 94.24,
+    "price": 93.76,
     "image": "/images/products/comprasparaguai-56683.png",
     "description": "Eau de Parfum feminino de 100 ml da Maison Alhambra, com frasco de vidro transparente e laço rosa.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 13.9,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-maison-alhambra-la-vivacite-intensa-feminino-edp-de-100ml__5240978/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 54,
     "name": "Maison Alhambra Moondrift Blue Intense",
     "category": "perfumes",
-    "price": 94.92,
+    "price": 93.76,
     "image": "/images/products/comprasparaguai-70037.avif",
     "description": "Eau de Parfum masculino de 100 ml da Maison Alhambra, com frasco azul-escuro e rótulo vermelho.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 13.9,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-maison-alhambra-moondrift-blue-intense-masculino-100ml__5747272/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 55,
     "name": "Maison Alhambra Narissa Ruby",
     "category": "perfumes",
-    "price": 73.9,
+    "price": 67.46,
     "image": "/images/products/comprasparaguai-56665.png",
     "description": "Eau de Parfum feminino de 100 ml da Maison Alhambra, com frasco e caixa em vermelho intenso.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 10,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perf-fem-maison-alhambra-narissa-ruby-edp-100ml__5599822/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 56,
     "name": "Maison Alhambra Salvo",
     "category": "perfumes",
-    "price": 108.48,
+    "price": 128.1,
     "image": "/images/products/comprasparaguai-49430.png",
     "description": "Eau de Parfum masculino de 100 ml da Maison Alhambra, em caixa escura e discreta.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 18.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-maison-alhambra-salvo-eau-de-parfum-masculino-100-ml__5279881/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 57,
     "name": "Marc Jacobs Daisy Dream",
     "category": "perfumes",
-    "price": 332.22,
+    "price": 330.53,
     "image": "/images/products/comprasparaguai-39453.png",
     "description": "Eau de Toilette feminino de 100 ml da Marc Jacobs, com frasco azul-claro e tampa de margaridas.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 49,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-feminino-marc-jacobs-daisy-dream-edt-100-ml__5180822/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 58,
     "name": "Marc Jacobs Perfect Absolute",
     "category": "perfumes",
-    "price": 610.2,
+    "price": 708.28,
     "image": "/images/products/comprasparaguai-70053.avif",
     "description": "Eau de Parfum feminino da Marc Jacobs, com frasco bordô e charms de estrela e dado na tampa.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 105,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/marc-jacobs-perfect-absolute-edp-f-100ml__5217917/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 59,
     "name": "Perfumes de Bolso 35 ml",
     "category": "perfumes",
-    "price": 49.0,
+    "price": null,
     "image": null,
     "description": "Perfumes em formato compacto de 35 ml, em vários modelos, perfeitos para levar na bolsa. A arte é ilustrativa.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 60,
     "name": "Rabanne 1 Million",
     "category": "perfumes",
-    "price": 352.49,
+    "price": 350.7,
     "image": "/images/products/comprasparaguai-3215.png",
     "description": "Eau de Toilette masculino da Rabanne, versão original da linha, em caixa dourada.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 51.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-paco-rabanne-1-million-eau-de-toilette-masculino-100ml__4484056/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 61,
     "name": "Rabanne 1 Million Golden Oud",
     "category": "perfumes",
-    "price": 494.94,
+    "price": 445.21,
     "image": "/images/products/comprasparaguai-70601.avif",
     "description": "Parfum Intense masculino da Rabanne, de família amadeirada oriental com oud, sândalo e couro. Caixa dourada com joia verde.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 66,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-paco-rabanne-1-million-golden-oud-parfum-intense-masculino-100-ml__5595307/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 62,
     "name": "Rabanne 1 Million Parfum",
     "category": "perfumes",
-    "price": 710.0,
+    "price": 445.21,
     "image": "/images/products/comprasparaguai-31326.png",
     "description": "Parfum masculino de 100 ml da Rabanne, em frasco e caixa dourados em formato de barra de ouro.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 66,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perf-masc-paco-rabanne-one-million-parfum-100ml__5385434/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 63,
     "name": "Rabanne Invictus",
     "category": "perfumes",
-    "price": 352.49,
+    "price": 350.7,
     "image": "/images/products/comprasparaguai-6920.jpg",
     "description": "Eau de Toilette masculino da Rabanne, com frasco em forma de troféu e caixa prateada com asas.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 51.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/paco-rabanne-invictus-edt-100ml__4227066/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 64,
     "name": "Rabanne Lady Million",
     "category": "perfumes",
-    "price": 413.51,
+    "price": 411.41,
     "image": "/images/products/comprasparaguai-3918.jpg",
     "description": "Eau de Parfum feminino de 80 ml da Rabanne, com frasco dourado facetado em forma de diamante.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 60.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-paco-rabanne-lady-million-edp-80ml-8211-feminino__4349167/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 65,
     "name": "Rabanne Lady Million Empire",
     "category": "perfumes",
-    "price": 799,
+    "price": null,
     "image": "/images/products/comprasparaguai-26900.png",
     "description": "Eau de Parfum feminino da Rabanne, com frasco em forma de diamante rosé.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 66,
     "name": "Selina Selina",
     "category": "perfumes",
-    "price": 29.9,
+    "price": null,
     "image": null,
     "description": "Eau de Parfum feminino de 35 ml em versão compacta, com caixa pink e frasco redondo cor-de-rosa.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 67,
     "name": "Shakhan",
     "category": "perfumes",
-    "price": 29.9,
+    "price": null,
     "image": null,
     "description": "Eau de Parfum de 35 ml em versão compacta, com caixa em tons de marrom e dourado.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 68,
     "name": "Valentino Uomo Born in Roma",
     "category": "perfumes",
-    "price": 610.2,
+    "price": 580.12,
     "image": "/images/products/comprasparaguai-49420.png",
     "description": "Eau de Toilette masculino de 100 ml da Valentino, com frasco cravejado de pinos e caixa preta.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 86,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-valentino-uomo-born-in-roma-eau-de-toilette-masculino-100-ml__5402113/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 69,
     "name": "Versace Bright Crystal Absolu",
     "category": "perfumes",
-    "price": 432.49,
+    "price": 430.3,
     "image": "/images/products/comprasparaguai-7724.jpg",
     "description": "Eau de Parfum feminino da Versace, com frasco e tampa cristalina em tom rosa-choque.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 63.79,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-versace-bright-crystal-absolu-eau-de-parfum-feminino-90ml__4493350/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 70,
     "name": "Versace Yellow Diamond",
     "category": "perfumes",
-    "price": 366.05,
+    "price": 377.68,
     "image": "/images/products/comprasparaguai-7026.png",
     "description": "Eau de Toilette feminino da Versace, com frasco e tampa lapidados em amarelo.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 55.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-versace-yellow-diamond-eau-de-toilette-feminino-90ml__4495944/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 71,
     "name": "Versace Yellow Diamond Intense",
     "category": "perfumes",
-    "price": 366.05,
+    "price": 364.19,
     "image": "/images/products/comprasparaguai-14673.jpg",
     "description": "Eau de Parfum feminino de 90 ml da Versace, com frasco amarelo e caixa azul-royal com arabescos dourados.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 53.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-versace-yellow-diamond-intense-eau-de-parfum-feminino-90ml__4587570/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 73,
     "name": "Krip Daiman",
     "category": "perfumes",
-    "price": 101.7,
+    "price": 101.18,
     "image": "/images/products/comprasparaguai-70447.avif",
     "description": "Perfume de inspiração Krip, inspirado em 212 VIP Black (Carolina Herrera). Notas de absinto, anis, erva-doce, lavanda, baunilha negra e almíscar.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 15,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perf-krip-daiman-edp-100ml-masculino__5481082/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 74,
     "name": "Krip Jabal",
     "category": "perfumes",
-    "price": 101.7,
+    "price": 101.18,
     "image": "/images/products/comprasparaguai-70368.avif",
     "description": "Perfume de inspiração Krip, inspirado em Eros (Versace). Notas de hortelã, maçã verde, limão, fava tonka, baunilha e cedro.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 15,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perf-krip-jabal-edp-100ml-masculino__5481079/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 76,
     "name": "Krip Sama",
     "category": "perfumes",
-    "price": 101.7,
+    "price": 101.18,
     "image": "/images/products/comprasparaguai-70448.avif",
     "description": "Perfume de inspiração Krip, inspirado em Allure Homme Sport (Chanel). Notas de laranja, oceânicas, pimenta, néroli, cedro e fava tonka.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 15,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-krip-sama-eau-de-parfum-unissex-100ml__5464407/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 78,
     "name": "Krip Bahar",
     "category": "perfumes",
-    "price": 101.7,
+    "price": 101.18,
     "image": "/images/products/comprasparaguai-70445.avif",
     "description": "Perfume de inspiração Krip, inspirado em Miss Dior (Dior). Notas de íris, peônia, rosa, damasco, pêssego, baunilha e sândalo.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 15,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-krip-bahar-eau-de-parfum-feminino-100ml__5505971/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 79,
     "name": "Krip Hubb",
     "category": "perfumes",
-    "price": 101.7,
+    "price": 101.18,
     "image": "/images/products/comprasparaguai-70369.avif",
     "description": "Perfume de inspiração Krip, inspirado em Good Girl (Carolina Herrera). Notas de amêndoa, café, tuberosa, jasmim, fava tonka e cacau.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 15,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-krip-hubb-edp-feminino-100ml__5481084/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 80,
     "name": "Krip Sugar",
     "category": "perfumes",
-    "price": 101.7,
+    "price": 101.18,
     "image": "/images/products/comprasparaguai-70371.avif",
     "description": "Perfume de inspiração Krip, inspirado em La Vie Est Belle (Lancôme). Notas de groselha preta, pera, íris, jasmim, praliné e baunilha.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 15,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-krip-sugar-eau-de-parfum-feminino-100ml__5464408/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 81,
     "name": "Lattafa Yara Kit Perfume + Desodorante",
     "category": "perfumes",
-    "price": 229.0,
+    "price": 236.09,
     "image": "/images/products/comprasparaguai-5617980.webp",
     "description": "Kit de 2 peças em caixa de presente: Yara Eau de Parfum e desodorante spray. Presente delicado em tons de rosa.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 35,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/kit-perfume-feminino-lattafa-yara-edp-100ml-desodorante__5617980/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 82,
     "name": "Lattafa Eclaire Kit Perfume + Desodorante",
     "category": "perfumes",
-    "price": 239.0,
+    "price": 205.74,
     "image": "/images/products/comprasparaguai-5650520.webp",
     "description": "Kit de 2 peças em caixa de presente: Eclaire Eau de Parfum e desodorante spray, em tons de nude e dourado.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 30.5,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/perfume-lattafa-kit-eclaire-100ml-edp-deo-200ml__5650520/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 83,
     "name": "Lattafa Asad Fragrance Gift Set",
     "category": "perfumes",
-    "price": 289.0,
+    "price": 269.82,
     "image": "/images/products/comprasparaguai-5490079.webp",
     "description": "Kit de 3 peças em caixa de presente: Asad Eau de Parfum, miniatura em spray e gel de banho.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 40,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/kit-lattafa-asad-eau-de-parfum-masculino-3-em-1-100ml-12ml-100ml__5490079/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 84,
     "name": "Kit Mystical One & Only Perfume + Loção",
     "category": "perfumes",
-    "price": 99.9,
+    "price": null,
     "image": "/images/products/mystical-one-only-perfume-locao.webp",
     "description": "Kit de 2 peças da linha Mystical Gift Set: One & Only Eau de Parfum e loção corporal de 60 ml.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 89,
     "name": "Victoria's Secret Fragrance Mist 250 ml",
     "category": "perfumes",
-    "price": 99.0,
+    "price": null,
     "image": null,
     "description": "Body splash de 250 ml em 4 fragrâncias: Velvet Petals, Aqua Kiss, Love Addict e Amber Romance.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 90,
     "name": "Earth's Creation Vitamina E 180 mg (400 UI)",
     "category": "saude",
-    "price": 260.0,
+    "price": null,
     "image": "/images/products/earths-creation-vitamina-e-400-ui.jpg",
     "description": "Suplemento americano com 100 cápsulas softgel de vitamina E, com 180 mg (400 UI) por porção.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 91,
     "name": "Earth's Creation Vitamina D Natural 5.000 UI",
     "category": "saude",
-    "price": 260.0,
+    "price": 80.95,
     "image": "/images/products/comprasparaguai-4172196.webp",
     "description": "Suplemento americano com 100 cápsulas softgel de vitamina D natural, com 5.000 UI (125 mcg) por porção.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 12,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/vitamina-d-earths-creation-super-strength-5000-ui-100-capsulas-moles__4172196/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 92,
     "name": "Earth's Creation Vitamina C 500 mg",
     "category": "saude",
-    "price": 260.0,
+    "price": null,
     "image": "/images/products/earths-creation-vitamina-c-500-mg.jpg",
     "description": "Suplemento americano com 100 comprimidos de vitamina C, com 500 mg por porção. Selo Non-GMO.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 93,
     "name": "Dorph Creatine Gummies 5 g",
     "category": "saude",
-    "price": 260.0,
+    "price": null,
     "image": null,
     "description": "Creatina em formato de goma, com 5 g por porção. Pote com 60 gomas, em 3 sabores: Red Fruits, Green Grape e Strawberry.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 94,
     "name": "Landerfit Hydrolyzed Collagen + Vitamina C + Ácido Hialurônico",
     "category": "saude",
-    "price": 270.0,
+    "price": 161.89,
     "image": "/images/products/comprasparaguai-4166581.webp",
     "description": "Suplemento com 180 cápsulas de colágeno hidrolisado, vitamina C e ácido hialurônico. Sem lactose e sem glúten.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 24,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/landerfit-hydrolyzed-collagen-3em1-vitamin-chyaluronic-acid-180-capsulas__4166581/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 96,
     "name": "Eticos Quenavin L-Cistina + Vitaminas e Minerais",
     "category": "saude",
-    "price": 279.0,
+    "price": 121.42,
     "image": "/images/products/comprasparaguai-5430051.webp",
     "description": "Suplemento com 30 cápsulas moles de L-cistina, vitaminas e minerais. Indicado no anúncio para cabelos e unhas.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 18,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/eticos-quenavin-l-cistina-vitaminas-e-minerais-30-capsulas__5430051/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 97,
     "name": "Wellness LabsRx Resveratrol NAD+ 1500",
     "category": "saude",
-    "price": 399.0,
+    "price": 249.58,
     "image": "/images/products/comprasparaguai-4815101.webp",
     "description": "Suplemento com 90 cápsulas vegetais de resveratrol e NAD+ lipossomal, com 1.500 mg por porção.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 37,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/wellness-resveratrol-nad-1500-90-capsulas__4815101/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 98,
     "name": "Biyode Hair, Skin & Nails Gummies",
     "category": "saude",
-    "price": 235.0,
+    "price": null,
     "image": "/images/products/biyode-hair-skin-nails-80-gummies.jpg",
     "description": "Gomas sabor morango com biotina 2.500 mcg por porção e vitaminas C e E. Pote com 80 gomas. Selo Non-GMO.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 99,
     "name": "Elemento Puro Ômegado Ômega 3 Neuro 1400 mg",
     "category": "saude",
-    "price": 199.0,
+    "price": null,
     "image": "/images/products/elementopuro-omegadop-neuro-1400-mg.jpg",
     "description": "Óleo de peixe ultraconcentrado em cápsulas, com ômega 3 (MEG-3) de 1.400 mg.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 100,
     "name": "Elemento Puro Termodo Cafeína Anidra 200 mg",
     "category": "saude",
-    "price": 199.0,
+    "price": null,
     "image": "/images/products/elementopuro-termodop-cafeina-200-mg.jpg",
     "description": "Cafeína anidra de 200 mg em cápsulas, da linha Termodo da Elemento Puro.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 101,
     "name": "Xiaomi POCO X8 Pro Max 5G",
     "category": "eletronicos",
-    "price": 3150.0,
+    "price": 3662.82,
     "image": "/images/products/comprasparaguai-5330960.webp",
     "description": "Smartphone com 512 GB e 12 GB de RAM. Processador Dimensity 9500s, tela AMOLED de 6,83\" com 120 Hz, bateria de 8.500 mAh e carga de 100 W. Cor laranja.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 543,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-xiaomi-poco-x8-pro-max-nfc-dual-sim-de-512gb12gb-ram-de-683-508mp20mp-laranja-global__5330960/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 102,
     "name": "Xiaomi Redmi Note 15 Pro 5G",
     "category": "eletronicos",
-    "price": 1950.0,
+    "price": 2010.1,
     "image": "/images/products/comprasparaguai-66042.avif",
     "description": "Smartphone com 256 GB e 8 GB de RAM, câmera de 200 MP, bateria de 6.580 mAh e tela AMOLED de 6,83\" com 120 Hz. Cor preta.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 297.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-xiaomi-redmi-note-15-pro-5g-dual-sim-de-256gb8gb-ram-de-683-2008mp20mp-preto-global__5141115/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 103,
     "name": "Motorola Moto G Power 5G",
     "category": "eletronicos",
-    "price": 1460.0,
+    "price": null,
     "image": null,
     "description": "Smartphone 5G com 256 GB e 8 GB de RAM, na cor vermelha.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
+  },
+  {
+    "id": 222,
+    "name": "Apple iPhone 12 64GB",
+    "category": "eletronicos",
+    "price": 1214.2,
+    "image": "/images/products/comprasparaguai-31205.jpg",
+    "description": "Apple iPhone 12 com 64GB de armazenamento. Condição não especificada no título da oferta; confirme com a equipe.",
+    "featured": false,
+    "available": true,
+    "storage": "64GB",
+    "model": "iPhone 12",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 180,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/cel-iphone-12-64gb-preto-ch-branco__4686332/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 223,
+    "name": "Apple iPhone 12 128GB (Swap Grade A)",
+    "category": "eletronicos",
+    "price": 1416.56,
+    "image": "/images/products/comprasparaguai-4585795.webp",
+    "description": "Apple iPhone 12 com 128GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 12",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 210,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/swap-iphone-12-128gb-grad-a-green__4585795/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 224,
+    "name": "Apple iPhone 12 256GB (Swap Grade A++)",
+    "category": "eletronicos",
+    "price": 1551.47,
+    "image": "/images/products/comprasparaguai-5549578.webp",
+    "description": "Apple iPhone 12 com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A++.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 12",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A++",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 230,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-12-256gb-swap-a-black__5549578/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 225,
+    "name": "Apple iPhone 12 mini 64GB (Swap)",
+    "category": "eletronicos",
+    "price": 1402.4,
+    "image": "/images/products/comprasparaguai-5611672.webp",
+    "description": "Apple iPhone 12 mini com 64GB de armazenamento. Apresentação do anúncio: Swap.",
+    "featured": false,
+    "available": true,
+    "storage": "64GB",
+    "model": "iPhone 12 mini",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 207.9,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-12-mini-64gb-swap-azul__5611672/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 226,
+    "name": "Apple iPhone 12 mini 128GB",
+    "category": "eletronicos",
+    "price": null,
+    "image": "/images/products/comprasparaguai-5611672.webp",
+    "description": "Apple iPhone 12 mini com 128GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 12 mini",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
+  },
+  {
+    "id": 227,
+    "name": "Apple iPhone 12 mini 256GB",
+    "category": "eletronicos",
+    "price": null,
+    "image": "/images/products/comprasparaguai-5611672.webp",
+    "description": "Apple iPhone 12 mini com 256GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 12 mini",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
+  },
+  {
+    "id": 228,
+    "name": "Apple iPhone 12 Pro 128GB (Swap Grade A+)",
+    "category": "eletronicos",
+    "price": 1780.82,
+    "image": "/images/products/comprasparaguai-3659464.webp",
+    "description": "Apple iPhone 12 Pro com 128GB de armazenamento. Apresentação do anúncio: Swap Grade A+.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 12 Pro",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A+",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 264,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-12-pro-128gb-black-swap-a__3659464/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 229,
+    "name": "Apple iPhone 12 Pro 256GB (Swap Grade B)",
+    "category": "eletronicos",
+    "price": 1855.02,
+    "image": "/images/products/comprasparaguai-4585846.webp",
+    "description": "Apple iPhone 12 Pro com 256GB de armazenamento. Apresentação do anúncio: Swap Grade B.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 12 Pro",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade B",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 275,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/swap-iphone-12-pro-256gb-grad-b-black__4585846/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 230,
+    "name": "Apple iPhone 12 Pro 512GB (Swap Grade B)",
+    "category": "eletronicos",
+    "price": 2023.66,
+    "image": "/images/products/comprasparaguai-4676347.webp",
+    "description": "Apple iPhone 12 Pro com 512GB de armazenamento. Apresentação do anúncio: Swap Grade B.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 12 Pro",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade B",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 300,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/swap-iphone-12-pro-512gb-grad-b-blue__4676347/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 231,
+    "name": "Apple iPhone 12 Pro Max 128GB (Swap Grade A-)",
+    "category": "eletronicos",
+    "price": 1888.75,
+    "image": "/images/products/comprasparaguai-4592353.webp",
+    "description": "Apple iPhone 12 Pro Max com 128GB de armazenamento. Apresentação do anúncio: Swap Grade A-.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 12 Pro Max",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A-",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 280,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/swap-iphone-12-pro-max-128gb-grad-a-blue__4592353/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 232,
+    "name": "Apple iPhone 12 Pro Max 256GB (Swap Grade A+)",
+    "category": "eletronicos",
+    "price": 2219.28,
+    "image": "/images/products/comprasparaguai-4798524.webp",
+    "description": "Apple iPhone 12 Pro Max com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A+.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 12 Pro Max",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A+",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 329,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-12-pro-max-256gb-blue-swap-a__4798524/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 233,
+    "name": "Apple iPhone 12 Pro Max 512GB (Seminovo Grade A)",
+    "category": "eletronicos",
+    "price": 2360.94,
+    "image": "/images/products/comprasparaguai-5789297.webp",
+    "description": "Apple iPhone 12 Pro Max com 512GB de armazenamento. Apresentação do anúncio: Seminovo Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 12 Pro Max",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Seminovo Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 350,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-12-pro-max-512gb-dourado-seminovo-grade-a-americano__5789297/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 234,
+    "name": "Apple iPhone 13 128GB (Swap Grade A-)",
+    "category": "eletronicos",
+    "price": 1720.11,
+    "image": "/images/products/comprasparaguai-4617904.webp",
+    "description": "Apple iPhone 13 com 128GB de armazenamento. Apresentação do anúncio: Swap Grade A-.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 13",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A-",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 255,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-13-128gb-tela-super-retina-xdr6-cam-dupla-121212mp-black-swap-grade-a-menos-1-mes-de-garantia__4617904/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 235,
+    "name": "Apple iPhone 13 256GB (Swap Grade A-)",
+    "category": "eletronicos",
+    "price": 1821.29,
+    "image": "/images/products/comprasparaguai-5122829.webp",
+    "description": "Apple iPhone 13 com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A-.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 13",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A-",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 270,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-13-256gb-verde-swap-a-menos-americano__5122829/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 236,
+    "name": "Apple iPhone 13 512GB (CPO)",
+    "category": "eletronicos",
+    "price": 3710.04,
+    "image": "/images/products/comprasparaguai-5224461.webp",
+    "description": "Apple iPhone 13 com 512GB de armazenamento. Apresentação do anúncio: CPO.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 13",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "CPO",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 550,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/cel-iphone-13-512gb-cpo-negro__5224461/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 237,
+    "name": "Apple iPhone 13 mini 128GB",
+    "category": "eletronicos",
+    "price": null,
+    "image": "/images/products/comprasparaguai-53797.webp",
+    "description": "Apple iPhone 13 mini com 128GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 13 mini",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
+  },
+  {
+    "id": 238,
+    "name": "Apple iPhone 13 mini 256GB",
+    "category": "eletronicos",
+    "price": null,
+    "image": "/images/products/comprasparaguai-53797.webp",
+    "description": "Apple iPhone 13 mini com 256GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 13 mini",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
+  },
+  {
+    "id": 239,
+    "name": "Apple iPhone 13 mini 512GB",
+    "category": "eletronicos",
+    "price": null,
+    "image": "/images/products/comprasparaguai-53797.webp",
+    "description": "Apple iPhone 13 mini com 512GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 13 mini",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
+  },
+  {
+    "id": 240,
+    "name": "Apple iPhone 13 Pro 128GB (Swap Grade A-)",
+    "category": "eletronicos",
+    "price": 2360.94,
+    "image": "/images/products/comprasparaguai-4472023.webp",
+    "description": "Apple iPhone 13 Pro com 128GB de armazenamento. Apresentação do anúncio: Swap Grade A-.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 13 Pro",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A-",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 350,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-13-pro-128gb-azul-swap-grado-a-menos-americano__4472023/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 241,
+    "name": "Apple iPhone 13 Pro 256GB (Swap Grade A-)",
+    "category": "eletronicos",
+    "price": 2495.85,
+    "image": "/images/products/comprasparaguai-4473851.webp",
+    "description": "Apple iPhone 13 Pro com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A-.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 13 Pro",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A-",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 370,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-13-pro-256gb-verde-swap-a-menos-americano__4473851/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 242,
+    "name": "Apple iPhone 13 Pro 512GB (Swap Grade B)",
+    "category": "eletronicos",
+    "price": 2873.6,
+    "image": "/images/products/comprasparaguai-5280960.webp",
+    "description": "Apple iPhone 13 Pro com 512GB de armazenamento. Apresentação do anúncio: Swap Grade B.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 13 Pro",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade B",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 426,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-13-pro-512gb-tela-super-retina-xdr-61-cam-tripla-121212mp12mp-ios-15-graphite-swap-grade-b-1-mes-garantia-fully-tested-100-funcional__5280960/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 243,
+    "name": "Apple iPhone 13 Pro 1TB (Swap)",
+    "category": "eletronicos",
+    "price": 3366.02,
+    "image": "/images/products/comprasparaguai-5460637.webp",
+    "description": "Apple iPhone 13 Pro com 1TB de armazenamento. Apresentação do anúncio: Swap.",
+    "featured": false,
+    "available": true,
+    "storage": "1TB",
+    "model": "iPhone 13 Pro",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 499,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-13-pro-1tb-americano-verde-swap-hso__5460637/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 244,
+    "name": "Apple iPhone 13 Pro Max 128GB (Swap Grade A)",
+    "category": "eletronicos",
+    "price": 2792.65,
+    "image": "/images/products/comprasparaguai-3802439.webp",
+    "description": "Apple iPhone 13 Pro Max com 128GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone 13 Pro Max",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 414,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-13-pro-max-128gb-azul-swap-grade-a-americano__3802439/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 245,
+    "name": "Apple iPhone 13 Pro Max 256GB (Swap Grade A+)",
+    "category": "eletronicos",
+    "price": 2947.8,
+    "image": "/images/products/comprasparaguai-4127219.webp",
+    "description": "Apple iPhone 13 Pro Max com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A+.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 13 Pro Max",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A+",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 437,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-13-pro-max-256gb-silver-swap-a__4127219/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 246,
+    "name": "Apple iPhone 13 Pro Max 512GB",
+    "category": "eletronicos",
+    "price": 3204.13,
+    "image": "/images/products/comprasparaguai-5361450.webp",
+    "description": "Apple iPhone 13 Pro Max com 512GB de armazenamento. Condição não especificada no título da oferta; confirme com a equipe.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 13 Pro Max",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 475,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-13-pro-max-512gb__5361450/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 247,
+    "name": "Apple iPhone 13 Pro Max 1TB (Swap Grade A+)",
+    "category": "eletronicos",
+    "price": 3440.22,
+    "image": "/images/products/comprasparaguai-5040496.webp",
+    "description": "Apple iPhone 13 Pro Max com 1TB de armazenamento. Apresentação do anúncio: Swap Grade A+.",
+    "featured": false,
+    "available": true,
+    "storage": "1TB",
+    "model": "iPhone 13 Pro Max",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A+",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 510,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-13-pro-max-1tb-azul-swap-a__5040496/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 248,
+    "name": "Apple iPhone SE (3ª geração) 64GB",
+    "category": "eletronicos",
+    "price": 876.92,
+    "image": "/images/products/comprasparaguai-5361446.webp",
+    "description": "Apple iPhone SE (3ª geração) com 64GB de armazenamento. Condição não especificada no título da oferta; confirme com a equipe.",
+    "featured": false,
+    "available": true,
+    "storage": "64GB",
+    "model": "iPhone SE (3ª geração)",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 130,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-se-3ra-gen-64gb__5361446/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 249,
+    "name": "Apple iPhone SE (3ª geração) 128GB",
+    "category": "eletronicos",
+    "price": null,
+    "image": "/images/products/comprasparaguai-5361446.webp",
+    "description": "Apple iPhone SE (3ª geração) com 128GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "featured": false,
+    "available": true,
+    "storage": "128GB",
+    "model": "iPhone SE (3ª geração)",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
+  },
+  {
+    "id": 250,
+    "name": "Apple iPhone SE (3ª geração) 256GB",
+    "category": "eletronicos",
+    "price": null,
+    "image": "/images/products/comprasparaguai-5361446.webp",
+    "description": "Apple iPhone SE (3ª geração) com 256GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone SE (3ª geração)",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 168,
     "name": "Apple iPhone 14 128GB",
     "category": "eletronicos",
-    "price": 3894.0,
+    "price": 2023.66,
     "image": "/images/products/comprasparaguai-43627.png",
     "description": "Apple iPhone 14 com 128GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "128GB",
     "model": "iPhone 14",
-    "originalPrice": 3245.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 300,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-14-128gb_43627/",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-14-128gb-purple__5369831/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 169,
     "name": "Apple iPhone 14 256GB (Swap Grade A)",
     "category": "eletronicos",
-    "price": 2116.92,
+    "price": 2131.59,
     "image": "/images/products/comprasparaguai-70524.avif",
     "description": "Apple iPhone 14 com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 14",
-    "originalPrice": 1764.1,
+    "condition": "Swap Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 316,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
-    "condition": "Swap Grade A"
+      "url": "https://www.comprasparaguai.com.br/swap-iphone-14-256gb-grade-a-black__5051013/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 251,
+    "name": "Apple iPhone 14 512GB",
+    "category": "eletronicos",
+    "price": null,
+    "image": "/images/products/comprasparaguai-70524.avif",
+    "description": "Apple iPhone 14 com 512GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 14",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 106,
     "name": "Apple iPhone 14 Plus 128GB",
     "category": "eletronicos",
-    "price": 4354.2,
+    "price": 2293.48,
     "image": "/images/products/comprasparaguai-43977.jpg",
     "description": "Apple iPhone 14 Plus com 128GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "128GB",
     "model": "iPhone 14 Plus",
-    "originalPrice": 3628.5,
-    "markupPercent": 20,
-    "priceSource": {
-      "name": "Compras Paraguai",
-      "url": "https://mobile.comprasparaguai.com.br/celular/?ordem=menor-preco&page=12&precomin=370",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
     "catalogItems": [
       106
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 340,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-14-plus-128gb__5361449/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 252,
+    "name": "Apple iPhone 14 Plus 256GB (Seminovo Grade A)",
+    "category": "eletronicos",
+    "price": 2462.12,
+    "image": "/images/products/comprasparaguai-5789305.webp",
+    "description": "Apple iPhone 14 Plus com 256GB de armazenamento. Apresentação do anúncio: Seminovo Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 14 Plus",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Seminovo Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 365,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-14-plus-256gb-preto-seminovo-grade-a-americano__5789305/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 253,
+    "name": "Apple iPhone 14 Plus 512GB",
+    "category": "eletronicos",
+    "price": 5598.79,
+    "image": "/images/products/comprasparaguai-5483146.webp",
+    "description": "Apple iPhone 14 Plus com 512GB de armazenamento. Condição não especificada no título da oferta; confirme com a equipe.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 14 Plus",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 830,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-14-plus-512gb-yellow__5483146/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 170,
     "name": "Apple iPhone 14 Pro 128GB (Swap Grade A)",
     "category": "eletronicos",
-    "price": 2796.6,
+    "price": 2630.76,
     "image": "/images/products/comprasparaguai-70514.avif",
     "description": "Apple iPhone 14 Pro com 128GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
     "featured": false,
     "available": true,
     "storage": "128GB",
     "model": "iPhone 14 Pro",
-    "originalPrice": 2330.5,
+    "condition": "Swap Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 390,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
-    "condition": "Swap Grade A"
+      "url": "https://www.comprasparaguai.com.br/swap-iphone-14-pro-128gb-grade-a-silver__4585943/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 171,
     "name": "Apple iPhone 14 Pro 256GB (Swap Grade A)",
     "category": "eletronicos",
-    "price": 3079.8,
+    "price": 2833.12,
     "image": "/images/products/comprasparaguai-70514.avif",
     "description": "Apple iPhone 14 Pro com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 14 Pro",
-    "originalPrice": 2566.5,
+    "condition": "Swap Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 420,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
-    "condition": "Swap Grade A"
+      "url": "https://www.comprasparaguai.com.br/swap-iphone-14-pro-256gb-grade-a-black__4585944/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 254,
+    "name": "Apple iPhone 14 Pro 512GB (Swap Grade A-)",
+    "category": "eletronicos",
+    "price": 3035.49,
+    "image": "/images/products/comprasparaguai-4955742.webp",
+    "description": "Apple iPhone 14 Pro com 512GB de armazenamento. Apresentação do anúncio: Swap Grade A-.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 14 Pro",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A-",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 450,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/swap-iphone-14-pro-512gb-grade-a-silver__4955742/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 255,
+    "name": "Apple iPhone 14 Pro 1TB",
+    "category": "eletronicos",
+    "price": 3507.68,
+    "image": "/images/products/comprasparaguai-5361451.webp",
+    "description": "Apple iPhone 14 Pro com 1TB de armazenamento. Condição não especificada no título da oferta; confirme com a equipe.",
+    "featured": false,
+    "available": true,
+    "storage": "1TB",
+    "model": "iPhone 14 Pro",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 520,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-14-pro-1tb__5361451/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 172,
     "name": "Apple iPhone 14 Pro Max 128GB (Swap Grade A)",
     "category": "eletronicos",
-    "price": 3285.12,
+    "price": 3129.93,
     "image": "/images/products/comprasparaguai-70514.avif",
     "description": "Apple iPhone 14 Pro Max com 128GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
     "featured": false,
     "available": true,
     "storage": "128GB",
     "model": "iPhone 14 Pro Max",
-    "originalPrice": 2737.6,
+    "condition": "Swap Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 464,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
-    "condition": "Swap Grade A"
+      "url": "https://www.comprasparaguai.com.br/iphone-14-pro-max-128gb-black-swap-a__4118588/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 173,
     "name": "Apple iPhone 14 Pro Max 256GB (Swap Grade A)",
     "category": "eletronicos",
-    "price": 3681.6,
+    "price": 3473.95,
     "image": "/images/products/comprasparaguai-70514.avif",
     "description": "Apple iPhone 14 Pro Max com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 14 Pro Max",
-    "originalPrice": 3068.0,
+    "condition": "Swap Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 515,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+14",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
-    "condition": "Swap Grade A"
+      "url": "https://www.comprasparaguai.com.br/swap-iphone-14-pro-max-256gb-grade-a-silver__4585958/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 256,
+    "name": "Apple iPhone 14 Pro Max 512GB (Swap Grade A)",
+    "category": "eletronicos",
+    "price": 3608.86,
+    "image": "/images/products/comprasparaguai-5542412.webp",
+    "description": "Apple iPhone 14 Pro Max com 512GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 14 Pro Max",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 535,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-14-pro-max-swap-a-512gb-6gb-ram-tela-67-roxo__5542412/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 257,
+    "name": "Apple iPhone 14 Pro Max 1TB (Swap Grade A+)",
+    "category": "eletronicos",
+    "price": 3912.41,
+    "image": "/images/products/comprasparaguai-5463565.webp",
+    "description": "Apple iPhone 14 Pro Max com 1TB de armazenamento. Apresentação do anúncio: Swap Grade A+.",
+    "featured": false,
+    "available": true,
+    "storage": "1TB",
+    "model": "iPhone 14 Pro Max",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A+",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 580,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-14-pro-max-1tb-preto-swap-a__5463565/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 174,
     "name": "Apple iPhone 15 128GB",
     "category": "eletronicos",
-    "price": 2902.8,
+    "price": 2765.67,
     "image": "/images/products/comprasparaguai-48875.jpg",
     "description": "Apple iPhone 15 com 128GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "128GB",
     "model": "iPhone 15",
-    "originalPrice": 2419.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 410,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-15-128gb_48875/",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/iphone-15-128gb-100-green__5329954/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 175,
     "name": "Apple iPhone 15 256GB (CPO)",
     "category": "eletronicos",
-    "price": 4531.2,
+    "price": 4317.14,
     "image": "/images/products/comprasparaguai-69636.avif",
     "description": "Apple iPhone 15 com 256GB de armazenamento. Apresentação do anúncio: CPO.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 15",
-    "originalPrice": 3776.0,
+    "condition": "CPO",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 640,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
-    "condition": "CPO"
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-15-256gb-cpo-green__5671867/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 258,
+    "name": "Apple iPhone 15 512GB",
+    "category": "eletronicos",
+    "price": null,
+    "image": "/images/products/comprasparaguai-69636.avif",
+    "description": "Apple iPhone 15 com 512GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 15",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 176,
     "name": "Apple iPhone 15 Plus 128GB",
     "category": "eletronicos",
-    "price": 2956.8,
+    "price": 2968.03,
     "image": "/images/products/comprasparaguai-69636.avif",
     "description": "Apple iPhone 15 Plus com 128GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "128GB",
     "model": "iPhone 15 Plus",
-    "originalPrice": 2464.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 440,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15+plus",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/iphone-15-plus-128gb__5361453/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 177,
     "name": "Apple iPhone 15 Plus 256GB",
     "category": "eletronicos",
-    "price": 4681.8,
+    "price": 5160.33,
     "image": "/images/products/comprasparaguai-48875.jpg",
     "description": "Apple iPhone 15 Plus com 256GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 15 Plus",
-    "originalPrice": 3901.5,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 765,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15+plus",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-15-plus-a3094-zd-256gb-6gb-ram-tela-67-rosa__5495211/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 259,
+    "name": "Apple iPhone 15 Plus 512GB (Seminovo Grade A)",
+    "category": "eletronicos",
+    "price": 3305.31,
+    "image": "/images/products/comprasparaguai-5789312.webp",
+    "description": "Apple iPhone 15 Plus com 512GB de armazenamento. Apresentação do anúncio: Seminovo Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 15 Plus",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Seminovo Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 490,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-15-plus-512gb-pink-seminovo-grade-a-americano__5789312/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 178,
-    "name": "Apple iPhone 15 Pro 128GB",
+    "name": "Apple iPhone 15 Pro 128GB (Swap)",
     "category": "eletronicos",
-    "price": 3604.18,
+    "price": 3751.87,
     "image": "/images/products/comprasparaguai-70498.avif",
-    "description": "Apple iPhone 15 Pro com 128GB de armazenamento.",
+    "description": "Apple iPhone 15 Pro com 128GB de armazenamento. Condição da oferta de preço conferida: Swap.",
     "featured": false,
     "available": true,
     "storage": "128GB",
     "model": "iPhone 15 Pro",
-    "originalPrice": 3003.48,
+    "condition": "Swap",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 556.2,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=IPHONE+15+PRO+128",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-15-pro-swap-128gb-natural__5611092/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 179,
-    "name": "Apple iPhone 15 Pro 256GB",
+    "name": "Apple iPhone 15 Pro 256GB (Swap Grade A+)",
     "category": "eletronicos",
-    "price": 4002.0,
+    "price": 3878.68,
     "image": "/images/products/comprasparaguai-70498.avif",
-    "description": "Apple iPhone 15 Pro com 256GB de armazenamento.",
+    "description": "Apple iPhone 15 Pro com 256GB de armazenamento. Condição da oferta de preço conferida: Swap Grade A+.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 15 Pro",
-    "originalPrice": 3335.0,
+    "condition": "Swap Grade A+",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 575,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-15-pro-256gb_48865/",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/iphone-15-pro-256gb-swap-a__5361452/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 180,
     "name": "Apple iPhone 15 Pro 512GB",
     "category": "eletronicos",
-    "price": 8566.8,
+    "price": 7791.02,
     "image": "/images/products/comprasparaguai-48877.jpg",
     "description": "Apple iPhone 15 Pro com 512GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "512GB",
     "model": "iPhone 15 Pro",
-    "originalPrice": 7139.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1154.99,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-15-pro-512gb-8211-black-titanium__4485102/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 181,
-    "name": "Apple iPhone 15 Pro 1TB",
+    "name": "Apple iPhone 15 Pro 1TB (Swap Grade A+)",
     "category": "eletronicos",
-    "price": 4495.8,
+    "price": 4283.41,
     "image": "/images/products/comprasparaguai-51440.jpg",
-    "description": "Apple iPhone 15 Pro com 1TB de armazenamento.",
+    "description": "Apple iPhone 15 Pro com 1TB de armazenamento. Condição da oferta de preço conferida: Swap Grade A+.",
     "featured": false,
     "available": true,
     "storage": "1TB",
     "model": "iPhone 15 Pro",
-    "originalPrice": 3746.5,
+    "condition": "Swap Grade A+",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 635,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/iphone-15-pro-1tb-swap-a__5361455/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 182,
     "name": "Apple iPhone 15 Pro Max 256GB (Swap Grade A)",
     "category": "eletronicos",
-    "price": 3894.0,
+    "price": 4108.03,
     "image": "/images/products/comprasparaguai-70498.avif",
     "description": "Apple iPhone 15 Pro Max com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 15 Pro Max",
-    "originalPrice": 3245.0,
+    "condition": "Swap Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 609,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
-    "condition": "Swap Grade A"
+      "url": "https://www.comprasparaguai.com.br/swap-iphone-15-pro-max-256gb-grad-a-black__4699696/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 183,
     "name": "Apple iPhone 15 Pro Max 512GB (Swap Grade A)",
     "category": "eletronicos",
-    "price": 4637.4,
+    "price": 4586.96,
     "image": "/images/products/comprasparaguai-70498.avif",
     "description": "Apple iPhone 15 Pro Max com 512GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
     "featured": false,
     "available": true,
     "storage": "512GB",
     "model": "iPhone 15 Pro Max",
-    "originalPrice": 3864.5,
+    "condition": "Swap Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 680,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
-    "condition": "Swap Grade A"
+      "url": "https://www.comprasparaguai.com.br/swap-iphone-15-pro-max-512gb-grad-a-black__4816292/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 184,
     "name": "Apple iPhone 15 Pro Max 1TB (Swap Grade A)",
     "category": "eletronicos",
-    "price": 5097.6,
+    "price": 4856.78,
     "image": "/images/products/comprasparaguai-70537.avif",
     "description": "Apple iPhone 15 Pro Max com 1TB de armazenamento. Apresentação do anúncio: Swap Grade A.",
     "featured": false,
     "available": true,
     "storage": "1TB",
     "model": "iPhone 15 Pro Max",
-    "originalPrice": 4248.0,
+    "condition": "Swap Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 720,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+15",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
-    "condition": "Swap Grade A"
+      "url": "https://www.comprasparaguai.com.br/swap-iphone-15-pro-max-1tb-grad-a-blue__4974109/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 185,
-    "name": "Apple iPhone 16 128GB",
+    "name": "Apple iPhone 16 128GB (Swap)",
     "category": "eletronicos",
-    "price": 5179.92,
+    "price": 4013.59,
     "image": "/images/products/comprasparaguai-55869.jpg",
-    "description": "Apple iPhone 16 com 128GB de armazenamento.",
+    "description": "Apple iPhone 16 com 128GB de armazenamento. Condição da oferta de preço conferida: Swap.",
     "featured": false,
     "available": true,
     "storage": "128GB",
     "model": "iPhone 16",
-    "originalPrice": 4316.6,
+    "condition": "Swap",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 595,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+16",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-16-128gb-swap-pink__4967919/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 186,
     "name": "Apple iPhone 16 256GB (CPO)",
     "category": "eletronicos",
-    "price": 4809.72,
+    "price": 5025.42,
     "image": "/images/products/comprasparaguai-69614.avif",
     "description": "Apple iPhone 16 com 256GB de armazenamento. Apresentação do anúncio: CPO.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 16",
-    "originalPrice": 4008.1,
+    "condition": "CPO",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 745,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?page=2&q=iphone+16",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
-    "condition": "CPO"
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-cpo-16-256gb-hk-dual-black__5462690/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 260,
+    "name": "Apple iPhone 16 512GB (Swap Grade A)",
+    "category": "eletronicos",
+    "price": 4586.96,
+    "image": "/images/products/comprasparaguai-4734270.webp",
+    "description": "Apple iPhone 16 com 512GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 16",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Swap Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 680,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-16-512gb-esim-branco-americano-swap-a__4734270/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 187,
     "name": "Apple iPhone 16 Plus 128GB",
     "category": "eletronicos",
-    "price": 6520.8,
+    "price": 6408.26,
     "image": "/images/products/comprasparaguai-55959.jpg",
     "description": "Apple iPhone 16 Plus com 128GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "128GB",
     "model": "iPhone 16 Plus",
-    "originalPrice": 5434.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 950,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-plus-128gb_55959/",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-16-plus-a3290-128-gb-mxvu3bea-black__5158103/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
+  },
+  {
+    "id": 261,
+    "name": "Apple iPhone 16 Plus 256GB",
+    "category": "eletronicos",
+    "price": 5929.32,
+    "image": "/images/products/comprasparaguai-5600317.webp",
+    "description": "Apple iPhone 16 Plus com 256GB de armazenamento. Condição não especificada no título da oferta; confirme com a equipe.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone 16 Plus",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 879,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-plus-a3290-hna-256gb-8gb-ram-tela-67-teal__5600317/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 262,
+    "name": "Apple iPhone 16 Plus 512GB",
+    "category": "eletronicos",
+    "price": null,
+    "image": "/images/products/comprasparaguai-5600317.webp",
+    "description": "Apple iPhone 16 Plus com 512GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 16 Plus",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 188,
     "name": "Apple iPhone 16 Pro 128GB",
     "category": "eletronicos",
-    "price": 4453.32,
+    "price": 4242.94,
     "image": "/images/products/comprasparaguai-55846.png",
     "description": "Apple iPhone 16 Pro com 128GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "128GB",
     "model": "iPhone 16 Pro",
-    "originalPrice": 3711.1,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 629,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-pro-128gb_55846/",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/iphone-16-pro-128gb-100-natural-titanium__5199827/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 189,
     "name": "Apple iPhone 16 Pro 256GB (Swap Grade A)",
     "category": "eletronicos",
-    "price": 4678.2,
+    "price": 4613.94,
     "image": "/images/products/comprasparaguai-70518.avif",
     "description": "Apple iPhone 16 Pro com 256GB de armazenamento. Apresentação do anúncio: Swap Grade A.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 16 Pro",
-    "originalPrice": 3898.5,
+    "condition": "Swap Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 684,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+16",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
-    "condition": "Swap Grade A"
+      "url": "https://www.comprasparaguai.com.br/iphone-16-pro-256gb-desert-titanium-swap-a__5097728/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 190,
     "name": "Apple iPhone 16 Pro 512GB (Recondicionado)",
     "category": "eletronicos",
-    "price": 5100.24,
+    "price": 5632.52,
     "image": "/images/products/comprasparaguai-70530.avif",
     "description": "Apple iPhone 16 Pro com 512GB de armazenamento. Apresentação do anúncio: Recondicionado.",
     "featured": false,
     "available": true,
     "storage": "512GB",
     "model": "iPhone 16 Pro",
-    "originalPrice": 4250.2,
+    "condition": "Recondicionado",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 835,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?page=2&q=iphone+16",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
-    "condition": "Recondicionado"
+      "url": "https://www.comprasparaguai.com.br/iphone-16-pro-512gb-americano-swap-hso-preto__5361413/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 263,
+    "name": "Apple iPhone 16 Pro 1TB (Seminovo Grade A)",
+    "category": "eletronicos",
+    "price": 5632.52,
+    "image": "/images/products/comprasparaguai-5789318.webp",
+    "description": "Apple iPhone 16 Pro com 1TB de armazenamento. Apresentação do anúncio: Seminovo Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "1TB",
+    "model": "iPhone 16 Pro",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Seminovo Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 835,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-16-pro-1tb-preto-seminovo-grade-a-americano__5789318/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 191,
     "name": "Apple iPhone 16 Pro Max 256GB",
     "category": "eletronicos",
-    "price": 5911.8,
+    "price": 5463.88,
     "image": "/images/products/comprasparaguai-55844.jpg",
     "description": "Apple iPhone 16 Pro Max com 256GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 16 Pro Max",
-    "originalPrice": 4926.5,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 810,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-14-128gb_43627/",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/iphone-16-pro-max256gbdesert__5239795/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 192,
     "name": "Apple iPhone 16 Pro Max 512GB (Recondicionado)",
     "category": "eletronicos",
-    "price": 5959.62,
+    "price": 5565.06,
     "image": "/images/products/comprasparaguai-60747.webp",
     "description": "Apple iPhone 16 Pro Max com 512GB de armazenamento. Apresentação do anúncio: Recondicionado.",
     "featured": false,
     "available": true,
     "storage": "512GB",
     "model": "iPhone 16 Pro Max",
-    "originalPrice": 4966.35,
+    "condition": "Recondicionado",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 825,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+16",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
-    "condition": "Recondicionado"
+      "url": "https://www.comprasparaguai.com.br/swap-iphone-16-pro-max-512gb-grad-a-black__5342612/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 193,
     "name": "Apple iPhone 16 Pro Max 1TB",
     "category": "eletronicos",
-    "price": 12673.43,
+    "price": 11973.25,
     "image": "/images/products/comprasparaguai-55849.png",
     "description": "Apple iPhone 16 Pro Max com 1TB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "1TB",
     "model": "iPhone 16 Pro Max",
-    "originalPrice": 10561.19,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1774.99,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-pro-max-1tb_55849/",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-16-pro-max-1tb8gb-ram-de-69-484812mp12mp-black-titanium__4468428/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 194,
     "name": "Apple iPhone 16e 128GB",
     "category": "eletronicos",
-    "price": 3998.4,
+    "price": 3777.5,
     "image": "/images/products/comprasparaguai-58802.webp",
     "description": "Apple iPhone 16e com 128GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "128GB",
     "model": "iPhone 16e",
-    "originalPrice": 3332.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 560,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-16e-128gb-black-ll-esim__4727635/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 195,
     "name": "Apple iPhone 16e 256GB",
     "category": "eletronicos",
-    "price": 3796.8,
+    "price": 3777.5,
     "image": "/images/products/comprasparaguai-58803.webp",
     "description": "Apple iPhone 16e com 256GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 16e",
-    "originalPrice": 3164.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 560,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+16e",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-16e-256gb-white-md2e4ch-dual-nano-sim__5551387/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 264,
+    "name": "Apple iPhone 16e 512GB (Seminovo Grade A)",
+    "category": "eletronicos",
+    "price": 3035.49,
+    "image": "/images/products/comprasparaguai-5789309.webp",
+    "description": "Apple iPhone 16e com 512GB de armazenamento. Apresentação do anúncio: Seminovo Grade A.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 16e",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "condition": "Seminovo Grade A",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 450,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-16e-512gb-branco-seminovo-grade-a-americano__5789309/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 196,
     "name": "Apple iPhone 17 256GB",
     "category": "eletronicos",
-    "price": 6283.2,
+    "price": 5295.24,
     "image": "/images/products/comprasparaguai-63988.webp",
     "description": "Apple iPhone 17 com 256GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 17",
-    "originalPrice": 5236.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 785,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/iphone-17-256gb-a3519-esim-white__5195549/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 265,
+    "name": "Apple iPhone 17 512GB",
+    "category": "eletronicos",
+    "price": 7116.54,
+    "image": "/images/products/comprasparaguai-5056093.webp",
+    "description": "Apple iPhone 17 com 512GB de armazenamento. Condição não especificada no título da oferta; confirme com a equipe.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 17",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1055,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-17-512gb-lavander__5056093/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 197,
     "name": "Apple iPhone 17e 256GB",
     "category": "eletronicos",
-    "price": 3787.8,
+    "price": 3608.86,
     "image": "/images/products/comprasparaguai-67681.avif",
     "description": "Apple iPhone 17e com 256GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 17e",
-    "originalPrice": 3156.5,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 535,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-17e-256gb_67681/",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/iphone-17e-256gb-a3575-ll-black__5227383/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
+  },
+  {
+    "id": 266,
+    "name": "Apple iPhone 17e 512GB",
+    "category": "eletronicos",
+    "price": null,
+    "image": "/images/products/comprasparaguai-67681.avif",
+    "description": "Apple iPhone 17e com 512GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone 17e",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 198,
     "name": "Apple iPhone Air 256GB",
     "category": "eletronicos",
-    "price": 6318.9,
+    "price": 5396.43,
     "image": "/images/products/comprasparaguai-63991.webp",
     "description": "Apple iPhone Air com 256GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone Air",
-    "originalPrice": 5265.75,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 800,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-air-256gb__5070333/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 199,
     "name": "Apple iPhone Air 512GB",
     "category": "eletronicos",
-    "price": 6961.5,
+    "price": 6576.89,
     "image": "/images/products/comprasparaguai-63991.webp",
     "description": "Apple iPhone Air com 512GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "512GB",
     "model": "iPhone Air",
-    "originalPrice": 5801.25,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 975,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-air-a3516-4j-512gb-esim-tela-65-azul__5511607/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 267,
+    "name": "Apple iPhone Air 1TB",
+    "category": "eletronicos",
+    "price": 6610.62,
+    "image": "/images/products/comprasparaguai-5511551.webp",
+    "description": "Apple iPhone Air com 1TB de armazenamento. Condição não especificada no título da oferta; confirme com a equipe.",
+    "featured": false,
+    "available": true,
+    "storage": "1TB",
+    "model": "iPhone Air",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 980,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-air-1tb-ll-tela-super-retina-xdr-oled-65-promotion-120hz-cam-48mp18mp-chip-a19-pro-esim-ios-light-gold-anatel__5511551/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 200,
     "name": "Apple iPhone 17 Pro 256GB",
     "category": "eletronicos",
-    "price": 7425.6,
+    "price": 7588.72,
     "image": "/images/products/comprasparaguai-63989.webp",
     "description": "Apple iPhone 17 Pro com 256GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 17 Pro",
-    "originalPrice": 6188.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1125,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-17-pro-a3522-ah-256gb-esim-tela-63-laranja-cosmico__5659965/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 201,
     "name": "Apple iPhone 17 Pro 512GB",
     "category": "eletronicos",
-    "price": 9710.33,
+    "price": 9173.86,
     "image": "/images/products/comprasparaguai-63990.webp",
     "description": "Apple iPhone 17 Pro com 512GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "512GB",
     "model": "iPhone 17 Pro",
-    "originalPrice": 8091.94,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1359.99,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-17-pro-512gb12gb-ram-de-63-484848mp18mp-cosmic-orange__5016466/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 202,
     "name": "Apple iPhone 17 Pro 1TB",
     "category": "eletronicos",
-    "price": 10335.6,
+    "price": 10651.2,
     "image": "/images/products/comprasparaguai-64048.webp",
     "description": "Apple iPhone 17 Pro com 1TB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "1TB",
     "model": "iPhone 17 Pro",
-    "originalPrice": 8613.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1579,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-17-pro-1tb_64048/",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/iphone-17-pro-1tb-blue-a3522-jpa__5743820/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 105,
     "name": "Apple iPhone 17 Pro Max 256GB",
     "category": "eletronicos",
-    "price": 8710.8,
+    "price": 7555,
     "image": "/images/products/comprasparaguai-64041.webp",
     "description": "Apple iPhone 17 Pro Max com 256GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 17 Pro Max",
-    "originalPrice": 7259.0,
-    "markupPercent": 20,
-    "priceSource": {
-      "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-17-pro-max-256gb_64041/",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
     "catalogItems": [
       105
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1120,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/cel-iphone-17-pro-max-256gb-laranja-chino__5797569/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 203,
     "name": "Apple iPhone 17 Pro Max 512GB",
     "category": "eletronicos",
-    "price": 9888.9,
+    "price": 9443.75,
     "image": "/images/products/comprasparaguai-64041.webp",
     "description": "Apple iPhone 17 Pro Max com 512GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "512GB",
     "model": "iPhone 17 Pro Max",
-    "originalPrice": 8240.75,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1400,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/iphone-17-pro-max-512gb-a3525-aha-esim-orange__5740435/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 204,
     "name": "Apple iPhone 17 Pro Max 1TB",
     "category": "eletronicos",
-    "price": 11816.7,
+    "price": 11163.86,
     "image": "/images/products/comprasparaguai-64041.webp",
     "description": "Apple iPhone 17 Pro Max com 1TB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "1TB",
     "model": "iPhone 17 Pro Max",
-    "originalPrice": 9847.25,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1655,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-17-pro-max-a3525-4j-1tb-esim-tela-69-prata__5060805/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 205,
     "name": "Apple iPhone 17 Pro Max 2TB",
     "category": "eletronicos",
-    "price": 13316.1,
+    "price": 12580.42,
     "image": "/images/products/comprasparaguai-64285.webp",
     "description": "Apple iPhone 17 Pro Max com 2TB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "2TB",
     "model": "iPhone 17 Pro Max",
-    "originalPrice": 11096.75,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1865,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+17",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/iphone-17-pro-max-2tb-orange-a3257__5115021/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 206,
     "name": "Apple iPhone 18 Pro 256GB",
     "category": "eletronicos",
-    "price": 8925.0,
+    "price": 8431.92,
     "image": "/images/products/comprasparaguai-71154.avif",
     "description": "Apple iPhone 18 Pro com 256GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 18 Pro",
-    "originalPrice": 7437.5,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1250,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-18-pro-256gb-5g-esim-a3472-ll-azul-glacial-caixa-aberta__5797277/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 207,
     "name": "Apple iPhone 18 Pro 512GB",
     "category": "eletronicos",
-    "price": 10317.3,
+    "price": 9747.29,
     "image": "/images/products/comprasparaguai-71209.avif",
     "description": "Apple iPhone 18 Pro com 512GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "512GB",
     "model": "iPhone 18 Pro",
-    "originalPrice": 8597.75,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1445,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/cel-iphone-18-pro-512gb-silver__5622369/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 208,
     "name": "Apple iPhone 18 Pro 1TB",
     "category": "eletronicos",
-    "price": 13423.2,
+    "price": 13356.15,
     "image": "/images/products/comprasparaguai-71586.avif",
     "description": "Apple iPhone 18 Pro com 1TB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "1TB",
     "model": "iPhone 18 Pro",
-    "originalPrice": 11186.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1980,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/celular-iphone-18-pro-1tb-black-lacrado-lla__5599884/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 209,
     "name": "Apple iPhone 18 Pro 2TB",
     "category": "eletronicos",
-    "price": 19635.0,
+    "price": 18550.21,
     "image": "/images/products/comprasparaguai-71586.avif",
     "description": "Apple iPhone 18 Pro com 2TB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "2TB",
     "model": "iPhone 18 Pro",
-    "originalPrice": 16362.5,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 2750,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-18-pro-2tb-silver-mjqh4ll-esim__5785134/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 104,
     "name": "Apple iPhone 18 Pro Max 256GB",
     "category": "eletronicos",
-    "price": 9781.8,
+    "price": 9106.4,
     "image": "/images/products/comprasparaguai-71133.avif",
     "description": "Apple iPhone 18 Pro Max com 256GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "256GB",
     "model": "iPhone 18 Pro Max",
-    "originalPrice": 8151.5,
-    "markupPercent": 20,
-    "priceSource": {
-      "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
-    },
     "catalogItems": [
       104
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1349.99,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-18-pro-max-256gb-black__5590823/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 210,
     "name": "Apple iPhone 18 Pro Max 512GB",
     "category": "eletronicos",
-    "price": 11709.6,
+    "price": 11028.95,
     "image": "/images/products/comprasparaguai-71133.avif",
     "description": "Apple iPhone 18 Pro Max com 512GB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "512GB",
     "model": "iPhone 18 Pro Max",
-    "originalPrice": 9758.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 1635,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/cel-iphone-18-pro-max-512gb-black__5593872/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 211,
     "name": "Apple iPhone 18 Pro Max 1TB",
     "category": "eletronicos",
-    "price": 15065.4,
+    "price": 13828.34,
     "image": "/images/products/comprasparaguai-71133.avif",
     "description": "Apple iPhone 18 Pro Max com 1TB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "1TB",
     "model": "iPhone 18 Pro Max",
-    "originalPrice": 12554.5,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 2050,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-18-pro-max-1tb-bordo__5599324/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 212,
     "name": "Apple iPhone 18 Pro Max 2TB",
     "category": "eletronicos",
-    "price": 19706.4,
+    "price": 18617.67,
     "image": "/images/products/comprasparaguai-71209.avif",
     "description": "Apple iPhone 18 Pro Max com 2TB de armazenamento.",
     "featured": false,
     "available": true,
     "storage": "2TB",
     "model": "iPhone 18 Pro Max",
-    "originalPrice": 16422.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 2760,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/busca/?q=iphone+18",
-      "checkedOn": "2026-11-20",
-      "referenceCurrency": "BRL"
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-18-pro-max-2tb-burgundy__5793990/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 268,
+    "name": "Apple iPhone Duo 256GB",
+    "category": "eletronicos",
+    "price": 15582.18,
+    "image": "/images/products/comprasparaguai-5731883.webp",
+    "description": "Apple iPhone Duo com 256GB de armazenamento. Condição não especificada no título da oferta; confirme com a equipe.",
+    "featured": false,
+    "available": true,
+    "storage": "256GB",
+    "model": "iPhone Duo",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 2310,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-duo-256gb-night-sky__5731883/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 269,
+    "name": "Apple iPhone Duo 512GB",
+    "category": "eletronicos",
+    "price": 16998.74,
+    "image": "/images/products/comprasparaguai-5731886.webp",
+    "description": "Apple iPhone Duo com 512GB de armazenamento. Condição não especificada no título da oferta; confirme com a equipe.",
+    "featured": false,
+    "available": true,
+    "storage": "512GB",
+    "model": "iPhone Duo",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 2520,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/iphone-duo-512gb-white__5731886/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 270,
+    "name": "Apple iPhone Duo 1TB",
+    "category": "eletronicos",
+    "price": 23265.34,
+    "image": "/images/products/comprasparaguai-5732689.webp",
+    "description": "Apple iPhone Duo com 1TB de armazenamento. Condição não especificada no título da oferta; confirme com a equipe.",
+    "featured": false,
+    "available": true,
+    "storage": "1TB",
+    "model": "iPhone Duo",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 3449,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/cel-apple-new-iphone-duo-1tb-a-3447-night-sky-lla__5732689/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
+  },
+  {
+    "id": 271,
+    "name": "Apple iPhone Duo 2TB",
+    "category": "eletronicos",
+    "price": 28499.87,
+    "image": "/images/products/comprasparaguai-5731883.webp",
+    "description": "Apple iPhone Duo com 2TB de armazenamento. Condição não especificada no título da oferta; confirme com a equipe.",
+    "featured": false,
+    "available": true,
+    "storage": "2TB",
+    "model": "iPhone Duo",
+    "specificationSource": "https://support.apple.com/pt-br/108044",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 4225,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-duo-2tb-night-sky__5671941/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 108,
     "name": "Invicta Pro Diver Chronograph",
     "category": "moda",
-    "price": 850.0,
+    "price": null,
     "image": null,
     "description": "Relógio masculino da Invicta, linha Pro Diver. Caixa de aço inoxidável, mostrador preto com cronógrafo de 3 submostradores e pulseira de borracha.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 110,
     "name": "Celimax The Vita-A Retinal Shot Tightening Booster",
     "category": "beleza",
-    "price": 61.02,
+    "price": 60.04,
     "image": "/images/products/comprasparaguai-67711.avif",
     "description": "Booster firmador de 15 ml com retinal 0,1%, Matrixyl 3000 a 3% e pantenol 1%. De uso noturno; evitar junto com vitamina C ou ácidos.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 8.9,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/celimax-the-a-retinal-shot-tightening-booster-15ml__5337936/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 111,
     "name": "Alluvi Labs Glow Dual Regenerative Capsule Cream",
     "category": "beleza",
-    "price": 630.0,
+    "price": 107.25,
     "image": "/images/products/comprasparaguai-5588910.webp",
     "description": "Creme facial em cápsulas rosa e azuis, dentro de um pote transparente.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 15.9,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/alluvi-labs-glow-creme-facial-capsule-cream-pdrn-ghk-cu-80caps__5588910/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 112,
     "name": "Celimax Pore + Dark Spot Brightening Cream",
     "category": "beleza",
-    "price": 90.78,
+    "price": 79.6,
     "image": "/images/products/comprasparaguai-68543.avif",
     "description": "Creme clareador de 35 ml com niacinamida 5%, ácido tranexâmico 5%, Melazero V2 1% e ceramida NP.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 11.8,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/creme-facial-celimax-pore-dark-spot-brightening-cream-35ml__5368677/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 115,
     "name": "Eticos Retinal Soft Cream",
     "category": "beleza",
-    "price": 249.0,
+    "price": null,
     "image": null,
     "description": "Creme facial com retinal, com ação antienvelhecimento.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 116,
     "name": "Medicube Azelaic Acid Exosome Shot 7500",
     "category": "beleza",
-    "price": 88.14,
+    "price": 74.2,
     "image": "/images/products/comprasparaguai-67268.avif",
     "description": "Sérum de 30 ml com ácido azeláico, niacinamida e exossomos. A versão mais intensa da linha.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 11,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/medicube-azelaic-acid-exosome-shot-7500__5045278/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 117,
     "name": "Medicube Azelaic Acid Exosome Shot 2000",
     "category": "beleza",
-    "price": 77.29,
+    "price": 74.2,
     "image": "/images/products/comprasparaguai-67485.avif",
     "description": "Sérum de 30 ml com ácido azeláico, niacinamida e exossomos. A versão mais suave da linha.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 11,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/medicube-azelaic-acid-exosome-shot-2000__5045277/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 118,
     "name": "Medicube Azelaic Acid 16 BB Soothing Serum",
     "category": "beleza",
-    "price": 80.68,
+    "price": 80.27,
     "image": "/images/products/comprasparaguai-71850.avif",
     "description": "Sérum calmante de 30 ml com 16% de ácido azeláico.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 11.9,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/medicube-azelaic-acid-16-bb-soothing-serum-facial-30ml__5596096/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 119,
     "name": "Medicube Azelaic Acid Capsule Cleansing Foam",
     "category": "beleza",
-    "price": 87.73,
+    "price": 84.32,
     "image": "/images/products/comprasparaguai-71846.avif",
     "description": "Espuma de limpeza de 120 g com ácido azeláico, niacinamida 0,5%, tea tree e pantenol.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 12.5,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/limpador-facial-medicube-azelaic-acid-capsule-foam-120gr__5508024/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 120,
     "name": "Medicube PDRN Pink Peptide Serum",
     "category": "beleza",
-    "price": 75.94,
+    "price": 73.53,
     "image": "/images/products/comprasparaguai-63578.webp",
     "description": "Sérum de 30 ml com PDRN 1% e complexo de 5 peptídeos.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 10.9,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/medicube-pdrn-pink-peptide-serum-30ml-108053__4956172/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 121,
     "name": "Medicube Zero Pore Pad 2.0",
     "category": "beleza",
-    "price": 84.0,
+    "price": 77.57,
     "image": "/images/products/comprasparaguai-62551.webp",
     "description": "Discos de limpeza para poros com ácido lático e pantenol, para todos os tipos de pele.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 11.5,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/pads-medicube-zero-pore-70-pecas__4932856/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 122,
     "name": "Medicube Red Foam Cleanser",
     "category": "beleza",
-    "price": 88.14,
+    "price": 87.69,
     "image": "/images/products/comprasparaguai-67483.avif",
     "description": "Espuma de limpeza de 120 ml com BHA (ácido salicílico) e acetato de tocoferol.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 13,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/medicube-espuma-facial-de-limpeza-red-foam-cleanser-de-120-ml__5779746/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 123,
     "name": "Medicube TXA Niacinamide Capsule Cream",
     "category": "beleza",
-    "price": 81.36,
+    "price": 77.57,
     "image": "/images/products/comprasparaguai-67396.avif",
     "description": "Creme facial de 55 g com 5% de ácido tranexâmico (TXA) e niacinamida, que ajuda a suavizar a aparência das manchas e dá hidratação e luminosidade.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 11.5,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/medicube-txa-niacinamide-capsule-cream-55gr__5337950/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 124,
     "name": "Medicube Collagen Lifting Mask",
     "category": "beleza",
-    "price": 16.94,
+    "price": 16.19,
     "image": "/images/products/comprasparaguai-71852.avif",
     "description": "Máscara facial em folha vegana com complexo triplo de colágeno, para todos os tipos de pele.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 2.4,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/medicube-collagen-lifting-mask-1unidad-27g-411741__5228312/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 125,
     "name": "Kerasys Advanced Keratin Bond Volume Shampoo + Tratamento",
     "category": "beleza",
-    "price": 210.0,
+    "price": 215.86,
     "image": "/images/products/kerasys-keratin-bond-volume-kit-600-ml.png",
     "description": "Kit com shampoo de 600 ml e treatment (condicionador) de 600 ml da Kerasys Hair Clinic, da Coreia. Queratina 10x com proteína da seda, LPP e PPT.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 32,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/tratamento-volumizador-kerasys-keratina-bond-600ml__5260008/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD",
+      "componentUrls": [
+        "https://www.comprasparaguai.com.br/tratamento-volumizador-kerasys-keratina-bond-600ml__5260008/",
+        "https://www.comprasparaguai.com.br/shampoo-capilar-kerasys-keratin-bond-volume-600ml__5732084/"
+      ]
+    }
   },
   {
     "id": 126,
     "name": "Shiseido Fino Premium Touch Hair Oil",
     "category": "beleza",
-    "price": 67.06,
+    "price": 50.59,
     "image": "/images/products/comprasparaguai-70549.avif",
     "description": "Óleo capilar japonês de 70 ml, de tratamento para pontas danificadas, da linha Fino da Shiseido.",
     "featured": false,
-    "available": true
+    "available": true,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 7.5,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/shiseido-fino-premium-touch-hair-oil-70ml__5492917/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 139,
@@ -2104,7 +4432,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 147,
@@ -2119,7 +4450,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 148,
@@ -2134,7 +4468,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 149,
@@ -2149,7 +4486,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 150,
@@ -2164,7 +4504,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 151,
@@ -2179,7 +4522,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 152,
@@ -2194,7 +4540,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 153,
@@ -2209,7 +4558,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 154,
@@ -2224,7 +4576,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 155,
@@ -2239,7 +4594,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 156,
@@ -2254,7 +4612,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 157,
@@ -2269,7 +4630,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 158,
@@ -2284,7 +4648,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 159,
@@ -2299,7 +4666,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 160,
@@ -2314,7 +4684,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 161,
@@ -2329,7 +4702,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 162,
@@ -2344,7 +4720,10 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 163,
@@ -2359,13 +4738,16 @@
     "presentation": "Apresentação não informada no catálogo",
     "catalogItems": [
       139
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 140,
     "name": "Slimex MD 15 — 60 mg multidose",
     "category": "medicamentos",
-    "price": 680,
+    "price": null,
     "image": "/images/products/comprasparaguai-71047.avif",
     "description": "Tirzepatida · Slimex. Frasco multidose com 60 mg no total e 15 mg por dose.",
     "featured": false,
@@ -2375,13 +4757,16 @@
     "catalogItems": [
       140
     ],
-    "totalAmount": "60 mg"
+    "totalAmount": "60 mg",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 164,
     "name": "Lipoland Multidosis — 60 mg multidose",
     "category": "medicamentos",
-    "price": 680,
+    "price": null,
     "image": "/images/products/comprasparaguai-5774500.webp",
     "description": "Tirzepatida · Landerlan Gold Series. Frasco multidose com 60 mg no total e 15 mg por dose.",
     "featured": false,
@@ -2391,13 +4776,16 @@
     "catalogItems": [
       140
     ],
-    "totalAmount": "60 mg"
+    "totalAmount": "60 mg",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 165,
     "name": "Catedral T 15 MD — 60 mg multidose",
     "category": "medicamentos",
-    "price": 680,
+    "price": null,
     "image": null,
     "description": "Tirzepatida · Laboratorios Catedral. Frasco multidose com 60 mg no total e 15 mg por dose.",
     "featured": false,
@@ -2407,13 +4795,16 @@
     "catalogItems": [
       140
     ],
-    "totalAmount": "60 mg"
+    "totalAmount": "60 mg",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 166,
     "name": "Tirzec 15 MD — 60 mg multidose",
     "category": "medicamentos",
-    "price": 680,
+    "price": null,
     "image": "/images/products/comprasparaguai-5664937.webp",
     "description": "Tirzepatida · Tirzec. Frasco multidose com 60 mg no total e 15 mg por dose.",
     "featured": false,
@@ -2423,13 +4814,16 @@
     "catalogItems": [
       140
     ],
-    "totalAmount": "60 mg"
+    "totalAmount": "60 mg",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 167,
     "name": "Lipoless MD 15 — 60 mg multidose",
     "category": "medicamentos",
-    "price": 680,
+    "price": null,
     "image": "/images/products/comprasparaguai-66778.avif",
     "description": "Tirzepatida · Eticos. Frasco multidose com 60 mg no total e 15 mg por dose.",
     "featured": false,
@@ -2439,13 +4833,16 @@
     "catalogItems": [
       140
     ],
-    "totalAmount": "60 mg"
+    "totalAmount": "60 mg",
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 141,
     "name": "Ipsen Dysport 500 U",
     "category": "medicamentos",
-    "price": 499,
+    "price": 283.31,
     "image": "/images/products/comprasparaguai-5774435.webp",
     "description": "Toxina botulínica tipo A. 1 frasco.",
     "featured": false,
@@ -2454,13 +4851,24 @@
     "presentation": "1 frasco",
     "catalogItems": [
       141
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 42,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/dysport-500-ui__5774435/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 142,
     "name": "PT-141 (bremelanotida) 20 mg",
     "category": "medicamentos",
-    "price": 799,
+    "price": null,
     "image": null,
     "description": "Bremelanotida. 1 frasco.",
     "featured": false,
@@ -2470,13 +4878,16 @@
     "catalogItems": [
       139,
       142
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 143,
     "name": "Combo Smart Collection Nº 244 + Lipostabil",
     "category": "medicamentos",
-    "price": 299,
+    "price": null,
     "image": null,
     "description": "Perfume e fosfatidilcolina. Perfume de 25 ml + 5 ampolas de 5 ml.",
     "featured": false,
@@ -2485,13 +4896,16 @@
     "presentation": "Perfume de 25 ml + 5 ampolas de 5 ml",
     "catalogItems": [
       143
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 144,
     "name": "Lispax 20 (lisdexanfetamina 20 mg)",
     "category": "medicamentos",
-    "price": 350,
+    "price": 182.13,
     "image": "/images/products/comprasparaguai-4658426.webp",
     "description": "Dimesilato de lisdexanfetamina · Climfa. 30 cápsulas.",
     "featured": false,
@@ -2500,13 +4914,24 @@
     "presentation": "30 cápsulas",
     "catalogItems": [
       144
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 27,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/quimfa-medicamentos-lispax-20-lisdexanfetamina-dimesilato-20mg-carton-blanco__4658426/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 145,
     "name": "36 Horas (tadalafila 20 mg)",
     "category": "medicamentos",
-    "price": 99,
+    "price": 90.32,
     "image": "/images/products/comprasparaguai-4758554.webp",
     "description": "Tadalafila · Laboratorios Catedral. 20 comprimidos revestidos.",
     "featured": false,
@@ -2515,13 +4940,24 @@
     "presentation": "20 comprimidos revestidos",
     "catalogItems": [
       145
-    ]
+    ],
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 13.39,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/catedral-medicamentos-36-horas-tadalafiil-20mg-20-comprimidos-carton-blanco__4758554/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 146,
     "name": "Stun Medical Line Body Safe & Easy 55",
     "category": "medicamentos",
-    "price": 1299,
+    "price": 944.37,
     "image": "/images/products/comprasparaguai-5468478.webp",
     "description": "Ácido hialurônico reticulado · Stun Medical. Seringa de 55 mL.",
     "featured": false,
@@ -2531,13 +4967,24 @@
     "catalogItems": [
       146
     ],
-    "totalAmount": "55 mL"
+    "totalAmount": "55 mL",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 140,
+    "exchangeRateBRL": 5.621276923076923,
+    "markupPercent": 20,
+    "pricingStatus": "verified",
+    "priceSource": {
+      "name": "Compras Paraguai",
+      "url": "https://www.comprasparaguai.com.br/stun-medical-line-body-safe-easy-55__5468478/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 213,
     "name": "Samsung Galaxy A18 128GB 4G",
     "category": "eletronicos",
-    "price": 1432.8,
+    "price": 1342.36,
     "image": "/images/products/comprasparaguai-73589.avif",
     "description": "Smartphone Dual SIM com 128 GB de armazenamento e 4 GB de RAM. Conectividade 4G e tela Super AMOLED de 6,7 polegadas com 90 Hz.",
     "featured": false,
@@ -2547,21 +4994,23 @@
     "storage": "128GB",
     "ram": "4GB",
     "network": "4G",
-    "originalPrice": 1194.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 199,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-samsung-galaxy-a18-sm-a185g-dual-chip-128gb-4g_73589/",
-      "checkedOn": "2026-11-21",
-      "referenceCurrency": "BRL",
-      "offerCode": "1691559"
+      "url": "https://www.comprasparaguai.com.br/celular-samsung-galaxy-a18-sm-a185g-dual-sim-de-128gb4gb-ram-de-67-5052mp-13mp-preto__5745055/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 214,
     "name": "Samsung Galaxy A08 64GB 4G",
     "category": "eletronicos",
-    "price": 990.0,
+    "price": 927.51,
     "image": "/images/products/comprasparaguai-73366.avif",
     "description": "Smartphone Dual SIM com 64 GB de armazenamento e 4 GB de RAM. Conectividade 4G e tela de 6,7 polegadas com 90 Hz.",
     "featured": false,
@@ -2571,21 +5020,23 @@
     "storage": "64GB",
     "ram": "4GB",
     "network": "4G",
-    "originalPrice": 825.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 137.5,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-samsung-galaxy-a08-sm-a085f-dual-chip-64gb-4g_73366/",
-      "checkedOn": "2026-11-21",
-      "referenceCurrency": "BRL",
-      "offerCode": "1443271"
+      "url": "https://www.comprasparaguai.com.br/smartphone-samsung-galaxy-a08-sm-a085f-64gb-4gb-ram-dual-sim-tela-67-prata-caixa-slim__5733745/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 215,
     "name": "Samsung Galaxy S26 FE 256GB 5G",
     "category": "eletronicos",
-    "price": 4305.6,
+    "price": 4033.83,
     "image": "/images/products/comprasparaguai-71091.avif",
     "description": "Smartphone Dual SIM com 256 GB de armazenamento e 8 GB de RAM. Conectividade 5G e tela de 6,7 polegadas com 120 Hz.",
     "featured": false,
@@ -2595,21 +5046,23 @@
     "storage": "256GB",
     "ram": "8GB",
     "network": "5G",
-    "originalPrice": 3588.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 598,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-samsung-galaxy-s26-fe-sm-s741b-dual-chip-256gb-5g_71091/",
-      "checkedOn": "2026-11-21",
-      "referenceCurrency": "BRL",
-      "offerCode": "164623"
+      "url": "https://www.comprasparaguai.com.br/samsung-galaxy-s26-fe-sm-s741bds-5g-dual-256-gb-graphite__5547239/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 216,
     "name": "Motorola Moto G47 256GB 5G",
     "category": "eletronicos",
-    "price": 1648.8,
+    "price": 1214.2,
     "image": "/images/products/comprasparaguai-72926.avif",
     "description": "Smartphone com 256 GB de armazenamento e 4 GB de RAM. Conectividade 5G, tela de 6,67 polegadas e câmera principal de 108 MP.",
     "featured": false,
@@ -2619,21 +5072,23 @@
     "storage": "256GB",
     "ram": "4GB",
     "network": "5G",
-    "originalPrice": 1374.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 180,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-motorola-moto-g47-xt-2625-dual-chip-256gb-5g_72926/",
-      "checkedOn": "2026-11-21",
-      "referenceCurrency": "BRL",
-      "offerCode": "1691658"
+      "url": "https://www.comprasparaguai.com.br/motorola-xt2625-1-moto-g47-4gb256gb-pantone-grey__5678121/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 217,
     "name": "Motorola Moto G37 128GB 5G",
     "category": "eletronicos",
-    "price": 1404.0,
+    "price": 1011.83,
     "image": "/images/products/comprasparaguai-72925.avif",
     "description": "Smartphone com 128 GB de armazenamento e 4 GB de RAM. Conectividade 5G e tela de 6,67 polegadas com 120 Hz.",
     "featured": false,
@@ -2643,21 +5098,23 @@
     "storage": "128GB",
     "ram": "4GB",
     "network": "5G",
-    "originalPrice": 1170.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 150,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-motorola-moto-g37-xt-2625-dual-chip-128gb-5g_72925/",
-      "checkedOn": "2026-11-21",
-      "referenceCurrency": "BRL",
-      "offerCode": "1691634"
+      "url": "https://www.comprasparaguai.com.br/motorola-xt2625-13-moto-g37-4gb128gb-pantone-green__5678127/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 218,
     "name": "Motorola Moto G Max 256GB 5G",
     "category": "eletronicos",
-    "price": 2124.0,
+    "price": 1989.93,
     "image": "/images/products/comprasparaguai-72359.avif",
     "description": "Smartphone Dual SIM com 256 GB de armazenamento e 8 GB de RAM. Conectividade 5G e tela AMOLED com 120 Hz.",
     "featured": false,
@@ -2667,21 +5124,23 @@
     "storage": "256GB",
     "ram": "8GB",
     "network": "5G",
-    "originalPrice": 1770.0,
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 295,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-motorola-moto-g-max-xt-2621-dual-chip-256gb-5g_72359/",
-      "checkedOn": "2026-11-21",
-      "referenceCurrency": "BRL",
-      "offerCode": "1444049"
+      "url": "https://www.comprasparaguai.com.br/smartphone-motorola-moto-g-max-xt2621-5-256gb-8gb-ram-dual-sim-tela-68-azul__5664473/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
     }
   },
   {
     "id": 219,
     "name": "Xiaomi Redmi Note 17 256GB 4G",
     "category": "eletronicos",
-    "price": 1438.2,
+    "price": 1347.42,
     "image": "/images/products/comprasparaguai-73369.avif",
     "description": "Smartphone Global Dual SIM com 256 GB de armazenamento e 4 GB de RAM. Conectividade 4G e tela de 6,99 polegadas.",
     "featured": false,
@@ -2691,22 +5150,24 @@
     "storage": "256GB",
     "ram": "4GB",
     "network": "4G",
-    "originalPrice": 1198.5,
+    "version": "Global",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 199.75,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-xiaomi-redmi-note-17-dual-chip-256gb-4g-ram-4gb-global_73369/",
-      "checkedOn": "2026-11-21",
-      "referenceCurrency": "BRL",
-      "offerCode": "1438857"
-    },
-    "version": "Global"
+      "url": "https://www.comprasparaguai.com.br/smartphone-xiaomi-redmi-note-17-4g-global-256gb-4gb-ram-dual-sim-tela-699-preto__5625275/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 220,
     "name": "Xiaomi POCO X8 128GB 5G",
     "category": "eletronicos",
-    "price": 1792.8,
+    "price": 1679.64,
     "image": "/images/products/comprasparaguai-72930.avif",
     "description": "Smartphone Global Dual SIM com 128 GB de armazenamento e 6 GB de RAM. Conectividade 5G, NFC e tela de 6,83 polegadas.",
     "featured": false,
@@ -2716,22 +5177,24 @@
     "storage": "128GB",
     "ram": "6GB",
     "network": "5G",
-    "originalPrice": 1494.0,
+    "version": "Global",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 249,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-xiaomi-poco-x8-dual-chip-128gb-5g-global_72930/",
-      "checkedOn": "2026-11-21",
-      "referenceCurrency": "BRL",
-      "offerCode": "1692310"
-    },
-    "version": "Global"
+      "url": "https://www.comprasparaguai.com.br/celular-xiaomi-poco-x8-nfc-dual-sim-de-128gb6gb-ram-de-683-50mp16mp-preto-global__5745220/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   },
   {
     "id": 221,
     "name": "Xiaomi Redmi Note 17 Pro 256GB 5G",
     "category": "eletronicos",
-    "price": 2181.6,
+    "price": 2043.9,
     "image": "/images/products/comprasparaguai-72927.avif",
     "description": "Smartphone Global Dual SIM com 256 GB de armazenamento e 6 GB de RAM. Conectividade 5G, NFC e tela de 6,83 polegadas.",
     "featured": false,
@@ -2741,15 +5204,17 @@
     "storage": "256GB",
     "ram": "6GB",
     "network": "5G",
-    "originalPrice": 1818.0,
+    "version": "Global",
+    "pricingUpdatedOn": "2026-11-23",
+    "basePriceUSD": 303,
+    "exchangeRateBRL": 5.621276923076923,
     "markupPercent": 20,
+    "pricingStatus": "verified",
     "priceSource": {
       "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/celular-xiaomi-redmi-note-17-pro-dual-chip-256gb-5g-ram-6gb-global_72927/",
-      "checkedOn": "2026-11-21",
-      "referenceCurrency": "BRL",
-      "offerCode": "1653854"
-    },
-    "version": "Global"
+      "url": "https://www.comprasparaguai.com.br/celular-xiaomi-redmi-note-17-pro-5g-dual-sim-de-256gb6gb-ram-de-683-508mp16mp-purple__5745041/",
+      "checkedOn": "2026-11-23",
+      "referenceCurrency": "USD"
+    }
   }
 ]
