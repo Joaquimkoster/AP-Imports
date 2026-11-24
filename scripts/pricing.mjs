@@ -21,14 +21,15 @@ export function exchangeMean(closings) {
   return { numerator: sum, denominator: BigInt(closings.length) * 10000n };
 }
 
-export function priceFromUSD({ amount, currency }, closings) {
+export function priceFromUSD({ amount, currency }, closings, markupPercent) {
   if (currency !== "USD") throw new Error("O preço-base deve estar explicitamente em USD");
   const cents = decimalUnits(amount, 2);
   if (cents <= 0n) throw new Error("Preço-base deve ser positivo");
+  const markup = decimalUnits(markupPercent, 2);
   const mean = exchangeMean(closings);
-  const numerator = cents * mean.numerator * 120n;
-  const denominator = mean.denominator * 100n;
-  // ROUND_HALF_UP, em centavos. O acréscimo de 20% ocorre uma única vez.
+  const numerator = cents * mean.numerator * (10000n + markup);
+  const denominator = mean.denominator * 10000n;
+  // ROUND_HALF_UP, em centavos. O acréscimo ocorre uma única vez.
   const finalCents = (2n * numerator + denominator) / (2n * denominator);
   if (finalCents > BigInt(Number.MAX_SAFE_INTEGER)) throw new Error("Preço excede o limite de precisão");
   return Number(finalCents) / 100;

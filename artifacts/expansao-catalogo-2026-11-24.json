@@ -1,0 +1,1911 @@
+{
+  "checkedOn": "2026-11-24",
+  "status": "current",
+  "formula": "finalBRL = ROUND_HALF_UP(referenceUSD × média PTAX de venda × 1.30, 2). A média permanece como fração exata até o arredondamento final.",
+  "policy": "Novos produtos com referência explícita em USD e foto correspondente. Aplicar a política de venda em scripts/pricing-policy.json; os cinco preços fixos existentes são preservados. Sem inferir moeda, tamanho, dose ou configuração. A listagem do fornecedor não garante estoque próprio.",
+  "exchangeRateReference": "artifacts/precificacao-usd-2026-11-23.json#exchangeRate",
+  "exchangeRate": {
+    "meanBRL": 5.621276923076923,
+    "exactMean": "730766 / 130000 BRL por USD",
+    "periodStart": "2026-11-03",
+    "periodEnd": "2026-11-19"
+  },
+  "summary": {
+    "addedProducts": 54,
+    "byCategory": {
+      "notebooks": 30,
+      "moda": 10,
+      "saude": 6,
+      "casa": 8
+    },
+    "totalProducts": 301,
+    "pricedProducts": 242,
+    "pendingProducts": 59
+  },
+  "researchFiles": [
+    "artifacts/expansao-notebooks-2026-11-24.json",
+    "artifacts/expansao-moda-2026-11-24.json",
+    "artifacts/expansao-saude-2026-11-24.json",
+    "artifacts/expansao-casa-2026-11-24.json",
+    "artifacts/notebooks-trabalho-adicionais-2026-11-24.json",
+    "artifacts/notebooks-gamer-adicionais-2026-11-24.json",
+    "artifacts/notebooks-premium-adicionais-2026-11-24.json"
+  ],
+  "products": [
+    {
+      "id": 272,
+      "name": "Notebook Apple MacBook Air M5 16GB / 512GB 13.6\" (2026, Starlight)",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1154.00",
+      "finalBRL": 8433.04,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/macbook-air-13m5-2026-16512gb-mdha4lla-stl__5231379/",
+        "title": "Macbook Air 13\"M5 (2026) 16/512GB MDHA4LL/A STL",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "MultiPass",
+        "declaredCurrency": "USD",
+        "observedUSD": "1154.00",
+        "htmlSha256": "2caf3f2f2e5ce750bd27e7f87cd64db57add3460798a547de18358bda9d4fc4f",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-apple-macbook-air-2026-apple-m5-memoria-16gb-ssd-512gb-136_67855/",
+      "photo": {
+        "image": "/images/products/expansao-notebooks-macbook-air-m5-16-512.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/450de22e2302147fd20d477d20c50da924039bb6.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/macbook-air-13m5-2026-16512gb-mdha4lla-stl__5231379/",
+        "sha256": "562dc287ae515897ae7e7e9561dc561ecaa88b094aa24295fcbf754826602100"
+      },
+      "notes": [
+        "Preço observado explicitamente em US$ na oferta da configuração correspondente; a conversão BRL exibida pelo comparador não foi usada.",
+        "O anúncio selecionado não indica Swap, seminovo, recondicionado, ativado ou avaria. Disponibilidade deve ser confirmada com a equipe."
+      ]
+    },
+    {
+      "id": 273,
+      "name": "Notebook Dell Inspiron 15 LDC15250-5434BLK i5 / 8GB / 512GB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "528.00",
+      "finalBRL": 3858.44,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-dell-ldc15250-5434blk-pus-com-tela-156-full-hd-touch-intel-core-i5-1334u-ram-8gb-512gb-ssd-w11-black__5657620/",
+        "title": "Notebook Dell LDC15250-5434BLK-Pus com Tela 15.6 Full HD-Touch / Intel Core i5-1334U / Ram 8GB / 512GB SSD / W11 - Black",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "One Click",
+        "declaredCurrency": "USD",
+        "observedUSD": "528.00",
+        "htmlSha256": "3d0ddae5275ed60a920bf54643ee2fab34423bb76b4366513854f68c968e545e",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-dell-inspiron-15-ldc15250-5434blk-intel-core-i5-13ghz-memoria-8gb-ssd-512gb-156-windows-11_69028/",
+      "photo": {
+        "image": "/images/products/expansao-notebooks-dell-inspiron-15-i5-8-512.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/eaca40dea0f48aafaff60e427eb1d8fb050759df.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-dell-ldc15250-5434blk-pus-com-tela-156-full-hd-touch-intel-core-i5-1334u-ram-8gb-512gb-ssd-w11-black__5657620/",
+        "sha256": "e9aca61197d81361b3dc9e4be8a37a2e20e3f1688c605ac54656d3f85c8ea0bb"
+      },
+      "notes": [
+        "Preço observado explicitamente em US$ na oferta da configuração correspondente; a conversão BRL exibida pelo comparador não foi usada.",
+        "O anúncio selecionado não indica Swap, seminovo, recondicionado, ativado ou avaria. Disponibilidade deve ser confirmada com a equipe."
+      ]
+    },
+    {
+      "id": 274,
+      "name": "Notebook Acer Swift Go 16 SFG16-A71T-R5UY Ryzen AI 7 / 16GB / 1TB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "849.00",
+      "finalBRL": 6204.2,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-acer-swift-go-16-sfg16-a71t-r5uy-16-amd-ryzen-ai-7-445-16-gb-1-tb-ssd-preto__5457863/",
+        "title": "Notebook Acer Swift Go 16 SFG16-A71T-R5UY 16\" AMD Ryzen Ai 7 445 16 GB 1 TB SSD - Preto",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Nissei",
+        "declaredCurrency": "USD",
+        "observedUSD": "849.00",
+        "htmlSha256": "08690a4fab09929ac2770ff6e25e7016732012a9bc9e4bad8ffa45bbafaf5119",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-acer-swift-go-16-sfg16-a71t-r5uy-amd-ryzen-ai-7-20ghz-memoria-16gb-ssd-1tb-16-windows-11_69301/",
+      "photo": {
+        "image": "/images/products/expansao-notebooks-acer-swift-go16-16-1tb.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/dc2b0e6b75741488110c3452db14311bfcbf6340.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-acer-swift-go-16-sfg16-a71t-r5uy-16-amd-ryzen-ai-7-445-16-gb-1-tb-ssd-preto__5457863/",
+        "sha256": "3fb2ddcf6749161ab5666125e405428840fa1cfa6cd88afde1a69bea550e1b65"
+      },
+      "notes": [
+        "Preço observado explicitamente em US$ na oferta da configuração correspondente; a conversão BRL exibida pelo comparador não foi usada.",
+        "O anúncio selecionado não indica Swap, seminovo, recondicionado, ativado ou avaria. Disponibilidade deve ser confirmada com a equipe."
+      ]
+    },
+    {
+      "id": 275,
+      "name": "Notebook Acer Aspire Go 15 AG15-42P-R917 Ryzen 7 / 16GB / 512GB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "605.00",
+      "finalBRL": 4421.13,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-acer-aspire-go-15-ag15-42p-r917-156-amd-ryzen-7-7730u-16-gb-512-gb-ssd-prata__5229341/",
+        "title": "Notebook Acer Aspire Go 15 AG15-42P-R917 15.6\" AMD Ryzen 7 7730U 16 GB 512 GB SSD - Prata",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Nissei",
+        "declaredCurrency": "USD",
+        "observedUSD": "605.00",
+        "htmlSha256": "0f94f57b53a2bf0dec04fe840910482f8b12e9403e9aa7f1caa54598ec606c20",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-acer-aspire-go-15-ag15-42p-r917-amd-ryzen-7-20ghz-memoria-16gb-ssd-512gb-156-windows-11_68231/",
+      "photo": {
+        "image": "/images/products/expansao-notebooks-acer-aspire-go15-16-512.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/cf99d3d98c3a2681814896e4002c032b1f0fbba8.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-acer-aspire-go-15-ag15-42p-r917-156-amd-ryzen-7-7730u-16-gb-512-gb-ssd-prata__5229341/",
+        "sha256": "becadb1a0a3d292644dd7db98784a4626ec9007bc24542b34eac7665c726d1b7"
+      },
+      "notes": [
+        "Preço observado explicitamente em US$ na oferta da configuração correspondente; a conversão BRL exibida pelo comparador não foi usada.",
+        "O anúncio selecionado não indica Swap, seminovo, recondicionado, ativado ou avaria. Disponibilidade deve ser confirmada com a equipe."
+      ]
+    },
+    {
+      "id": 276,
+      "name": "Notebook HP OmniBook 3 16-BU0007DX Ultra 7 / 16GB / 512GB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "779.00",
+      "finalBRL": 5692.67,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-hp-omnibook-3-16-bu0007dx-intel-core-ultra-7-255u-tela-touch-2k-160-16gb-de-ram-512gb-ssd-win11-preto-ingles__5429556/",
+        "title": "Notebook HP Omnibook 3 16-BU0007DX Intel Core Ultra 7 255U Tela Touch 2K 16.0\" / 16GB de Ram / 512GB SSD / WIN11 - Preto (Inglês)",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Visãovip",
+        "declaredCurrency": "USD",
+        "observedUSD": "779.00",
+        "htmlSha256": "9dee9044de7c74a575989d96c272b65d7c00406e7ed31b654d24423a487a58a1",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-hp-omnibook-3-16-bu0007dx-intel-core-ultra-7-17ghz-memoria-16gb-ssd-512gb-16-windows-11_69299/",
+      "photo": {
+        "image": "/images/products/expansao-notebooks-hp-omnibook3-ultra7-16-512.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/1837aafb29699a7bb2b659e19c98bb861fecfa6f.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-hp-omnibook-3-16-bu0007dx-intel-core-ultra-7-255u-tela-touch-2k-160-16gb-de-ram-512gb-ssd-win11-preto-ingles__5429556/",
+        "sha256": "5846f60bd59576a0533a8e53742c0ac4789bdbdbb0e39d9e96c2a3298550f595"
+      },
+      "notes": [
+        "Preço observado explicitamente em US$ na oferta da configuração correspondente; a conversão BRL exibida pelo comparador não foi usada.",
+        "O anúncio selecionado não indica Swap, seminovo, recondicionado, ativado ou avaria. Disponibilidade deve ser confirmada com a equipe."
+      ]
+    },
+    {
+      "id": 277,
+      "name": "Notebook Apple MacBook Pro M5 16GB / 1TB (2025, Space Black)",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1950.00",
+      "finalBRL": 14249.94,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/apple-macbook-pro-mde14lla-m5-16gb-1tb-14-2025-space-black__5146190/",
+        "title": "Apple Macbook Pro MDE14LL/A M5 16GB 1TB 14\" 2025 Space Black",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "New Zone",
+        "declaredCurrency": "USD",
+        "observedUSD": "1950.00",
+        "htmlSha256": "9e1a49d9329c9c52b8fa960a9e300ab76c87ae60c624841f10946bec4773d55e",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-apple-macbook-pro-2025-apple-m5-memoria-16gb-ssd-1tb-142_65012/",
+      "photo": {
+        "image": "/images/products/expansao-notebooks-macbook-pro-m5-16-1tb.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/10c85ef71752abad442077a222e7961e54d545bb.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/apple-macbook-pro-mde14lla-m5-16gb-1tb-14-2025-space-black__5146190/",
+        "sha256": "d313b4042b70f8fe3e929a7787f8a57608d51f60bbca0d08c1c43e150d5f7583"
+      },
+      "notes": [
+        "Preço observado explicitamente em US$ na oferta da configuração correspondente; a conversão BRL exibida pelo comparador não foi usada.",
+        "O anúncio selecionado não indica Swap, seminovo, recondicionado, ativado ou avaria. Disponibilidade deve ser confirmada com a equipe."
+      ]
+    },
+    {
+      "id": 278,
+      "name": "Notebook HP 15-FD0094WM Intel N250 / 4GB / 128GB UFS",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "300.00",
+      "finalBRL": 2192.3,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/hp-nb-15-fd0094wm-intel-n2504gb128gb-ufs-156-silver__5745408/",
+        "title": "HP NB 15-FD0094WM Intel N250/4GB/128GB Ufs 15.6\" Silver",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Paris Store",
+        "declaredCurrency": "USD",
+        "observedUSD": "300.00",
+        "htmlSha256": "a73278bf7db0dac0826d213bf0050be0f33d02ec6583756f026fc4415e57d095",
+        "lastListing": "09 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-hp-15-fd0094wm-intel-n250-38ghz-memoria-4gb-ufs-128gb-156-windows-11_71392/",
+      "photo": {
+        "image": "/images/products/expansao-notebooks-hp15-n250-4-128ufs.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/c7c0dc4159496c097b823a07caefe2e53073ab11.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-hp-15-fd0094wm-intel-n250-380ghz-4gb-ram-128gb-ufs-tela-156-hd-1366-x-768-windows-11-home-ingles-prata__5544519/",
+        "sha256": "df6113763151dffdbc54d6155f5df8cfab3fab42ad1d52255b534f50a28c4bb4"
+      },
+      "notes": [
+        "Preço observado explicitamente em US$ na oferta da configuração correspondente; a conversão BRL exibida pelo comparador não foi usada.",
+        "O anúncio selecionado não indica Swap, seminovo, recondicionado, ativado ou avaria. Disponibilidade deve ser confirmada com a equipe.",
+        "A oferta da Paris Store não possui foto; usada a foto da oferta Topdek do mesmo modelo HP 15-FD0094WM prata com 4GB e 128GB UFS no Compras Paraguai. O armazenamento é UFS, não SSD."
+      ]
+    },
+    {
+      "id": 279,
+      "name": "Notebook HP OmniBook 3 16-BY0015DX Ryzen 5 / 8GB / 256GB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "476.00",
+      "finalBRL": 3478.45,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-hp-omnibook-3-16-by0015dx-amd-ryzen-5-40-280hz-430ghz-8gb-ram-256gb-ssd-tela-16-touch-2k-wuxga-1920-x-1200-ips-windows-11-home-ingles-prata__5384908/",
+        "title": "Notebook HP Omnibook 3 16-BY0015DX, AMD Ryzen 5 40 2.80HZ (4.30GHZ), 8GB Ram, 256GB SSD, Tela 16\" Touch 2K Wuxga (1920 X 1200) Ips, Windows 11 Home, Inglês, Prata",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Topdek Informática",
+        "declaredCurrency": "USD",
+        "observedUSD": "476.00",
+        "htmlSha256": "0e82936014a624303b2077174befcf65ffc627546fab61d49f12818f546dee66",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-hp-omnibook-3-16-by0015dx-amd-ryzen-5-28ghz-memoria-8gb-ssd-256gb-16-windows-11_69303/",
+      "photo": {
+        "image": "/images/products/expansao-notebooks-hp-omnibook3-ryzen5-8-256.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/400c75209b0365faf7a7cf5ba326d0df9b48b21b.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-hp-omnibook-3-16-by0015dx-amd-ryzen-5-40-280hz-430ghz-8gb-ram-256gb-ssd-tela-16-touch-2k-wuxga-1920-x-1200-ips-windows-11-home-ingles-prata__5384908/",
+        "sha256": "7165ac324d4aa4f79ac80c4823c5991bf41e8a17f2d70bfd880fbb6aab6d4dcd"
+      },
+      "notes": [
+        "Preço observado explicitamente em US$ na oferta da configuração correspondente; a conversão BRL exibida pelo comparador não foi usada.",
+        "O anúncio selecionado não indica Swap, seminovo, recondicionado, ativado ou avaria. Disponibilidade deve ser confirmada com a equipe."
+      ]
+    },
+    {
+      "id": 280,
+      "name": "Notebook Gamer Acer Nitro V 16 ANV16-I31-76N7 Core 7 / 16GB / 512GB / RTX 5050",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1180.00",
+      "finalBRL": 8623.04,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-gamer-acer-nitro-v-16-anv16-i31-76n7-16-core-7-240h-16-gb-512-gb-ssd-geforce-rtx-5050-8-gddr7-preto__5624544/",
+        "title": "Notebook Gamer Acer Nitro V 16 ANV16-I31-76N7 16\" Core 7 240H 16 GB 512 GB SSD Geforce RTX 5050 8 GDDR7 - Preto",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Import Pro Gaming",
+        "declaredCurrency": "USD",
+        "observedUSD": "1180.00",
+        "htmlSha256": "1f348791d1660f03d06f479f764e2459de8ec3fd2659f1e1a05370f5e6bfcf8f",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-acer-nitro-v-16-anv16-i31-76n7-intel-core-7-25ghz-memoria-16gb-ssd-512gb-16-windows-11-rtx-5050-8gb_71825/",
+      "photo": {
+        "image": "/images/products/expansao-notebooks-acer-nitro-v16-core7-16-512-rtx5050.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/af2b4f20fef48939076f5fd5f3084b6ee0e73481.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-gamer-acer-nitro-v-16-anv16-i31-76n7-16-core-7-240h-16-gb-512-gb-ssd-geforce-rtx-5050-8-gddr7-preto__5624544/",
+        "sha256": "26f33b9b3ef6e9b77ea2567366ec5b97299e39d92b42f98de509b5861d46dc72"
+      },
+      "notes": [
+        "Preço US$ 1.180,00 observado na oferta individual da Import Pro Gaming em24/11/2026.",
+        "CPU Core 7 240H, memória16GB, SSD512GB, tela16 e RTX5050 8GB estão explicitados na oferta individual; não foi usado o preço de outra configuração.",
+        "Foto obtida da mesma oferta individual. A página classifica o sistema como Windows; não foi inferida a edição.",
+        "Substitui o candidato HP Victus15-FB3093DX descartado pela inconsistência entre a famíliaRyzen7 anunciada e o número7445HS da ficha canônica."
+      ]
+    },
+    {
+      "id": 281,
+      "name": "Notebook Lenovo IdeaPad Slim 3 83RR0000US Core 7 / 16GB / 512GB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "783.00",
+      "finalBRL": 5721.9,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-lenovo-ideapad-slim-3-15iwc11-83rr0000us-intel-core-7-350-150ghz-480ghz-16gb-ram-512gb-ssd-tela-153-touch-wuxga-1920-x-1200-windows-11-home-ingles-cosmic-azul__5505039/",
+        "title": "Notebook Lenovo Ideapad Slim 3 15IWC11 (83RR0000US), Intel Core 7 350 1.50GHZ (4.80GHZ), 16GB Ram, 512GB SSD, Tela 15.3\" Touch Wuxga (1920 X 1200), Windows 11 Home, Inglês, Cosmic  Azul",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Topdek Informática",
+        "declaredCurrency": "USD",
+        "observedUSD": "783.00",
+        "htmlSha256": "19328029d525bd0ae69c63a8693574366ae030400554fa7b1db5b33074561e61",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-lenovo-ideapad-slim-3-83rr0000us-intel-core-7-14ghz-memoria-16gb-ssd-512gb-153-windows-11_70756/",
+      "photo": {
+        "image": "/images/products/expansao-notebooks-lenovo-slim3-core7-16-512.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/545485dcbf71425732e57e9b13036f868a2aba7c.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-lenovo-ideapad-slim-3-15iwc11-83rr0000us-intel-core-7-350-150ghz-480ghz-16gb-ram-512gb-ssd-tela-153-touch-wuxga-1920-x-1200-windows-11-home-ingles-cosmic-azul__5505039/",
+        "sha256": "8da43da830eb47ba0d2f48cff17519c444315fbb4dfb81fe96feb743b632f13d"
+      },
+      "notes": [
+        "Preço observado explicitamente em US$ na oferta da configuração correspondente; a conversão BRL exibida pelo comparador não foi usada.",
+        "O anúncio selecionado não indica Swap, seminovo, recondicionado, ativado ou avaria. Disponibilidade deve ser confirmada com a equipe."
+      ]
+    },
+    {
+      "id": 282,
+      "name": "Camisa de botões Polo Ralph Lauren 710792041001",
+      "category": "moda",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "93.00",
+      "finalBRL": 679.61,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/camisa-polo-ralph-lauren-710792041001__3129935/",
+        "title": "Camisa Polo Ralph Lauren 710792041001",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "htmlSha256": "e83e8367e8c1ef78f5d59ce76e3ea0efc0b9f725e9597b6b96f2253f966112ae",
+        "declaredCurrency": "USD",
+        "observedUSD": "93.00"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/camisa-polo-ralph-lauren-710792041001__3129935/",
+      "photo": {
+        "image": "/images/products/expansao-moda-3129935.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/84bfe713e46c2ac4e21d7d1e5b9a82b5b5085314.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/camisa-polo-ralph-lauren-710792041001__3129935/",
+        "sha256": "a48fb060cb89119c19087a1bb2f875160e6383eddf2ae71798ddbe34ed19ad87"
+      },
+      "notes": [
+        "Referência e variante identificadas pelo código do anúncio. Tamanhos não são especificados na oferta consultada; confirmar com a equipe.",
+        "A listagem no comparador não comprova estoque próprio da AP Imports.",
+        "Na nomenclatura da oferta, Polo Ralph Lauren identifica a marca/linha; a foto mostra camisa de botões e mangas longas, não uma polo de manga curta."
+      ]
+    },
+    {
+      "id": 283,
+      "name": "Camisa polo Tommy Hilfiger MW0MW04976 032 masculina",
+      "category": "moda",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "27.00",
+      "finalBRL": 197.31,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/camiseta-tommy-hilfiger-mw0mw04976-032-masculino__4034777/",
+        "title": "Camiseta Tommy Hilfiger MW0MW04976 032 Masculino",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "htmlSha256": "5d4314347157a0eaf322621e30a512b0c5207b6bb50d141e0f061e47eb16292d",
+        "declaredCurrency": "USD",
+        "observedUSD": "27.00"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/camiseta-tommy-hilfiger-mw0mw04976-032-masculino__4034777/",
+      "photo": {
+        "image": "/images/products/expansao-moda-4034777.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/e59bd52a1749fe127a07f9ec86ac553f41ada30a.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/camiseta-tommy-hilfiger-mw0mw04976-032-masculino__4034777/",
+        "sha256": "c7382422e783fe4c30f6a40f0d57dada71cad075e00643e7fc593ccf667a152a"
+      },
+      "notes": [
+        "Referência e variante identificadas pelo código do anúncio. Tamanhos não são especificados na oferta consultada; confirmar com a equipe.",
+        "A listagem no comparador não comprova estoque próprio da AP Imports.",
+        "A oferta é intitulada Camiseta, e a foto correspondente mostra gola polo. Nenhuma cor ou tamanho foi deduzido para o cadastro."
+      ]
+    },
+    {
+      "id": 284,
+      "name": "Camiseta Lacoste TH6709 23 031 masculina",
+      "category": "moda",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "45.00",
+      "finalBRL": 328.84,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/camiseta-lacoste-th6709-23-031-masculino__4195256/",
+        "title": "Camiseta Lacoste TH6709 23 031 Masculino",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "htmlSha256": "6e9765477057f364f9cbfd7b512d8e1d2ba02899f46284f5957aa29b8242f659",
+        "declaredCurrency": "USD",
+        "observedUSD": "45.00"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/camiseta-lacoste-th6709-23-031-masculino__4195256/",
+      "photo": {
+        "image": "/images/products/expansao-moda-4195256.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/6f2c429074047115a3070f6a39d93ab4ceb2414f.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/camiseta-lacoste-th6709-23-031-masculino__4195256/",
+        "sha256": "382708a8c56806f4c0eb369c9e17b75e83deca781ed877785301dc46c0ed70cb"
+      },
+      "notes": [
+        "Referência e variante identificadas pelo código do anúncio. Tamanhos não são especificados na oferta consultada; confirmar com a equipe.",
+        "A listagem no comparador não comprova estoque próprio da AP Imports."
+      ]
+    },
+    {
+      "id": 285,
+      "name": "Camisa Calvin Klein K10K110856 YAF masculina",
+      "category": "moda",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "65.00",
+      "finalBRL": 475,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/camisa-masculina-calvin-klein-k10k110856-yaf__4150142/",
+        "title": "Camisa Masculina Calvin Klein K10K110856 Yaf",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "htmlSha256": "8aa6d08ca2e3adb963b76da259d85117b09c4dd15de238e1b7e0a2f7b4a2e226",
+        "declaredCurrency": "USD",
+        "observedUSD": "65.00"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/camisa-masculina-calvin-klein-k10k110856-yaf__4150142/",
+      "photo": {
+        "image": "/images/products/expansao-moda-4150142.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/98cdc77de794dfd4da071fc00e15cc0a0da59362.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/camisa-masculina-calvin-klein-k10k110856-yaf__4150142/",
+        "sha256": "1bd9729f23ae1e38da0b5d98f004b9de361f986884e0effa5d955abf6de09895"
+      },
+      "notes": [
+        "Referência e variante identificadas pelo código do anúncio. Tamanhos não são especificados na oferta consultada; confirmar com a equipe.",
+        "A listagem no comparador não comprova estoque próprio da AP Imports."
+      ]
+    },
+    {
+      "id": 286,
+      "name": "Camiseta Tommy Hilfiger WW0WW37857 YBL feminina",
+      "category": "moda",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "30.00",
+      "finalBRL": 219.23,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/camiseta-tommy-hilfiger-ww0ww37857-ybl-femenino__4231259/",
+        "title": "Camiseta Tommy Hilfiger WW0WW37857 YBL Femenino",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "htmlSha256": "e931626ce4be0beb6142d3cf7a26f4f7dfccf28a43a8c3b27f7bc1ff8bcf83f3",
+        "declaredCurrency": "USD",
+        "observedUSD": "30.00"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/camiseta-tommy-hilfiger-ww0ww37857-ybl-femenino__4231259/",
+      "photo": {
+        "image": "/images/products/expansao-moda-4231259.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/edabecd3789ed3b5382e3efbd10b5dabafb358b6.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/camiseta-tommy-hilfiger-ww0ww37857-ybl-femenino__4231259/",
+        "sha256": "fa70d24af47d0c056f4372b8c464c817292441a114ac5558191264462fdc1f03"
+      },
+      "notes": [
+        "Referência e variante identificadas pelo código do anúncio. Tamanhos não são especificados na oferta consultada; confirmar com a equipe.",
+        "A listagem no comparador não comprova estoque próprio da AP Imports."
+      ]
+    },
+    {
+      "id": 287,
+      "name": "Calça Adidas Essentials French Terry 3 Stripes JE6346 masculina",
+      "category": "moda",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "39.00",
+      "finalBRL": 285,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/calca-adidas-je6346-essentials-french-terry-3-stripes-masculino__5004662/",
+        "title": "Calça Adidas JE6346 Essentials French Terry 3 Stripes Masculino",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "htmlSha256": "34921cf617f8842e547615ce5d7f780d9eb7d8c1ce2e98b18740860892f8a871",
+        "declaredCurrency": "USD",
+        "observedUSD": "39.00"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/calca-adidas-je6346-essentials-french-terry-3-stripes-masculino__5004662/",
+      "photo": {
+        "image": "/images/products/expansao-moda-5004662.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/4ee956c848f059f1d7a5e34491abaf496081fda9.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/calca-adidas-je6346-essentials-french-terry-3-stripes-masculino__5004662/",
+        "sha256": "75276d681fd065c4c5353199a2ff4045a3a707d3482a12c1a62a00224b13a29d"
+      },
+      "notes": [
+        "Referência e variante identificadas pelo código do anúncio. Tamanhos não são especificados na oferta consultada; confirmar com a equipe.",
+        "A listagem no comparador não comprova estoque próprio da AP Imports."
+      ]
+    },
+    {
+      "id": 288,
+      "name": "Legging Adidas Essentials Color Pop JD5566 feminina",
+      "category": "moda",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "29.00",
+      "finalBRL": 211.92,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/legging-adidas-jd5566-essentials-color-pop-feminino__4917888/",
+        "title": "Legging Adidas JD5566 Essentials Color Pop Feminino",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "htmlSha256": "4cfdb61fcc198a6fd503b5d78f3e92040c9df8f242d22cd47f711d1f1857eef5",
+        "declaredCurrency": "USD",
+        "observedUSD": "29.00"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/legging-adidas-jd5566-essentials-color-pop-feminino__4917888/",
+      "photo": {
+        "image": "/images/products/expansao-moda-4917888.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/8d3d74a40657eef4b437f082dc2ee465100aaacf.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/legging-adidas-jd5566-essentials-color-pop-feminino__4917888/",
+        "sha256": "33ede7ed0e905c2a187b6deebf0fdb1c7d34f5dba48911833431c76bad69d778"
+      },
+      "notes": [
+        "Referência e variante identificadas pelo código do anúncio. Tamanhos não são especificados na oferta consultada; confirmar com a equipe.",
+        "A listagem no comparador não comprova estoque próprio da AP Imports."
+      ]
+    },
+    {
+      "id": 289,
+      "name": "Short Adidas Essentials Stash Pocket IT2281 feminino",
+      "category": "moda",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "20.00",
+      "finalBRL": 146.15,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/short-adidas-it2281-essentials-stash-pocket-7-inch-feminino__4981206/",
+        "title": "Short Adidas IT2281 Essentials Stash Pocket 7-Inch Feminino",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "htmlSha256": "d7a39f9e8a0400431bc4babc8339366bfc1b470e3500a2453737ad0fe974bcc4",
+        "declaredCurrency": "USD",
+        "observedUSD": "20.00"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/short-adidas-it2281-essentials-stash-pocket-7-inch-feminino__4981206/",
+      "photo": {
+        "image": "/images/products/expansao-moda-4981206.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/51a465092a6ad46bc1c7388b3122a18cc40082a5.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/short-adidas-it2281-essentials-stash-pocket-7-inch-feminino__4981206/",
+        "sha256": "c512e5989c29253c7fee16c670054371598ce94d1177533d7f2d91d3444604a1"
+      },
+      "notes": [
+        "Referência e variante identificadas pelo código do anúncio. Tamanhos não são especificados na oferta consultada; confirmar com a equipe.",
+        "A listagem no comparador não comprova estoque próprio da AP Imports."
+      ]
+    },
+    {
+      "id": 290,
+      "name": "Moletom Tommy Hilfiger MW0MW40481 BDS masculino",
+      "category": "moda",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "120.00",
+      "finalBRL": 876.92,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/moletom-tommy-hilfiger-mw0mw40481-bds-masculino__5281372/",
+        "title": "Moletom Tommy Hilfiger MW0MW40481 BDS Masculino",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "htmlSha256": "25ed74383b4236efc566062131dc178c30dd547ebdbfa44404c15fd7e6ccbaa0",
+        "declaredCurrency": "USD",
+        "observedUSD": "120.00"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/moletom-tommy-hilfiger-mw0mw40481-bds-masculino__5281372/",
+      "photo": {
+        "image": "/images/products/expansao-moda-5281372.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/3eaf2b90ef6a781087a5f39cd8310cf7d6e0169f.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/moletom-tommy-hilfiger-mw0mw40481-bds-masculino__5281372/",
+        "sha256": "40ae73336ab84ddff464adcaeccd5c71cfb702b6652a951453e4e5647f784ddd"
+      },
+      "notes": [
+        "Referência e variante identificadas pelo código do anúncio. Tamanhos não são especificados na oferta consultada; confirmar com a equipe.",
+        "A listagem no comparador não comprova estoque próprio da AP Imports."
+      ]
+    },
+    {
+      "id": 291,
+      "name": "Jaqueta Tommy Hilfiger MW0MW41982 BDS masculina",
+      "category": "moda",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "220.00",
+      "finalBRL": 1607.69,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/jaqueta-tommy-hilfiger-mw0mw41982-bds-masculino__5281378/",
+        "title": "Jaqueta Tommy Hilfiger MW0MW41982 BDS Masculino",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "htmlSha256": "858b0468e70edf8d4c95d2c380c41fad2e548951c0408e70cc5e2ee0c9ff34f7",
+        "declaredCurrency": "USD",
+        "observedUSD": "220.00"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/jaqueta-tommy-hilfiger-mw0mw41982-bds-masculino__5281378/",
+      "photo": {
+        "image": "/images/products/expansao-moda-5281378.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/fde099dcd3a937dd41b3784aeeb37968bbcdd803.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/jaqueta-tommy-hilfiger-mw0mw41982-bds-masculino__5281378/",
+        "sha256": "65f2085d5cf4f4656699d47e58523100807fe6e15e0ca4c35e3a708e82fd7ad3"
+      },
+      "notes": [
+        "Referência e variante identificadas pelo código do anúncio. Tamanhos não são especificados na oferta consultada; confirmar com a equipe.",
+        "A listagem no comparador não comprova estoque próprio da AP Imports."
+      ]
+    },
+    {
+      "id": 292,
+      "name": "Optimum Nutrition Micronized Creatine Powder 300 g",
+      "category": "saude",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "30.00",
+      "finalBRL": 219.23,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/optimum-nutrition-micronized-creatine-powder-300g__3833908/",
+        "title": "Optimum Nutrition Micronized Creatine Powder - 300G",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Cellshop",
+        "observedUSD": "30.00",
+        "declaredCurrency": "USD",
+        "htmlSha256": "1048c6e4e6bac8d1ca672073c7cc381fb1902f59b99683b2174d30ac48b468fd",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/creatina-optimum-nutrition-micronized-powder-300g_59722/",
+      "photo": {
+        "image": "/images/products/expansao-saude-on-creatine.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/d78f364156bc12c7443b103ec180d25d2327441b.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/optimum-nutrition-micronized-creatine-powder-300g__3833908/",
+        "sha256": "71b46eaf023f4591b84ccb39d8dae52dde4238986e93ca19b5a9648bb84eeb48"
+      },
+      "notes": [
+        "Preço em USD conferido na oferta específica e foto extraída da mesma página. Não foram inferidos tamanhos de embalagem ou modelos alternativos.",
+        "Foto local inspecionada visualmente com view_image: marca e apresentação compatíveis com a oferta; sem editar a imagem."
+      ]
+    },
+    {
+      "id": 293,
+      "name": "Nutrex Creatine Monohydrate 300 g",
+      "category": "saude",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "21.00",
+      "finalBRL": 153.46,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/creatina-monohidratada-nutrex-60sv-300g__5451023/",
+        "title": "Creatina Monohidratada Nutrex 60SV 300G",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Intershop Importados",
+        "observedUSD": "21.00",
+        "declaredCurrency": "USD",
+        "htmlSha256": "7a2e4b5af1821b0cfb50536d26f97c830249546711d38a20e79744da244fb13a",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/creatina-nutrex-monohydrate-300g_59733/",
+      "photo": {
+        "image": "/images/products/expansao-saude-nutrex-creatine.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/f70d7abd9dff75c60472250aec8af932fc6d0e6d.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/creatina-monohidratada-nutrex-60sv-300g__5451023/",
+        "sha256": "44d6c8c9345433a51f8c9e18d84e9f4b962e84c8a17dbf5e280cadf9b93b58c4"
+      },
+      "notes": [
+        "Preço em USD conferido na oferta específica e foto extraída da mesma página. Não foram inferidos tamanhos de embalagem ou modelos alternativos.",
+        "Foto local inspecionada visualmente com view_image: marca e apresentação compatíveis com a oferta; sem editar a imagem."
+      ]
+    },
+    {
+      "id": 294,
+      "name": "Optimum Nutrition Gold Standard Whey Double Rich Chocolate 907 g",
+      "category": "saude",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "58.00",
+      "finalBRL": 423.84,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/suplemento-optimum-nutrition-gold-stantard-100-whey-double-rich-chocolate-907gr__2897979/",
+        "title": "Suplemento Optimum Nutrition Gold Stantard 100% Whey Double Rich Chocolate 907GR",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "observedUSD": "58.00",
+        "declaredCurrency": "USD",
+        "htmlSha256": "39bca97dc16a45da92213c73290e2e3d21eee6a650f5b16998a6093d86bc62c5",
+        "lastListing": "18 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/whey-optimum-nutrition-gold-standard-double-rich-chocolate-907g_59715/",
+      "photo": {
+        "image": "/images/products/expansao-saude-on-whey.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/8430132ffa9518fe6c74630a830a4a4360353675.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/suplemento-optimum-nutrition-gold-stantard-100-whey-double-rich-chocolate-907gr__2897979/",
+        "sha256": "6593f6207d55e00aa7f2d46f0cdaf5168ed9a6cd0bbd47ea231ec29e3cf95bae"
+      },
+      "notes": [
+        "Preço em USD conferido na oferta específica e foto extraída da mesma página. Não foram inferidos tamanhos de embalagem ou modelos alternativos.",
+        "Foto local inspecionada visualmente com view_image: marca e apresentação compatíveis com a oferta; sem editar a imagem."
+      ]
+    },
+    {
+      "id": 295,
+      "name": "LanderFit WheykShake Gourmet Strawberry Milkshake 900 g",
+      "category": "saude",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "32.00",
+      "finalBRL": 233.85,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/landerfit-whey-protein-wheykshake-gourtmet-series-900g-strawberry-milkshake__4815203/",
+        "title": "Landerfit Whey Protein Wheykshake Gourtmet Series 900G - Strawberry Milkshake",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Farma Fit",
+        "observedUSD": "32.00",
+        "declaredCurrency": "USD",
+        "htmlSha256": "ec5eee16e0fbd124301edfe2d4b7eb3a0150dad8b3fc4a12abc45af489f291b6",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/whey-landerfit-wheykshake-gourmet-strawberry-milkshake-900g_59682/",
+      "photo": {
+        "image": "/images/products/expansao-saude-landerfit-whey.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/93684c01261e93ef97807b64f61b464160c6b8c3.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/landerfit-whey-protein-wheykshake-gourtmet-series-900g-strawberry-milkshake__4815203/",
+        "sha256": "66df493359deb43631719ea317b64a69a488730949f4bcf79c261d88ecc79526"
+      },
+      "notes": [
+        "Preço em USD conferido na oferta específica e foto extraída da mesma página. Não foram inferidos tamanhos de embalagem ou modelos alternativos.",
+        "Foto local inspecionada visualmente com view_image: marca e apresentação compatíveis com a oferta; sem editar a imagem."
+      ]
+    },
+    {
+      "id": 296,
+      "name": "Termômetro Beurer FT 65 Multifuncional",
+      "category": "saude",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "38.00",
+      "finalBRL": 277.69,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/termometro-beurer-ft-65-multifuncional__4938102/",
+        "title": "Termômetro Beurer FT 65 Multifuncional",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "observedUSD": "38.00",
+        "declaredCurrency": "USD",
+        "htmlSha256": "ff3440e74c55d3c77a1d22092829659241f766f7e7c915e237ebfbb81b28775e",
+        "lastListing": "18 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/termometro-beurer-ft-65-multifuncional__4938102/",
+      "photo": {
+        "image": "/images/products/expansao-saude-beurer-ft65.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/6ac3df1aeb365b76b211a036a2842254c0d0e75e.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/termometro-beurer-ft-65-multifuncional__4938102/",
+        "sha256": "0bab3c3ae5b2deb0435fb6ca51dcb7fcbc365ef1a277575ae2764848a4c29574"
+      },
+      "notes": [
+        "Preço em USD conferido na oferta específica e foto extraída da mesma página. Não foram inferidos tamanhos de embalagem ou modelos alternativos.",
+        "Foto local inspecionada visualmente com view_image: marca e apresentação compatíveis com a oferta; sem editar a imagem."
+      ]
+    },
+    {
+      "id": 297,
+      "name": "Escova Elétrica Oral-B Precision Clean",
+      "category": "saude",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "32.50",
+      "finalBRL": 237.5,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/escova-de-dentes-oral-b-precision-clean-eletrica__5373631/",
+        "title": "Escova de Dentes Oral B Precision Clean Elétrica",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "observedUSD": "32.50",
+        "declaredCurrency": "USD",
+        "htmlSha256": "a1dd86eb29851515579ce90e034ad3b258be4c836a4764842f64f281b7b490e7",
+        "lastListing": "18 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/escova-de-dentes-oral-b-precision-clean-eletrica__5373631/",
+      "photo": {
+        "image": "/images/products/expansao-saude-oralb.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/473de1252ef57c9022b11ae94534917279687e51.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/escova-de-dentes-oral-b-precision-clean-eletrica__5373631/",
+        "sha256": "07cfdd60978c0f61a4cec7ce61c4626e30ceb07c2fb4fdabfc0018692251a4bb"
+      },
+      "notes": [
+        "Preço em USD conferido na oferta específica e foto extraída da mesma página. Não foram inferidos tamanhos de embalagem ou modelos alternativos.",
+        "Foto local inspecionada visualmente com view_image: marca e apresentação compatíveis com a oferta; sem editar a imagem."
+      ]
+    },
+    {
+      "id": 298,
+      "name": "Xiaomi Air Fryer Essential BHR8542US 6 L 110V — branca",
+      "category": "casa",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "48.00",
+      "finalBRL": 350.77,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/fritadeira-eletrica-xiaomi-air-fryer-essential-bhr8542us-6l-branco__4683275/",
+        "title": "Fritadeira Elétrica Xiaomi Air Fryer Essential BHR8542US 6L - Branco",
+        "checkedOn": "2026-11-24",
+        "storeName": "Atacado Connect",
+        "sku": "1178364",
+        "declaredCurrency": "USD",
+        "observedUSD": "48.00",
+        "availability": "https://schema.org/InStock",
+        "htmlSha256": "c53f46bc28f82ccd0e7d5a52907a5389fc2dacd542881b3c12bd9d7c8708a7f1"
+      },
+      "photo": {
+        "image": "/images/products/expansao-casa-4683275.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/4a4240de4d5ce1e761626edce14fde862fa51093.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/fritadeira-eletrica-xiaomi-air-fryer-essential-bhr8542us-6l-branco__4683275/",
+        "sha256": "4db1cfc1e25579dfe43c2dfc0bacb89ce49186eefd4c765a656d447d1dfdb6a1"
+      },
+      "notes": [
+        "Apresentação e foto conferidas na oferta individual, com moeda USD explícita. A disponibilidade da loja fornecedora não garante estoque próprio."
+      ]
+    },
+    {
+      "id": 299,
+      "name": "Cafeteira Mondial Dolce Arome Inox C-32-32X 127V",
+      "category": "casa",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "24.00",
+      "finalBRL": 175.38,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/cafeteira-mondial-dolce-arome-inox-c-32-32x-800-watts-127v-60hz-pretaprata__3090061/",
+        "title": "Cafeteira Mondial Dolce Arome Inox C-32-32X 800 Watts 127V ~ 60HZ - Preta/Prata",
+        "checkedOn": "2026-11-24",
+        "storeName": "Mega Eletrônicos",
+        "sku": "1086423",
+        "declaredCurrency": "USD",
+        "observedUSD": "24.00",
+        "availability": "https://schema.org/InStock",
+        "htmlSha256": "f9e256072640486539c84d91f89abfe59f13c3f63cb15757b8583ae90922be92"
+      },
+      "photo": {
+        "image": "/images/products/expansao-casa-3090061.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/eb19808dcda421d0c7b5cc323acd5ea73f6aa15b.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/cafeteira-mondial-dolce-arome-inox-c-32-32x-800-watts-127v-60hz-pretaprata__3090061/",
+        "sha256": "e7f6aaf7b8b82201391f7816a43b510696637aca10a04ce5709d9357a85c686f"
+      },
+      "notes": [
+        "Apresentação e foto conferidas na oferta individual, com moeda USD explícita. A disponibilidade da loja fornecedora não garante estoque próprio."
+      ]
+    },
+    {
+      "id": 300,
+      "name": "Liquidificador Oster 4170 350 W 110V — branco",
+      "category": "casa",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "36.00",
+      "finalBRL": 263.08,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/liquidificador-oster-4170-2-velocidades-350w-110v-branco-004170-013-000__3338170/",
+        "title": "Liquidificador Oster 4170 2 Velocidades 350W 110V Branco 004170-013-000",
+        "checkedOn": "2026-11-24",
+        "storeName": "Roma Shopping",
+        "sku": "136709",
+        "declaredCurrency": "USD",
+        "observedUSD": "36.00",
+        "availability": "https://schema.org/InStock",
+        "htmlSha256": "5b3c3c651eb0e59a8168aff8a93bb46820530e615869cd5cacb8beb424bea998"
+      },
+      "photo": {
+        "image": "/images/products/expansao-casa-3338170.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/bafa19462884685aed32536369e791b45463c206.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/liquidificador-oster-4170-2-velocidades-350w-110v-branco-004170-013-000__3338170/",
+        "sha256": "fb45574b2851ffbf848c978b69ee71b9c46c7ba1108841493f76c8ed968fb66b"
+      },
+      "notes": [
+        "Apresentação e foto conferidas na oferta individual, com moeda USD explícita. A disponibilidade da loja fornecedora não garante estoque próprio."
+      ]
+    },
+    {
+      "id": 301,
+      "name": "Chaleira Xiaomi Electric Glass Kettle 1,7 L 220V",
+      "category": "casa",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "22.00",
+      "finalBRL": 160.77,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/chaleira-eletrica-xiaomi-electric-glass-kettle-mjdsh05fd-17l-220v__4335792/",
+        "title": "Chaleira Elétrica Xiaomi Electric Glass Kettle MJDSH05FD 1.7L 220V",
+        "checkedOn": "2026-11-24",
+        "storeName": "Atacado Connect",
+        "sku": "1041101",
+        "declaredCurrency": "USD",
+        "observedUSD": "22.00",
+        "availability": "https://schema.org/InStock",
+        "htmlSha256": "9371ba26e61ea3a7c390d12d7390e61e3ae4ca491c4ffc957f21572bd9379d9d"
+      },
+      "photo": {
+        "image": "/images/products/expansao-casa-4335792.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/ebb98b06207fb1fd7873769996c2923df1d2b8f8.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/chaleira-eletrica-xiaomi-electric-glass-kettle-mjdsh05fd-17l-220v__4335792/",
+        "sha256": "93f53bbac963b91ec6bf876f2309347d371be6d7b52e2cc9a58a46beb224eaed"
+      },
+      "notes": [
+        "Apresentação e foto conferidas na oferta individual, com moeda USD explícita. A disponibilidade da loja fornecedora não garante estoque próprio."
+      ]
+    },
+    {
+      "id": 302,
+      "name": "Sanduicheira e Grill Mondial Premium G-09 220V",
+      "category": "casa",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "34.00",
+      "finalBRL": 248.46,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/sanduicheira-grill-mondial-premium-g-09-1700-w-220v-inoxpreto__5438791/",
+        "title": "Sanduicheira Grill Mondial Premium G-09 1700 W 220V - Inox/Preto",
+        "checkedOn": "2026-11-24",
+        "storeName": "Nissei",
+        "sku": "22860",
+        "declaredCurrency": "USD",
+        "observedUSD": "34.00",
+        "availability": "https://schema.org/InStock",
+        "htmlSha256": "24b4e63927ca6c9bd1e79036dde249919e68b3f1b496f7c91cc6c46ff97b51ee"
+      },
+      "photo": {
+        "image": "/images/products/expansao-casa-5438791.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/15f3b0c13fdd60403a66344c8eeeab01dafc524c.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/sanduicheira-grill-mondial-premium-g-09-1700-w-220v-inoxpreto__5438791/",
+        "sha256": "83dd22b3f55b1cbfa220fd4dbdf1397308105f3dea1b51987e06deddb863f589"
+      },
+      "notes": [
+        "Apresentação e foto conferidas na oferta individual, com moeda USD explícita. A disponibilidade da loja fornecedora não garante estoque próprio."
+      ]
+    },
+    {
+      "id": 303,
+      "name": "Stanley Quencher H2.0 FlowState 1,18 L — Black 2.0",
+      "category": "casa",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "62.00",
+      "finalBRL": 453.07,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/copo-termico-stanley-quencher-h20-flowstate-tumbler-10-10825-453-118l-black-20__4911941/",
+        "title": "Copo Térmico Stanley Quencher H2.0 Flowstate Tumbler - 10-10825-453 (1.18L) Black 2.0",
+        "checkedOn": "2026-11-24",
+        "storeName": "Cellshop",
+        "sku": "5110070",
+        "declaredCurrency": "USD",
+        "observedUSD": "62.00",
+        "availability": "https://schema.org/InStock",
+        "htmlSha256": "b380710d909e1f5f713f75443a2f3e8af5e310435dd3378940280b4df0cff59d"
+      },
+      "photo": {
+        "image": "/images/products/expansao-casa-4911941.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/75f8f5b9f0531d45242eb7dc33bf529ad0879087.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/copo-termico-stanley-quencher-h20-flowstate-tumbler-10-10825-453-118l-black-20__4911941/",
+        "sha256": "fe529fe6eb65ed2fb70ccad486fb6de1a9a411e2fa9b92e0711e772b03df8732"
+      },
+      "notes": [
+        "Apresentação e foto conferidas na oferta individual, com moeda USD explícita. A disponibilidade da loja fornecedora não garante estoque próprio."
+      ]
+    },
+    {
+      "id": 304,
+      "name": "Liquidificador Oster BLSTBPST-053 1,5 L 220V",
+      "category": "casa",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "105.00",
+      "finalBRL": 767.3,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/liquidificador-oster-blstbpst-053-15l-700w-220v-preto__4246506/",
+        "title": "Liquidificador Oster BLSTBPST-053 1.5L 700W 220V Preto",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "sku": "850974",
+        "declaredCurrency": "USD",
+        "observedUSD": "105.00",
+        "availability": "https://schema.org/InStock",
+        "htmlSha256": "2fdb95e316d71be61c41778d976222637c7a83b5db6d7b60e14ca9cc912bc00e"
+      },
+      "photo": {
+        "image": "/images/products/expansao-casa-4246506.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/726042d29a7269ada7b8c60cad9b1b3b15b1b962.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/liquidificador-oster-blstbpst-053-15l-700w-220v-preto__4246506/",
+        "sha256": "3d9e817d463f4baba70a9dbcae0b19a55c8c8e19ef2e8941c17ba5c5a1e5d65a"
+      },
+      "notes": [
+        "Apresentação e foto conferidas na oferta individual, com moeda USD explícita. A disponibilidade da loja fornecedora não garante estoque próprio."
+      ]
+    },
+    {
+      "id": 305,
+      "name": "Stanley Quencher H2.0 FlowState 1,18 L — Polar",
+      "category": "casa",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "61.00",
+      "finalBRL": 445.77,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/garrafa-termica-stanley-quencher-h20-com-canudo-polar-118l__4433458/",
+        "title": "Garrafa Térmica Stanley Quencher H2.0 com Canudo - Polar 1.18L",
+        "checkedOn": "2026-11-24",
+        "storeName": "Nissei",
+        "sku": "128731",
+        "declaredCurrency": "USD",
+        "observedUSD": "61.00",
+        "availability": "https://schema.org/InStock",
+        "htmlSha256": "0a5751c62655cb2592e19ddfee88c76fdcbdaa43460ebb662ec9b57b293b3c60"
+      },
+      "photo": {
+        "image": "/images/products/expansao-casa-4433458.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/e4ea470506b2ec51a6d751c90306e29b8cdffa3d.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/garrafa-termica-stanley-quencher-h20-com-canudo-polar-118l__4433458/",
+        "sha256": "691812f58d91d6a53c0710e77a5e6eedf7ce969f7bbcfa11c95c6267fe45af8b"
+      },
+      "notes": [
+        "Apresentação e foto conferidas na oferta individual, com moeda USD explícita. A disponibilidade da loja fornecedora não garante estoque próprio."
+      ]
+    },
+    {
+      "id": 306,
+      "name": "Notebook ASUS Vivobook 14 F1404VAP-QB52-GR Core 5 / 8GB / 512GB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "533.00",
+      "finalBRL": 3894.98,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-asus-vivobook-f1404vap-qb52-gr-intel-core-5-120u-tela-full-hd-14-8gb-de-ram-512gb-ssd-win11home-vanilla-basil-ingles__5776217/",
+        "title": "Notebook Asus Vivobook F1404VAP-QB52-GR Intel Core 5 120U Tela Full HD 14\" / 8GB de Ram / 512GB SSD / WIN11HOME - Vanilla Basil (Inglês)",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Visãovip",
+        "declaredCurrency": "USD",
+        "observedUSD": "533.00",
+        "htmlSha256": "c87e62e4bcb72a09bacda563f8b24ca877a1a3b99e542e02027b78d0522b71f5",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-asus-vivobook-14-f1404vap-qb51-intel-core-5-14ghz-memoria-8gb-ssd-512gb-14-windows-11_62213/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-trabalho-asus-vivobook-f1404vap-qb52-gr.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/eb6728886588b006e2b95a40f3939616ec915641.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-asus-vivobook-f1404vap-qb52-gr-intel-core-5-120u-tela-full-hd-14-8gb-de-ram-512gb-ssd-win11home-vanilla-basil-ingles__5776217/",
+        "sha256": "acf2efceff1c8b3df10fa7c24ab6ff404404e7909e3e83329b1a09bbfbfaf5a2"
+      },
+      "notes": [
+        "Preço em US$ conferido na seção principal da oferta, próximo ao título e código; não foi usado o preço de itens relacionados nem o JSON-LD para determinar disponibilidade.",
+        "A seção principal não apresenta aviso de produto indisponível. A listagem no comparador não comprova estoque próprio da AP Imports.",
+        "Oferta selecionada sem indicação de Swap, recondicionado, seminovo, avaria ou caixa danificada.",
+        "O agrupador é intitulado QB51, mas a oferta individual explicita F1404VAP-QB52-GR; o cadastro e a foto seguem essa oferta individual, sem deduzir equivalência de SKUs."
+      ]
+    },
+    {
+      "id": 307,
+      "name": "Notebook ASUS Zenbook 14 UX3405CA-QL214W Ultra 9 / 32GB / 1TB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1710.00",
+      "finalBRL": 12496.1,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-asus-zenbook-14-ux3405ca-ql214w-oled-14-intel-core-ultra-9-285h-32-gb-lpddr5x-1-tb-ssd-ponder-blue__4940694/",
+        "title": "Notebook Asus Zenbook 14 UX3405CA-QL214W Oled 14\" Intel Core Ultra 9 285H 32 GB LPDDR5X 1 TB SSD - Ponder Blue",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Nissei",
+        "declaredCurrency": "USD",
+        "observedUSD": "1710.00",
+        "htmlSha256": "0790bf32593cdf68616db152916214072c334289555b09325e1c71c1e64e1823",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-asus-zenbook-14-ux3405ca-ql214w-oled-14-intel-core-ultra-9-285h-32-gb-lpddr5x-1-tb-ssd-ponder-blue__4940694/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-trabalho-asus-zenbook-ux3405ca-ql214w.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/d53c06af1b117d3e1c07ad988b996476ace3ae84.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-asus-zenbook-14-ux3405ca-ql214w-oled-14-intel-core-ultra-9-285h-32-gb-lpddr5x-1-tb-ssd-ponder-blue__4940694/",
+        "sha256": "e512f508659617dbf1606a998021c0aec343ab70ec976f217eac3c0a27b5ba04"
+      },
+      "notes": [
+        "Preço em US$ conferido na seção principal da oferta, próximo ao título e código; não foi usado o preço de itens relacionados nem o JSON-LD para determinar disponibilidade.",
+        "A seção principal não apresenta aviso de produto indisponível. A listagem no comparador não comprova estoque próprio da AP Imports.",
+        "Oferta selecionada sem indicação de Swap, recondicionado, seminovo, avaria ou caixa danificada."
+      ]
+    },
+    {
+      "id": 308,
+      "name": "Notebook Samsung Galaxy Book4 NP750XGJ-KS5CL i5 / 16GB / 512GB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "695.00",
+      "finalBRL": 5078.82,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-samsung-galaxy-book-4-np750xgj-ks5cl-intel-core-i5-1335u-16gb-ram-512gb-ssd-156__5597022/",
+        "title": "Notebook Samsung Galaxy Book 4 NP750XGJ-KS5CL Intel Core i5-1335U 16GB Ram 512GB SSD 15.6\"",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Shopping China",
+        "declaredCurrency": "USD",
+        "observedUSD": "695.00",
+        "htmlSha256": "dde44dc1972e9eaa9ec81d949847ad8c300aad3662e7c0064268b25746ddc192",
+        "lastListing": "18 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-samsung-galaxy-book-4-np750xgj-ks5cl-intel-core-i5-13ghz-memoria-16gb-ssd-512gb-156-windows-11_69858/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-trabalho-samsung-galaxy-book4-np750xgj-ks5cl.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/8da27aa920eef09b638c392464382df54ab8d5ee.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-samsung-galaxy-book-4-np750xgj-ks5cl-intel-core-i5-1335u-16gb-ram-512gb-ssd-156__5597022/",
+        "sha256": "8be9ee9f99f9f30169c61a2c6ec1137460c538418b16b3a22268fa91d98394de"
+      },
+      "notes": [
+        "Preço em US$ conferido na seção principal da oferta, próximo ao título e código; não foi usado o preço de itens relacionados nem o JSON-LD para determinar disponibilidade.",
+        "A seção principal não apresenta aviso de produto indisponível. A listagem no comparador não comprova estoque próprio da AP Imports.",
+        "Oferta selecionada sem indicação de Swap, recondicionado, seminovo, avaria ou caixa danificada.",
+        "O último registro na página da oferta é de 18/11/2026; preço visível ainda presente na consulta de 24/11. Versão do Windows não especificada na oferta individual e não acrescentada à descrição."
+      ]
+    },
+    {
+      "id": 309,
+      "name": "Notebook Samsung Galaxy Book6 NP760XJG Ultra 7 / 16GB / 512GB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1049.00",
+      "finalBRL": 7665.74,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-samsung-galaxy-book6-np760xjg-16-touchscreen-intel-core-ultra-7-355-16-gb-512-gb-ssd-cinza__5333131/",
+        "title": "Notebook Samsung Galaxy BOOK6 NP760XJG 16\" Touchscreen Intel Core Ultra 7-355 16 GB 512 GB SSD - Cinza",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Nissei",
+        "declaredCurrency": "USD",
+        "observedUSD": "1049.00",
+        "htmlSha256": "55f17103be4419233ebea7d8f8fdaf388a1d7f3fee84da88109c740acd0de699",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-samsung-galaxy-book6-np760xjg-16-touchscreen-intel-core-ultra-7-355-16-gb-512-gb-ssd-cinza__5333131/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-trabalho-samsung-galaxy-book6-np760xjg.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/b7ebf0f27e3c0adc862af43de0f865fa08370e06.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-samsung-galaxy-book6-np760xjg-16-touchscreen-intel-core-ultra-7-355-16-gb-512-gb-ssd-cinza__5333131/",
+        "sha256": "b13637ecc544acde8c57dabac656a41bb7623bd336a1e1567638a1afce155ef8"
+      },
+      "notes": [
+        "Preço em US$ conferido na seção principal da oferta, próximo ao título e código; não foi usado o preço de itens relacionados nem o JSON-LD para determinar disponibilidade.",
+        "A seção principal não apresenta aviso de produto indisponível. A listagem no comparador não comprova estoque próprio da AP Imports.",
+        "Oferta selecionada sem indicação de Swap, recondicionado, seminovo, avaria ou caixa danificada."
+      ]
+    },
+    {
+      "id": 310,
+      "name": "Notebook Lenovo ThinkPad E16 21ST0004US Ryzen 7 / 16GB / 512GB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1699.00",
+      "finalBRL": 12415.71,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-lenovo-thinkpad-e16-amd-ryzen-7-25016gb512gb-ssd16-wuxgaw11-pro-21st0004us__5786897/",
+        "title": "Notebook Lenovo Thinkpad E16 AMD Ryzen 7 250/ 16GB/ 512GB SSD/ 16\" Wuxga/ W11 Pro (21ST0004US)",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Cellshop",
+        "declaredCurrency": "USD",
+        "observedUSD": "1699.00",
+        "htmlSha256": "a4cc751949ad14ad2f1c00b07f8abafe8a28a06d802b0246ea063e0eac57bbda",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-lenovo-thinkpad-e16-amd-ryzen-7-25016gb512gb-ssd16-wuxgaw11-pro-21st0004us__5786897/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-trabalho-lenovo-thinkpad-e16-21st0004us.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/5cbd4b7c0a9f2f60e0f43dc35490ebbf08d14141.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-lenovo-thinkpad-e16-amd-ryzen-7-25016gb512gb-ssd16-wuxgaw11-pro-21st0004us__5786897/",
+        "sha256": "d710a78d804dd358d3833741bb4b363b8e02c6d659076e33e94f455247e41534"
+      },
+      "notes": [
+        "Preço em US$ conferido na seção principal da oferta, próximo ao título e código; não foi usado o preço de itens relacionados nem o JSON-LD para determinar disponibilidade.",
+        "A seção principal não apresenta aviso de produto indisponível. A listagem no comparador não comprova estoque próprio da AP Imports.",
+        "Oferta selecionada sem indicação de Swap, recondicionado, seminovo, avaria ou caixa danificada."
+      ]
+    },
+    {
+      "id": 311,
+      "name": "Notebook Dell Inspiron 15 LDC15255 Ryzen 5 / 8GB / 512GB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "524.00",
+      "finalBRL": 3829.21,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-dell-inspiron-15-ldc15255-amd-ryzen-5-7520u-280hz-430ghz-8gb-ram-512gb-ssd-tela-156-full-hd-1920-x-1080-120hz-windows-11-home-ingles-cabon-preto__5198881/",
+        "title": "Notebook Dell Inspiron 15 LDC15255, AMD Ryzen 5 7520U 2.80HZ (4.30GHZ), 8GB Ram, 512GB SSD, Tela 15.6\" Full HD (1920 X 1080) 120HZ, Windows 11 Home, Inglês, Cabon Preto",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Topdek Informática",
+        "declaredCurrency": "USD",
+        "observedUSD": "524.00",
+        "htmlSha256": "0063ceb48e7a0823f209eb1aec15619101c684329947c57b1271404f26d57e47",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-dell-inspiron-15-ldc15255-amd-ryzen-5-7520u-280hz-430ghz-8gb-ram-512gb-ssd-tela-156-full-hd-1920-x-1080-120hz-windows-11-home-ingles-cabon-preto__5198881/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-trabalho-dell-inspiron-15-ldc15255-ryzen5.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/1a4b1ed119d338dbd2a3916675662001dda42d8e.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-dell-inspiron-15-ldc15255-amd-ryzen-5-7520u-280hz-430ghz-8gb-ram-512gb-ssd-tela-156-full-hd-1920-x-1080-120hz-windows-11-home-ingles-cabon-preto__5198881/",
+        "sha256": "2639ca7fff27c4b6c9359bb76c5165ea9119c9d5878f487e652b6fecc0f700d0"
+      },
+      "notes": [
+        "Preço em US$ conferido na seção principal da oferta, próximo ao título e código; não foi usado o preço de itens relacionados nem o JSON-LD para determinar disponibilidade.",
+        "A seção principal não apresenta aviso de produto indisponível. A listagem no comparador não comprova estoque próprio da AP Imports.",
+        "Oferta selecionada sem indicação de Swap, recondicionado, seminovo, avaria ou caixa danificada."
+      ]
+    },
+    {
+      "id": 312,
+      "name": "Notebook Lenovo IdeaPad Slim 3 82XQ012HUS Ryzen 5 / 8GB / 512GB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "474.00",
+      "finalBRL": 3463.83,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-lenovo-ideapad-slim-3-15amn8-amd-ryzen-5-40-tela-full-hd-156-8gb-de-ram-512gb-ssd-win11-abyss-azul-82xq012hus-ingles__5362021/",
+        "title": "Notebook Lenovo Ideapad Slim 3 15AMN8 AMD Ryzen 5 40 Tela Full HD 15.6\" / 8GB de Ram / 512GB SSD / WIN11 - Abyss Azul (82XQ012HUS) (Inglês)",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Visãovip",
+        "declaredCurrency": "USD",
+        "observedUSD": "474.00",
+        "htmlSha256": "2d51dc83fd1f53fda36636685bf25ae7c7df27c990ac021b8d8132c16fc10756",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-lenovo-ideapad-slim-3-82xq012hus-amd-ryzen-5-28ghz-memoria-8gb-ssd-512gb-156-windows-11_68658/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-trabalho-lenovo-ideapad-slim3-82xq012hus.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/ba9d571bf91b414472a0e8392350005e46aa6e8c.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-lenovo-ideapad-slim-3-15amn8-amd-ryzen-5-40-tela-full-hd-156-8gb-de-ram-512gb-ssd-win11-abyss-azul-82xq012hus-ingles__5362021/",
+        "sha256": "c9b9decee009ed15429c6f1f35fc7b840c5a7a8d4212858c4fafae783a162264"
+      },
+      "notes": [
+        "Preço em US$ conferido na seção principal da oferta, próximo ao título e código; não foi usado o preço de itens relacionados nem o JSON-LD para determinar disponibilidade.",
+        "A seção principal não apresenta aviso de produto indisponível. A listagem no comparador não comprova estoque próprio da AP Imports.",
+        "Oferta selecionada sem indicação de Swap, recondicionado, seminovo, avaria ou caixa danificada."
+      ]
+    },
+    {
+      "id": 313,
+      "name": "Notebook HP 15-FC0235DX Ryzen 7 / 16GB / 512GB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "645.00",
+      "finalBRL": 4713.44,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-hp-15-fc0235dx-amd-ryzen-7-7730u-tela-touch-full-hd-156-16gb-de-ram-512gb-ssd-win11-prata-ingles__5595874/",
+        "title": "Notebook HP 15-FC0235DX AMD Ryzen 7 7730U Tela Touch Full HD 15.6\" / 16GB de Ram / 512GB SSD / WIN11 - Prata (Inglês)",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Visãovip",
+        "declaredCurrency": "USD",
+        "observedUSD": "645.00",
+        "htmlSha256": "cad7d3e63afc5a0798556602a8f3b7a50556b6f097607054b2ddb208f25431a2",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-hp-15-fc0235dx-amd-ryzen-7-20ghz-memoria-16gb-ssd-512gb-156-windows-11_71831/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-trabalho-hp-15-fc0235dx.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/f677e2d99ec7c431573cb6de7a3040c5d83b241b.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-hp-15-fc0235dx-amd-ryzen-7-7730u-tela-touch-full-hd-156-16gb-de-ram-512gb-ssd-win11-prata-ingles__5595874/",
+        "sha256": "7b0dda28b5ae63a424d3d8a180ba6b0f6f4bc3085dc946914b0416d3bfd42cdc"
+      },
+      "notes": [
+        "Preço em US$ conferido na seção principal da oferta, próximo ao título e código; não foi usado o preço de itens relacionados nem o JSON-LD para determinar disponibilidade.",
+        "A seção principal não apresenta aviso de produto indisponível. A listagem no comparador não comprova estoque próprio da AP Imports.",
+        "Oferta selecionada sem indicação de Swap, recondicionado, seminovo, avaria ou caixa danificada."
+      ]
+    },
+    {
+      "id": 314,
+      "name": "Notebook Gamer ASUS TUF F16 FX608JMR-SH73 i7 / 16GB / 512GB / RTX 5060",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1690.00",
+      "finalBRL": 12349.95,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-gamer-asus-tuf-f16-fx608jmr-sh73-intel-core-i7-14650hx-tela-wuxga-160-16gb-de-ram-512gb-ssd-win11home-geforce-rtx5060-8gb-jaeger-cinza-ingles__5740370/",
+        "title": "Notebook Gamer Asus Tuf F16 FX608JMR-SH73 Intel Core i7 14650HX Tela Wuxga 16.0\" / 16GB de Ram / 512GB SSD / WIN11HOME / Geforce RTX5060 8GB - Jaeger Cinza (Inglês)",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Visãovip",
+        "declaredCurrency": "USD",
+        "observedUSD": "1690.00",
+        "htmlSha256": "de83d90f07eefee450a1edabe0a934f28e2b51bb495022ebc406dbf899890a7d",
+        "lastListing": "24 de Novembro de 2026",
+        "availability": "https://schema.org/InStock",
+        "priceEvidence": {
+          "type": "Product.offers JSON-LD",
+          "priceCurrency": "USD",
+          "price": "1690.0",
+          "availability": "https://schema.org/InStock"
+        },
+        "visiblePriceUSD": "1690.00",
+        "availabilityVerifiedInMainSection": true,
+        "offerCode": "62290"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-asus-tuf-gaming-f16-fx608jmr-sh73-intel-core-i7-22ghz-memoria-16gb-ssd-512gb-16-windows-11-rtx-5060-8gb_73076/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-gamer-fx608jmr-sh73.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/e678d86904e255a7763db5cb36bce89e90f3d3d6.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-gamer-asus-tuf-f16-fx608jmr-sh73-intel-core-i7-14650hx-tela-wuxga-160-16gb-de-ram-512gb-ssd-win11home-geforce-rtx5060-8gb-jaeger-cinza-ingles__5740370/",
+        "sha256": "9048ad772ade83cce3aa703622dd591eb86cb7e0a6cec66d676e2ec58183fa2f"
+      },
+      "notes": [
+        "Preço em USD conferido na seção visível principal da oferta junto ao código, em 24/11/2026. Essa seção não informa indisponibilidade e oferece o link para a loja; JSON-LD também declara USD e InStock.",
+        "Foto baixada da mesma oferta individual, sem trocar SKU, memória, armazenamento ou GPU.",
+        "Preço BRL do comparador não utilizado; aplicar a média USD/BRL já adotada pelo catálogo e o acréscimo padrão de 30%."
+      ]
+    },
+    {
+      "id": 315,
+      "name": "Notebook Gamer ASUS ROG Strix G16 G614FM-WS94 Ryzen 9 / 16GB / 1TB / RTX 5060",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1699.00",
+      "finalBRL": 12415.71,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-gamer-rog-strix-g16-g614fm-ws94-amd-ryzen-9-9955hx-tela-wuxga-160-16gb-de-ram-1tb-ssd-win11home-geforce-rtx5060-8gb-eclipse-cinza-ingles__4947842/",
+        "title": "Notebook Gamer Rog Strix G16 G614FM-WS94 AMD Ryzen 9 9955HX Tela Wuxga 16.0\" / 16GB de Ram / 1TB SSD / WIN11HOME / Geforce RTX5060 8GB - Eclipse Cinza (Inglês)",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Visãovip",
+        "declaredCurrency": "USD",
+        "observedUSD": "1699.00",
+        "htmlSha256": "48a901978dbe67456a872b2484337006f5a24c36a642868e253c379fc90319ee",
+        "lastListing": "24 de Novembro de 2026",
+        "availability": "https://schema.org/InStock",
+        "priceEvidence": {
+          "type": "Product.offers JSON-LD",
+          "priceCurrency": "USD",
+          "price": "1699.0",
+          "availability": "https://schema.org/InStock"
+        },
+        "visiblePriceUSD": "1699.00",
+        "availabilityVerifiedInMainSection": true,
+        "offerCode": "53157"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-asus-rog-strix-g16-g614fm-ws94-amd-ryzen-9-25ghz-memoria-16gb-ssd-1tb-16-windows-11-rtx-5060-8gb_62437/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-gamer-g614fm-ws94.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/3018910e78dcfd93c91c397f03ceea9eba6d7421.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-gamer-rog-strix-g16-g614fm-ws94-amd-ryzen-9-9955hx-tela-wuxga-160-16gb-de-ram-1tb-ssd-win11home-geforce-rtx5060-8gb-eclipse-cinza-ingles__4947842/",
+        "sha256": "2403562b45bda969d65fed5bf3c85664f1ae13a69601f1bf6d23994a6c823b1d"
+      },
+      "notes": [
+        "Preço em USD conferido na seção visível principal da oferta junto ao código, em 24/11/2026. Essa seção não informa indisponibilidade e oferece o link para a loja; JSON-LD também declara USD e InStock.",
+        "Foto baixada da mesma oferta individual, sem trocar SKU, memória, armazenamento ou GPU.",
+        "Preço BRL do comparador não utilizado; aplicar a média USD/BRL já adotada pelo catálogo e o acréscimo padrão de 30%.",
+        "Selecionada a oferta Visãovip WUXGA e Windows 11 Home por US$ 1.699,00. Rejeitada a oferta Topdek de US$ 1.698,00 por divergências de resolução e edição do sistema; o preço rejeitado não foi aplicado."
+      ]
+    },
+    {
+      "id": 316,
+      "name": "Notebook Gamer MSI Crosshair 16 HX E14WFK-035US i9 / 16GB / 512GB / RTX 5060",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1545.00",
+      "finalBRL": 11290.33,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-gamer-msi-crosshair-16-hx-e14wfk-035us-intel-core-i9-14900hx-tela-qhd-16-16gb-de-ram-512gb-ssd-win11home-geforce-rtx5060-8gb-preto-ingles__5623366/",
+        "title": "Notebook Gamer MSI Crosshair 16 HX E14WFK-035US Intel Core i9 14900HX Tela QHD+ 16\" / 16GB de Ram / 512GB SSD / WIN11HOME / Geforce RTX5060 8GB - Preto (Inglês)",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Visãovip",
+        "declaredCurrency": "USD",
+        "observedUSD": "1545.00",
+        "htmlSha256": "ad9e6976f8c6f213f3ca9e1ce659ee3b746598adead86f8bd3aca8447c473690",
+        "lastListing": "24 de Novembro de 2026",
+        "availability": "https://schema.org/InStock",
+        "priceEvidence": {
+          "type": "Product.offers JSON-LD",
+          "priceCurrency": "USD",
+          "price": "1545.0",
+          "availability": "https://schema.org/InStock"
+        },
+        "visiblePriceUSD": "1545.00",
+        "availabilityVerifiedInMainSection": true,
+        "offerCode": "61706"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-msi-crosshair-16-hx-e14wfk-035us-intel-core-i9-22ghz-memoria-16gb-ssd-512gb-16-windows-11-rtx-5060-8gb_72078/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-gamer-e14wfk-035us.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/ef261c85f1beb2bbfc5036c20ec2ba20026ee986.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-gamer-msi-crosshair-16-hx-e14wfk-035us-intel-core-i9-14900hx-tela-qhd-16-16gb-de-ram-512gb-ssd-win11home-geforce-rtx5060-8gb-preto-ingles__5623366/",
+        "sha256": "dbf1cefcac6dcdeb4528d5542badf604399cde8e51d55cf1d748c6836396d73f"
+      },
+      "notes": [
+        "Preço em USD conferido na seção visível principal da oferta junto ao código, em 24/11/2026. Essa seção não informa indisponibilidade e oferece o link para a loja; JSON-LD também declara USD e InStock.",
+        "Foto baixada da mesma oferta individual, sem trocar SKU, memória, armazenamento ou GPU.",
+        "Preço BRL do comparador não utilizado; aplicar a média USD/BRL já adotada pelo catálogo e o acréscimo padrão de 30%."
+      ]
+    },
+    {
+      "id": 317,
+      "name": "Notebook Gamer MSI Cyborg 15 C13WE-093US i5 / 16GB / 512GB / RTX 5050",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1034.00",
+      "finalBRL": 7556.12,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-cyborg-15-c13we-093us-intel-core-i5-13420h-210hz-460ghz-16gb-ram-512gb-ssd-tela-156-full-hd-1920-x-1080-144hz-ips-geforce-rtx5050-8gb-windows-11-home-ethernet-rj45-ingles-platinum-cinza__5549435/",
+        "title": "Notebook Cyborg 15 C13WE-093US, Intel Core i5-13420H 2.10HZ (4.60GHZ), 16GB Ram, 512GB SSD, Tela 15.6\" Full HD (1920 X 1080) 144HZ Ips, Geforce RTX5050 8GB, Windows 11 Home, Ethernet (RJ45), Inglês, Platinum Cinza",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Topdek Informática",
+        "declaredCurrency": "USD",
+        "observedUSD": "1034.00",
+        "htmlSha256": "5d432eb8d2bba21314f1cf2acb7d1fab633960d717b9556025d6086bdb62835b",
+        "lastListing": "24 de Novembro de 2026",
+        "availability": "https://schema.org/InStock",
+        "priceEvidence": {
+          "type": "Product.offers JSON-LD",
+          "priceCurrency": "USD",
+          "price": "1034.0",
+          "availability": "https://schema.org/InStock"
+        },
+        "visiblePriceUSD": "1034.00",
+        "availabilityVerifiedInMainSection": true,
+        "offerCode": "431020"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-msi-cyborg-15-c13we-093us-intel-core-i5-21ghz-memoria-16gb-ssd-512gb-156-windows-11-rtx-5050-8gb_71102/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-gamer-c13we-093us.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/a8332a89d86670f49e5afcc2100659a069810dc0.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-cyborg-15-c13we-093us-intel-core-i5-13420h-210hz-460ghz-16gb-ram-512gb-ssd-tela-156-full-hd-1920-x-1080-144hz-ips-geforce-rtx5050-8gb-windows-11-home-ethernet-rj45-ingles-platinum-cinza__5549435/",
+        "sha256": "8608df846f6b2b8bbbb2a0a909b9b0a7b44ce9079b883af12f5c01300d433fc4"
+      },
+      "notes": [
+        "Preço em USD conferido na seção visível principal da oferta junto ao código, em 24/11/2026. Essa seção não informa indisponibilidade e oferece o link para a loja; JSON-LD também declara USD e InStock.",
+        "Foto baixada da mesma oferta individual, sem trocar SKU, memória, armazenamento ou GPU.",
+        "Preço BRL do comparador não utilizado; aplicar a média USD/BRL já adotada pelo catálogo e o acréscimo padrão de 30%."
+      ]
+    },
+    {
+      "id": 318,
+      "name": "Notebook Gamer Lenovo Legion 5i 83LY0000US i7 / 16GB / 1TB / RTX 5060",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1850.00",
+      "finalBRL": 13519.17,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/lenovo-nb-legion-5i-83ly0000us-i7-14700hx-161tb-151-w11-rtx5060-8gb__5058246/",
+        "title": "Lenovo NB Legion 5I 83LY0000US i7-14700HX 16/1TB 15.1\" W11 RTX5060 8GB",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "New Zone",
+        "declaredCurrency": "USD",
+        "observedUSD": "1850.00",
+        "htmlSha256": "23ef71dad36489aad21c6e68379ca55c4a19da97275833fe4ce89d936ecbf965",
+        "lastListing": "24 de Novembro de 2026",
+        "availability": "https://schema.org/InStock",
+        "priceEvidence": {
+          "type": "Product.offers JSON-LD",
+          "priceCurrency": "USD",
+          "price": "1850.0",
+          "availability": "https://schema.org/InStock"
+        },
+        "visiblePriceUSD": "1850.00",
+        "availabilityVerifiedInMainSection": true,
+        "offerCode": "203721"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-lenovo-legion-5-83ly0000us-intel-core-i7-21ghz-memoria-16gb-ssd-1tb-151-windows-11-rtx-5060-8gb_64430/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-gamer-83ly0000us.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/807f361afa7c5fdef8afcf2cd6a4b112595d5fb8.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/lenovo-nb-legion-5i-83ly0000us-i7-14700hx-161tb-151-w11-rtx5060-8gb__5058246/",
+        "sha256": "8b26851e3e564be145529584d04c7838bb89272cb20b3480e6e00005105fa681"
+      },
+      "notes": [
+        "Preço em USD conferido na seção visível principal da oferta junto ao código, em 24/11/2026. Essa seção não informa indisponibilidade e oferece o link para a loja; JSON-LD também declara USD e InStock.",
+        "Foto baixada da mesma oferta individual, sem trocar SKU, memória, armazenamento ou GPU.",
+        "Preço BRL do comparador não utilizado; aplicar a média USD/BRL já adotada pelo catálogo e o acréscimo padrão de 30%."
+      ]
+    },
+    {
+      "id": 319,
+      "name": "Notebook Gamer Lenovo LOQ Essential 83VA001PUS Ryzen 7 / 16GB / 512GB / RTX 5050",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1135.00",
+      "finalBRL": 8294.19,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-gamer-lenovo-loq-essential-15arp11-amd-ryzen-7-170-tela-full-hd-156-win11home-geforce-rtx5050-8gb-eclipse-preto-83va001pus-ingles__5505352/",
+        "title": "Notebook Gamer Lenovo Loq Essential 15ARP11 AMD Ryzen 7 170 Tela Full HD 15.6\" / WIN11HOME / Geforce RTX5050 8GB - Eclipse Preto (83VA001PUS) (Inglês)",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Visãovip",
+        "declaredCurrency": "USD",
+        "observedUSD": "1135.00",
+        "htmlSha256": "ccbbcf770aee52c3cf2dd9a7e346d80d66c252a1ab9b9e0740b51765aeeca2c2",
+        "lastListing": "24 de Novembro de 2026",
+        "availability": "https://schema.org/InStock",
+        "priceEvidence": {
+          "type": "Product.offers JSON-LD",
+          "priceCurrency": "USD",
+          "price": "1135.0",
+          "availability": "https://schema.org/InStock"
+        },
+        "visiblePriceUSD": "1135.00",
+        "availabilityVerifiedInMainSection": true,
+        "offerCode": "60878"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-lenovo-loq-essential-83va001pus-amd-ryzen-7-32ghz-memoria-16gb-ssd-512gb-156-windows-11-rtx-5050-8gb_70747/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-gamer-83va001pus.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/d1a51a864f9e08f60a96047baa74812dbbd0b330.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-gamer-lenovo-loq-essential-15arp11-amd-ryzen-7-170-tela-full-hd-156-win11home-geforce-rtx5050-8gb-eclipse-preto-83va001pus-ingles__5505352/",
+        "sha256": "409860491d055e04bf07035f2b8898125efa61627c25e8e438b84bd84201596d"
+      },
+      "notes": [
+        "Preço em USD conferido na seção visível principal da oferta junto ao código, em 24/11/2026. Essa seção não informa indisponibilidade e oferece o link para a loja; JSON-LD também declara USD e InStock.",
+        "Foto baixada da mesma oferta individual, sem trocar SKU, memória, armazenamento ou GPU.",
+        "Preço BRL do comparador não utilizado; aplicar a média USD/BRL já adotada pelo catálogo e o acréscimo padrão de 30%."
+      ]
+    },
+    {
+      "id": 320,
+      "name": "Notebook Gamer Gigabyte A16 CVHI3US894SH i7 / 16GB / 1TB / RTX 5060",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1265.00",
+      "finalBRL": 9244.19,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-gigabyte-a16-cvhi3us894sh-i7-13620h-16gb-1tb-16-w11-rtx5060-8gb-preto__5653884/",
+        "title": "Notebook Gigabyte A16 CVHI3US894SH i7-13620H 16GB 1TB 16\" W11 RTX5060 8GB - Preto",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "GenZ Atacado",
+        "declaredCurrency": "USD",
+        "observedUSD": "1265.00",
+        "htmlSha256": "b2494d891f410a99be6349d71b267e0bc3945edd03715cc8f42240b58183096d",
+        "lastListing": "24 de Novembro de 2026",
+        "availability": "https://schema.org/InStock",
+        "priceEvidence": {
+          "type": "Product.offers JSON-LD",
+          "priceCurrency": "USD",
+          "price": "1265.0",
+          "availability": "https://schema.org/InStock"
+        },
+        "visiblePriceUSD": "1265.00",
+        "availabilityVerifiedInMainSection": true,
+        "offerCode": "1901726"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-gigabyte-a16-cvhi3us894sh-intel-core-i7-24ghz-memoria-16gb-ssd-1tb-16-windows-11-rtx-5050-8gb_71830/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-gamer-cvhi3us894sh.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/91a8be85c96160fa197cae1c04b18c262c3a7152.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-gigabyte-a16-cvhi3us894sh-i7-13620h-16gb-1tb-16-w11-rtx5060-8gb-preto__5653884/",
+        "sha256": "bf07fd41effca856afc29698ba02313b04d914e3550a56091433dd95cd23ecb6"
+      },
+      "notes": [
+        "Preço em USD conferido na seção visível principal da oferta junto ao código, em 24/11/2026. Essa seção não informa indisponibilidade e oferece o link para a loja; JSON-LD também declara USD e InStock.",
+        "Foto baixada da mesma oferta individual, sem trocar SKU, memória, armazenamento ou GPU.",
+        "Preço BRL do comparador não utilizado; aplicar a média USD/BRL já adotada pelo catálogo e o acréscimo padrão de 30%.",
+        "O título da página agrupadora menciona RTX 5050 incorretamente; a oferta individual GenZ selecionada, seu título, sua descrição e a ficha de especificações do modelo identificam RTX 5060 8GB. O cadastro usa a configuração da oferta individual, não o título da agrupadora."
+      ]
+    },
+    {
+      "id": 321,
+      "name": "Notebook Gamer Acer Nitro V 16 ANV16-I31-70WA Core 7 / 16GB / 512GB / RTX 5060",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1320.00",
+      "finalBRL": 9646.11,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/notebook-gamer-acer-nitro-v-16-anv16-i31-70wa-intel-core-7-240h-tela-wuxga-16-16gb-de-ram-512gb-ssd-win11home-geforce-rtx5060-8gb-obsidian-preto-ingles__5595819/",
+        "title": "Notebook Gamer Acer Nitro V 16 ANV16-I31-70WA Intel Core 7 240H Tela Wuxga 16\" / 16GB de Ram / 512GB SSD / WIN11HOME / Geforce RTX5060 8GB - Obsidian Preto (Inglês)",
+        "name": "Compras Paraguai",
+        "checkedOn": "2026-11-24",
+        "storeName": "Visãovip",
+        "declaredCurrency": "USD",
+        "observedUSD": "1320.00",
+        "htmlSha256": "72014caefbf8c38931722f2419d8861149add2dc246b7a03a8334f180d7edb33",
+        "lastListing": "24 de Novembro de 2026",
+        "availability": "https://schema.org/InStock",
+        "priceEvidence": {
+          "type": "Product.offers JSON-LD",
+          "priceCurrency": "USD",
+          "price": "1320.0",
+          "availability": "https://schema.org/InStock"
+        },
+        "visiblePriceUSD": "1320.00",
+        "availabilityVerifiedInMainSection": true,
+        "offerCode": "61461"
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-acer-nitro-v-16-anv16-i31-70wa-intel-core-7-25ghz-memoria-16gb-ssd-512gb-16-windows-11-rtx-5060-8gb_71436/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-gamer-anv16-i31-70wa.webp",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/3249c1aa25106d3f0781a3533f88d43694887426.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-gamer-acer-nitro-v-16-anv16-i31-70wa-intel-core-7-240h-tela-wuxga-16-16gb-de-ram-512gb-ssd-win11home-geforce-rtx5060-8gb-obsidian-preto-ingles__5595819/",
+        "sha256": "91b11d14204bad9b03820b596dde432ceb6bcb48f896da955e00a40bc434baa4"
+      },
+      "notes": [
+        "Preço em USD conferido na seção visível principal da oferta junto ao código, em 24/11/2026. Essa seção não informa indisponibilidade e oferece o link para a loja; JSON-LD também declara USD e InStock.",
+        "Foto baixada da mesma oferta individual, sem trocar SKU, memória, armazenamento ou GPU.",
+        "Preço BRL do comparador não utilizado; aplicar a média USD/BRL já adotada pelo catálogo e o acréscimo padrão de 30%."
+      ]
+    },
+    {
+      "id": 322,
+      "name": "Notebook Apple MacBook Air M4 MC7A4LL/A 16GB / 256GB 15.3\"",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1280.00",
+      "finalBRL": 9353.8,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/notebook-apple-mac-air-mc7a4lla-m416256153-azul__5422438/",
+        "title": "Notebook Apple Mac Air MC7A4LLA M4/16/256/15.3\" Azul",
+        "checkedOn": "2026-11-24",
+        "storeName": "Alborada",
+        "declaredCurrency": "USD",
+        "observedUSD": "1280.00",
+        "htmlSha256": "6c7c5998dd63489d144029b3bad58568ea301d35dca8f68942db253e0dcfcaec",
+        "lastListing": "23 de Novembro de 2026",
+        "offerCode": "0-774770",
+        "visiblePriceUSD": "1280.00",
+        "availabilityVerifiedInMainSection": true
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-apple-macbook-air-2025-apple-m4-memoria-16gb-ssd-256gb-153_59620/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-premium-5422438.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/041866bbf2a0742eaf244fa577a24714c426d05b.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-apple-mac-air-mc7a4lla-m416256153-azul__5422438/",
+        "sha256": "dba67c3ce70f98c47b354e1a7e35d7bd1f3b2258878de4dd35a719067f86d390"
+      },
+      "notes": [
+        "Preço USD conferido na seção principal da oferta individual, sem aviso de indisponibilidade. Foto da mesma oferta e descrição limitada à configuração identificada. A disponibilidade deve ser confirmada com a equipe."
+      ]
+    },
+    {
+      "id": 323,
+      "name": "Notebook Microsoft Surface Laptop 7 ZHH-00001 X Elite / 16GB / 512GB",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1279.00",
+      "finalBRL": 9346.5,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/notebook-microsoft-surface-laptop-7th-edition-zhh-00001-snapdragon-x-elite-tela-touch-23k-15-16gb-de-ram-512gb-ssd-win11home-platinum-ingles__5470586/",
+        "title": "Notebook Microsoft Surface Laptop (7TH Edition) ZHH-00001 Snapdragon X Elite Tela Touch 2.3K 15\" / 16GB de Ram / 512GB SSD / WIN11HOME - Platinum (Inglês)",
+        "checkedOn": "2026-11-24",
+        "storeName": "Visãovip",
+        "declaredCurrency": "USD",
+        "observedUSD": "1279.00",
+        "htmlSha256": "028eee115bb5d0227bd88a3d15fc4ceef41c499accd3d5bd36714f3ed830f8e3",
+        "lastListing": "24 de Novembro de 2026",
+        "offerCode": "60162",
+        "visiblePriceUSD": "1279.00",
+        "availabilityVerifiedInMainSection": true
+      },
+      "photo": {
+        "image": "/images/products/notebooks-extra-premium-5470586.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/0105ed21b1bd73de70ecf6418df9f7ac3ecd7fa8.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/notebook-microsoft-surface-laptop-7th-edition-zhh-00001-snapdragon-x-elite-tela-touch-23k-15-16gb-de-ram-512gb-ssd-win11home-platinum-ingles__5470586/",
+        "sha256": "224e6a7f7a02a6d2b965f4adee23864b085955ec7787956496993371ad4c12a0"
+      },
+      "notes": [
+        "Preço USD conferido na seção principal da oferta individual, sem aviso de indisponibilidade. Foto da mesma oferta e descrição limitada à configuração identificada. A disponibilidade deve ser confirmada com a equipe."
+      ]
+    },
+    {
+      "id": 324,
+      "name": "Notebook Apple MacBook Air M4 Z1H92 24GB / 1TB 13.6\"",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1650.00",
+      "finalBRL": 12057.64,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/apple-macbook-air-136-m4-24gb-ram1tb-ssd-z1h92-2025-sky-blue-70276__5434639/",
+        "title": "Apple Macbook Air 13.6\" M4 24GB Ram/1TB SSD Z1H92 (2025) - SKY Blue (70276)",
+        "checkedOn": "2026-11-24",
+        "storeName": "Matrix Importados",
+        "declaredCurrency": "USD",
+        "observedUSD": "1650.00",
+        "htmlSha256": "4edec51f2e59f9bc52ea829ff21079ef363351d58fbd2d4e5e0542742500cd15",
+        "lastListing": "24 de Novembro de 2026",
+        "offerCode": "70276",
+        "visiblePriceUSD": "1650.00",
+        "availabilityVerifiedInMainSection": true
+      },
+      "photo": {
+        "image": "/images/products/notebooks-extra-premium-5434639.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/0e1ec6ec1b877605f09baada453f0f2a1dae16f1.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/apple-macbook-air-136-m4-24gb-ram1tb-ssd-z1h92-2025-sky-blue-70276__5434639/",
+        "sha256": "ea3dbff1bf959a0280f8d4d1365c6bde92476ee35dc0de1bf76fc6e1e719962e"
+      },
+      "notes": [
+        "Preço USD conferido na seção principal da oferta individual, sem aviso de indisponibilidade. Foto da mesma oferta e descrição limitada à configuração identificada. A disponibilidade deve ser confirmada com a equipe."
+      ]
+    },
+    {
+      "id": 325,
+      "name": "Notebook Apple MacBook Air M5 MDVD4LL/A 16GB / 512GB 15.3\"",
+      "category": "notebooks",
+      "status": "verified",
+      "referenceCurrency": "USD",
+      "referenceUSD": "1450.00",
+      "finalBRL": 10596.11,
+      "checkedOn": "2026-11-24",
+      "markupPercent": 30,
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/apple-macbook-air-mdvd4lla-a3448-m5-10-core-tela-retina-153-16gb-de-ram-512gb-ssd-starlight-2026__5284822/",
+        "title": "Apple Macbook Air MDVD4LL/A A3448 M5 10 Core Tela Retina 15.3\" / 16GB de Ram / 512GB SSD - Starlight (2026)",
+        "checkedOn": "2026-11-24",
+        "storeName": "Visãovip",
+        "declaredCurrency": "USD",
+        "observedUSD": "1450.00",
+        "htmlSha256": "e1d476884c89eaa093591a1017a6b972b30e5cb828ebfb02ef1a811934ad09dc",
+        "lastListing": "24 de Novembro de 2026",
+        "offerCode": "58190",
+        "visiblePriceUSD": "1450.00",
+        "availabilityVerifiedInMainSection": true
+      },
+      "productUrl": "https://www.comprasparaguai.com.br/notebook-apple-macbook-air-2026-apple-m5-memoria-16gb-ssd-512gb-153_67853/",
+      "photo": {
+        "image": "/images/products/notebooks-extra-premium-5284822.webp",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/507d3189c546b96dd2e00b3c5ac6d254497beb63.webp",
+        "sourceUrl": "https://www.comprasparaguai.com.br/apple-macbook-air-mdvd4lla-a3448-m5-10-core-tela-retina-153-16gb-de-ram-512gb-ssd-starlight-2026__5284822/",
+        "sha256": "552fd7bdec05f7b8d4ccf246f15cb035660f83c8e7e9d9184eae39659cce1a4a"
+      },
+      "notes": [
+        "Preço USD conferido na seção principal da oferta individual, sem aviso de indisponibilidade. Foto da mesma oferta e descrição limitada à configuração identificada. A disponibilidade deve ser confirmada com a equipe."
+      ]
+    }
+  ]
+}

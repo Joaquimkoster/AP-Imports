@@ -9,6 +9,7 @@ import "./Products.css";
 const categories = [
   { id: "todos", name: "Todos" },
   { id: "eletronicos", name: "Eletrônicos" },
+  { id: "notebooks", name: "Notebooks" },
   { id: "perfumes", name: "Perfumes" },
   { id: "beleza", name: "Beleza" },
   { id: "saude", name: "Saúde" },

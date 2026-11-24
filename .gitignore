@@ -29,4 +29,6 @@ dist-ssr
 /artifacts/*.pdf
 /artifacts/*.csv
 !/artifacts/precos-revisados-2026-11-23.csv
+!/artifacts/pendencias-catalogo-2026-11-24.csv
+!/artifacts/pendencias-catalogo-2026-11-24.pdf
 /artifacts/*-imagegen-prompt.txt

@@ -1,0 +1,32 @@
+{
+  "updatedOn": "2026-11-24",
+  "defaultMarkupPercent": 30,
+  "reason": "Aumento geral solicitado pelo usuário; preços específicos das imagens prevalecem sobre o acréscimo padrão.",
+  "fixedPrices": {
+    "17": {
+      "name": "Azzaro Pour Homme",
+      "amountBRL": "350.00",
+      "reason": "Preço de venda do Azzaro Pour Homme 200 ml na imagem enviada pelo usuário em 24/11/2026."
+    },
+    "60": {
+      "name": "Rabanne 1 Million",
+      "amountBRL": "440.00",
+      "reason": "Preço de venda do 1 Million tradicional na imagem enviada pelo usuário em 24/11/2026."
+    },
+    "104": {
+      "name": "Apple iPhone 18 Pro Max 256GB",
+      "amountBRL": "9500.00",
+      "reason": "Preço de venda informado pelo usuário para o iPhone 18 Pro Max 256 GB em 24/11/2026."
+    },
+    "110": {
+      "name": "Celimax The Vita-A Retinal Shot Tightening Booster",
+      "amountBRL": "240.00",
+      "reason": "Preço de venda do Retinal Shot na imagem enviada pelo usuário em 24/11/2026."
+    },
+    "145": {
+      "name": "36 Horas (tadalafila 20 mg)",
+      "amountBRL": "99.00",
+      "reason": "Preço de venda de 36 Horas, 20 comprimidos, na imagem enviada pelo usuário em 24/11/2026."
+    }
+  }
+}
