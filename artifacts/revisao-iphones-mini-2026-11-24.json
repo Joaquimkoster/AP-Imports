@@ -1,0 +1,444 @@
+[
+  {
+    "id": 226,
+    "originalName": "Apple iPhone 12 mini 128GB",
+    "status": "pending",
+    "referenceUSD": null,
+    "referenceCurrency": null,
+    "checkedOn": "2026-11-24",
+    "name": "Apple iPhone 12 mini 128GB",
+    "description": "Apple iPhone 12 mini com 128GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "source": {
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-12-mini-128gb-recondicionado-black__4614417/",
+      "title": "Apple iPhone 12 Mini 128GB (Recondicionado) - Black",
+      "name": "Compras Paraguai",
+      "storeName": "Mestre",
+      "checkedOn": "2026-11-24",
+      "declaredCurrency": null,
+      "observedUSD": null,
+      "htmlSha256": "9066f8b8bd95b0a5cec6f603d89d2427780c066a4346a64e0307447465d04bc9",
+      "lastListing": "08 de Abril de 2026",
+      "visiblePriceUSD": null,
+      "availabilityVerifiedInMainSection": false
+    },
+    "image": "/images/products/comprasparaguai-5611672.webp",
+    "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/96309b1ddcd057a9de5f0a2fdbb24d9b9930ef29.webp",
+    "imageSourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-12-mini-64gb-swap-azul__5611672/",
+    "sha256": "1dad0fcb4ed5a7d49de0147c69f64f4068ffa732fcbc07ba6d4bbc42488aaf4d",
+    "notes": [
+      "Preço continua pendente: nenhuma oferta individual em USD com correspondência exata e disponibilidade confirmada foi obtida nesta revisão.",
+      "Foto ilustrativa existente preservada; nenhuma nova foto de oferta correspondente confirmada.",
+      "Não foi usado preço de acessórios, capacidade diferente, modelo comum/Pro/Pro Max nem mínimo agregado.",
+      "Nenhuma referência USD foi inferida a partir de BRL."
+    ],
+    "reason": "Sem oferta individual atual confirmada para iPhone 12 mini de 128GB. A página do modelo recondicionado informa zero ofertas; as ofertas individuais Mestre (4614417) e Best Shop (5236835) mostram indisponibilidade na seção principal. A oferta ativa localizada para iPhone 12 mini é de 64GB e não corresponde a este cadastro.",
+    "searchedUrls": [
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+12+mini",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+12+mini+128",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+12+mini+256",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+128",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+512",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone12mini",
+      "https://www.comprasparaguai.com.br/busca/?q=12mini",
+      "https://www.comprasparaguai.com.br/apple-iphone-12-mini-128gb-recondicionado-black__4614417/",
+      "https://www.comprasparaguai.com.br/iphone-12-mini-128gb-red-americano-swap-a__5236835/",
+      "https://www.comprasparaguai.com.br/celular-apple-iphone-12-mini-128gb-recondicionado_40115/",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+12+mini+128GB",
+      "https://www.comprasparaguai.com.br/celular--apple/?q=mini"
+    ],
+    "negativeEvidence": [
+      {
+        "url": "https://www.comprasparaguai.com.br/apple-iphone-12-mini-128gb-recondicionado-black__4614417/",
+        "title": "Apple iPhone 12 Mini 128GB (Recondicionado) - Black",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "9066f8b8bd95b0a5cec6f603d89d2427780c066a4346a64e0307447465d04bc9",
+        "lastListing": "08 de Abril de 2026",
+        "result": "indisponivel",
+        "reason": "Aviso de indisponibilidade na seção principal da oferta."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/iphone-12-mini-128gb-red-americano-swap-a__5236835/",
+        "title": "iPhone 12 Mini 128GB Red Americano Swap A",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "9da9fee681a13ab89aac627b20172fa1914646574660f78bcea109dbddd7e40a",
+        "lastListing": "19 de Maio de 2026",
+        "result": "indisponivel",
+        "reason": "Aviso de indisponibilidade na seção principal da oferta."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-12-mini-128gb-recondicionado_40115/",
+        "title": "Celular Apple iPhone 12 Mini 128GB Recondicionado",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "9e168d8522db09f48d71d52445db677e19b9103801ae1c5715e992e4c0e66d68",
+        "lastListing": "07 de Julho de 2026",
+        "result": "zero_ofertas_sem_preco",
+        "reason": "Modelo de 128GB com zero ofertas."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone+12+mini+128GB",
+        "title": "iPhone 12 mini 128GB",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "05c8015737dc1cfcdf957a098235add59279ff213472c27505a1dc376e0d3f73",
+        "lastListing": null,
+        "result": "sem_correspondencia_exata",
+        "reason": "Resultados não incluem oferta individual atual do modelo e capacidade solicitados."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/celular--apple/?q=mini",
+        "title": "Celular",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "20bac4d6369cc617330a776277d47a1e6631bc84eee9ec427c5a5b2572a2c5b0",
+        "lastListing": null,
+        "result": "sem_correspondencia_exata",
+        "reason": "Resultados não incluem oferta individual atual do modelo e capacidade solicitados."
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "originalName": "Apple iPhone 12 mini 256GB",
+    "status": "pending",
+    "referenceUSD": null,
+    "referenceCurrency": null,
+    "checkedOn": "2026-11-24",
+    "name": "Apple iPhone 12 mini 256GB",
+    "description": "Apple iPhone 12 mini com 256GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "source": {
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-12-mini-256gb-recondicionado_41743/",
+      "title": "Celular Apple iPhone 12 Mini 256GB Recondicionado",
+      "name": "Compras Paraguai",
+      "storeName": null,
+      "checkedOn": "2026-11-24",
+      "declaredCurrency": null,
+      "observedUSD": null,
+      "htmlSha256": "edf02231551e7d294f1a811615fb398bcc80d3ee28de4d40a541951501dac073",
+      "lastListing": "20 de Novembro de 2026",
+      "visiblePriceUSD": null,
+      "availabilityVerifiedInMainSection": false
+    },
+    "image": "/images/products/comprasparaguai-5611672.webp",
+    "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/96309b1ddcd057a9de5f0a2fdbb24d9b9930ef29.webp",
+    "imageSourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-12-mini-64gb-swap-azul__5611672/",
+    "sha256": "1dad0fcb4ed5a7d49de0147c69f64f4068ffa732fcbc07ba6d4bbc42488aaf4d",
+    "notes": [
+      "Preço continua pendente: nenhuma oferta individual em USD com correspondência exata e disponibilidade confirmada foi obtida nesta revisão.",
+      "Foto ilustrativa existente preservada; nenhuma nova foto de oferta correspondente confirmada.",
+      "Não foi usado preço de acessórios, capacidade diferente, modelo comum/Pro/Pro Max nem mínimo agregado.",
+      "Nenhuma referência USD foi inferida a partir de BRL."
+    ],
+    "reason": "Sem oferta individual atual confirmada para iPhone 12 mini de 256GB. A página exata do modelo recondicionado (41743), com última listagem em 20/11/2026, informa zero ofertas e não apresenta valor após US$. As buscas por capacidade retornaram modelos diferentes e acessórios; a oferta de 64GB não foi usada.",
+    "searchedUrls": [
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+12+mini",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+12+mini+128",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+12+mini+256",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+128",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+512",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone12mini",
+      "https://www.comprasparaguai.com.br/busca/?q=12mini",
+      "https://www.comprasparaguai.com.br/celular-apple-iphone-12-mini-256gb-recondicionado_41743/",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+12+mini+256GB",
+      "https://www.comprasparaguai.com.br/celular--apple/?q=mini"
+    ],
+    "negativeEvidence": [
+      {
+        "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-12-mini-256gb-recondicionado_41743/",
+        "title": "Celular Apple iPhone 12 Mini 256GB Recondicionado",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "edf02231551e7d294f1a811615fb398bcc80d3ee28de4d40a541951501dac073",
+        "lastListing": "20 de Novembro de 2026",
+        "result": "zero_ofertas_sem_preco",
+        "reason": "Página agrupadora exata sem valor numérico em USD e com zero ofertas."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone+12+mini+256GB",
+        "title": "iPhone 12 mini 256GB",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "18a361d38a896f5876855b5e7b7eca0668b2d4f2a62beeb04a792ad8319f25ac",
+        "lastListing": null,
+        "result": "sem_correspondencia_exata",
+        "reason": "Resultados não incluem oferta individual atual do modelo e capacidade solicitados."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/celular--apple/?q=mini",
+        "title": "Celular",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "20bac4d6369cc617330a776277d47a1e6631bc84eee9ec427c5a5b2572a2c5b0",
+        "lastListing": null,
+        "result": "sem_correspondencia_exata",
+        "reason": "Resultados não incluem oferta individual atual do modelo e capacidade solicitados."
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "originalName": "Apple iPhone 13 mini 128GB",
+    "status": "pending",
+    "referenceUSD": null,
+    "referenceCurrency": null,
+    "checkedOn": "2026-11-24",
+    "name": "Apple iPhone 13 mini 128GB",
+    "description": "Apple iPhone 13 mini com 128GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "source": {
+      "url": "https://www.comprasparaguai.com.br/apple-iphone-13-mini-128gb-recondicionado-red__4825381/",
+      "title": "Apple iPhone 13 Mini 128GB (Recondicionado) - Red",
+      "name": "Compras Paraguai",
+      "storeName": "Mestre",
+      "checkedOn": "2026-11-24",
+      "declaredCurrency": null,
+      "observedUSD": null,
+      "htmlSha256": "65e625e5725f1224fd2ecce4a7aaec2e88044df1bef29b0499d0be45482e0648",
+      "lastListing": "08 de Abril de 2026",
+      "visiblePriceUSD": null,
+      "availabilityVerifiedInMainSection": false
+    },
+    "image": "/images/products/comprasparaguai-53797.webp",
+    "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_13_mini_128gb_recondicionado_187824_24d960ef-c7d0-4422-b4ea-2f00687d6c76.big.webp",
+    "imageSourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-13-mini-128gb-recondicionado_53797/",
+    "sha256": "f8bab844a6e12aa1b3e284ff825c502acf7bb12c9af80932f1af71c59c58e742",
+    "notes": [
+      "Preço continua pendente: nenhuma oferta individual em USD com correspondência exata e disponibilidade confirmada foi obtida nesta revisão.",
+      "Foto ilustrativa existente preservada; nenhuma nova foto de oferta correspondente confirmada.",
+      "Não foi usado preço de acessórios, capacidade diferente, modelo comum/Pro/Pro Max nem mínimo agregado.",
+      "Nenhuma referência USD foi inferida a partir de BRL."
+    ],
+    "reason": "Sem oferta individual atual confirmada para iPhone 13 mini de 128GB. A página exata do modelo recondicionado (53797) informa zero ofertas e não exibe preço numérico. As ofertas Mestre (4825381), Mundo do Celular (4729499) e Best Shop com tela trocada (5222259) estão indisponíveis na seção principal. A URL Direto América (4320636) passou a anunciar iPhone 13 comum, sem mini no título, e também está indisponível.",
+    "searchedUrls": [
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+128",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+256",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+512",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone13mini",
+      "https://www.comprasparaguai.com.br/busca/?q=13mini",
+      "https://www.comprasparaguai.com.br/celular-apple-iphone-13-mini-128gb-recondicionado_53797/",
+      "https://www.comprasparaguai.com.br/apple-iphone-13-mini-128gb-recondicionado-red__4825381/",
+      "https://www.comprasparaguai.com.br/iphone-13-mini-128gb-grade-b-black-u__4729499/",
+      "https://www.comprasparaguai.com.br/iphone-13-mini-128gb-white-swap-grado-aa__4320636/",
+      "https://www.comprasparaguai.com.br/iphone-13-mini-128gb-branco-americano-tela-trocada-swap-a__5222259/",
+      "https://www.comprasparaguai.com.br/celular--apple/?q=mini"
+    ],
+    "negativeEvidence": [
+      {
+        "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-13-mini-128gb-recondicionado_53797/",
+        "title": "Celular Apple iPhone 13 Mini 128GB Recondicionado",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "736db6c9ee10f05844205cf453ac50f4e35ea3164dd0de7ebfb7b89c58828516",
+        "lastListing": "20 de Novembro de 2026",
+        "result": "zero_ofertas_sem_preco",
+        "reason": "Página agrupadora exata sem valor numérico em USD e com zero ofertas."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/apple-iphone-13-mini-128gb-recondicionado-red__4825381/",
+        "title": "Apple iPhone 13 Mini 128GB (Recondicionado) - Red",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "65e625e5725f1224fd2ecce4a7aaec2e88044df1bef29b0499d0be45482e0648",
+        "lastListing": "08 de Abril de 2026",
+        "result": "indisponivel",
+        "reason": "Aviso de indisponibilidade na seção principal da oferta."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/iphone-13-mini-128gb-grade-b-black-u__4729499/",
+        "title": "iPhone 13 Mini 128GB Grade B (Black) U",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "7c5748cecae93eb63d4060a359c8d65050469b3f4250ff5206de4efce18a0c46",
+        "lastListing": "10 de Abril de 2025",
+        "result": "indisponivel",
+        "reason": "Aviso de indisponibilidade na seção principal da oferta."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/iphone-13-mini-128gb-white-swap-grado-aa__4320636/",
+        "title": "Apple iPhone 13 128GB Tela Super Retina XDR.6 Cam Dupla 12+12/12MP / Blue - Swap | Grade A ( 1 Mes de Garantia)",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "19fca0f1bd341d945987e3fda9ebdfb36f76538bb311cce9e4347e4d2eb0c901",
+        "lastListing": "26 de Outubro de 2026",
+        "result": "modelo_divergente_e_indisponivel",
+        "reason": "Aviso de indisponibilidade na seção principal da oferta."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/iphone-13-mini-128gb-branco-americano-tela-trocada-swap-a__5222259/",
+        "title": "iPhone 13 Mini 128GB Branco Americano Tela Trocada Swap A",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "e33f876595e963d8b0489320c3e2aeb3fd8de7623ee81caaec305f916fd1a341",
+        "lastListing": "07 de Abril de 2026",
+        "result": "tela_trocada_e_indisponivel",
+        "reason": "Aviso de indisponibilidade na seção principal da oferta."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/celular--apple/?q=mini",
+        "title": "Celular",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "20bac4d6369cc617330a776277d47a1e6631bc84eee9ec427c5a5b2572a2c5b0",
+        "lastListing": null,
+        "result": "sem_correspondencia_exata",
+        "reason": "Resultados não incluem oferta individual atual do modelo e capacidade solicitados."
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "originalName": "Apple iPhone 13 mini 256GB",
+    "status": "pending",
+    "referenceUSD": null,
+    "referenceCurrency": null,
+    "checkedOn": "2026-11-24",
+    "name": "Apple iPhone 13 mini 256GB",
+    "description": "Apple iPhone 13 mini com 256GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "source": {
+      "url": "https://www.comprasparaguai.com.br/iphone-13-mini-256gb-preto-americano-swap-a__4818587/",
+      "title": "iPhone 13 Mini 256GB Preto Americano Swap A",
+      "name": "Compras Paraguai",
+      "storeName": "Best Shop Paraguai",
+      "checkedOn": "2026-11-24",
+      "declaredCurrency": null,
+      "observedUSD": null,
+      "htmlSha256": "ab9b01bb91851197ef45c048f4d2d70dad3f60905ad3e97a0c09eff164d2f1ba",
+      "lastListing": "20 de Novembro de 2026",
+      "visiblePriceUSD": null,
+      "availabilityVerifiedInMainSection": false
+    },
+    "image": "/images/products/comprasparaguai-53797.webp",
+    "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_13_mini_128gb_recondicionado_187824_24d960ef-c7d0-4422-b4ea-2f00687d6c76.big.webp",
+    "imageSourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-13-mini-128gb-recondicionado_53797/",
+    "sha256": "f8bab844a6e12aa1b3e284ff825c502acf7bb12c9af80932f1af71c59c58e742",
+    "notes": [
+      "Preço continua pendente: nenhuma oferta individual em USD com correspondência exata e disponibilidade confirmada foi obtida nesta revisão.",
+      "Foto ilustrativa existente preservada; nenhuma nova foto de oferta correspondente confirmada.",
+      "Não foi usado preço de acessórios, capacidade diferente, modelo comum/Pro/Pro Max nem mínimo agregado.",
+      "Nenhuma referência USD foi inferida a partir de BRL."
+    ],
+    "reason": "Sem oferta individual atual confirmada para iPhone 13 mini de 256GB. As páginas exatas do modelo recondicionado (57941) e sem condição especificada (36468) estão com zero ofertas. A oferta Best Shop (4818587), listada pela última vez em 20/11/2026, mostra indisponibilidade na seção principal. A URL Direto América (4628393) passou a anunciar iPhone 13 comum e também está indisponível. Mínimos USD antigos de resultados em cache foram rejeitados.",
+    "searchedUrls": [
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+128",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+256",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+512",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone13mini",
+      "https://www.comprasparaguai.com.br/busca/?q=13mini",
+      "https://www.comprasparaguai.com.br/celular-apple-iphone-13-mini-256gb-recondicionado_57941/",
+      "https://www.comprasparaguai.com.br/celular-apple-iphone-13-mini-256gb_36468/",
+      "https://www.comprasparaguai.com.br/iphone-13-mini-256gb-preto-americano-swap-a__4818587/",
+      "https://www.comprasparaguai.com.br/apple-iphone-swap-13-mini-256gb-red-grado-a-americano__4628393/",
+      "https://www.comprasparaguai.com.br/celular--apple/?q=mini"
+    ],
+    "negativeEvidence": [
+      {
+        "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-13-mini-256gb-recondicionado_57941/",
+        "title": "Celular Apple iPhone 13 Mini 256GB Recondicionado",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "e7746ab2ede651142a410d5313885339fd97953caec2a10f0463cb1b8e30d9b4",
+        "lastListing": "20 de Novembro de 2026",
+        "result": "zero_ofertas_sem_preco",
+        "reason": "Página agrupadora exata sem valor numérico em USD e com zero ofertas."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-13-mini-256gb_36468/",
+        "title": "Celular Apple iPhone 13 Mini 256GB",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "775d130101dab180b0d5156d82790892fbeff38e4bb8002c28ceee601267b9eb",
+        "lastListing": null,
+        "result": "zero_ofertas_sem_preco",
+        "reason": "Página agrupadora exata sem valor numérico em USD e com zero ofertas."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/iphone-13-mini-256gb-preto-americano-swap-a__4818587/",
+        "title": "iPhone 13 Mini 256GB Preto Americano Swap A",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "ab9b01bb91851197ef45c048f4d2d70dad3f60905ad3e97a0c09eff164d2f1ba",
+        "lastListing": "20 de Novembro de 2026",
+        "result": "indisponivel",
+        "reason": "Aviso de indisponibilidade na seção principal da oferta."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/apple-iphone-swap-13-mini-256gb-red-grado-a-americano__4628393/",
+        "title": "Apple iPhone Swap 13 256GB Black Grado B (Un Mes de Garantia)",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "ad093a4cce63a4abd4ce290d4711598939c4f85e4414005ab626ca5e5cdc1336",
+        "lastListing": "15 de Outubro de 2026",
+        "result": "modelo_divergente_e_indisponivel",
+        "reason": "Aviso de indisponibilidade na seção principal da oferta."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/celular--apple/?q=mini",
+        "title": "Celular",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "20bac4d6369cc617330a776277d47a1e6631bc84eee9ec427c5a5b2572a2c5b0",
+        "lastListing": null,
+        "result": "sem_correspondencia_exata",
+        "reason": "Resultados não incluem oferta individual atual do modelo e capacidade solicitados."
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "originalName": "Apple iPhone 13 mini 512GB",
+    "status": "pending",
+    "referenceUSD": null,
+    "referenceCurrency": null,
+    "checkedOn": "2026-11-24",
+    "name": "Apple iPhone 13 mini 512GB",
+    "description": "Apple iPhone 13 mini com 512GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "source": {
+      "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+512GB",
+      "title": "iPhone 13 mini 512GB",
+      "name": "Compras Paraguai",
+      "storeName": null,
+      "checkedOn": "2026-11-24",
+      "declaredCurrency": null,
+      "observedUSD": null,
+      "htmlSha256": "74d67ea4812fb20b2eeebb3c9046ad9a157fe6819361002b521bd56502dd5f79",
+      "lastListing": null,
+      "visiblePriceUSD": null,
+      "availabilityVerifiedInMainSection": false
+    },
+    "image": "/images/products/comprasparaguai-53797.webp",
+    "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_13_mini_128gb_recondicionado_187824_24d960ef-c7d0-4422-b4ea-2f00687d6c76.big.webp",
+    "imageSourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-13-mini-128gb-recondicionado_53797/",
+    "sha256": "f8bab844a6e12aa1b3e284ff825c502acf7bb12c9af80932f1af71c59c58e742",
+    "notes": [
+      "Preço continua pendente: nenhuma oferta individual em USD com correspondência exata e disponibilidade confirmada foi obtida nesta revisão.",
+      "Foto ilustrativa existente preservada; nenhuma nova foto de oferta correspondente confirmada.",
+      "Não foi usado preço de acessórios, capacidade diferente, modelo comum/Pro/Pro Max nem mínimo agregado.",
+      "Nenhuma referência USD foi inferida a partir de BRL."
+    ],
+    "reason": "Nenhuma oferta individual de iPhone 13 mini com 512GB foi localizada nas buscas ampliadas, incluindo iPhone 13 mini 512GB, iPhone 13 mini 512 e 13mini 512. Os resultados foram iPhone 13 comum, Pro, Pro Max, peças e acessórios; nenhum corresponde ao modelo mini de 512GB. Sem referência USD confiável para aplicar a fórmula.",
+    "searchedUrls": [
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+128",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+256",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+512",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone13mini",
+      "https://www.comprasparaguai.com.br/busca/?q=13mini",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+512GB",
+      "https://www.comprasparaguai.com.br/busca/?q=13mini+512",
+      "https://www.comprasparaguai.com.br/celular--apple/?q=mini"
+    ],
+    "negativeEvidence": [
+      {
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone+13+mini+512GB",
+        "title": "iPhone 13 mini 512GB",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "74d67ea4812fb20b2eeebb3c9046ad9a157fe6819361002b521bd56502dd5f79",
+        "lastListing": null,
+        "result": "sem_correspondencia_exata",
+        "reason": "Resultados não incluem oferta individual atual do modelo e capacidade solicitados."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/busca/?q=13mini+512",
+        "title": "13mini 512",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "91f9c081db0a801540721d7763d804e4e0f14de5347a5d9532d08128e7350d63",
+        "lastListing": null,
+        "result": "sem_correspondencia_exata",
+        "reason": "Resultados não incluem oferta individual atual do modelo e capacidade solicitados."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/celular--apple/?q=mini",
+        "title": "Celular",
+        "checkedOn": "2026-11-24",
+        "htmlSha256": "20bac4d6369cc617330a776277d47a1e6631bc84eee9ec427c5a5b2572a2c5b0",
+        "lastListing": null,
+        "result": "sem_correspondencia_exata",
+        "reason": "Resultados não incluem oferta individual atual do modelo e capacidade solicitados."
+      }
+    ]
+  }
+]

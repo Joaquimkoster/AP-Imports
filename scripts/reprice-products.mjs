@@ -10,8 +10,15 @@ const policy = await read("scripts/pricing-policy.json");
 const products = await read("public/products.json");
 assert.equal(expansion.exchangeRate.exactMean, report.exchangeRate.exactMean, "A expansão usa uma média cambial diferente das referências originais");
 const referenceRows = [...report.products, ...expansion.products];
-const references = new Map(referenceRows.map(row => [row.id, row]));
-assert.equal(references.size, referenceRows.length, "IDs repetidos nos relatórios");
+const allReferences = new Map(referenceRows.map(row => [row.id, row]));
+assert.equal(allReferences.size, referenceRows.length, "IDs repetidos nos relatórios");
+const excludedIds = new Set(policy.excludedProductIds ?? []);
+assert.equal(excludedIds.size, (policy.excludedProductIds ?? []).length, "IDs repetidos nas exclusões");
+for (const id of excludedIds) {
+  assert(allReferences.has(id), `Exclusão sem referência histórica para ${id}`);
+  assert(!products.some(product => product.id === id), `Produto retirado ainda está no catálogo: ${id}`);
+}
+const references = new Map(referenceRows.filter(row => !excludedIds.has(row.id)).map(row => [row.id, row]));
 assert.equal(references.size, products.length, "Relatório não cobre todo o catálogo");
 assert.equal(new Set(products.map(p => p.id)).size, products.length, "IDs repetidos no catálogo");
 const mean = exchangeMean(report.exchangeRate.dailyClosings);

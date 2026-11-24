@@ -22,19 +22,6 @@
     "pricingMethod": "markup"
   },
   {
-    "id": 2,
-    "name": "Al Absar Treats Berry Bliss",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Eau de Parfum unissex de 100 ml da linha Treats, com frasco em forma de bolo de frutas vermelhas. Fragrância gourmand frutada, doce e divertida.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
     "id": 3,
     "name": "Al Absar Treats Caramel Rush",
     "category": "perfumes",
@@ -319,19 +306,6 @@
       "referenceCurrency": "USD"
     },
     "pricingMethod": "markup"
-  },
-  {
-    "id": 16,
-    "name": "Armaf Club de Nuit Untold",
-    "category": "perfumes",
-    "price": null,
-    "image": "/images/products/comprasparaguai-5274136.webp",
-    "description": "Eau de Parfum unissex de 35 ml em versão compacta, boa para levar na bolsa. Caixa roxa com o frasco vermelho ilustrado.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 17,
@@ -731,19 +705,6 @@
     "pricingMethod": "markup"
   },
   {
-    "id": 35,
-    "name": "Lattafa Afeef (35 ml)",
-    "category": "perfumes",
-    "price": null,
-    "image": "/images/products/comprasparaguai-5272035.webp",
-    "description": "Eau de Parfum unissex de 35 ml em versão compacta, ideal para levar na bolsa. Caixa branca e dourada com leque de pavão.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
     "id": 36,
     "name": "Lattafa Afeef (100 ml)",
     "category": "perfumes",
@@ -964,32 +925,6 @@
     "pricingMethod": "markup"
   },
   {
-    "id": 46,
-    "name": "Lattafa Tibyan",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Eau de Parfum feminino da Lattafa, com frasco alongado em rosa-claro e tampa preta com detalhes dourados.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 47,
-    "name": "Lattafa Yara (35 ml)",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Eau de Parfum feminino de 35 ml da Lattafa, versão rosa original em tamanho compacto para a bolsa.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
     "id": 48,
     "name": "Lattafa Yara",
     "category": "perfumes",
@@ -1010,45 +945,6 @@
       "referenceCurrency": "USD"
     },
     "pricingMethod": "markup"
-  },
-  {
-    "id": 49,
-    "name": "Lattafa Yara Candy (35 ml)",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Eau de Parfum feminino de 35 ml da Lattafa, versão Candy em vermelho, em tamanho compacto.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 50,
-    "name": "Lattafa Yara Moi (35 ml)",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Eau de Parfum feminino de 35 ml da Lattafa, versão Moi em tom bege, em tamanho compacto.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 51,
-    "name": "Lattafa Yara Tous (35 ml)",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Eau de Parfum feminino de 35 ml da Lattafa, versão Tous em laranja, em tamanho compacto.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 52,
@@ -1205,19 +1101,6 @@
     "pricingMethod": "markup"
   },
   {
-    "id": 59,
-    "name": "Perfumes de Bolso 35 ml",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Perfumes em formato compacto de 35 ml, em vários modelos, perfeitos para levar na bolsa. A arte é ilustrativa.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
     "id": 60,
     "name": "Rabanne 1 Million",
     "category": "perfumes",
@@ -1327,45 +1210,6 @@
       "referenceCurrency": "USD"
     },
     "pricingMethod": "markup"
-  },
-  {
-    "id": 65,
-    "name": "Rabanne Lady Million Empire",
-    "category": "perfumes",
-    "price": null,
-    "image": "/images/products/comprasparaguai-26900.png",
-    "description": "Eau de Parfum feminino da Rabanne, com frasco em forma de diamante rosé.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 66,
-    "name": "Selina Selina",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Eau de Parfum feminino de 35 ml em versão compacta, com caixa pink e frasco redondo cor-de-rosa.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 67,
-    "name": "Shakhan",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Eau de Parfum de 35 ml em versão compacta, com caixa em tons de marrom e dourado.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 68,
@@ -1654,45 +1498,6 @@
     "pricingMethod": "markup"
   },
   {
-    "id": 84,
-    "name": "Kit Mystical One & Only Perfume + Loção",
-    "category": "perfumes",
-    "price": null,
-    "image": "/images/products/mystical-one-only-perfume-locao.webp",
-    "description": "Kit de 2 peças da linha Mystical Gift Set: One & Only Eau de Parfum e loção corporal de 60 ml.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 89,
-    "name": "Victoria's Secret Fragrance Mist 250 ml",
-    "category": "perfumes",
-    "price": null,
-    "image": null,
-    "description": "Body splash de 250 ml em 4 fragrâncias: Velvet Petals, Aqua Kiss, Love Addict e Amber Romance.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 90,
-    "name": "Earth's Creation Vitamina E 180 mg (400 UI)",
-    "category": "saude",
-    "price": null,
-    "image": "/images/products/earths-creation-vitamina-e-400-ui.jpg",
-    "description": "Suplemento americano com 100 cápsulas softgel de vitamina E, com 180 mg (400 UI) por porção.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
     "id": 91,
     "name": "Earth's Creation Vitamina D Natural 5.000 UI",
     "category": "saude",
@@ -1713,32 +1518,6 @@
       "referenceCurrency": "USD"
     },
     "pricingMethod": "markup"
-  },
-  {
-    "id": 92,
-    "name": "Earth's Creation Vitamina C 500 mg",
-    "category": "saude",
-    "price": null,
-    "image": "/images/products/earths-creation-vitamina-c-500-mg.jpg",
-    "description": "Suplemento americano com 100 comprimidos de vitamina C, com 500 mg por porção. Selo Non-GMO.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 93,
-    "name": "Dorph Creatine Gummies 5 g",
-    "category": "saude",
-    "price": null,
-    "image": null,
-    "description": "Creatina em formato de goma, com 5 g por porção. Pote com 60 gomas, em 3 sabores: Red Fruits, Green Grape e Strawberry.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 94,
@@ -1807,45 +1586,6 @@
     "pricingMethod": "markup"
   },
   {
-    "id": 98,
-    "name": "Biyode Hair, Skin & Nails Gummies",
-    "category": "saude",
-    "price": null,
-    "image": "/images/products/biyode-hair-skin-nails-80-gummies.jpg",
-    "description": "Gomas sabor morango com biotina 2.500 mcg por porção e vitaminas C e E. Pote com 80 gomas. Selo Non-GMO.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 99,
-    "name": "Elemento Puro Ômegado Ômega 3 Neuro 1400 mg",
-    "category": "saude",
-    "price": null,
-    "image": "/images/products/elementopuro-omegadop-neuro-1400-mg.jpg",
-    "description": "Óleo de peixe ultraconcentrado em cápsulas, com ômega 3 (MEG-3) de 1.400 mg.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 100,
-    "name": "Elemento Puro Termodo Cafeína Anidra 200 mg",
-    "category": "saude",
-    "price": null,
-    "image": "/images/products/elementopuro-termodop-cafeina-200-mg.jpg",
-    "description": "Cafeína anidra de 200 mg em cápsulas, da linha Termodo da Elemento Puro.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
     "id": 101,
     "name": "Xiaomi POCO X8 Pro Max 5G",
     "category": "eletronicos",
@@ -1888,19 +1628,6 @@
       "referenceCurrency": "USD"
     },
     "pricingMethod": "markup"
-  },
-  {
-    "id": 103,
-    "name": "Motorola Moto G Power 5G",
-    "category": "eletronicos",
-    "price": null,
-    "image": null,
-    "description": "Smartphone 5G com 256 GB e 8 GB de RAM, na cor vermelha.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 222,
@@ -2004,38 +1731,6 @@
       "referenceCurrency": "USD"
     },
     "pricingMethod": "markup"
-  },
-  {
-    "id": 226,
-    "name": "Apple iPhone 12 mini 128GB",
-    "category": "eletronicos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-5611672.webp",
-    "description": "Apple iPhone 12 mini com 128GB de armazenamento. Preço e disponibilidade sob consulta.",
-    "featured": false,
-    "available": true,
-    "storage": "128GB",
-    "model": "iPhone 12 mini",
-    "specificationSource": "https://support.apple.com/pt-br/108044",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 227,
-    "name": "Apple iPhone 12 mini 256GB",
-    "category": "eletronicos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-5611672.webp",
-    "description": "Apple iPhone 12 mini com 256GB de armazenamento. Preço e disponibilidade sob consulta.",
-    "featured": false,
-    "available": true,
-    "storage": "256GB",
-    "model": "iPhone 12 mini",
-    "specificationSource": "https://support.apple.com/pt-br/108044",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 228,
@@ -2272,54 +1967,6 @@
     "pricingMethod": "markup"
   },
   {
-    "id": 237,
-    "name": "Apple iPhone 13 mini 128GB",
-    "category": "eletronicos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-53797.webp",
-    "description": "Apple iPhone 13 mini com 128GB de armazenamento. Preço e disponibilidade sob consulta.",
-    "featured": false,
-    "available": true,
-    "storage": "128GB",
-    "model": "iPhone 13 mini",
-    "specificationSource": "https://support.apple.com/pt-br/108044",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 238,
-    "name": "Apple iPhone 13 mini 256GB",
-    "category": "eletronicos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-53797.webp",
-    "description": "Apple iPhone 13 mini com 256GB de armazenamento. Preço e disponibilidade sob consulta.",
-    "featured": false,
-    "available": true,
-    "storage": "256GB",
-    "model": "iPhone 13 mini",
-    "specificationSource": "https://support.apple.com/pt-br/108044",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 239,
-    "name": "Apple iPhone 13 mini 512GB",
-    "category": "eletronicos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-53797.webp",
-    "description": "Apple iPhone 13 mini com 512GB de armazenamento. Preço e disponibilidade sob consulta.",
-    "featured": false,
-    "available": true,
-    "storage": "512GB",
-    "model": "iPhone 13 mini",
-    "specificationSource": "https://support.apple.com/pt-br/108044",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
     "id": 240,
     "name": "Apple iPhone 13 Pro 128GB (Swap Grade A-)",
     "category": "eletronicos",
@@ -2552,38 +2199,6 @@
     "pricingMethod": "markup"
   },
   {
-    "id": 249,
-    "name": "Apple iPhone SE (3ª geração) 128GB",
-    "category": "eletronicos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-5361446.webp",
-    "description": "Apple iPhone SE (3ª geração) com 128GB de armazenamento. Preço e disponibilidade sob consulta.",
-    "featured": false,
-    "available": true,
-    "storage": "128GB",
-    "model": "iPhone SE (3ª geração)",
-    "specificationSource": "https://support.apple.com/pt-br/108044",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 250,
-    "name": "Apple iPhone SE (3ª geração) 256GB",
-    "category": "eletronicos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-5361446.webp",
-    "description": "Apple iPhone SE (3ª geração) com 256GB de armazenamento. Preço e disponibilidade sob consulta.",
-    "featured": false,
-    "available": true,
-    "storage": "256GB",
-    "model": "iPhone SE (3ª geração)",
-    "specificationSource": "https://support.apple.com/pt-br/108044",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
     "id": 168,
     "name": "Apple iPhone 14 128GB",
     "category": "eletronicos",
@@ -2631,22 +2246,6 @@
       "referenceCurrency": "USD"
     },
     "pricingMethod": "markup"
-  },
-  {
-    "id": 251,
-    "name": "Apple iPhone 14 512GB",
-    "category": "eletronicos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-70524.avif",
-    "description": "Apple iPhone 14 com 512GB de armazenamento. Preço e disponibilidade sob consulta.",
-    "featured": false,
-    "available": true,
-    "storage": "512GB",
-    "model": "iPhone 14",
-    "specificationSource": "https://support.apple.com/pt-br/108044",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 106,
@@ -2977,22 +2576,6 @@
       "referenceCurrency": "USD"
     },
     "pricingMethod": "markup"
-  },
-  {
-    "id": 258,
-    "name": "Apple iPhone 15 512GB",
-    "category": "eletronicos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-69636.avif",
-    "description": "Apple iPhone 15 com 512GB de armazenamento. Preço e disponibilidade sob consulta.",
-    "featured": false,
-    "available": true,
-    "storage": "512GB",
-    "model": "iPhone 15",
-    "specificationSource": "https://support.apple.com/pt-br/108044",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 176,
@@ -3368,22 +2951,6 @@
     "pricingMethod": "markup"
   },
   {
-    "id": 262,
-    "name": "Apple iPhone 16 Plus 512GB",
-    "category": "eletronicos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-5600317.webp",
-    "description": "Apple iPhone 16 Plus com 512GB de armazenamento. Preço e disponibilidade sob consulta.",
-    "featured": false,
-    "available": true,
-    "storage": "512GB",
-    "model": "iPhone 16 Plus",
-    "specificationSource": "https://support.apple.com/pt-br/108044",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
     "id": 188,
     "name": "Apple iPhone 16 Pro 128GB",
     "category": "eletronicos",
@@ -3702,22 +3269,6 @@
       "referenceCurrency": "USD"
     },
     "pricingMethod": "markup"
-  },
-  {
-    "id": 266,
-    "name": "Apple iPhone 17e 512GB",
-    "category": "eletronicos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-67681.avif",
-    "description": "Apple iPhone 17e com 512GB de armazenamento. Preço e disponibilidade sob consulta.",
-    "featured": false,
-    "available": true,
-    "storage": "512GB",
-    "model": "iPhone 17e",
-    "specificationSource": "https://support.apple.com/pt-br/108044",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 198,
@@ -4260,19 +3811,6 @@
     "pricingMethod": "markup"
   },
   {
-    "id": 108,
-    "name": "Invicta Pro Diver Chronograph",
-    "category": "moda",
-    "price": null,
-    "image": null,
-    "description": "Relógio masculino da Invicta, linha Pro Diver. Caixa de aço inoxidável, mostrador preto com cronógrafo de 3 submostradores e pulseira de borracha.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
     "id": 110,
     "name": "Celimax The Vita-A Retinal Shot Tightening Booster",
     "category": "beleza",
@@ -4338,19 +3876,6 @@
       "referenceCurrency": "USD"
     },
     "pricingMethod": "markup"
-  },
-  {
-    "id": 115,
-    "name": "Eticos Retinal Soft Cream",
-    "category": "beleza",
-    "price": null,
-    "image": null,
-    "description": "Creme facial com retinal, com ação antienvelhecimento.",
-    "featured": false,
-    "available": true,
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 116,
@@ -4599,425 +4124,6 @@
     "pricingMethod": "markup"
   },
   {
-    "id": 139,
-    "name": "Gluconex 15 mg",
-    "category": "medicamentos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-67525.avif",
-    "description": "Tirzepatida. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": "15 mg",
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 147,
-    "name": "Lipoless 15 mg",
-    "category": "medicamentos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-64780.avif",
-    "description": "Tirzepatida. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": "15 mg",
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 148,
-    "name": "Tirzec 15 mg",
-    "category": "medicamentos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-66784.avif",
-    "description": "Tirzepatida. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": "15 mg",
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 149,
-    "name": "Tirzedral 15 mg",
-    "category": "medicamentos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-68364.avif",
-    "description": "Tirzepatida. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": "15 mg",
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 150,
-    "name": "Slimex 15 mg",
-    "category": "medicamentos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-71048.avif",
-    "description": "Tirzepatida. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": "15 mg",
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 151,
-    "name": "T.G. 15 mg",
-    "category": "medicamentos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-66779.avif",
-    "description": "Tirzepatida. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": "15 mg",
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 152,
-    "name": "Synedica 40 mg",
-    "category": "medicamentos",
-    "price": null,
-    "image": "/images/products/synedica-retatrutida-40-mg.webp",
-    "description": "Retatrutida. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": "40 mg",
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 153,
-    "name": "Synedica 60 mg",
-    "category": "medicamentos",
-    "price": null,
-    "image": "/images/products/synedica-retatrutida-60-mg.webp",
-    "description": "Retatrutida. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": "60 mg",
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 154,
-    "name": "Veltrame Diamond 120 mg",
-    "category": "medicamentos",
-    "price": null,
-    "image": "/images/products/veltrane-diamond-retatrutida-120-mg.jpg",
-    "description": "Retatrutida. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": "120 mg",
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 155,
-    "name": "BPC-157",
-    "category": "medicamentos",
-    "price": null,
-    "image": null,
-    "description": "Peptídeo. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": null,
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 156,
-    "name": "AOD-9604",
-    "category": "medicamentos",
-    "price": null,
-    "image": null,
-    "description": "Peptídeo. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": null,
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 157,
-    "name": "Ipamorelin",
-    "category": "medicamentos",
-    "price": null,
-    "image": null,
-    "description": "Peptídeo. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": null,
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 158,
-    "name": "CJC-1295",
-    "category": "medicamentos",
-    "price": null,
-    "image": null,
-    "description": "Peptídeo. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": null,
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 159,
-    "name": "TB-500",
-    "category": "medicamentos",
-    "price": null,
-    "image": null,
-    "description": "Peptídeo. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": null,
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 160,
-    "name": "MOTS-c",
-    "category": "medicamentos",
-    "price": null,
-    "image": null,
-    "description": "Peptídeo. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": null,
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 161,
-    "name": "KPV",
-    "category": "medicamentos",
-    "price": null,
-    "image": null,
-    "description": "Peptídeo. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": null,
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 162,
-    "name": "Oxygen GHK-Cu 100 mg",
-    "category": "medicamentos",
-    "price": null,
-    "image": null,
-    "description": "Peptídeo GHK-Cu. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": "100 mg",
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 163,
-    "name": "Lipostabil (fosfatidilcolina)",
-    "category": "medicamentos",
-    "price": null,
-    "image": null,
-    "description": "Fosfatidilcolina. Apresentação não informada no catálogo.",
-    "featured": false,
-    "available": true,
-    "dosage": null,
-    "presentation": "Apresentação não informada no catálogo",
-    "catalogItems": [
-      139
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 140,
-    "name": "Slimex MD 15 — 60 mg multidose",
-    "category": "medicamentos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-71047.avif",
-    "description": "Tirzepatida · Slimex. Frasco multidose com 60 mg no total e 15 mg por dose.",
-    "featured": false,
-    "available": true,
-    "dosage": "15 mg",
-    "presentation": "Frasco multidose de 60 mg",
-    "catalogItems": [
-      140
-    ],
-    "totalAmount": "60 mg",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 164,
-    "name": "Lipoland Multidosis — 60 mg multidose",
-    "category": "medicamentos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-5774500.webp",
-    "description": "Tirzepatida · Landerlan Gold Series. Frasco multidose com 60 mg no total e 15 mg por dose.",
-    "featured": false,
-    "available": true,
-    "dosage": "15 mg",
-    "presentation": "Frasco multidose de 60 mg",
-    "catalogItems": [
-      140
-    ],
-    "totalAmount": "60 mg",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 165,
-    "name": "Catedral T 15 MD — 60 mg multidose",
-    "category": "medicamentos",
-    "price": null,
-    "image": null,
-    "description": "Tirzepatida · Laboratorios Catedral. Frasco multidose com 60 mg no total e 15 mg por dose.",
-    "featured": false,
-    "available": true,
-    "dosage": "15 mg/0,5 mL",
-    "presentation": "Frasco multidose de 60 mg",
-    "catalogItems": [
-      140
-    ],
-    "totalAmount": "60 mg",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 166,
-    "name": "Tirzec 15 MD — 60 mg multidose",
-    "category": "medicamentos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-5664937.webp",
-    "description": "Tirzepatida · Tirzec. Frasco multidose com 60 mg no total e 15 mg por dose.",
-    "featured": false,
-    "available": true,
-    "dosage": "15 mg/0,5 mL",
-    "presentation": "Frasco multidose de 60 mg",
-    "catalogItems": [
-      140
-    ],
-    "totalAmount": "60 mg",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 167,
-    "name": "Lipoless MD 15 — 60 mg multidose",
-    "category": "medicamentos",
-    "price": null,
-    "image": "/images/products/comprasparaguai-66778.avif",
-    "description": "Tirzepatida · Eticos. Frasco multidose com 60 mg no total e 15 mg por dose.",
-    "featured": false,
-    "available": true,
-    "dosage": "15 mg/0,6 mL",
-    "presentation": "Frasco multidose de 60 mg",
-    "catalogItems": [
-      140
-    ],
-    "totalAmount": "60 mg",
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
     "id": 141,
     "name": "Ipsen Dysport 500 U",
     "category": "medicamentos",
@@ -5043,43 +4149,6 @@
       "referenceCurrency": "USD"
     },
     "pricingMethod": "markup"
-  },
-  {
-    "id": 142,
-    "name": "PT-141 (bremelanotida) 20 mg",
-    "category": "medicamentos",
-    "price": null,
-    "image": null,
-    "description": "Bremelanotida. 1 frasco.",
-    "featured": false,
-    "available": true,
-    "dosage": "20 mg",
-    "presentation": "1 frasco",
-    "catalogItems": [
-      139,
-      142
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
-  },
-  {
-    "id": 143,
-    "name": "Combo Smart Collection Nº 244 + Lipostabil",
-    "category": "medicamentos",
-    "price": null,
-    "image": null,
-    "description": "Perfume e fosfatidilcolina. Perfume de 25 ml + 5 ampolas de 5 ml.",
-    "featured": false,
-    "available": true,
-    "dosage": null,
-    "presentation": "Perfume de 25 ml + 5 ampolas de 5 ml",
-    "catalogItems": [
-      143
-    ],
-    "pricingUpdatedOn": "2026-11-24",
-    "pricingStatus": "pending",
-    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 144,

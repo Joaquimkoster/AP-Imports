@@ -18,9 +18,10 @@
       "saude": 6,
       "casa": 8
     },
-    "totalProducts": 301,
+    "totalProducts": 242,
     "pricedProducts": 242,
-    "pendingProducts": 59
+    "pendingProducts": 0,
+    "excludedHistoricalProducts": 59
   },
   "researchFiles": [
     "artifacts/expansao-notebooks-2026-11-24.json",

@@ -1,0 +1,263 @@
+[
+  {
+    "id": 249,
+    "originalName": "Apple iPhone SE (3ª geração) 128GB",
+    "status": "pending",
+    "referenceUSD": null,
+    "referenceCurrency": null,
+    "checkedOn": "2026-11-24",
+    "name": "Apple iPhone SE (3ª geração) 128GB",
+    "description": "Apple iPhone SE (3ª geração) com 128GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "source": {
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-se-2022-128gb_40247/",
+      "title": "Celular Apple iPhone SE 2022 128GB",
+      "storeName": null,
+      "checkedOn": "2026-11-24",
+      "declaredCurrency": "USD",
+      "observedUSD": null,
+      "htmlSha256": "7ae2c8252e29f28bd74ca785c7b7ef46700e8b65f4da8538ecda6ed5028ed1dd",
+      "lastListing": null,
+      "visiblePriceUSD": null,
+      "availabilityVerifiedInMainSection": false,
+      "mainSectionEvidence": "VER 0 OFERTAs em 0 lojas; Nenhuma oferta disponível; rótulo US$ sem valor numérico."
+    },
+    "image": "/images/products/comprasparaguai-5361446.webp",
+    "imageUrl": null,
+    "imageSourceUrl": null,
+    "sha256": "c85f3f5af36cc718e724295dc61b0123c2a6ded159bf9ff1e6a49ee3f99eba86",
+    "notes": [
+      "A geração foi identificada como SE 2022, terceira geração; SE 2020/SE2 e iPhone 16e não foram considerados equivalentes.",
+      "Buscas por SE2022, SE3, SE 3, SE terceira geração, SE 3rd, SE 2022 e capacidades exatas não localizaram uma oferta individual disponível com preço USD para esta combinação.",
+      "A única oferta recente denominada iPhone SE (3RA Gen) tem 64GB e não serve para as capacidades 128GB ou 256GB.",
+      "Mantida a foto ilustrativa já cadastrada do mesmo modelo, compartilhada entre capacidades; ela não comprova capacidade nem disponibilidade. Nenhuma foto de outra geração foi baixada."
+    ],
+    "reason": "O agrupador exato iPhone SE 2022 128GB exibe zero ofertas e nenhum preço numérico em USD. Não foi confirmada oferta individual disponível para esta geração e capacidade após buscas pelos sinônimos documentados.",
+    "searchedUrls": [
+      "https://www.comprasparaguai.com.br/celular-apple-iphone-se-2022-128gb_40247/",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%202022",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE3",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%203",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%20128GB",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%202022%20128",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%203ra",
+      "https://www.comprasparaguai.com.br/busca/?q=SE2022",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%20terceira%20gera%C3%A7%C3%A3o",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%203rd%20128",
+      "https://www.comprasparaguai.com.br/apple-iphone-se-3-2022-256gb-black__4504391/"
+    ],
+    "searchEvidence": [
+      {
+        "query": "iPhone SE 2022",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%202022",
+        "htmlSha256": "8cdd88e79b8451968711ab67d9b13f1dfca4c3c38e5c1a4034243d69b76dc33e",
+        "resultCountOnFirstPage": 0,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 128GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "iPhone SE3",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE3",
+        "htmlSha256": "ad377268ac57d303aab845d3ad87fe84c91717cbbd3f497f7eed8090734bc6ce",
+        "resultCountOnFirstPage": 6,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 128GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "iPhone SE 3",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%203",
+        "htmlSha256": "78e37b6e8f1955906f398c5f7476efd9c38d731a5aa68e921e3ab94ba419eab9",
+        "resultCountOnFirstPage": 19,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 128GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "iPhone SE 128GB",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%20128GB",
+        "htmlSha256": "ccf0791a355f00b87c0f64d3ed9b6dcdbd0477f4888d015dbcd74a63dd45915d",
+        "resultCountOnFirstPage": 20,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 128GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "iPhone SE 2022 128",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%202022%20128",
+        "htmlSha256": "6ccaf131a6aac9737196e8a911173c66eb0810ab7cffa439d19ab610a8d2217e",
+        "resultCountOnFirstPage": 0,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 128GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "iPhone SE 3ra",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%203ra",
+        "htmlSha256": "32f80411bdcef132f14fb1029d1dd07898918dc7d6d2ae38867cdbadb5741cd7",
+        "resultCountOnFirstPage": 1,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 128GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "SE2022",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=SE2022",
+        "htmlSha256": "5f278efe7996c9bf602008db9c1aa848bfd2885805cff1c20bea38c900bf8dc9",
+        "resultCountOnFirstPage": 0,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 128GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "iPhone SE terceira geração",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%20terceira%20gera%C3%A7%C3%A3o",
+        "htmlSha256": "03bdea57639687894878e129501c6378254bd7521e55ac2d95ad75fcd7b6259c",
+        "resultCountOnFirstPage": 2,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 128GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "iPhone SE 3rd 128",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%203rd%20128",
+        "htmlSha256": "279f8cf180f3d0a71aafceeb0fa4195978606f27468dd3fca09e5fc061cae465",
+        "resultCountOnFirstPage": 0,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 128GB com USD e disponibilidade confirmados."
+      }
+    ],
+    "rejectedOffers": [
+      {
+        "url": "https://www.comprasparaguai.com.br/iphone-se-3ra-gen-64gb__5361446/",
+        "title": "iPhone Se (3RA Gen) 64GB",
+        "reason": "Mesma geração, porém capacidade de 64GB; não pode precificar 128GB."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/apple-iphone-se-3-2022-256gb-black__4504391/",
+        "title": "Apple iPhone Se 3 (2022) 256GB Black",
+        "storeName": "Direto América",
+        "htmlSha256": "ce08d9212404f2f0b57c01efdf7ed82497640335430ddaae3362452cdf0be14e",
+        "lastListing": "31 de Outubro de 2024",
+        "visiblePriceUSD": null,
+        "availabilityVerifiedInMainSection": false,
+        "mainSectionEvidence": "Após o título e código #15086: Ops! Produto indisponível :(",
+        "reason": "Oferta indisponível na seção principal e sem preço visível em USD. As informações extras também contradizem o título, mencionando 64GB e Swap apesar do título 256GB."
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "originalName": "Apple iPhone SE (3ª geração) 256GB",
+    "status": "pending",
+    "referenceUSD": null,
+    "referenceCurrency": null,
+    "checkedOn": "2026-11-24",
+    "name": "Apple iPhone SE (3ª geração) 256GB",
+    "description": "Apple iPhone SE (3ª geração) com 256GB de armazenamento. Preço e disponibilidade sob consulta.",
+    "source": {
+      "url": "https://www.comprasparaguai.com.br/celular-apple-iphone-se-2022-256gb_45939/",
+      "title": "Celular Apple iPhone SE 2022 256GB",
+      "storeName": null,
+      "checkedOn": "2026-11-24",
+      "declaredCurrency": "USD",
+      "observedUSD": null,
+      "htmlSha256": "e63dcf0429eaa9c5b55fef0f3f623b7019d49481b500834d240a6a3b03ae3edc",
+      "lastListing": null,
+      "visiblePriceUSD": null,
+      "availabilityVerifiedInMainSection": false,
+      "mainSectionEvidence": "VER 0 OFERTAs em 0 lojas; Nenhuma oferta disponível; rótulo US$ sem valor numérico."
+    },
+    "image": "/images/products/comprasparaguai-5361446.webp",
+    "imageUrl": null,
+    "imageSourceUrl": null,
+    "sha256": "c85f3f5af36cc718e724295dc61b0123c2a6ded159bf9ff1e6a49ee3f99eba86",
+    "notes": [
+      "A geração foi identificada como SE 2022, terceira geração; SE 2020/SE2 e iPhone 16e não foram considerados equivalentes.",
+      "Buscas por SE2022, SE3, SE 3, SE terceira geração, SE 3rd, SE 2022 e capacidades exatas não localizaram uma oferta individual disponível com preço USD para esta combinação.",
+      "A única oferta recente denominada iPhone SE (3RA Gen) tem 64GB e não serve para as capacidades 128GB ou 256GB.",
+      "Mantida a foto ilustrativa já cadastrada do mesmo modelo, compartilhada entre capacidades; ela não comprova capacidade nem disponibilidade. Nenhuma foto de outra geração foi baixada.",
+      "A oferta histórica Apple iPhone SE 3 (2022) 256GB Black da Direto América foi aberta; ela está indisponível desde a última listagem de 31/10/2024 e não foi usada."
+    ],
+    "reason": "O agrupador exato iPhone SE 2022 256GB exibe zero ofertas e nenhum preço numérico em USD. Não foi confirmada oferta individual disponível para esta geração e capacidade após buscas pelos sinônimos documentados.",
+    "searchedUrls": [
+      "https://www.comprasparaguai.com.br/celular-apple-iphone-se-2022-256gb_45939/",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%202022",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE3",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%203",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%20256GB",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%202022%20256",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%203ra",
+      "https://www.comprasparaguai.com.br/busca/?q=SE2022",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%20terceira%20gera%C3%A7%C3%A3o",
+      "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%203rd%20256",
+      "https://www.comprasparaguai.com.br/apple-iphone-se-3-2022-256gb-black__4504391/"
+    ],
+    "searchEvidence": [
+      {
+        "query": "iPhone SE 2022",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%202022",
+        "htmlSha256": "8cdd88e79b8451968711ab67d9b13f1dfca4c3c38e5c1a4034243d69b76dc33e",
+        "resultCountOnFirstPage": 0,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 256GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "iPhone SE3",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE3",
+        "htmlSha256": "ad377268ac57d303aab845d3ad87fe84c91717cbbd3f497f7eed8090734bc6ce",
+        "resultCountOnFirstPage": 6,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 256GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "iPhone SE 3",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%203",
+        "htmlSha256": "78e37b6e8f1955906f398c5f7476efd9c38d731a5aa68e921e3ab94ba419eab9",
+        "resultCountOnFirstPage": 19,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 256GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "iPhone SE 256GB",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%20256GB",
+        "htmlSha256": "4e496ccb00fc55a43f7fc2a412ba84bdc4e1df485f64dd6a1189eadb9d59317f",
+        "resultCountOnFirstPage": 20,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 256GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "iPhone SE 2022 256",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%202022%20256",
+        "htmlSha256": "55337a9506d0427b9b75fa239110b82b760bff573e9b0530bac0d28f2b8b02e6",
+        "resultCountOnFirstPage": 0,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 256GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "iPhone SE 3ra",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%203ra",
+        "htmlSha256": "32f80411bdcef132f14fb1029d1dd07898918dc7d6d2ae38867cdbadb5741cd7",
+        "resultCountOnFirstPage": 1,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 256GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "SE2022",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=SE2022",
+        "htmlSha256": "5f278efe7996c9bf602008db9c1aa848bfd2885805cff1c20bea38c900bf8dc9",
+        "resultCountOnFirstPage": 0,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 256GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "iPhone SE terceira geração",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%20terceira%20gera%C3%A7%C3%A3o",
+        "htmlSha256": "03bdea57639687894878e129501c6378254bd7521e55ac2d95ad75fcd7b6259c",
+        "resultCountOnFirstPage": 2,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 256GB com USD e disponibilidade confirmados."
+      },
+      {
+        "query": "iPhone SE 3rd 256",
+        "url": "https://www.comprasparaguai.com.br/busca/?q=iPhone%20SE%203rd%20256",
+        "htmlSha256": "de038600f99441283295821cbffec330e4e1dc7e38b5f4cd4ac64522decfa8af",
+        "resultCountOnFirstPage": 0,
+        "notes": "Resultados conferidos por modelo, geração e capacidade; nenhum oferece SE 2022 256GB com USD e disponibilidade confirmados."
+      }
+    ],
+    "rejectedOffers": [
+      {
+        "url": "https://www.comprasparaguai.com.br/iphone-se-3ra-gen-64gb__5361446/",
+        "title": "iPhone Se (3RA Gen) 64GB",
+        "reason": "Mesma geração, porém capacidade de 64GB; não pode precificar 256GB."
+      },
+      {
+        "url": "https://www.comprasparaguai.com.br/apple-iphone-se-3-2022-256gb-black__4504391/",
+        "title": "Apple iPhone Se 3 (2022) 256GB Black",
+        "storeName": "Direto América",
+        "htmlSha256": "ce08d9212404f2f0b57c01efdf7ed82497640335430ddaae3362452cdf0be14e",
+        "lastListing": "31 de Outubro de 2024",
+        "visiblePriceUSD": null,
+        "availabilityVerifiedInMainSection": false,
+        "mainSectionEvidence": "Após o título e código #15086: Ops! Produto indisponível :(",
+        "reason": "Oferta indisponível na seção principal e sem preço visível em USD. As informações extras também contradizem o título, mencionando 64GB e Swap apesar do título 256GB."
+      }
+    ]
+  }
+]
