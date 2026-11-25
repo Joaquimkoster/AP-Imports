@@ -7829,17 +7829,21 @@
       },
       "photo": {
         "id": 222,
-        "image": "/images/products/compras-oferta-4686332.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/f95ab6749f24b82dc9d7ef44e8ba7af66733b96a.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/cel-iphone-12-64gb-preto-ch-branco__4686332/",
-        "sha256": "84ef93bf17939cf97246bead5dc605be32fe26ecd065ac1addc367a7dd089436",
-        "bytes": 1838
+        "image": "/images/products/comprasparaguai-31205.jpg",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_12_64gb_120982.big.jpg",
+        "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-12-64gb_31205/",
+        "sourceTitle": "Celular Apple iPhone 12 64GB",
+        "sha256": "f65f1f2c1b7d23608d7f10b4422dfd990653f0e066ab506e326c9eca5f4a4ccf",
+        "bytes": 22631,
+        "width": 550,
+        "height": 550,
+        "checkedOn": "2026-11-24"
       },
       "catalogProduct": {
         "id": 222,
         "name": "Apple iPhone 12 64GB",
         "category": "eletronicos",
-        "image": "/images/products/compras-oferta-4686332.webp",
+        "image": "/images/products/comprasparaguai-31205.jpg",
         "description": "Apple iPhone 12 com 64GB de armazenamento. Condição não especificada no título da oferta; confirme com a equipe.",
         "featured": false,
         "available": true,
@@ -7848,7 +7852,8 @@
         "specificationSource": "https://support.apple.com/pt-br/108044"
       },
       "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados.",
+        "Foto anterior rejeitada por exibir apenas uma tela e uma moldura, sem representar adequadamente o aparelho. Substituída por fotografia de 550 × 550 pixels do iPhone 12 preto, mostrando frente e traseira, conferida visualmente por formato e câmeras."
       ]
     },
     {
