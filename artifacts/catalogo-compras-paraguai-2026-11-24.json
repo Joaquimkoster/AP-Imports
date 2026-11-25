@@ -1114,23 +1114,28 @@
       },
       "photo": {
         "id": 24,
-        "image": "/images/products/compras-oferta-5789179.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/17a5702f97bead84582ee04c5af60f735eb4b6c4.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/perfume-dolce-gabbana-q-eau-de-parfum-feminino-100ml__5789179/",
-        "sha256": "3f2870dcd727353e28e2c594e0991ecc4fe350521f1e331eee43d67d7dfc1bdb",
-        "bytes": 4298
+        "image": "/images/products/comprasparaguai-49429.png",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/perfume_dolce_gabbana_q_eau_de_parfum_feminino_100ml_166160.big.png",
+        "sourceUrl": "https://www.comprasparaguai.com.br/perfume-dolce-gabbana-q-eau-de-parfum-feminino-100ml_49429/",
+        "sourceTitle": "Perfume Dolce & Gabbana Q Eau de Parfum Feminino 100ML",
+        "sha256": "7e82ac9fb02435c8a9544aacd245c756fdade63e0af8e730a73cfd55ac63ba28",
+        "bytes": 104568,
+        "width": 550,
+        "height": 550,
+        "checkedOn": "2026-11-24"
       },
       "catalogProduct": {
         "id": 24,
         "name": "Dolce & Gabbana Q",
         "category": "perfumes",
-        "image": "/images/products/compras-oferta-5789179.webp",
+        "image": "/images/products/comprasparaguai-49429.png",
         "description": "Eau de Parfum feminino da Dolce & Gabbana, com tampa em forma de coroa dourada e pedras vermelhas.",
         "featured": false,
         "available": true
       },
       "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados.",
+        "Miniatura de 210 × 210 pixels substituída pela fotografia original de 550 × 550 do agrupador exato do Compras Paraguai; marca, linha e volume conferidos. Arquivo preservado sem edição."
       ]
     },
     {
@@ -1157,23 +1162,28 @@
       },
       "photo": {
         "id": 25,
-        "image": "/images/products/compras-oferta-4484037.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/3916fe715b0bb9cd66f09365db7ff155109b55f2.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/perfume-ferrari-scuderia-black-eau-de-toilette-masculino-125ml__4484037/",
-        "sha256": "cc3e269a92c78529fc4cfa59c402e45b98aea1af4bbfc49c1d8a0dbf9996722c",
-        "bytes": 2464
+        "image": "/images/products/comprasparaguai-7261.jpg",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/perfume_ferrari_scuderia_black_eau_de_toilette_masculino_125ml_102405.big.jpg",
+        "sourceUrl": "https://www.comprasparaguai.com.br/perfume-ferrari-scuderia-black-eau-de-toilette-masculino-125ml_7261/",
+        "sourceTitle": "Perfume Ferrari Scuderia Black Eau de Toilette Masculino 125ML",
+        "sha256": "8b804b4d8fef19f5557c238d20fe9812ea1ee54d3f3c44d35b1039bb8bac7ffb",
+        "bytes": 19196,
+        "width": 550,
+        "height": 550,
+        "checkedOn": "2026-11-24"
       },
       "catalogProduct": {
         "id": 25,
         "name": "Ferrari Scuderia Ferrari Black",
         "category": "perfumes",
-        "image": "/images/products/compras-oferta-4484037.webp",
+        "image": "/images/products/comprasparaguai-7261.jpg",
         "description": "Eau de Toilette masculino de 125 ml da Ferrari. Frasco preto com o cavalinho amarelo da marca.",
         "featured": false,
         "available": true
       },
       "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados.",
+        "Miniatura de 210 × 210 pixels substituída pela fotografia original de 550 × 550 do agrupador exato do Compras Paraguai; marca, linha e volume conferidos. Arquivo preservado sem edição."
       ]
     },
     {
