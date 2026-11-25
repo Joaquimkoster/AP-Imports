@@ -1,11 +1,12 @@
 {
   "checkedOn": "2026-11-24",
-  "scope": "Catálogo baseado exclusivamente em ofertas do Compras Paraguai, com preço USD visível e foto correspondente.",
+  "scope": "268 ofertas verificadas do Compras Paraguai e 8 cadastros restaurados por pedido do usuário, sob consulta, sem referência USD confirmada.",
   "criteria": [
     "Oferta individual com valor em US$ na seção principal e sem aviso de indisponibilidade.",
     "Marca, modelo, capacidade e apresentação correspondentes ao cadastro. Correções e mudanças de condição são explícitas.",
     "Foto real da oferta ou do agrupador exato; logotipos e imagens de outros produtos rejeitados.",
-    "Mesma média PTAX já adotada ×1,30, com arredondamento comercial somente no resultado final; sem preços fixos."
+    "Mesma média PTAX já adotada ×1,30, com arredondamento comercial somente no resultado final; sem preços fixos.",
+    "Exceção solicitada pelo usuário: oito produtos restaurados permanecem sob consulta; não são tratados como ofertas verificadas e não recebem preços estimados."
   ],
   "markupPercent": 30,
   "exchangeRate": {
@@ -77,13 +78,15 @@
     "rawResponseSha256": "c86f5c13288f6f3c3308946b9533e72d4be2f1ea774d584ca80cfec97ba0184e"
   },
   "summary": {
-    "active": 268,
+    "active": 276,
     "recoveredFromPreviousRemoval": 22,
-    "excluded": 38,
+    "excluded": 30,
     "withPrice": 268,
-    "withImage": 268,
+    "withImage": 274,
     "notebooks": 30,
-    "medicines": 15
+    "medicines": 23,
+    "verified": 268,
+    "pending": 8
   },
   "sourceResearchFiles": [
     "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
@@ -12254,105 +12257,6 @@
       ]
     },
     {
-      "id": 143,
-      "originalName": "Combo Smart Collection Nº 244 + Lipostabil",
-      "reason": "Não foi localizada oferta real do combo Smart Collection Nº244 de25mL mais Lipostabil de5ampolas de5mL. As buscas retornaram somente o perfume ou a fosfatidilcolina separados. Não foi criado combo somando preços nem usada foto de um componente como foto do conjunto.",
-      "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
-      "searchedUrls": [
-        "https://www.comprasparaguai.com.br/busca/?q=Lipostabil",
-        "https://www.comprasparaguai.com.br/busca/?q=Smart+Collection+244+Lipostabil"
-      ]
-    },
-    {
-      "id": 147,
-      "originalName": "Lipoless 15 mg",
-      "reason": "As seis ofertas individuais verificadas de Lipoless 15 mg não oferecem preço USD atual utilizável: cinco mostram Preço indisponível na seção principal e a oferta Genove (5068652) mostra indisponibilidade. A apresentação pôde ser identificada, mas isso não substitui a referência USD exigida.",
-      "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
-      "searchedUrls": [
-        "https://www.comprasparaguai.com.br/busca/?q=Lipoless",
-        "https://www.comprasparaguai.com.br/busca/?q=Lipoless+15&page=2",
-        "https://www.comprasparaguai.com.br/tirzepatida-lipoless-4-amp-15mg-embalagem-nova__5650480/",
-        "https://www.comprasparaguai.com.br/lipoless-15mg-x-4-vial__5122412/",
-        "https://www.comprasparaguai.com.br/lipoless-15-tirzepatida-15-mg__5774496/",
-        "https://www.comprasparaguai.com.br/tirzepatida-lipoless-15mg-ampola__5068652/",
-        "https://www.comprasparaguai.com.br/lipoless-15-mg-4-ampolas__5450249/",
-        "https://www.comprasparaguai.com.br/tirzepatida-lipoless-4-ampolas-15mg__5242988/"
-      ]
-    },
-    {
-      "id": 148,
-      "originalName": "Tirzec 15 mg",
-      "reason": "As seis ofertas individuais verificadas de Tirzec 15 mg, de 1 ou 4 frascos conforme cada anúncio, mostram Preço indisponível na seção principal. Há anúncios e fotos reais, mas nenhuma referência USD atual confirmada foi obtida.",
-      "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
-      "searchedUrls": [
-        "https://www.comprasparaguai.com.br/busca/?q=Tirzec",
-        "https://www.comprasparaguai.com.br/busca/?q=Tirzec+15&page=2",
-        "https://www.comprasparaguai.com.br/tirzec-15-tirzepatida-15mg05ml-4-frascos-com-solucao-injetavel__5786444/",
-        "https://www.comprasparaguai.com.br/tirzec-15mg-de-1-ampola__5435106/",
-        "https://www.comprasparaguai.com.br/tirzec-15-mg-x-4-ampollas__5579018/",
-        "https://www.comprasparaguai.com.br/tirzec-15mg-1-vial__5070026/",
-        "https://www.comprasparaguai.com.br/tirzepatida-tirzec-15mg-4-ampolas__5338448/",
-        "https://www.comprasparaguai.com.br/tirzec-15mg-de-4-ampolas__5435107/"
-      ]
-    },
-    {
-      "id": 151,
-      "originalName": "T.G. 15 mg",
-      "reason": "As ofertas individuais T.G. 15 da Farma Fit (5774497), TG15 da loja de referência (5450179) e Tirzepatida TG 4 ampolas (5218197) mostram Preço indisponível na seção principal. Valores USD antigos em resultados de busca não foram reaplicados.",
-      "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
-      "searchedUrls": [
-        "https://www.comprasparaguai.com.br/busca/?q=T.G.+15",
-        "https://www.comprasparaguai.com.br/busca/?q=TG+15&page=2",
-        "https://www.comprasparaguai.com.br/busca/?q=Tirzepatida+T.G.&page=2",
-        "https://www.comprasparaguai.com.br/tg-15-tirzepatida-15-mg__5774497/",
-        "https://www.comprasparaguai.com.br/tirzepatida-tg-15mg-4-ampolas__5218197/",
-        "https://www.comprasparaguai.com.br/tg15-tirzepatida-15-mg05ml__5450179/"
-      ]
-    },
-    {
-      "id": 152,
-      "originalName": "Synedica 40 mg",
-      "reason": "Não foi encontrado anúncio de retatrutida Synedica 40 mg. A busca por Synedica retorna NAD+ Synedica Labs, outra molécula; a busca combinada retorna retatrutida de outra marca (Peptide Sciences), que não substitui a marca especificada.",
-      "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
-      "searchedUrls": [
-        "https://www.comprasparaguai.com.br/busca/?q=Synedica",
-        "https://www.comprasparaguai.com.br/busca/?q=Retatrutida+Synedica"
-      ]
-    },
-    {
-      "id": 153,
-      "originalName": "Synedica 60 mg",
-      "reason": "Não foi encontrado anúncio de retatrutida Synedica 60 mg. A busca por Synedica 60 retorna NAD+ Synedica Labs, outra molécula; não houve correspondência de marca, conteúdo e foto para o produto original.",
-      "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
-      "searchedUrls": [
-        "https://www.comprasparaguai.com.br/busca/?q=Synedica",
-        "https://www.comprasparaguai.com.br/busca/?q=Synedica+60"
-      ]
-    },
-    {
-      "id": 154,
-      "originalName": "Veltrame Diamond 120 mg",
-      "reason": "Não foi encontrado anúncio de Veltrame ou Veltrane Diamond 120 mg. Buscas pelas duas grafias retornaram resultados sem correspondência; não foi usada retatrutida de outra marca.",
-      "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
-      "searchedUrls": [
-        "https://www.comprasparaguai.com.br/busca/?q=Veltrame",
-        "https://www.comprasparaguai.com.br/busca/?q=Veltrane",
-        "https://www.comprasparaguai.com.br/busca/?q=Veltrame+Diamond+120",
-        "https://www.comprasparaguai.com.br/busca/?q=Veltrane+120"
-      ]
-    },
-    {
-      "id": 162,
-      "originalName": "Oxygen GHK-Cu 100 mg",
-      "reason": "O anúncio GHK-Cu 100 MG (5774487) tem preço USD55,00 e foto, mas a fotografia identifica a marca Zeptrina, e não Oxygen. Outras ofertas de GHK-Cu 100 mg também não comprovam Oxygen; a marca original não foi substituída.",
-      "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
-      "searchedUrls": [
-        "https://www.comprasparaguai.com.br/busca/?q=Oxygen+GHK",
-        "https://www.comprasparaguai.com.br/busca/?q=Oxygen+GHK+Cu+100",
-        "https://www.comprasparaguai.com.br/ghk-cu-100-mg__5774487/"
-      ]
-    },
-    {
       "id": 164,
       "originalName": "Lipoland Multidosis — 60 mg multidose",
       "reason": "A oferta individual Lipoland Multidosis (5774500) existe e possui foto, mas mostra Preço indisponível na seção principal; sem referência USD para o frasco multidose de 60 mg.",
@@ -12459,6 +12363,345 @@
       "originalName": "Apple iPhone 17e 512GB",
       "reason": "O agrupador exato iPhone 17e 512GB exibe zero ofertas e nenhum preço numérico. As ofertas individuais consultadas estão indisponíveis. Não foi utilizado preço de 17e 256GB ou de acessórios relacionados.",
       "evidenceFile": "artifacts/revisao-iphones-pendentes-2026-11-24.json"
+    }
+  ],
+  "pendingProducts": [
+    {
+      "id": 143,
+      "name": "Combo Smart Collection Nº 244 + Lipostabil",
+      "status": "pending",
+      "referenceCurrency": null,
+      "referenceUSD": null,
+      "finalBRL": null,
+      "restoredOn": "2026-11-24",
+      "restorationReason": "Reincluído por solicitação expressa do usuário, mesmo sem oferta/preço confirmado no Compras Paraguai.",
+      "pendingReason": "Não foi localizada oferta real do combo Smart Collection Nº244 de25mL mais Lipostabil de5ampolas de5mL. As buscas retornaram somente o perfume ou a fosfatidilcolina separados. Não foi criado combo somando preços nem usada foto de um componente como foto do conjunto.",
+      "previousExclusion": {
+        "id": 143,
+        "originalName": "Combo Smart Collection Nº 244 + Lipostabil",
+        "reason": "Não foi localizada oferta real do combo Smart Collection Nº244 de25mL mais Lipostabil de5ampolas de5mL. As buscas retornaram somente o perfume ou a fosfatidilcolina separados. Não foi criado combo somando preços nem usada foto de um componente como foto do conjunto.",
+        "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
+        "searchedUrls": [
+          "https://www.comprasparaguai.com.br/busca/?q=Lipostabil",
+          "https://www.comprasparaguai.com.br/busca/?q=Smart+Collection+244+Lipostabil"
+        ]
+      },
+      "photo": null,
+      "catalogProduct": {
+        "id": 143,
+        "name": "Combo Smart Collection Nº 244 + Lipostabil",
+        "category": "medicamentos",
+        "image": null,
+        "description": "Perfume e fosfatidilcolina. Perfume de 25 ml + 5 ampolas de 5 ml.",
+        "featured": false,
+        "available": false,
+        "dosage": null,
+        "presentation": "Perfume de 25 ml + 5 ampolas de 5 ml",
+        "catalogItems": [
+          143
+        ]
+      }
+    },
+    {
+      "id": 147,
+      "name": "Lipoless 15 mg",
+      "status": "pending",
+      "referenceCurrency": null,
+      "referenceUSD": null,
+      "finalBRL": null,
+      "restoredOn": "2026-11-24",
+      "restorationReason": "Reincluído por solicitação expressa do usuário, mesmo sem oferta/preço confirmado no Compras Paraguai.",
+      "pendingReason": "As seis ofertas individuais verificadas de Lipoless 15 mg não oferecem preço USD atual utilizável: cinco mostram Preço indisponível na seção principal e a oferta Genove (5068652) mostra indisponibilidade. A apresentação pôde ser identificada, mas isso não substitui a referência USD exigida.",
+      "previousExclusion": {
+        "id": 147,
+        "originalName": "Lipoless 15 mg",
+        "reason": "As seis ofertas individuais verificadas de Lipoless 15 mg não oferecem preço USD atual utilizável: cinco mostram Preço indisponível na seção principal e a oferta Genove (5068652) mostra indisponibilidade. A apresentação pôde ser identificada, mas isso não substitui a referência USD exigida.",
+        "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
+        "searchedUrls": [
+          "https://www.comprasparaguai.com.br/busca/?q=Lipoless",
+          "https://www.comprasparaguai.com.br/busca/?q=Lipoless+15&page=2",
+          "https://www.comprasparaguai.com.br/tirzepatida-lipoless-4-amp-15mg-embalagem-nova__5650480/",
+          "https://www.comprasparaguai.com.br/lipoless-15mg-x-4-vial__5122412/",
+          "https://www.comprasparaguai.com.br/lipoless-15-tirzepatida-15-mg__5774496/",
+          "https://www.comprasparaguai.com.br/tirzepatida-lipoless-15mg-ampola__5068652/",
+          "https://www.comprasparaguai.com.br/lipoless-15-mg-4-ampolas__5450249/",
+          "https://www.comprasparaguai.com.br/tirzepatida-lipoless-4-ampolas-15mg__5242988/"
+        ]
+      },
+      "photo": {
+        "image": "/images/products/comprasparaguai-64780.avif",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/tirzepatida_lipoless_15mg_05ml_204047_12731b76-77fa-4113-9eae-7cf09b59d24f.big.avif",
+        "sourceUrl": "https://www.comprasparaguai.com.br/tirzepatida-lipoless-15mg-05ml_64780/",
+        "sha256": "01fb778cde6aefe4a0191d5d35485a8525462fdd324f79cdc401331ce350782a"
+      },
+      "catalogProduct": {
+        "id": 147,
+        "name": "Lipoless 15 mg",
+        "category": "medicamentos",
+        "image": "/images/products/comprasparaguai-64780.avif",
+        "description": "Tirzepatida. Apresentação não informada no catálogo.",
+        "featured": false,
+        "available": false,
+        "dosage": "15 mg",
+        "presentation": "Apresentação não informada no catálogo",
+        "catalogItems": [
+          147
+        ]
+      }
+    },
+    {
+      "id": 148,
+      "name": "Tirzec 15 mg",
+      "status": "pending",
+      "referenceCurrency": null,
+      "referenceUSD": null,
+      "finalBRL": null,
+      "restoredOn": "2026-11-24",
+      "restorationReason": "Reincluído por solicitação expressa do usuário, mesmo sem oferta/preço confirmado no Compras Paraguai.",
+      "pendingReason": "As seis ofertas individuais verificadas de Tirzec 15 mg, de 1 ou 4 frascos conforme cada anúncio, mostram Preço indisponível na seção principal. Há anúncios e fotos reais, mas nenhuma referência USD atual confirmada foi obtida.",
+      "previousExclusion": {
+        "id": 148,
+        "originalName": "Tirzec 15 mg",
+        "reason": "As seis ofertas individuais verificadas de Tirzec 15 mg, de 1 ou 4 frascos conforme cada anúncio, mostram Preço indisponível na seção principal. Há anúncios e fotos reais, mas nenhuma referência USD atual confirmada foi obtida.",
+        "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
+        "searchedUrls": [
+          "https://www.comprasparaguai.com.br/busca/?q=Tirzec",
+          "https://www.comprasparaguai.com.br/busca/?q=Tirzec+15&page=2",
+          "https://www.comprasparaguai.com.br/tirzec-15-tirzepatida-15mg05ml-4-frascos-com-solucao-injetavel__5786444/",
+          "https://www.comprasparaguai.com.br/tirzec-15mg-de-1-ampola__5435106/",
+          "https://www.comprasparaguai.com.br/tirzec-15-mg-x-4-ampollas__5579018/",
+          "https://www.comprasparaguai.com.br/tirzec-15mg-1-vial__5070026/",
+          "https://www.comprasparaguai.com.br/tirzepatida-tirzec-15mg-4-ampolas__5338448/",
+          "https://www.comprasparaguai.com.br/tirzec-15mg-de-4-ampolas__5435107/"
+        ]
+      },
+      "photo": {
+        "image": "/images/products/comprasparaguai-66784.avif",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/tirzepatida_tirzec_15mg_05ml_204052_8e485f7a-bbba-4896-bb61-624a2086ad87.big.avif",
+        "sourceUrl": "https://www.comprasparaguai.com.br/tirzepatida-tirzec-15mg-05ml-4-ampolas_66784/",
+        "sha256": "ed66236e82f07a3286446a75661e0bb8b0edf686bc098d23c4f4c70e7574d879"
+      },
+      "catalogProduct": {
+        "id": 148,
+        "name": "Tirzec 15 mg",
+        "category": "medicamentos",
+        "image": "/images/products/comprasparaguai-66784.avif",
+        "description": "Tirzepatida. Apresentação não informada no catálogo.",
+        "featured": false,
+        "available": false,
+        "dosage": "15 mg",
+        "presentation": "Apresentação não informada no catálogo",
+        "catalogItems": [
+          148
+        ]
+      }
+    },
+    {
+      "id": 151,
+      "name": "T.G. 15 mg",
+      "status": "pending",
+      "referenceCurrency": null,
+      "referenceUSD": null,
+      "finalBRL": null,
+      "restoredOn": "2026-11-24",
+      "restorationReason": "Reincluído por solicitação expressa do usuário, mesmo sem oferta/preço confirmado no Compras Paraguai.",
+      "pendingReason": "As ofertas individuais T.G. 15 da Farma Fit (5774497), TG15 da loja de referência (5450179) e Tirzepatida TG 4 ampolas (5218197) mostram Preço indisponível na seção principal. Valores USD antigos em resultados de busca não foram reaplicados.",
+      "previousExclusion": {
+        "id": 151,
+        "originalName": "T.G. 15 mg",
+        "reason": "As ofertas individuais T.G. 15 da Farma Fit (5774497), TG15 da loja de referência (5450179) e Tirzepatida TG 4 ampolas (5218197) mostram Preço indisponível na seção principal. Valores USD antigos em resultados de busca não foram reaplicados.",
+        "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
+        "searchedUrls": [
+          "https://www.comprasparaguai.com.br/busca/?q=T.G.+15",
+          "https://www.comprasparaguai.com.br/busca/?q=TG+15&page=2",
+          "https://www.comprasparaguai.com.br/busca/?q=Tirzepatida+T.G.&page=2",
+          "https://www.comprasparaguai.com.br/tg-15-tirzepatida-15-mg__5774497/",
+          "https://www.comprasparaguai.com.br/tirzepatida-tg-15mg-4-ampolas__5218197/",
+          "https://www.comprasparaguai.com.br/tg15-tirzepatida-15-mg05ml__5450179/"
+        ]
+      },
+      "photo": {
+        "image": "/images/products/comprasparaguai-66779.avif",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/tirzepatida_tg_15mg_05ml_197153_c40e5e68-1d0c-4fba-a9a3-e4250ffd34be.big.avif",
+        "sourceUrl": "https://www.comprasparaguai.com.br/tirzepatida-tg-15mg-05ml_66779/",
+        "sha256": "e69229d32289d55e76d849de69578040045c0190e9b1f2f3474f07e45415c211"
+      },
+      "catalogProduct": {
+        "id": 151,
+        "name": "T.G. 15 mg",
+        "category": "medicamentos",
+        "image": "/images/products/comprasparaguai-66779.avif",
+        "description": "Tirzepatida. Apresentação não informada no catálogo.",
+        "featured": false,
+        "available": false,
+        "dosage": "15 mg",
+        "presentation": "Apresentação não informada no catálogo",
+        "catalogItems": [
+          151
+        ]
+      }
+    },
+    {
+      "id": 152,
+      "name": "Synedica 40 mg",
+      "status": "pending",
+      "referenceCurrency": null,
+      "referenceUSD": null,
+      "finalBRL": null,
+      "restoredOn": "2026-11-24",
+      "restorationReason": "Reincluído por solicitação expressa do usuário, mesmo sem oferta/preço confirmado no Compras Paraguai.",
+      "pendingReason": "Não foi encontrado anúncio de retatrutida Synedica 40 mg. A busca por Synedica retorna NAD+ Synedica Labs, outra molécula; a busca combinada retorna retatrutida de outra marca (Peptide Sciences), que não substitui a marca especificada.",
+      "previousExclusion": {
+        "id": 152,
+        "originalName": "Synedica 40 mg",
+        "reason": "Não foi encontrado anúncio de retatrutida Synedica 40 mg. A busca por Synedica retorna NAD+ Synedica Labs, outra molécula; a busca combinada retorna retatrutida de outra marca (Peptide Sciences), que não substitui a marca especificada.",
+        "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
+        "searchedUrls": [
+          "https://www.comprasparaguai.com.br/busca/?q=Synedica",
+          "https://www.comprasparaguai.com.br/busca/?q=Retatrutida+Synedica"
+        ]
+      },
+      "photo": {
+        "image": "/images/products/synedica-retatrutida-40-mg.webp",
+        "imageUrl": "https://pub-e18e6f3b7f094450a817451f1c7bfbfa.r2.dev/products/emagrecedores-synedica-retatrutida-caneta-1-caneta/9d4a8092-853a-4901-8420-e2bb482a2923.webp",
+        "sourceUrl": "https://zenithpharmaimports.com/produto/emagrecedores-synedica-retatrutida-caneta-1-caneta",
+        "sha256": "8ee8e0efe93458952e9fdee0e54452691c43ddc31647d8172317232377481b0b"
+      },
+      "catalogProduct": {
+        "id": 152,
+        "name": "Synedica 40 mg",
+        "category": "medicamentos",
+        "image": "/images/products/synedica-retatrutida-40-mg.webp",
+        "description": "Retatrutida. Apresentação não informada no catálogo.",
+        "featured": false,
+        "available": false,
+        "dosage": "40 mg",
+        "presentation": "Apresentação não informada no catálogo",
+        "catalogItems": [
+          152
+        ]
+      }
+    },
+    {
+      "id": 153,
+      "name": "Synedica 60 mg",
+      "status": "pending",
+      "referenceCurrency": null,
+      "referenceUSD": null,
+      "finalBRL": null,
+      "restoredOn": "2026-11-24",
+      "restorationReason": "Reincluído por solicitação expressa do usuário, mesmo sem oferta/preço confirmado no Compras Paraguai.",
+      "pendingReason": "Não foi encontrado anúncio de retatrutida Synedica 60 mg. A busca por Synedica 60 retorna NAD+ Synedica Labs, outra molécula; não houve correspondência de marca, conteúdo e foto para o produto original.",
+      "previousExclusion": {
+        "id": 153,
+        "originalName": "Synedica 60 mg",
+        "reason": "Não foi encontrado anúncio de retatrutida Synedica 60 mg. A busca por Synedica 60 retorna NAD+ Synedica Labs, outra molécula; não houve correspondência de marca, conteúdo e foto para o produto original.",
+        "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
+        "searchedUrls": [
+          "https://www.comprasparaguai.com.br/busca/?q=Synedica",
+          "https://www.comprasparaguai.com.br/busca/?q=Synedica+60"
+        ]
+      },
+      "photo": {
+        "image": "/images/products/synedica-retatrutida-60-mg.webp",
+        "imageUrl": "https://www.synedica.health/images/reta-60-studio.webp",
+        "sourceUrl": "https://www.synedica.health/en/products/retatrutide-60mg-injection-pen-kit",
+        "sha256": "818eb4b42c753de26167a2adc287d254fd29a991b69efc0b3bfd9588bfa3413c"
+      },
+      "catalogProduct": {
+        "id": 153,
+        "name": "Synedica 60 mg",
+        "category": "medicamentos",
+        "image": "/images/products/synedica-retatrutida-60-mg.webp",
+        "description": "Retatrutida. Apresentação não informada no catálogo.",
+        "featured": false,
+        "available": false,
+        "dosage": "60 mg",
+        "presentation": "Apresentação não informada no catálogo",
+        "catalogItems": [
+          153
+        ]
+      }
+    },
+    {
+      "id": 154,
+      "name": "Veltrame Diamond 120 mg",
+      "status": "pending",
+      "referenceCurrency": null,
+      "referenceUSD": null,
+      "finalBRL": null,
+      "restoredOn": "2026-11-24",
+      "restorationReason": "Reincluído por solicitação expressa do usuário, mesmo sem oferta/preço confirmado no Compras Paraguai.",
+      "pendingReason": "Não foi encontrado anúncio de Veltrame ou Veltrane Diamond 120 mg. Buscas pelas duas grafias retornaram resultados sem correspondência; não foi usada retatrutida de outra marca.",
+      "previousExclusion": {
+        "id": 154,
+        "originalName": "Veltrame Diamond 120 mg",
+        "reason": "Não foi encontrado anúncio de Veltrame ou Veltrane Diamond 120 mg. Buscas pelas duas grafias retornaram resultados sem correspondência; não foi usada retatrutida de outra marca.",
+        "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
+        "searchedUrls": [
+          "https://www.comprasparaguai.com.br/busca/?q=Veltrame",
+          "https://www.comprasparaguai.com.br/busca/?q=Veltrane",
+          "https://www.comprasparaguai.com.br/busca/?q=Veltrame+Diamond+120",
+          "https://www.comprasparaguai.com.br/busca/?q=Veltrane+120"
+        ]
+      },
+      "photo": {
+        "image": "/images/products/veltrane-diamond-retatrutida-120-mg.jpg",
+        "imageUrl": "https://veltrane.org/produtos/diamond/frasco-caixa-studio.jpg",
+        "sourceUrl": "https://veltrane.org/products/2",
+        "sha256": "b92ed6a9bb6034da8d388084baa636b03ed8b9ffab65b0a0e05f004060bc717c"
+      },
+      "catalogProduct": {
+        "id": 154,
+        "name": "Veltrame Diamond 120 mg",
+        "category": "medicamentos",
+        "image": "/images/products/veltrane-diamond-retatrutida-120-mg.jpg",
+        "description": "Retatrutida. Apresentação não informada no catálogo.",
+        "featured": false,
+        "available": false,
+        "dosage": "120 mg",
+        "presentation": "Apresentação não informada no catálogo",
+        "catalogItems": [
+          154
+        ]
+      }
+    },
+    {
+      "id": 162,
+      "name": "Oxygen GHK-Cu 100 mg",
+      "status": "pending",
+      "referenceCurrency": null,
+      "referenceUSD": null,
+      "finalBRL": null,
+      "restoredOn": "2026-11-24",
+      "restorationReason": "Reincluído por solicitação expressa do usuário, mesmo sem oferta/preço confirmado no Compras Paraguai.",
+      "pendingReason": "O anúncio GHK-Cu 100 MG (5774487) tem preço USD55,00 e foto, mas a fotografia identifica a marca Zeptrina, e não Oxygen. Outras ofertas de GHK-Cu 100 mg também não comprovam Oxygen; a marca original não foi substituída.",
+      "previousExclusion": {
+        "id": 162,
+        "originalName": "Oxygen GHK-Cu 100 mg",
+        "reason": "O anúncio GHK-Cu 100 MG (5774487) tem preço USD55,00 e foto, mas a fotografia identifica a marca Zeptrina, e não Oxygen. Outras ofertas de GHK-Cu 100 mg também não comprovam Oxygen; a marca original não foi substituída.",
+        "researchFile": "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
+        "searchedUrls": [
+          "https://www.comprasparaguai.com.br/busca/?q=Oxygen+GHK",
+          "https://www.comprasparaguai.com.br/busca/?q=Oxygen+GHK+Cu+100",
+          "https://www.comprasparaguai.com.br/ghk-cu-100-mg__5774487/"
+        ]
+      },
+      "photo": null,
+      "catalogProduct": {
+        "id": 162,
+        "name": "Oxygen GHK-Cu 100 mg",
+        "category": "medicamentos",
+        "image": null,
+        "description": "Peptídeo GHK-Cu. Apresentação não informada no catálogo.",
+        "featured": false,
+        "available": false,
+        "dosage": "100 mg",
+        "presentation": "Apresentação não informada no catálogo",
+        "catalogItems": [
+          162
+        ]
+      }
     }
   ]
 }

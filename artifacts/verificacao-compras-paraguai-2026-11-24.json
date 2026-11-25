@@ -55,5 +55,31 @@
   "notes": [
     "Acréscimo aplicado uma única vez à base USD convertida pela média documentada.",
     "Metadados ausentes permanecem identificados no relatório de pendências. Ofertas do fornecedor não comprovam estoque próprio."
-  ]
+  ],
+  "status": "Histórico da conferência anterior à restauração dos oito produtos; ver latestCatalogCheck para o estado atual.",
+  "latestCatalogCheck": {
+    "checkedOn": "2026-11-24",
+    "active": 276,
+    "verifiedUSDOffers": 268,
+    "restoredPendingIds": [
+      143,
+      147,
+      148,
+      151,
+      152,
+      153,
+      154,
+      162
+    ],
+    "allNineteenRequestedProductsPresent": true,
+    "missingPrice": 8,
+    "missingImage": 2,
+    "uniqueProductsWithPendingInformation": 19,
+    "sourcePriceMarkupPercent": 30,
+    "pricingCheck": "passed",
+    "lint": "passed",
+    "productionBuild": "passed",
+    "pdfPages": 2,
+    "pdfContainsAllPendingIds": true
+  }
 }

@@ -8,7 +8,7 @@ function ProductPrice({ product }) {
   return (
     <div className="product-pricing">
       <strong className="product-price">
-        {hasPrice ? format(product.price) : "Preço não informado"}
+        {hasPrice ? format(product.price) : "Preço sob consulta"}
       </strong>
     </div>
   );

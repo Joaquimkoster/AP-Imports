@@ -25,9 +25,11 @@ O build recria `dist/`; essa pasta e `node_modules/` são ignoradas pelo Git.
 
 ## Produtos e preços
 
-O catálogo usa exclusivamente ofertas do **Compras Paraguai** com preço em USD visível na seção principal, apresentação identificada e fotografia correspondente. A consulta de **24/11/2026** está documentada em `artifacts/catalogo-compras-paraguai-2026-11-24.json`. São **268 produtos ativos**, incluindo **30 notebooks** e **22 produtos recuperados** da retirada anterior. Todos têm preço calculado e imagem; permanecem sem definição na fonte os tamanhos de 10 roupas e a concentração de um produto. Esse é o registro atual de produtos, lojas, URLs individuais, valores em dólar, origem das fotos, hashes e exclusões. As pesquisas por categoria estão em `artifacts/reconciliacao-{medicamentos,perfumes,saude}-compras-paraguai-2026-11-24.json`.
+O catálogo tem **276 produtos**: **268 ofertas verificadas do Compras Paraguai**, incluindo **30 notebooks**, e **8 produtos restaurados expressamente pelo usuário**, com preço e disponibilidade sob consulta. Os oito cadastros pendentes não são apresentados como ofertas verificadas e não recebem preço estimado. Seis preservam fotografias já documentadas; dois continuam sem imagem. A origem das fotos inclui outras fontes quando não houve correspondência no comparador.
 
-Todos os produtos ativos seguem a mesma fórmula, inclusive os cinco itens que anteriormente tinham preços fixos:
+A consulta de **24/11/2026**, as 268 ofertas verificadas e as oito exceções estão em `artifacts/catalogo-compras-paraguai-2026-11-24.json`, nos campos `products` e `pendingProducts`. O registro documenta lojas, URLs, valores em dólar, fotos, hashes e decisões anteriores. As pesquisas por categoria estão em `artifacts/reconciliacao-{medicamentos,perfumes,saude}-compras-paraguai-2026-11-24.json`.
+
+Os **268 produtos com preço confirmado** seguem a fórmula, inclusive os cinco itens que anteriormente tinham preços fixos:
 
 ```text
 preço em BRL = ROUND_HALF_UP(preço em USD × média do dólar × 1,30; 2 casas)
@@ -35,7 +37,7 @@ preço em BRL = ROUND_HALF_UP(preço em USD × média do dólar × 1,30; 2 casas
 
 A média preservada da revisão anterior é **R$ 5,621276923076923 por dólar**, usando os 13 fechamentos de 03 a 19/11/2026 documentados na [série oficial do Banco Central](https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=01/11/2026&dataFinal=19/11/2026). A fração exata `730766 / 130000` e os cálculos com inteiros evitam arredondamentos intermediários. Trata-se da média parcial já adotada; não é uma cotação em tempo real.
 
-`scripts/pricing-policy.json` define o acréscimo de 30% e os IDs excluídos. `npm run prices:apply` gera `public/products.json` a partir do registro atual: reaplicar não acumula acréscimos e não recupera cadastros excluídos. `npm run prices:check` confere todo o catálogo, a moeda e o preço principal das ofertas, a fórmula, a integridade das imagens locais e a ausência de itens excluídos.
+`scripts/pricing-policy.json` define o acréscimo de 30%, os IDs pendentes e os excluídos. `npm run prices:apply` gera `public/products.json` a partir do registro atual: reaplicar não acumula acréscimos e não recupera cadastros excluídos. `npm run prices:check` confere todo o catálogo, a moeda e o preço principal das ofertas verificadas, a fórmula, as imagens e a ausência de preços inventados nos oito cadastros sob consulta.
 
 Não se usa preço antigo de uma página indisponível, valor de produto relacionado ou mínimo de outra capacidade. Nomes genéricos e atribuições incorretas de marca foram substituídos pela identificação da oferta confirmada. Nos medicamentos, concentração e apresentação descrevem o produto anunciado, sem inferir esquema de uso. Um antigo kit Kerasys montado a partir de dois anúncios foi substituído por shampoo e tratamento individuais. Condições de iPhones como Swap, CPO e Grade A são preservadas conforme cada anúncio; mudanças de oferta e condição estão registradas nas notas.
 
@@ -48,7 +50,7 @@ As referências são estáticas: oferta no comparador não comprova estoque pró
 - `src/components/`: catálogo, filtros, detalhes e atendimento.
 - `src/data/contact.js`: contatos e configuração do chatbot.
 - `artifacts/catalogo-compras-paraguai-2026-11-24.json`: registro atual e decisões de inclusão/exclusão.
-- `artifacts/pendencias-catalogo-2026-11-24.csv` e `.pdf`: informações ainda não definidas nas ofertas, como tamanhos de roupas. Produtos ativos têm preço e imagem.
+- `artifacts/pendencias-catalogo-2026-11-24.csv` e `.pdf`: informações ainda não definidas nas ofertas, como tamanhos de roupas. São 8 preços pendentes, 2 fotos ausentes e outras informações de concentração, apresentação e tamanhos a confirmar.
 
 Os relatórios `precificacao-usd-2026-11-23.json`, `expansao-catalogo-2026-11-24.json`, `produtos-retirados-2026-11-24.json`, `imagens-produtos.json` e os demais relatórios anteriores são históricos. Seus totais, preços, critérios e decisões anteriores não substituem o registro atual. Produtos retirados anteriormente puderam retornar após confirmação de uma oferta correspondente.
 

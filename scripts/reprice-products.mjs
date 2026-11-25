@@ -9,9 +9,11 @@ const report = await read("artifacts/catalogo-compras-paraguai-2026-11-24.json")
 const policy = await read("scripts/pricing-policy.json");
 const products = await read("public/products.json");
 const references = report.products;
+const pendingReferences = report.pendingProducts ?? [];
 const excludedIds = new Set(report.excludedProducts.map(row => row.id));
-assert.equal(new Set(references.map(row => row.id)).size, references.length, "IDs repetidos nas referências");
+assert.equal(new Set([...references, ...pendingReferences].map(row => row.id)).size, references.length + pendingReferences.length, "IDs repetidos nas referências");
 assert.deepEqual(policy.excludedProductIds, [...excludedIds].sort((a, b) => a - b), "Política e relatório divergem nas exclusões");
+assert.deepEqual(policy.pendingProductIds ?? [], pendingReferences.map(row => row.id).sort((a, b) => a - b), "Política e relatório divergem nas pendências");
 assert.equal(report.markupPercent, policy.defaultMarkupPercent, "Acréscimo do relatório diverge da política");
 const mean = exchangeMean(report.exchangeRate.dailyClosings);
 const meanBRL = Number(mean.numerator) / Number(mean.denominator);
@@ -61,10 +63,36 @@ for (const reference of references) {
   });
 }
 
+for (const reference of pendingReferences) {
+  const { id, catalogProduct, photo } = reference;
+  assert.equal(reference.status, "pending", `Pendência com situação incorreta: ${id}`);
+  assert.equal(reference.referenceUSD, null, `Pendência com base inventada: ${id}`);
+  assert.equal(reference.finalBRL, null, `Pendência com preço inventado: ${id}`);
+  assert.equal(catalogProduct.id, id, `Cadastro pendente associado ao ID incorreto: ${id}`);
+  assert(!excludedIds.has(id), `Produto pendente também excluído: ${id}`);
+  if (photo) {
+    assert.equal(catalogProduct.image, photo.image, `Foto pendente divergente para ${id}`);
+    assert.match(photo.image, /^\/images\/products\/[\w.-]+\.(?:webp|avif|jpg|jpeg|png)$/);
+    const bytes = await readFile(new URL(`public${photo.image}`, root));
+    assert.equal(createHash("sha256").update(bytes).digest("hex"), photo.sha256, `Foto pendente incorreta para ${id}`);
+  } else {
+    assert.equal(catalogProduct.image, null, `Foto pendente sem origem para ${id}`);
+  }
+  recalculated.push({
+    ...catalogProduct,
+    available: false,
+    price: null,
+    pricingUpdatedOn: policy.updatedOn,
+    pricingStatus: "pending",
+    pricingNote: "Preço e disponibilidade sob consulta.",
+  });
+}
+recalculated.sort((a, b) => a.id - b.id);
+
 if (process.argv.includes("--write")) {
   await writeFile(new URL("public/products.json", root), JSON.stringify(recalculated, null, 2) + "\n");
-  console.log(`Catálogo atualizado: ${recalculated.length} ofertas do Compras Paraguai com foto e acréscimo de ${policy.defaultMarkupPercent}%.`);
+  console.log(`Catálogo atualizado: ${references.length} ofertas com acréscimo de ${policy.defaultMarkupPercent}% e ${pendingReferences.length} produtos sob consulta.`);
 } else {
   assert.deepEqual(products, recalculated, "Catálogo diverge das ofertas verificadas. Execute npm run prices:apply.");
-  console.log(`${products.length} produtos conferidos: oferta individual em USD, foto local íntegra, conversão única e acréscimo de ${policy.defaultMarkupPercent}% em todos.`);
+  console.log(`${products.length} produtos conferidos: ${references.length} ofertas com foto e acréscimo de ${policy.defaultMarkupPercent}%; ${pendingReferences.length} produtos sob consulta, sem preço inventado.`);
 }

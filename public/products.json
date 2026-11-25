@@ -2394,6 +2394,24 @@
     "pricingMethod": "markup"
   },
   {
+    "id": 143,
+    "name": "Combo Smart Collection Nº 244 + Lipostabil",
+    "category": "medicamentos",
+    "image": null,
+    "description": "Perfume e fosfatidilcolina. Perfume de 25 ml + 5 ampolas de 5 ml.",
+    "featured": false,
+    "available": false,
+    "dosage": null,
+    "presentation": "Perfume de 25 ml + 5 ampolas de 5 ml",
+    "catalogItems": [
+      143
+    ],
+    "price": null,
+    "pricingUpdatedOn": "2026-11-24",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
+  },
+  {
     "id": 144,
     "name": "Lispax 20 (lisdexanfetamina 20 mg)",
     "category": "medicamentos",
@@ -2479,6 +2497,42 @@
     "pricingMethod": "markup"
   },
   {
+    "id": 147,
+    "name": "Lipoless 15 mg",
+    "category": "medicamentos",
+    "image": "/images/products/comprasparaguai-64780.avif",
+    "description": "Tirzepatida. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": false,
+    "dosage": "15 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      147
+    ],
+    "price": null,
+    "pricingUpdatedOn": "2026-11-24",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
+  },
+  {
+    "id": 148,
+    "name": "Tirzec 15 mg",
+    "category": "medicamentos",
+    "image": "/images/products/comprasparaguai-66784.avif",
+    "description": "Tirzepatida. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": false,
+    "dosage": "15 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      148
+    ],
+    "price": null,
+    "pricingUpdatedOn": "2026-11-24",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
+  },
+  {
     "id": 149,
     "name": "Catedral Tirzedral 15 mg — 4 ampolas",
     "category": "medicamentos",
@@ -2533,6 +2587,78 @@
       "storeName": "NGP Farma"
     },
     "pricingMethod": "markup"
+  },
+  {
+    "id": 151,
+    "name": "T.G. 15 mg",
+    "category": "medicamentos",
+    "image": "/images/products/comprasparaguai-66779.avif",
+    "description": "Tirzepatida. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": false,
+    "dosage": "15 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      151
+    ],
+    "price": null,
+    "pricingUpdatedOn": "2026-11-24",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
+  },
+  {
+    "id": 152,
+    "name": "Synedica 40 mg",
+    "category": "medicamentos",
+    "image": "/images/products/synedica-retatrutida-40-mg.webp",
+    "description": "Retatrutida. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": false,
+    "dosage": "40 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      152
+    ],
+    "price": null,
+    "pricingUpdatedOn": "2026-11-24",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
+  },
+  {
+    "id": 153,
+    "name": "Synedica 60 mg",
+    "category": "medicamentos",
+    "image": "/images/products/synedica-retatrutida-60-mg.webp",
+    "description": "Retatrutida. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": false,
+    "dosage": "60 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      153
+    ],
+    "price": null,
+    "pricingUpdatedOn": "2026-11-24",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
+  },
+  {
+    "id": 154,
+    "name": "Veltrame Diamond 120 mg",
+    "category": "medicamentos",
+    "image": "/images/products/veltrane-diamond-retatrutida-120-mg.jpg",
+    "description": "Retatrutida. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": false,
+    "dosage": "120 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      154
+    ],
+    "price": null,
+    "pricingUpdatedOn": "2026-11-24",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 155,
@@ -2729,6 +2855,24 @@
       "storeName": "Star Company"
     },
     "pricingMethod": "markup"
+  },
+  {
+    "id": 162,
+    "name": "Oxygen GHK-Cu 100 mg",
+    "category": "medicamentos",
+    "image": null,
+    "description": "Peptídeo GHK-Cu. Apresentação não informada no catálogo.",
+    "featured": false,
+    "available": false,
+    "dosage": "100 mg",
+    "presentation": "Apresentação não informada no catálogo",
+    "catalogItems": [
+      162
+    ],
+    "price": null,
+    "pricingUpdatedOn": "2026-11-24",
+    "pricingStatus": "pending",
+    "pricingNote": "Preço e disponibilidade sob consulta."
   },
   {
     "id": 163,

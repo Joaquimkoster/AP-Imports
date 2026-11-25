@@ -110,7 +110,7 @@ function ProductModal({ product, categoryName, onClose }) {
               })}
             </div>
           ) : (
-            <p className="product-modal-unavailable">Produto indisponível no momento.</p>
+            <p className="product-modal-unavailable">{product.pricingStatus === "pending" ? "Preço e disponibilidade sob consulta." : "Produto indisponível no momento."}</p>
           )}
         </div>
       </div>

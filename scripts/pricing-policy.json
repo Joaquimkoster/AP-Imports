@@ -1,7 +1,7 @@
 {
   "updatedOn": "2026-11-24",
   "defaultMarkupPercent": 30,
-  "reason": "Somente produtos com oferta USD e imagem confirmadas no Compras Paraguai, aplicando a mesma fórmula de 30% em todos. A instrução atual substitui as cinco exceções fixas anteriores.",
+  "reason": "Acréscimo de 30% nas ofertas USD verificadas. Oito produtos restaurados expressamente pelo usuário permanecem sob consulta, sem estimativa de preço.",
   "referenceReport": "artifacts/catalogo-compras-paraguai-2026-11-24.json",
   "excludedProductIds": [
     49,
@@ -19,14 +19,6 @@
     125,
     140,
     142,
-    143,
-    147,
-    148,
-    151,
-    152,
-    153,
-    154,
-    162,
     164,
     165,
     166,
@@ -43,5 +35,15 @@
     262,
     266
   ],
-  "exclusionReason": "Sem oferta correspondente com USD e foto confirmados, ou cadastro substituído por produtos individuais; evidência no relatório atual."
+  "exclusionReason": "Sem oferta correspondente com USD e foto confirmados, ou cadastro substituído por produtos individuais; evidência no relatório atual.",
+  "pendingProductIds": [
+    143,
+    147,
+    148,
+    151,
+    152,
+    153,
+    154,
+    162
+  ]
 }
