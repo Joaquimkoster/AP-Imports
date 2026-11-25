@@ -3855,17 +3855,21 @@
       },
       "photo": {
         "id": 106,
-        "image": "/images/products/compras-oferta-5361449.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/c8b35631cd01b187a51c25449780cfa91bd2d04e.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/iphone-14-plus-128gb__5361449/",
-        "sha256": "94dc54f83b044e147a2c57ac01d864b9131b657f565043ebb0a9187ca98cdfe9",
-        "bytes": 2822
+        "image": "/images/products/comprasparaguai-43977.jpg",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_14_plus_128gb_153436.big.jpg",
+        "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-14-plus-128gb_43977/",
+        "sourceTitle": "Celular Apple iPhone 14 Plus 128GB",
+        "sha256": "adc7f014f343485e0a4b35d26d343b0add491214f522ca7f8a42191babd4160e",
+        "bytes": 28090,
+        "width": 550,
+        "height": 550,
+        "checkedOn": "2026-11-24"
       },
       "catalogProduct": {
         "id": 106,
         "name": "Apple iPhone 14 Plus 128GB",
         "category": "eletronicos",
-        "image": "/images/products/compras-oferta-5361449.webp",
+        "image": "/images/products/comprasparaguai-43977.jpg",
         "description": "Apple iPhone 14 Plus com 128GB de armazenamento.",
         "featured": false,
         "available": true,
@@ -3876,7 +3880,8 @@
         ]
       },
       "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados.",
+        "Foto do iPhone 14 Plus 128GB substituída: miniatura de 200 × 200 trocada pela fotografia de 550 × 550 do agrupador exato do Compras Paraguai, na mesma cor Midnight."
       ]
     },
     {
