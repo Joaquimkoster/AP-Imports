@@ -6079,18 +6079,23 @@
         "lastListing": "24 de Novembro de 2026"
       },
       "photo": {
+        "sourceUrl": "https://www.comprasparaguai.com.br/apple-iphone-16-a3287-128-gb-pink__4498415/",
+        "sourceTitle": "Apple iPhone 16 A3287 128 GB - Pink",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/63dd835069e5b60b0939f1df59d090527e54fea2.webp",
+        "width": 550,
+        "height": 550,
+        "bytes": 11632,
+        "sha256": "4e546460a603fc8edb2f1518822f01b4d4efb755d56b9b0a2006218ac7ac9b41",
+        "sourceHtmlSha256": "24a5eca91bae0a3c85d7bf4c8d434917973f628e70c97fad61f685768171a986",
         "id": 185,
-        "image": "/images/products/compras-oferta-4967919.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/e9de5abeb073f763de06f099017d231b99549467.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/apple-iphone-16-128gb-swap-pink__4967919/",
-        "sha256": "03e13af5c2ce787fd985d546d7abfa0da8802cbcab95a51f43f0146a453cf56a",
-        "bytes": 3024
+        "image": "/images/products/iphone-16-128gb-pink-550.webp",
+        "checkedOn": "2026-11-24"
       },
       "catalogProduct": {
         "id": 185,
         "name": "Apple iPhone 16 128GB (Swap)",
         "category": "eletronicos",
-        "image": "/images/products/compras-oferta-4967919.webp",
+        "image": "/images/products/iphone-16-128gb-pink-550.webp",
         "description": "Apple iPhone 16 com 128GB de armazenamento. Condição da oferta de preço conferida: Swap.",
         "featured": false,
         "available": true,
@@ -6099,7 +6104,8 @@
         "condition": "Swap"
       },
       "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados.",
+        "Fotografia do iPhone 16 128GB rosa substituída por versão de 550 × 550 pixels, com modelo, capacidade e cor conferidos na fonte. A origem da foto é independente da referência de preço e da condição Swap cadastrada."
       ]
     },
     {
