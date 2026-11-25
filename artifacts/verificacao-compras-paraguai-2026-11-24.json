@@ -1,0 +1,59 @@
+{
+  "checkedOn": "2026-11-24",
+  "referenceReport": "artifacts/catalogo-compras-paraguai-2026-11-24.json",
+  "summary": {
+    "active": 268,
+    "recoveredFromPreviousRemoval": 22,
+    "excluded": 38,
+    "withPrice": 268,
+    "withImage": 268,
+    "notebooks": 30,
+    "medicines": 15
+  },
+  "validation": {
+    "individualComprasParaguaiOffers": 268,
+    "uniformMarkupPercent": 30,
+    "photosWithVerifiedSha256": 268,
+    "allImagesDecodedInBrowser": 268,
+    "missingPrice": 0,
+    "missingImage": 0,
+    "missingConcentrationIds": [
+      163
+    ],
+    "clothesWithUnspecifiedSize": [
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291
+    ],
+    "pricingTestsPassed": 7,
+    "lint": "passed",
+    "productionBuild": "passed",
+    "browser": {
+      "url": "http://localhost:5173/",
+      "desktopCategories": [
+        "notebooks",
+        "moda",
+        "saude",
+        "casa",
+        "medicamentos",
+        "perfumes",
+        "beleza"
+      ],
+      "mobileWidth": 390,
+      "horizontalOverflow": false,
+      "runtimeErrors": []
+    },
+    "pdfPages": 1
+  },
+  "notes": [
+    "Acréscimo aplicado uma única vez à base USD convertida pela média documentada.",
+    "Metadados ausentes permanecem identificados no relatório de pendências. Ofertas do fornecedor não comprovam estoque próprio."
+  ]
+}

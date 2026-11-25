@@ -1,79 +1,32 @@
 {
   "updatedOn": "2026-11-24",
   "defaultMarkupPercent": 30,
-  "reason": "Aumento geral solicitado pelo usuário; preços específicos das imagens prevalecem sobre o acréscimo padrão.",
-  "fixedPrices": {
-    "17": {
-      "name": "Azzaro Pour Homme",
-      "amountBRL": "350.00",
-      "reason": "Preço de venda do Azzaro Pour Homme 200 ml na imagem enviada pelo usuário em 24/11/2026."
-    },
-    "60": {
-      "name": "Rabanne 1 Million",
-      "amountBRL": "440.00",
-      "reason": "Preço de venda do 1 Million tradicional na imagem enviada pelo usuário em 24/11/2026."
-    },
-    "104": {
-      "name": "Apple iPhone 18 Pro Max 256GB",
-      "amountBRL": "9500.00",
-      "reason": "Preço de venda informado pelo usuário para o iPhone 18 Pro Max 256 GB em 24/11/2026."
-    },
-    "110": {
-      "name": "Celimax The Vita-A Retinal Shot Tightening Booster",
-      "amountBRL": "240.00",
-      "reason": "Preço de venda do Retinal Shot na imagem enviada pelo usuário em 24/11/2026."
-    },
-    "145": {
-      "name": "36 Horas (tadalafila 20 mg)",
-      "amountBRL": "99.00",
-      "reason": "Preço de venda de 36 Horas, 20 comprimidos, na imagem enviada pelo usuário em 24/11/2026."
-    }
-  },
+  "reason": "Somente produtos com oferta USD e imagem confirmadas no Compras Paraguai, aplicando a mesma fórmula de 30% em todos. A instrução atual substitui as cinco exceções fixas anteriores.",
+  "referenceReport": "artifacts/catalogo-compras-paraguai-2026-11-24.json",
   "excludedProductIds": [
-    2,
-    16,
-    35,
-    46,
-    47,
     49,
-    50,
-    51,
     59,
     65,
-    66,
     67,
     84,
-    89,
     90,
     92,
-    93,
     98,
     99,
     100,
     103,
-    108,
     115,
-    139,
+    125,
     140,
     142,
     143,
     147,
     148,
-    149,
-    150,
     151,
     152,
     153,
     154,
-    155,
-    156,
-    157,
-    158,
-    159,
-    160,
-    161,
     162,
-    163,
     164,
     165,
     166,
@@ -90,5 +43,5 @@
     262,
     266
   ],
-  "exclusionReason": "Produtos sem preço/oferta confirmada retirados por solicitação do usuário; histórico em artifacts/produtos-retirados-2026-11-24.json."
+  "exclusionReason": "Sem oferta correspondente com USD e foto confirmados, ou cadastro substituído por produtos individuais; evidência no relatório atual."
 }

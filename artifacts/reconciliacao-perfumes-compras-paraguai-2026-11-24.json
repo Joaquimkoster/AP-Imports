@@ -1,0 +1,822 @@
+{
+  "checkedOn": "2026-11-24",
+  "summary": {
+    "reviewedOriginalProducts": 18,
+    "verifiedOriginalProducts": 12,
+    "additionalVerifiedVariants": 3,
+    "excludedOriginalProducts": 6
+  },
+  "products": [
+    {
+      "id": 2,
+      "originalName": "Al Absar Treats Berry Bliss",
+      "category": "perfumes",
+      "status": "verified",
+      "name": "Al Absar Treats Berry Buzz EDP 100 ml",
+      "description": "Eau de Parfum feminino de 100 ml da linha Treats, fragrância Berry Buzz, da Al Absar.",
+      "referenceUSD": "35.00",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/perfume-al-absar-treats-berry-buzz-edp-100ml-feminino__5388184/",
+        "title": "Perfume Al Absar Treats Berry Buzz Edp 100ML - Feminino",
+        "storeName": "Cellshop",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "35.00",
+        "visiblePriceUSD": "35.00",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "62f284e42d5e0d6aa0df282d3be9c45bb9a31a567f3cbacea797bd136fa2efce",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "image": "/images/products/reconciliacao-perfume-5388184.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/5d8c57c7435628086d7f86518c865a0fe49f9bca.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/perfume-al-absar-treats-berry-buzz-edp-100ml-feminino__5388184/",
+      "sha256": "4eddd47ade16bc248c50402d05b4995c38b73a676ca780aa54c71cc0923ee2ac",
+      "downloadedImageSha256": "8efea18540a30dadfa1250a86fb3b63e8be43dc141301672c6027fb26f493f9a",
+      "reason": "Nome anterior Berry Bliss corrigido para Berry Buzz, conforme título, marca e rótulo da foto do fornecedor.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Berry%20Buzz",
+        "https://www.comprasparaguai.com.br/perfume-al-absar-treats-berry-buzz-edp-100ml-feminino__5388184/",
+        "https://www.comprasparaguai.com.br/perfume-al-absar-treats-berry-buzz-edp-100ml-feminino__5388184/"
+      ]
+    },
+    {
+      "id": 16,
+      "originalName": "Armaf Club de Nuit Untold",
+      "category": "perfumes",
+      "status": "verified",
+      "name": "Perfume Tubete Untold 35 ml",
+      "description": "Perfume Untold em tubete de 35 ml, em apresentação compacta.",
+      "referenceUSD": "3.00",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/perfume-tubete-untold-35ml__5274136/",
+        "title": "Perfume Tubete Untold 35ML",
+        "storeName": "Aroma Store S.A",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "3.00",
+        "visiblePriceUSD": "3.00",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "48c9ab5f2e80feb7a881b6e1063cbbde067e10e10086a8e9d3595fb33738f48c",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "image": "/images/products/reconciliacao-perfume-5274136.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/c94cd42e1c7e3ca698591ba3eed78400e43460a5.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/perfume-tubete-untold-35ml__5274136/",
+      "sha256": "27b7bc0661bacdb627e85881d55270094d6c4860287fac77d8350ca29b67bb21",
+      "downloadedImageSha256": "bb9ce944103c9569f30bd6ad307c5012627b60642b8805fc3dc7ee1e46815435",
+      "reason": "Apresentação de tubete 35 ml recuperada com o nome real da oferta. A marca Armaf e a classificação Eau de Parfum não são informadas na oferta e não foram atribuídas ao cadastro.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa.",
+        "Apresentação de tubete 35 ml recuperada com o nome real da oferta. A marca Armaf e a classificação Eau de Parfum não são informadas na oferta e não foram atribuídas ao cadastro."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Untold%2035",
+        "https://www.comprasparaguai.com.br/perfume-tubete-untold-35ml__5274136/",
+        "https://www.comprasparaguai.com.br/perfume-tubete-untold-35ml__5274136/"
+      ]
+    },
+    {
+      "id": 35,
+      "originalName": "Lattafa Afeef (35 ml)",
+      "category": "perfumes",
+      "status": "verified",
+      "name": "Perfume Tubete Afeef 35 ml",
+      "description": "Perfume Afeef em tubete de 35 ml, em apresentação compacta.",
+      "referenceUSD": "7.00",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/perfume-tubete-afeef-35ml__5272035/",
+        "title": "Perfume Tubete Afeef 35ML",
+        "storeName": "Aroma Store S.A",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "7.00",
+        "visiblePriceUSD": "7.00",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "539c17c5777d03b73ba61dc03e4358fd60be5f51fea022655f237a6f7194667c",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "image": "/images/products/reconciliacao-perfume-5272035.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/590e25af3ec79248eb8e906bf92eaaaf17c95a30.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/perfume-tubete-afeef-35ml__5272035/",
+      "sha256": "4011245ad1f0402663982816cc5abf65d67de0a3b5733c6b00e85bcb9158d788",
+      "downloadedImageSha256": "47b954afa60a92ae71dcc0d4ea14fb6fd4ed82d22b3ba14e33b243bb8e6810fe",
+      "reason": "Apresentação de tubete 35 ml recuperada com o nome real da oferta. A marca Lattafa e a classificação Eau de Parfum não são informadas na oferta e não foram atribuídas ao cadastro.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa.",
+        "Apresentação de tubete 35 ml recuperada com o nome real da oferta. A marca Lattafa e a classificação Eau de Parfum não são informadas na oferta e não foram atribuídas ao cadastro."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Afeef%2035",
+        "https://www.comprasparaguai.com.br/perfume-tubete-afeef-35ml__5272035/",
+        "https://www.comprasparaguai.com.br/perfume-tubete-afeef-35ml__5272035/"
+      ]
+    },
+    {
+      "id": 46,
+      "originalName": "Lattafa Tibyan",
+      "category": "perfumes",
+      "status": "verified",
+      "name": "Al Wataniah Tibyan EDP 100 ml",
+      "description": "Eau de Parfum feminino de 100 ml da Al Wataniah, fragrância Tibyan.",
+      "referenceUSD": "17.50",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/perfume-al-wataniah-tibyan-edp-100ml__4746631/",
+        "title": "Perfume Al Wataniah Tibyan Edp 100ML",
+        "storeName": "Shopping China",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "17.50",
+        "visiblePriceUSD": "17.50",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "c627034fb1475e3b4173576fae86de2ef6edfb1c61bf1ce0d52ce991b21f05ec",
+        "lastListing": "18 de Novembro de 2026"
+      },
+      "image": "/images/products/reconciliacao-perfume-4746631.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/271fcc973830411c7b65f72a98669199a33f6797.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/perfume-al-wataniah-tibyan-edp-100ml__4746631/",
+      "sha256": "9dea2b6a60d5e9a51535862859a5e114b20cba6d77c82398b9a196e55c357a6a",
+      "downloadedImageSha256": "d570a9bc3c451d92336b1a88d6882db4620f49563b74c97104aa8543cf6ae381",
+      "reason": "Marca anterior Lattafa corrigida para Al Wataniah; nome, apresentação e foto confirmados na fonte.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Tibyan",
+        "https://www.comprasparaguai.com.br/perfume-al-wataniah-tibyan-eau-de-parfum-feminino-100ml_52416/",
+        "https://www.comprasparaguai.com.br/perfume-al-wataniah-tibyan-edp-100ml__4746631/"
+      ],
+      "canonicalUrl": "https://www.comprasparaguai.com.br/perfume-al-wataniah-tibyan-eau-de-parfum-feminino-100ml_52416/"
+    },
+    {
+      "id": 50,
+      "originalName": "Lattafa Yara Moi (35 ml)",
+      "category": "perfumes",
+      "status": "verified",
+      "name": "Rissers Yara Moi EDP 35 ml",
+      "description": "Mini perfume Rissers Yara Moi Eau de Parfum de 35 ml, em tubete.",
+      "referenceUSD": "4.00",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/perfume-mini-rissers-yara-moi-edp-35ml__5070854/",
+        "title": "Perfume Mini Rissers Yara Moi Edp 35ML",
+        "storeName": "MultiPass",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "4.00",
+        "visiblePriceUSD": "4.00",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "cecd75d9f48585f2771da25b93373fc2517245091b7ad8c2525c9559cafc8ed8",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "image": "/images/products/reconciliacao-perfume-5070854.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/4c160643531bd915385ea9d2d9cb400e5fe8303a.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/perfume-mini-rissers-yara-moi-edp-35ml__5070854/",
+      "sha256": "563d936ce70de5fc8cf3fd8d27ba14dd7136d6bef48a14b2326e9e757795dfe2",
+      "downloadedImageSha256": "86664cd869f640509965a94fcd6075b7078d7d3deecf368e9fe05bdb8ae35ace",
+      "reason": "Marca e apresentação corrigidas para Rissers Yara Moi EDP 35 ml. Não atribuído à Lattafa como frasco original.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa.",
+        "Marca e apresentação corrigidas para Rissers Yara Moi EDP 35 ml. Não atribuído à Lattafa como frasco original."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Yara%20Moi%2035",
+        "https://www.comprasparaguai.com.br/perfume-mini-rissers-yara-moi-edp-35ml__5070854/",
+        "https://www.comprasparaguai.com.br/perfume-mini-rissers-yara-moi-edp-35ml__5070854/"
+      ]
+    },
+    {
+      "id": 51,
+      "originalName": "Lattafa Yara Tous (35 ml)",
+      "category": "perfumes",
+      "status": "verified",
+      "name": "Rissers Yara Tous EDP 35 ml",
+      "description": "Mini perfume Rissers Yara Tous Eau de Parfum de 35 ml, em tubete.",
+      "referenceUSD": "4.00",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/perfume-mini-rissers-yara-tous-edp-35ml__5070860/",
+        "title": "Perfume Mini Rissers Yara Tous Edp 35ML",
+        "storeName": "MultiPass",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "4.00",
+        "visiblePriceUSD": "4.00",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "5691813a5d56fb3fb27b88dc2cc89c4633ed532368958154abeb8e26e6c8bd39",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "image": "/images/products/reconciliacao-perfume-5070860.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/d8cc8d8bf91136c160f44b42f6eaf747800fdf45.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/perfume-mini-rissers-yara-tous-edp-35ml__5070860/",
+      "sha256": "3eb7f7eb299a6bb7496aca99cec758851f1348b41bc7827e25d76006b395bace",
+      "downloadedImageSha256": "ed9005379245d962eea6a612ff7181a1caa266981b75b56a4417338da226767b",
+      "reason": "Marca e apresentação corrigidas para Rissers Yara Tous EDP 35 ml. Não atribuído à Lattafa como frasco original.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa.",
+        "Marca e apresentação corrigidas para Rissers Yara Tous EDP 35 ml. Não atribuído à Lattafa como frasco original."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Yara%20Tous%2035",
+        "https://www.comprasparaguai.com.br/perfume-mini-rissers-yara-tous-edp-35ml__5070860/",
+        "https://www.comprasparaguai.com.br/perfume-mini-rissers-yara-tous-edp-35ml__5070860/"
+      ]
+    },
+    {
+      "id": 66,
+      "originalName": "Selina Selina",
+      "category": "perfumes",
+      "status": "verified",
+      "name": "Emper Genius Selina EDP 25 ml",
+      "description": "Eau de Parfum feminino Emper Genius Selina de 25 ml, em apresentação miniatura.",
+      "referenceUSD": "6.00",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/perfume-emper-genius-selina-edp-25-ml-femenino__5758206/",
+        "title": "Perfume Emper Genius Selina Edp 25 ML - Femenino",
+        "storeName": "La Petisquera",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "6.00",
+        "visiblePriceUSD": "6.00",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "688b472c285eee78833e339462c1672a9113c888614899e730a6d8c76f8468ff",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "image": "/images/products/reconciliacao-perfume-5758206.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/f789cd73be21225a02b0695a8be48ecd2359fd54.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/perfume-emper-genius-selina-edp-25-ml-femenino__5758206/",
+      "sha256": "257b16e2cf4ff4cc8cad5fa813feac027b57822ed3f12c222c3098f486055b8b",
+      "downloadedImageSha256": "7d7da785b405015af40653ef732f6ea4d0074aa095928a2b39b055b0fa71a23b",
+      "reason": "Nome genérico Selina Selina corrigido para Emper Genius Selina. A apresentação anterior de 35 ml não foi confirmada; adotada a apresentação real de 25 ml explicitamente identificada no título e na embalagem da oferta.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa.",
+        "Nome genérico Selina Selina corrigido para Emper Genius Selina. A apresentação anterior de 35 ml não foi confirmada; adotada a apresentação real de 25 ml explicitamente identificada no título e na embalagem da oferta."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Selina%2035",
+        "https://www.comprasparaguai.com.br/perfume-emper-genius-selina-edp-25-ml-femenino__5758206/",
+        "https://www.comprasparaguai.com.br/perfume-emper-genius-selina-edp-25-ml-femenino__5758206/"
+      ]
+    },
+    {
+      "id": 89,
+      "originalName": "Victoria's Secret Fragrance Mist 250 ml",
+      "category": "perfumes",
+      "status": "verified",
+      "name": "Victoria's Secret Velvet Petals Body Mist 250 ml",
+      "description": "Body mist Victoria’s Secret Velvet Petals de 250 ml. Fragrância individual em spray.",
+      "referenceUSD": "12.00",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/victorias-secret-velvet-petals-body-mist-250-ml__5070633/",
+        "title": "Victoria’s Secret Velvet Petals Body Mist 250 ML",
+        "storeName": "Paradise",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "12.00",
+        "visiblePriceUSD": "12.00",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "5ded674dfd40b33f35deedbea47466a4bec854f5890ce310508422b85e4b343c",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "image": "/images/products/reconciliacao-perfume-5070633.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/809b3af3ac4f3f5b7d8eeaad63f9bb1c7b00259c.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/victorias-secret-velvet-petals-body-mist-250-ml__5070633/",
+      "sha256": "ecca464c5cfff4342e1f2bd268ca3efc1094ab1f7efa4481f264f94afe66ac9b",
+      "downloadedImageSha256": "a31e9b25b1544aad99a6cb5e066903fae8c013cff30e0597c947e8357cca5936",
+      "reason": "Registro genérico de quatro fragrâncias substituído pela variante exata Velvet Petals 250 ml. Outras variantes verificadas são registros separados.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Victoria%20Secret%20Velvet%20Petals%20250",
+        "https://www.comprasparaguai.com.br/victorias-secret-velvet-petals-body-mist-250-ml__5070633/",
+        "https://www.comprasparaguai.com.br/victorias-secret-velvet-petals-body-mist-250-ml__5070633/"
+      ]
+    },
+    {
+      "id": null,
+      "originalName": "Victoria's Secret Fragrance Mist 250 ml",
+      "category": "perfumes",
+      "status": "verified",
+      "name": "Victoria's Secret Aqua Kiss Body Splash 250 ml",
+      "description": "Body splash Victoria’s Secret Aqua Kiss de 250 ml. Fragrância individual em spray.",
+      "referenceUSD": "14.00",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/body-splash-victorias-secret-aqua-kiss-250-ml__5750300/",
+        "title": "Body Splash Victoria’s Secret Aqua Kiss – 250 ML",
+        "storeName": "La Petisquera",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "14.00",
+        "visiblePriceUSD": "14.00",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "b442c811476a43bea3d2a170284cc1f8d645dc83e1973759df19edaae8e6d20c",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "image": "/images/products/reconciliacao-perfume-5750300.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/612b28addf64fc94a0fe18cdf13b733e0889f73f.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/body-splash-victorias-secret-aqua-kiss-250-ml__5750300/",
+      "sha256": "e7fb93ab1ebe1c5886be9b89ba0d78fadff6295bcd83a61fd3b4820fac7fa5b0",
+      "downloadedImageSha256": "84e9abdab0ade78a3a8fc4c9e63668273349b5f9b8e4966dc4d3aef2c8abf2e7",
+      "reason": "Variante individual de 250 ml recuperada a partir do antigo cadastro genérico Victoria’s Secret.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Victoria%20Secret%20Aqua%20Kiss%20250",
+        "https://www.comprasparaguai.com.br/body-splash-victorias-secret-aqua-kiss-250-ml__5750300/",
+        "https://www.comprasparaguai.com.br/body-splash-victorias-secret-aqua-kiss-250-ml__5750300/"
+      ],
+      "originalId": 89
+    },
+    {
+      "id": null,
+      "originalName": "Victoria's Secret Fragrance Mist 250 ml",
+      "category": "perfumes",
+      "status": "verified",
+      "name": "Victoria's Secret Love Addict Body Splash 250 ml",
+      "description": "Body splash Victoria’s Secret Love Addict de 250 ml. Fragrância individual em spray.",
+      "referenceUSD": "13.00",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/victorias-secret-body-splash-love-addict__4994410/",
+        "title": "Victorias Secret Body Splash Love Addict",
+        "storeName": "Extra Shop",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "13.00",
+        "visiblePriceUSD": "13.00",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "84dd72657e4a018768bce3f60a1f2565e5bab38432dabaa56e1b371cece8db77",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "image": "/images/products/reconciliacao-perfume-4994410.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/b096b134c172db83344b5405793746ff1d4d6abb.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/victorias-secret-splash-love-addict-250ml-promo__4187272/",
+      "sha256": "e326985ca73781460ce9352f60be9d90806a1b40f34978afabd5ab5f3f0e0c4e",
+      "downloadedImageSha256": "4983e0b5da95d4c5a18af3d6036b31d5b82a3679b8f91858aee9713965e908ef",
+      "reason": "Variante individual de 250 ml recuperada a partir do antigo cadastro genérico Victoria’s Secret.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa.",
+        "Foto de outra oferta do mesmo body splash Love Addict 250 ml no Compras Paraguai; a oferta da foto está indisponível e seu preço não foi utilizado. Preço USD vem da oferta ativa Extra Shop."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Victoria%20Secret%20Love%20Addict%20250",
+        "https://www.comprasparaguai.com.br/victorias-secret-body-splash-love-addict__4994410/",
+        "https://www.comprasparaguai.com.br/victorias-secret-body-splash-love-addict__4994410/"
+      ],
+      "originalId": 89,
+      "photoSource": {
+        "url": "https://www.comprasparaguai.com.br/victorias-secret-splash-love-addict-250ml-promo__4187272/",
+        "htmlSha256": "339d25906eca53ebfcbcd35617cf311c1bb3c1f1dbfcc0924b47a24731eb30f7",
+        "reason": "Mesma fragrância Love Addict e mesmo body splash de 250 ml; usada apenas a fotografia. O valor e a disponibilidade usados no cadastro são da oferta Extra Shop."
+      }
+    },
+    {
+      "id": null,
+      "originalName": "Victoria's Secret Fragrance Mist 250 ml",
+      "category": "perfumes",
+      "status": "verified",
+      "name": "Victoria's Secret Amber Romance Body Splash 250 ml",
+      "description": "Body splash Victoria’s Secret Amber Romance de 250 ml. Fragrância individual em spray.",
+      "referenceUSD": "15.00",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/victoria-s-secret-splash-amber-romance-250ml__5168205/",
+        "title": "Victoria´s Secret Splash Amber Romance 250ML",
+        "storeName": "WB Shop",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "15.00",
+        "visiblePriceUSD": "15.00",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "32618344d3049393bbea7a34bbcfa593033a90f0b61396a32cbec112c2e3b7b5",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "image": "/images/products/reconciliacao-perfume-5168205.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/ef755a2205b016e42d98f30cbf0f1e8431de022c.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/victoria-s-secret-splash-amber-romance-250ml__5168205/",
+      "sha256": "268ddda8bcef47be9adcbe65bacde078472c939610e8c8aa18d444066e6a5cd2",
+      "downloadedImageSha256": "6ff37670066dfd5e9f9d048cbea0ad37f0cc5290b50b733741094a379629d29b",
+      "reason": "Variante individual de 250 ml recuperada a partir do antigo cadastro genérico Victoria’s Secret.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Victoria%20Secret%20Amber%20Romance%20250",
+        "https://www.comprasparaguai.com.br/victoria-s-secret-splash-amber-romance-250ml__5168205/",
+        "https://www.comprasparaguai.com.br/victoria-s-secret-splash-amber-romance-250ml__5168205/"
+      ],
+      "originalId": 89
+    },
+    {
+      "id": 108,
+      "originalName": "Invicta Pro Diver Chronograph",
+      "category": "moda",
+      "status": "verified",
+      "name": "Invicta Pro Diver 6981 Chronograph",
+      "description": "Relógio masculino Invicta Pro Diver 6981, com cronógrafo, calendário, caixa de aço inoxidável e pulseira de borracha em preto e dourado.",
+      "referenceUSD": "180.00",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/relogio-invicta-6981__4670754/",
+        "title": "Relógio Invicta 6981",
+        "storeName": "Shopping China",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "180.00",
+        "visiblePriceUSD": "180.00",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "264414f22da35d52385106c9267f91c1919f043fe0e63efdee7c867321e1c5f0",
+        "lastListing": "18 de Novembro de 2026",
+        "specificationUrl": "https://www.comprasparaguai.com.br/relogio-invicta-pro-diver-6981-masculino_19178/",
+        "specificationHtmlSha256": "bd689b731b2902e34f29a5dc213e300181e491bf0f0357e32e237236490c262f"
+      },
+      "image": "/images/products/reconciliacao-perfume-4670754.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/9d4e266aacc3f66b84bec2146b1b738cfde8fcc2.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/relogio-invicta-6981__4670754/",
+      "sha256": "3d02051d85248f7c5d753548c67f5eca7d0966755e6960e986a204127137ecd9",
+      "downloadedImageSha256": "bfe76b3134174f96fa3f59a5e23c52916fc4bcc9a3be9e9ae72d0b68e47dd052",
+      "reason": "Número de modelo definido como Invicta Pro Diver 6981. Função cronógrafo, calendário, materiais e cores confirmados na ficha do modelo do Compras Paraguai; preço e foto vêm da oferta individual do SKU 6981.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Invicta%20Pro%20Diver%20Chronograph",
+        "https://www.comprasparaguai.com.br/relogio-invicta-pro-diver-6981-masculino_19178/",
+        "https://www.comprasparaguai.com.br/relogio-invicta-6981__4670754/"
+      ],
+      "canonicalUrl": "https://www.comprasparaguai.com.br/relogio-invicta-pro-diver-6981-masculino_19178/"
+    },
+    {
+      "id": 47,
+      "originalName": "Lattafa Yara (35 ml)",
+      "category": "perfumes",
+      "status": "verified",
+      "name": "Rissers Yara Rosa EDP 35 ml",
+      "description": "Mini perfume Rissers Yara Rosa Eau de Parfum de 35 ml, em tubete.",
+      "referenceUSD": "4.00",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/perfume-mini-rissers-yara-rosa-edp-35ml-1595__5070850/",
+        "title": "Perfume Mini Rissers Yara Rosa Edp 35ML 1595",
+        "storeName": "MultiPass",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "4.00",
+        "visiblePriceUSD": "4.00",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "5ec69610803652e4cf215c96b12f38eece14eb564f105649e0fea399cfab8423",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "image": "/images/products/reconciliacao-perfume-5070850.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/69d7457d29b14b54ca88abe45b75f74b4453ac10.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/perfume-mini-rissers-yara-rosa-edp-35ml-1595__5070850/",
+      "sha256": "dd13ce24907711e6ed3de835a47658985b17daf0d5b092b6c0a1c00d65119f40",
+      "downloadedImageSha256": "c8b28849760683093346477cc878ce9bb1e2e59b625bfbabd59cb01cda76b983",
+      "reason": "Marca e apresentação corrigidas para Rissers Yara Rosa EDP 35 ml. Não atribuído à Lattafa como frasco original.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa.",
+        "Marca e apresentação corrigidas para Rissers Yara Rosa EDP 35 ml. Não atribuído à Lattafa como frasco original."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Rissers%20Yara%20Rosa%2035",
+        "https://www.comprasparaguai.com.br/perfume-mini-rissers-yara-rosa-edp-35ml-1595__5070850/",
+        "https://www.comprasparaguai.com.br/perfume-mini-rissers-yara-rosa-edp-35ml-1595__5070850/"
+      ]
+    },
+    {
+      "id": 36,
+      "originalName": "Lattafa Afeef (100 ml)",
+      "category": "perfumes",
+      "status": "verified",
+      "name": "Lattafa Afeef EDP 100 ml",
+      "description": "Eau de Parfum unissex Lattafa Afeef de 100 ml, no frasco com detalhes de pavão.",
+      "referenceUSD": "58.00",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/lattafa-afeef-edp-100ml__4549699/",
+        "title": "Lattafa Afeef Edp 100ML",
+        "storeName": "Elegancia Company",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "58.00",
+        "visiblePriceUSD": "58.00",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "8bf36203febe503d05fc4fd32a26868dd02dc6ed710dfaf5daf0229735f0ea37",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "image": "/images/products/reconciliacao-perfume-4549699.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/f0b77b4dc999eff223114e9fe38c1ad838d09f2b.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/lattafa-afeef-edp-100ml__4549699/",
+      "sha256": "b8ff8c7944698cd4746d8f1d3a8d62b5fd3cf548a41a8184586853263435b7b4",
+      "downloadedImageSha256": "159598a09b2f5f786b4446a095fce21c40e9bb60f348f66c9a60f5bfaed6121c",
+      "reason": "Oferta anterior indisponível substituída por oferta individual disponível do mesmo Lattafa Afeef EDP 100 ml. Não substituído por tubete ou volume diferente.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Lattafa%20Afeef%20100",
+        "https://www.comprasparaguai.com.br/perfume-lattafa-afeef-eau-de-parfum-unissex-100ml_57079/",
+        "https://www.comprasparaguai.com.br/lattafa-afeef-edp-100ml__4549699/"
+      ],
+      "canonicalUrl": "https://www.comprasparaguai.com.br/perfume-lattafa-afeef-eau-de-parfum-unissex-100ml_57079/"
+    },
+    {
+      "id": 79,
+      "originalName": "Krip Hubb",
+      "category": "perfumes",
+      "status": "verified",
+      "name": "Krip Hubb EDP 100 ml",
+      "description": "Perfume Krip Hubb Eau de Parfum de 100 ml.",
+      "referenceUSD": "15.00",
+      "referenceCurrency": "USD",
+      "source": {
+        "name": "Compras Paraguai",
+        "url": "https://www.comprasparaguai.com.br/perfume-krip-hubb-eau-de-parfum-unissex-100ml__5464403/",
+        "title": "Perfume Krip Hubb - Eau de Parfum - Unissex - 100ML",
+        "storeName": "Madrid Center",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": "15.00",
+        "visiblePriceUSD": "15.00",
+        "availabilityVerifiedInMainSection": true,
+        "htmlSha256": "4dd4ba132a662e22f94e995c00006e9c5cb5115086a014dc91f612cf72c28a2b",
+        "lastListing": "24 de Novembro de 2026"
+      },
+      "image": "/images/products/reconciliacao-perfume-5464403.webp",
+      "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/1d5f87ab6b8af4a1dc78861dcd78bdfe839f828d.webp",
+      "imageSourceUrl": "https://www.comprasparaguai.com.br/perfume-krip-hubb-eau-de-parfum-unissex-100ml__5464403/",
+      "sha256": "60f15802fcf153f3a6ac830b1be663881aa05bce41bc901796a2cd98b88313a1",
+      "downloadedImageSha256": "23ca85a7979df1a4af24e0e131f1e99dc5f0984d84cfa80d8b4d372c1745bb2b",
+      "reason": "Oferta anterior indisponível substituída por oferta individual disponível do mesmo perfume Krip Hubb EDP 100 ml. A fonte individual o classifica como unissex; não foram mantidas notas olfativas ou inspiração não confirmadas.",
+      "notes": [
+        "Preço US$ numérico verificado na seção principal, próximo ao título e código, sem aviso de produto indisponível nessa seção. JSON-LD e preços de itens relacionados não foram usados para comprovar disponibilidade.",
+        "Foto do produto conferida visualmente; preservado o conteúdo, com conversão técnica para WebP. O preço de venda deve ser calculado pela média de dólar documentada e acréscimo de 30%, sem preços fixos inferidos desta pesquisa."
+      ],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Krip%20Hubb%20100",
+        "https://www.comprasparaguai.com.br/perfume-krip-hubb-eau-de-parfum-feminino-100ml_70369/",
+        "https://www.comprasparaguai.com.br/perfume-krip-hubb-eau-de-parfum-unissex-100ml__5464403/"
+      ],
+      "canonicalUrl": "https://www.comprasparaguai.com.br/perfume-krip-hubb-eau-de-parfum-feminino-100ml_70369/"
+    },
+    {
+      "id": 49,
+      "originalName": "Lattafa Yara Candy (35 ml)",
+      "category": "perfumes",
+      "status": "excluded",
+      "name": "Lattafa Yara Candy (35 ml)",
+      "description": "Eau de Parfum feminino de 35 ml da Lattafa, versão Candy em vermelho, em tamanho compacto.",
+      "referenceUSD": null,
+      "referenceCurrency": null,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/mini-yara-candy-35ml__5659342/",
+        "title": "Mini Yara Candy 35ML",
+        "storeName": "Vapo Shop",
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": null,
+        "observedUSD": null,
+        "visiblePriceUSD": null,
+        "availabilityVerifiedInMainSection": false,
+        "htmlSha256": "04bac17eeeffdd73d4553eb606d38cd7390ed35d940f36774d87e2156e1bde2b",
+        "lastListing": "28 de Outubro de 2026",
+        "mainSectionEvidence": "Ops! Produto indisponível; sem preço numérico visível nem foto."
+      },
+      "image": null,
+      "imageUrl": null,
+      "imageSourceUrl": null,
+      "sha256": null,
+      "reason": "A oferta exata Mini Yara Candy 35 ml está indisponível na seção principal e não possui foto de produto. As apresentações de 30 ml, 100 ml e kits não foram usadas como equivalentes.",
+      "notes": [],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Yara%20Candy%2035",
+        "https://www.comprasparaguai.com.br/busca/?q=Mini%20Yara%20Candy%2035"
+      ],
+      "searchEvidence": [
+        {
+          "query": "Yara Candy 35",
+          "url": "https://www.comprasparaguai.com.br/busca/?q=Yara%20Candy%2035",
+          "htmlSha256": "e8fd80dabc9ff12d9b736380f48ef01e0dbd74f77f08deb4668e64208ae3265b",
+          "resultsOnFirstPage": 3
+        },
+        {
+          "query": "Mini Yara Candy 35",
+          "url": "https://www.comprasparaguai.com.br/busca/?q=Mini%20Yara%20Candy%2035",
+          "htmlSha256": "cce19a109b01cd5ee5632cafb92961281b58d0550f5b08b1dcb5528adbb5caf4",
+          "resultsOnFirstPage": 1
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "originalName": "Perfumes de Bolso 35 ml",
+      "category": "perfumes",
+      "status": "excluded",
+      "name": "Perfumes de Bolso 35 ml",
+      "description": "Perfumes em formato compacto de 35 ml, em vários modelos, perfeitos para levar na bolsa. A arte é ilustrativa.",
+      "referenceUSD": null,
+      "referenceCurrency": null,
+      "source": null,
+      "image": null,
+      "imageUrl": null,
+      "imageSourceUrl": null,
+      "sha256": null,
+      "reason": "Registro genérico de múltiplos perfumes de bolso, sem marca, linha ou fragrância única. Não há um produto específico a vincular a uma oferta e foto; os tubetes e minis identificados foram tratados em registros próprios.",
+      "notes": [
+        "Não escolhido um perfume arbitrário para substituir o conjunto genérico."
+      ],
+      "searchedUrls": [],
+      "searchEvidence": []
+    },
+    {
+      "id": 65,
+      "originalName": "Rabanne Lady Million Empire",
+      "category": "perfumes",
+      "status": "excluded",
+      "name": "Rabanne Lady Million Empire",
+      "description": "Eau de Parfum feminino da Rabanne, com frasco em forma de diamante rosé.",
+      "referenceUSD": null,
+      "referenceCurrency": null,
+      "source": {
+        "url": "https://www.comprasparaguai.com.br/perfume-paco-rabanne-lady-million-empire-eau-de-parfum-feminino-80ml_26900/",
+        "title": "Perfume Paco Rabanne Lady Million Empire Eau de Parfum Feminino 80ML",
+        "storeName": null,
+        "checkedOn": "2026-11-24",
+        "declaredCurrency": "USD",
+        "observedUSD": null,
+        "visiblePriceUSD": null,
+        "availabilityVerifiedInMainSection": false,
+        "htmlSha256": "cc885f80f3c8978985646fa8c96a8c4dbf2d594138c37235c5d95edfefc737bb",
+        "lastListing": "08 de Novembro de 2026",
+        "mainSectionEvidence": "VER 0 OFERTAs em 0 lojas; Nenhuma oferta disponível."
+      },
+      "image": null,
+      "imageUrl": null,
+      "imageSourceUrl": null,
+      "sha256": null,
+      "reason": "O agrupador Lady Million Empire EDP 80 ml possui zero ofertas e nenhum valor numérico em USD. Não foi confirmada oferta individual disponível dessa fragrância; Lady Million original, Royal, Gold e outras linhas não foram usadas.",
+      "notes": [],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Lady%20Million%20Empire"
+      ],
+      "searchEvidence": [
+        {
+          "query": "Lady Million Empire",
+          "url": "https://www.comprasparaguai.com.br/busca/?q=Lady%20Million%20Empire",
+          "htmlSha256": "ab1bd135a669dcac5a8d58c8c8d0c708e4a8dc8c57f94ae374c55c188df72bd0",
+          "resultsOnFirstPage": 20
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "originalName": "Shakhan",
+      "category": "perfumes",
+      "status": "excluded",
+      "name": "Shakhan",
+      "description": "Eau de Parfum de 35 ml em versão compacta, com caixa em tons de marrom e dourado.",
+      "referenceUSD": null,
+      "referenceCurrency": null,
+      "source": null,
+      "image": null,
+      "imageUrl": null,
+      "imageSourceUrl": null,
+      "sha256": null,
+      "reason": "Nenhuma oferta de perfume Shakhan foi localizada pelo nome. Não há identificação suficiente de marca, família e apresentação para corrigir o nome ou atribuir uma foto com segurança.",
+      "notes": [],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Shakhan",
+        "https://www.comprasparaguai.com.br/busca/?q=Shakhan%20perfume"
+      ],
+      "searchEvidence": [
+        {
+          "query": "Shakhan",
+          "url": "https://www.comprasparaguai.com.br/busca/?q=Shakhan",
+          "htmlSha256": "190790e01f791de4ef10c358438abb7f84dd3b9b9b0795b94170f261df806d77",
+          "resultsOnFirstPage": 0
+        },
+        {
+          "query": "Shakhan perfume",
+          "url": "https://www.comprasparaguai.com.br/busca/?q=Shakhan%20perfume",
+          "htmlSha256": "29d4a6a1a9d34ba3f4d2833582a36a4aece55c08969e24bbbdde07f0c5e35404",
+          "resultsOnFirstPage": 0
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "originalName": "Kit Mystical One & Only Perfume + Loção",
+      "category": "perfumes",
+      "status": "excluded",
+      "name": "Kit Mystical One & Only Perfume + Loção",
+      "description": "Kit de 2 peças da linha Mystical Gift Set: One & Only Eau de Parfum e loção corporal de 60 ml.",
+      "referenceUSD": null,
+      "referenceCurrency": null,
+      "source": null,
+      "image": null,
+      "imageUrl": null,
+      "imageSourceUrl": null,
+      "sha256": null,
+      "reason": "Não localizado o kit Mystical One & Only com perfume e loção correspondente. Os resultados de One & Only pertencem a outras marcas/linhas ou não são o kit; a foto anterior vinha de outro site e não comprova uma oferta no Compras Paraguai.",
+      "notes": [],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Mystical%20One%20Only",
+        "https://www.comprasparaguai.com.br/busca/?q=Mystical%20One%20%26%20Only",
+        "https://www.comprasparaguai.com.br/busca/?q=Kit%20Mystical"
+      ],
+      "searchEvidence": [
+        {
+          "query": "Mystical One Only",
+          "url": "https://www.comprasparaguai.com.br/busca/?q=Mystical%20One%20Only",
+          "htmlSha256": "5ec26af8287e1f92692893affbb281028f67f645028384e96f30f47457007552",
+          "resultsOnFirstPage": 20
+        },
+        {
+          "query": "Mystical One & Only",
+          "url": "https://www.comprasparaguai.com.br/busca/?q=Mystical%20One%20%26%20Only",
+          "htmlSha256": "1fe5ca7b63c62b0e1689b681fc633a01845815e7c62bab438f5518e01b022489",
+          "resultsOnFirstPage": 20
+        },
+        {
+          "query": "Kit Mystical",
+          "url": "https://www.comprasparaguai.com.br/busca/?q=Kit%20Mystical",
+          "htmlSha256": "52fb205edef9bb0e084f16c39d305e7a83c8796dc8a6de80919bb0c60356ef36",
+          "resultsOnFirstPage": 20
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "originalName": "Eticos Retinal Soft Cream",
+      "category": "beleza",
+      "status": "excluded",
+      "name": "Eticos Retinal Soft Cream",
+      "description": "Creme facial com retinal, com ação antienvelhecimento.",
+      "referenceUSD": null,
+      "referenceCurrency": null,
+      "source": null,
+      "image": null,
+      "imageUrl": null,
+      "imageSourceUrl": null,
+      "sha256": null,
+      "reason": "Não localizado Eticos Retinal Soft Cream. Resultados de Celimax, VT Cosmetics e outras marcas não confirmam correspondência com o produto antigo e não foram associados ao cadastro.",
+      "notes": [],
+      "searchedUrls": [
+        "https://www.comprasparaguai.com.br/busca/?q=Eticos%20Retinal%20Soft%20Cream",
+        "https://www.comprasparaguai.com.br/busca/?q=Eticos%20Retinal"
+      ],
+      "searchEvidence": [
+        {
+          "query": "Eticos Retinal Soft Cream",
+          "url": "https://www.comprasparaguai.com.br/busca/?q=Eticos%20Retinal%20Soft%20Cream",
+          "htmlSha256": "321ed5394d06d46d491538ae228ab33b42a5a3e5cf4cdf28c3d69412cfee2bcd",
+          "resultsOnFirstPage": 20
+        },
+        {
+          "query": "Eticos Retinal",
+          "url": "https://www.comprasparaguai.com.br/busca/?q=Eticos%20Retinal",
+          "htmlSha256": "b656df104e40fd147f03eb72ce80992f0686f60eb858db8de5dfd98f68d5ae1d",
+          "resultsOnFirstPage": 20
+        }
+      ]
+    }
+  ]
+}
