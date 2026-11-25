@@ -5283,18 +5283,23 @@
         "lastListing": "24 de Novembro de 2026"
       },
       "photo": {
+        "sourceUrl": "https://www.comprasparaguai.com.br/smartphone-apple-iphone-14-128gb-swap-grade-a-usa-purple__4896307/",
+        "sourceTitle": "Smartphone Apple iPhone 14 / 128GB (Swap Grade A) Usa - Purple",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/5c48acdbd79796ef4cf28cda424f8df7d3e14b28.webp",
+        "width": 550,
+        "height": 550,
+        "bytes": 7502,
+        "sha256": "b89778d7af4aac71c9b98cad2f4c9156b0ed35828096fc0c493dc2aa18c8695b",
+        "sourceHtmlSha256": "be1bcb031a0635681121f3b4bad222db35e93e0d08526f885003a699becccdfa",
         "id": 168,
-        "image": "/images/products/compras-oferta-5369831.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/ae4d826bb832449307940b61225df90a6400159a.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/apple-iphone-14-128gb-purple__5369831/",
-        "sha256": "7f2686cce0a82a60fca4a66b13e50a4209c486d5fde9e19ee79335da95a557ad",
-        "bytes": 2646
+        "image": "/images/products/iphone-14-128gb-purple-550.webp",
+        "checkedOn": "2026-11-24"
       },
       "catalogProduct": {
         "id": 168,
         "name": "Apple iPhone 14 128GB",
         "category": "eletronicos",
-        "image": "/images/products/compras-oferta-5369831.webp",
+        "image": "/images/products/iphone-14-128gb-purple-550.webp",
         "description": "Apple iPhone 14 com 128GB de armazenamento.",
         "featured": false,
         "available": true,
@@ -5302,7 +5307,8 @@
         "model": "iPhone 14"
       },
       "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados.",
+        "Imagem atualizada para fotografia de 550 × 550 pixels do iPhone 14 128GB Purple, conferida visualmente na fonte documentada. A fonte da foto é independente da referência de preço e não define a condição comercial do cadastro."
       ]
     },
     {
