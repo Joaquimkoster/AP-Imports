@@ -25,11 +25,11 @@ O build recria `dist/`; essa pasta e `node_modules/` são ignoradas pelo Git.
 
 ## Produtos e preços
 
-O catálogo tem **264 produtos**: **256 ofertas verificadas do Compras Paraguai**, incluindo **30 notebooks**, e **8 produtos restaurados expressamente pelo usuário**, com preço e disponibilidade sob consulta. Os oito cadastros pendentes não são apresentados como ofertas verificadas e não recebem preço estimado. Seis preservam fotografias já documentadas; dois continuam sem imagem. A origem das fotos inclui outras fontes quando não houve correspondência no comparador.
+O catálogo tem **263 produtos**: **255 ofertas verificadas do Compras Paraguai**, incluindo **30 notebooks**, e **8 produtos restaurados expressamente pelo usuário**, com preço e disponibilidade sob consulta. Os oito cadastros pendentes não são apresentados como ofertas verificadas e não recebem preço estimado. Seis preservam fotografias já documentadas; dois continuam sem imagem. A origem das fotos inclui outras fontes quando não houve correspondência no comparador.
 
-A consulta de **24/11/2026**, as 256 ofertas verificadas e as oito exceções estão em `artifacts/catalogo-compras-paraguai-2026-11-24.json`, nos campos `products` e `pendingProducts`. O registro documenta lojas, URLs, valores em dólar, fotos, hashes e decisões anteriores. As pesquisas por categoria estão em `artifacts/reconciliacao-{medicamentos,perfumes,saude}-compras-paraguai-2026-11-24.json`.
+A consulta de **24/11/2026**, as 255 ofertas verificadas e as oito exceções estão em `artifacts/catalogo-compras-paraguai-2026-11-24.json`, nos campos `products` e `pendingProducts`. O registro documenta lojas, URLs, valores em dólar, fotos, hashes e decisões anteriores. As pesquisas por categoria estão em `artifacts/reconciliacao-{medicamentos,perfumes,saude}-compras-paraguai-2026-11-24.json`.
 
-Os **256 produtos com preço confirmado** seguem a fórmula, inclusive os cinco itens que anteriormente tinham preços fixos:
+Os **255 produtos com preço confirmado** seguem a fórmula, inclusive os cinco itens que anteriormente tinham preços fixos:
 
 ```text
 preço em BRL = ROUND_HALF_UP(preço em USD × média do dólar × 1,30; 2 casas)

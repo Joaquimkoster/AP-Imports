@@ -5687,29 +5687,6 @@
     "pricingMethod": "markup"
   },
   {
-    "id": 297,
-    "name": "Escova Elétrica Oral-B Precision Clean",
-    "category": "saude",
-    "image": "/images/products/compras-oferta-5373631.webp",
-    "description": "Escova de dentes elétrica Oral-B da linha Precision Clean.",
-    "featured": false,
-    "available": true,
-    "price": 237.5,
-    "pricingUpdatedOn": "2026-11-24",
-    "basePriceUSD": 32.5,
-    "exchangeRateBRL": 5.621276923076923,
-    "markupPercent": 30,
-    "pricingStatus": "verified",
-    "priceSource": {
-      "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/escova-de-dentes-oral-b-precision-clean-eletrica__5373631/",
-      "checkedOn": "2026-11-24",
-      "referenceCurrency": "USD",
-      "storeName": "Shopping China"
-    },
-    "pricingMethod": "markup"
-  },
-  {
     "id": 298,
     "name": "Xiaomi Air Fryer Essential BHR8542US 6 L 110V — branca",
     "category": "casa",

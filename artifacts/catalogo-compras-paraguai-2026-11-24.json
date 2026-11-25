@@ -1,6 +1,6 @@
 {
   "checkedOn": "2026-11-24",
-  "scope": "256 ofertas verificadas do Compras Paraguai e 8 produtos sob consulta. Todas as roupas foram retiradas por solicitação do usuário.",
+  "scope": "255 ofertas verificadas do Compras Paraguai e 8 produtos sob consulta. Todas as roupas foram retiradas por solicitação do usuário.",
   "criteria": [
     "Oferta individual com valor em US$ na seção principal e sem aviso de indisponibilidade.",
     "Marca, modelo, capacidade e apresentação correspondentes ao cadastro. Correções e mudanças de condição são explícitas.",
@@ -78,14 +78,14 @@
     "rawResponseSha256": "c86f5c13288f6f3c3308946b9533e72d4be2f1ea774d584ca80cfec97ba0184e"
   },
   "summary": {
-    "active": 264,
+    "active": 263,
     "recoveredFromPreviousRemoval": 22,
-    "excluded": 42,
-    "withPrice": 256,
-    "withImage": 262,
+    "excluded": 43,
+    "withPrice": 255,
+    "withImage": 261,
     "notebooks": 30,
     "medicines": 23,
-    "verified": 256,
+    "verified": 255,
     "pending": 8,
     "clothes": 0
   },
@@ -10235,49 +10235,6 @@
       ]
     },
     {
-      "id": 297,
-      "name": "Escova Elétrica Oral-B Precision Clean",
-      "category": "saude",
-      "status": "verified",
-      "referenceCurrency": "USD",
-      "referenceUSD": "32.50",
-      "finalBRL": 237.5,
-      "markupPercent": 30,
-      "checkedOn": "2026-11-24",
-      "source": {
-        "url": "https://www.comprasparaguai.com.br/escova-de-dentes-oral-b-precision-clean-eletrica__5373631/",
-        "title": "Escova de Dentes Oral B Precision Clean Elétrica",
-        "storeName": "Shopping China",
-        "checkedOn": "2026-11-24",
-        "observedUSD": "32.50",
-        "declaredCurrency": "USD",
-        "visiblePriceUSD": "32.50",
-        "availabilityVerifiedInMainSection": true,
-        "htmlSha256": "71686253539d53c683295a07223af69aee784bd1d3fbfbd0e3dcf6fbbd1c43e1",
-        "lastListing": "18 de Novembro de 2026"
-      },
-      "photo": {
-        "id": 297,
-        "image": "/images/products/compras-oferta-5373631.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/473de1252ef57c9022b11ae94534917279687e51.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/escova-de-dentes-oral-b-precision-clean-eletrica__5373631/",
-        "sha256": "07cfdd60978c0f61a4cec7ce61c4626e30ceb07c2fb4fdabfc0018692251a4bb",
-        "bytes": 7610
-      },
-      "catalogProduct": {
-        "id": 297,
-        "name": "Escova Elétrica Oral-B Precision Clean",
-        "category": "saude",
-        "image": "/images/products/compras-oferta-5373631.webp",
-        "description": "Escova de dentes elétrica Oral-B da linha Precision Clean.",
-        "featured": false,
-        "available": true
-      },
-      "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
-      ]
-    },
-    {
       "id": 298,
       "name": "Xiaomi Air Fryer Essential BHR8542US 6 L 110V — branca",
       "category": "casa",
@@ -12354,6 +12311,55 @@
           "category": "moda",
           "image": "/images/products/compras-oferta-5281378.webp",
           "description": "Jaqueta masculina Tommy Hilfiger, referência MW0MW41982 BDS. Consulte os tamanhos disponíveis com a equipe.",
+          "featured": false,
+          "available": true
+        },
+        "notes": [
+          "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        ]
+      }
+    },
+    {
+      "id": 297,
+      "originalName": "Escova Elétrica Oral-B Precision Clean",
+      "reason": "Retirado por solicitação expressa do usuário.",
+      "removedOn": "2026-11-24",
+      "referenceSnapshot": {
+        "id": 297,
+        "name": "Escova Elétrica Oral-B Precision Clean",
+        "category": "saude",
+        "status": "verified",
+        "referenceCurrency": "USD",
+        "referenceUSD": "32.50",
+        "finalBRL": 237.5,
+        "markupPercent": 30,
+        "checkedOn": "2026-11-24",
+        "source": {
+          "url": "https://www.comprasparaguai.com.br/escova-de-dentes-oral-b-precision-clean-eletrica__5373631/",
+          "title": "Escova de Dentes Oral B Precision Clean Elétrica",
+          "storeName": "Shopping China",
+          "checkedOn": "2026-11-24",
+          "observedUSD": "32.50",
+          "declaredCurrency": "USD",
+          "visiblePriceUSD": "32.50",
+          "availabilityVerifiedInMainSection": true,
+          "htmlSha256": "71686253539d53c683295a07223af69aee784bd1d3fbfbd0e3dcf6fbbd1c43e1",
+          "lastListing": "18 de Novembro de 2026"
+        },
+        "photo": {
+          "id": 297,
+          "image": "/images/products/compras-oferta-5373631.webp",
+          "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/473de1252ef57c9022b11ae94534917279687e51.webp",
+          "sourceUrl": "https://www.comprasparaguai.com.br/escova-de-dentes-oral-b-precision-clean-eletrica__5373631/",
+          "sha256": "07cfdd60978c0f61a4cec7ce61c4626e30ceb07c2fb4fdabfc0018692251a4bb",
+          "bytes": 7610
+        },
+        "catalogProduct": {
+          "id": 297,
+          "name": "Escova Elétrica Oral-B Precision Clean",
+          "category": "saude",
+          "image": "/images/products/compras-oferta-5373631.webp",
+          "description": "Escova de dentes elétrica Oral-B da linha Precision Clean.",
           "featured": false,
           "available": true
         },
