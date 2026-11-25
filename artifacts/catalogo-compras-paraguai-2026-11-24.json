@@ -5662,18 +5662,23 @@
         "lastListing": "24 de Novembro de 2026"
       },
       "photo": {
+        "sourceUrl": "https://www.comprasparaguai.com.br/apple-iphone-15-plus-a3094-hn-128gb-6gb-ram-tela-67-preto__4958408/",
+        "sourceTitle": "Apple iPhone 15 Plus A3094 HN 128GB 6GB Ram Tela 6.7\" - Preto",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/ff580b1c1bbaefd8c9a950c81defe3b36d3e833c.webp",
+        "width": 550,
+        "height": 550,
+        "bytes": 7918,
+        "sha256": "1e10310fd78dabdca3024ee03be034d29f3da3a74d5876e7fe85f45bd757ac8c",
+        "sourceHtmlSha256": "c526b964f323c85466530d84bf3d2a02ce2b3c53f55074c40a064a99c073df55",
         "id": 176,
-        "image": "/images/products/compras-oferta-5361453.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/57fca9500927130ccad29530e4c0fb3d2c56560f.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/iphone-15-plus-128gb__5361453/",
-        "sha256": "0c6c95f863b845824f3b7d8d7fa5725f3d341579a4e54fa3b5ec83021c8d687c",
-        "bytes": 2568
+        "image": "/images/products/iphone-15-plus-128gb-black-550.webp",
+        "checkedOn": "2026-11-24"
       },
       "catalogProduct": {
         "id": 176,
         "name": "Apple iPhone 15 Plus 128GB",
         "category": "eletronicos",
-        "image": "/images/products/compras-oferta-5361453.webp",
+        "image": "/images/products/iphone-15-plus-128gb-black-550.webp",
         "description": "Apple iPhone 15 Plus com 128GB de armazenamento.",
         "featured": false,
         "available": true,
@@ -5681,7 +5686,8 @@
         "model": "iPhone 15 Plus"
       },
       "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados.",
+        "Imagem do iPhone 15 Plus 128GB preto atualizada de 200 × 200 para 550 × 550 pixels, com modelo, capacidade e cor conferidos na fonte documentada. A origem da foto é independente da referência de preço e da condição comercial do cadastro."
       ]
     },
     {
