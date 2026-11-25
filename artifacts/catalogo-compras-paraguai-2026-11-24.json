@@ -6,7 +6,8 @@
     "Marca, modelo, capacidade e apresentação correspondentes ao cadastro. Correções e mudanças de condição são explícitas.",
     "Foto real da oferta ou do agrupador exato; logotipos e imagens de outros produtos rejeitados.",
     "Mesma média PTAX já adotada ×1,30, com arredondamento comercial somente no resultado final; sem preços fixos.",
-    "Exceção solicitada pelo usuário: oito produtos restaurados permanecem sob consulta; não são tratados como ofertas verificadas e não recebem preços estimados."
+    "Exceção solicitada pelo usuário: oito produtos restaurados permanecem sob consulta; não são tratados como ofertas verificadas e não recebem preços estimados.",
+    "Tratamentos digitais de imagem são identificados no registro photo, com referência original e origem preservadas."
   ],
   "markupPercent": 30,
   "exchangeRate": {
@@ -5233,16 +5234,38 @@
         "lastListing": "24 de Novembro de 2026"
       },
       "photo": {
-        "image": "/images/products/reconciliacao-medicamento-5392687.webp",
+        "image": "/images/products/lipostabil-5-ampolas-restaurada.png",
         "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/577982e3acc66437110abd8af6e3380210a2abc3.webp",
         "sourceUrl": "https://www.comprasparaguai.com.br/cholo-lipostabil-x-5amp__5392687/",
-        "sha256": "7a561f2a58631e325cd7154df837f5a254bdd60ad00d64faa6c2b919be34b451"
+        "sha256": "2698b7717f74d9a23dde28709850fef965f5d3ce16fdd711cc89e2a1f18b9dac",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 1563075,
+        "checkedOn": "2026-11-24",
+        "processing": "imagegen-restoration",
+        "originalPhoto": {
+          "image": "/images/products/reconciliacao-medicamento-5392687.webp",
+          "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/produtos/thumbs/big/577982e3acc66437110abd8af6e3380210a2abc3.webp",
+          "sourceUrl": "https://www.comprasparaguai.com.br/cholo-lipostabil-x-5amp__5392687/",
+          "sha256": "7a561f2a58631e325cd7154df837f5a254bdd60ad00d64faa6c2b919be34b451"
+        },
+        "restorationReference": {
+          "sourceUrl": "https://www.issgroup.com.py/4874-cholo-lipostabil.html",
+          "imageUrl": "https://issgroup.com.py/img/p/3/9/3/6/3936.jpg",
+          "archive": "artifacts/lipostabil-imagem-original-2026-11-24.jpg",
+          "sha256": "7b968b17574c0a63593046a59e2b8424f9233fefe128deba0dc758c6d12772e2",
+          "width": 500,
+          "height": 500,
+          "linkedFrom": "https://www.comprasparaguai.com.br/cholo-lipostabil-x-5amp__5392687/",
+          "merchantHtmlSha256": "4ccdbc20e2188035b333ef437514dd13f854a66d30e19b52a55ee83c4ae17113"
+        },
+        "note": "Arquivo local restaurado digitalmente com imagegen a partir da foto original da loja vinculada. imageUrl conserva a referência visual do Compras Paraguai; o arquivo local é uma derivação, não uma foto adicional do fornecedor."
       },
       "catalogProduct": {
         "id": 163,
         "name": "Cholo Lipostabil (fosfatidilcolina) — 5 ampolas de 5 mL",
         "category": "medicamentos",
-        "image": "/images/products/reconciliacao-medicamento-5392687.webp",
+        "image": "/images/products/lipostabil-5-ampolas-restaurada.png",
         "description": "Fosfatidilcolina do anúncio Cholo Lipostabil. A fotografia da oferta identifica 5 ampolas de 5 mL; concentração não informada.",
         "featured": false,
         "available": true,
@@ -5257,7 +5280,8 @@
         "Conteúdo declarado no rótulo não é orientação de uso ou dose terapêutica; não foram incluídas alegações de tratamento.",
         "Fotografia conferida visualmente por nome, conteúdo e apresentação.",
         "Fosfatidilcolina e5ampolasx5mL constam da fotografia; a concentração e o fabricante não estão identificados e não foram inventados. CholoLipostabil é o nome empregado pela loja.",
-        "Pesquisa: artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json"
+        "Pesquisa: artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
+        "Imagem de Lipostabil restaurada digitalmente com imagegen, preservando a apresentação de cinco ampolas, a caixa e o texto principal. Original da loja vinculada arquivado com hash para comparação; não foram adicionadas marca, concentração ou informações de uso."
       ]
     },
     {
