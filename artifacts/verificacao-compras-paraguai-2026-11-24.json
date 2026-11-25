@@ -59,8 +59,8 @@
   "status": "Histórico da conferência anterior à restauração dos oito produtos; ver latestCatalogCheck para o estado atual.",
   "latestCatalogCheck": {
     "checkedOn": "2026-11-24",
-    "active": 276,
-    "verifiedUSDOffers": 268,
+    "active": 266,
+    "verifiedUSDOffers": 258,
     "restoredPendingIds": [
       143,
       147,
@@ -74,12 +74,25 @@
     "allNineteenRequestedProductsPresent": true,
     "missingPrice": 8,
     "missingImage": 2,
-    "uniqueProductsWithPendingInformation": 19,
+    "uniqueProductsWithPendingInformation": 9,
     "sourcePriceMarkupPercent": 30,
     "pricingCheck": "passed",
     "lint": "passed",
     "productionBuild": "passed",
-    "pdfPages": 2,
-    "pdfContainsAllPendingIds": true
+    "pdfPages": 1,
+    "pdfContainsAllPendingIds": true,
+    "removedClothesIds": [
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291
+    ],
+    "clothesRemaining": 0
   }
 }

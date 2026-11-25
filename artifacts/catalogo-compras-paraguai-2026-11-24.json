@@ -1,6 +1,6 @@
 {
   "checkedOn": "2026-11-24",
-  "scope": "268 ofertas verificadas do Compras Paraguai e 8 cadastros restaurados por pedido do usuário, sob consulta, sem referência USD confirmada.",
+  "scope": "258 ofertas verificadas do Compras Paraguai e 8 produtos sob consulta. Todas as roupas foram retiradas por solicitação do usuário.",
   "criteria": [
     "Oferta individual com valor em US$ na seção principal e sem aviso de indisponibilidade.",
     "Marca, modelo, capacidade e apresentação correspondentes ao cadastro. Correções e mudanças de condição são explícitas.",
@@ -78,15 +78,16 @@
     "rawResponseSha256": "c86f5c13288f6f3c3308946b9533e72d4be2f1ea774d584ca80cfec97ba0184e"
   },
   "summary": {
-    "active": 276,
+    "active": 266,
     "recoveredFromPreviousRemoval": 22,
-    "excluded": 30,
-    "withPrice": 268,
-    "withImage": 274,
+    "excluded": 40,
+    "withPrice": 258,
+    "withImage": 264,
     "notebooks": 30,
     "medicines": 23,
-    "verified": 268,
-    "pending": 8
+    "verified": 258,
+    "pending": 8,
+    "clothes": 0
   },
   "sourceResearchFiles": [
     "artifacts/reconciliacao-medicamentos-compras-paraguai-2026-11-24.json",
@@ -9996,436 +9997,6 @@
       ]
     },
     {
-      "id": 282,
-      "name": "Camisa de botões Polo Ralph Lauren 710792041001",
-      "category": "moda",
-      "status": "verified",
-      "referenceCurrency": "USD",
-      "referenceUSD": "93.00",
-      "finalBRL": 679.61,
-      "markupPercent": 30,
-      "checkedOn": "2026-11-24",
-      "source": {
-        "url": "https://www.comprasparaguai.com.br/camisa-polo-ralph-lauren-710792041001__3129935/",
-        "title": "Camisa Polo Ralph Lauren 710792041001",
-        "storeName": "Shopping China",
-        "checkedOn": "2026-11-24",
-        "observedUSD": "93.00",
-        "declaredCurrency": "USD",
-        "visiblePriceUSD": "93.00",
-        "availabilityVerifiedInMainSection": true,
-        "htmlSha256": "25affc29da142fcdf5a7665e36484d8944bb64470bff737731cd5b09e08ba42d",
-        "lastListing": "18 de Novembro de 2026"
-      },
-      "photo": {
-        "id": 282,
-        "image": "/images/products/compras-oferta-3129935.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/84bfe713e46c2ac4e21d7d1e5b9a82b5b5085314.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/camisa-polo-ralph-lauren-710792041001__3129935/",
-        "sha256": "a48fb060cb89119c19087a1bb2f875160e6383eddf2ae71798ddbe34ed19ad87",
-        "bytes": 4150
-      },
-      "catalogProduct": {
-        "id": 282,
-        "name": "Camisa de botões Polo Ralph Lauren 710792041001",
-        "category": "moda",
-        "image": "/images/products/compras-oferta-3129935.webp",
-        "description": "Camisa da linha Polo Ralph Lauren, referência 710792041001. Consulte os tamanhos disponíveis com a equipe.",
-        "featured": false,
-        "available": true
-      },
-      "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
-      ]
-    },
-    {
-      "id": 283,
-      "name": "Camisa polo Tommy Hilfiger MW0MW04976 032 masculina",
-      "category": "moda",
-      "status": "verified",
-      "referenceCurrency": "USD",
-      "referenceUSD": "27.00",
-      "finalBRL": 197.31,
-      "markupPercent": 30,
-      "checkedOn": "2026-11-24",
-      "source": {
-        "url": "https://www.comprasparaguai.com.br/camiseta-tommy-hilfiger-mw0mw04976-032-masculino__4034777/",
-        "title": "Camiseta Tommy Hilfiger MW0MW04976 032 Masculino",
-        "storeName": "Shopping China",
-        "checkedOn": "2026-11-24",
-        "observedUSD": "27.00",
-        "declaredCurrency": "USD",
-        "visiblePriceUSD": "27.00",
-        "availabilityVerifiedInMainSection": true,
-        "htmlSha256": "6224a544f4e27dfeec1c38ffcc0fc24ac1e7e1456f8975b77f877942aef1a69b",
-        "lastListing": "18 de Novembro de 2026"
-      },
-      "photo": {
-        "id": 283,
-        "image": "/images/products/compras-oferta-4034777.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/e59bd52a1749fe127a07f9ec86ac553f41ada30a.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/camiseta-tommy-hilfiger-mw0mw04976-032-masculino__4034777/",
-        "sha256": "c7382422e783fe4c30f6a40f0d57dada71cad075e00643e7fc593ccf667a152a",
-        "bytes": 3910
-      },
-      "catalogProduct": {
-        "id": 283,
-        "name": "Camisa polo Tommy Hilfiger MW0MW04976 032 masculina",
-        "category": "moda",
-        "image": "/images/products/compras-oferta-4034777.webp",
-        "description": "Camisa polo masculina Tommy Hilfiger, referência MW0MW04976 032. Consulte os tamanhos disponíveis com a equipe.",
-        "featured": false,
-        "available": true
-      },
-      "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
-      ]
-    },
-    {
-      "id": 284,
-      "name": "Camiseta Lacoste TH6709 23 031 masculina",
-      "category": "moda",
-      "status": "verified",
-      "referenceCurrency": "USD",
-      "referenceUSD": "45.00",
-      "finalBRL": 328.84,
-      "markupPercent": 30,
-      "checkedOn": "2026-11-24",
-      "source": {
-        "url": "https://www.comprasparaguai.com.br/camiseta-lacoste-th6709-23-031-masculino__4195256/",
-        "title": "Camiseta Lacoste TH6709 23 031 Masculino",
-        "storeName": "Shopping China",
-        "checkedOn": "2026-11-24",
-        "observedUSD": "45.00",
-        "declaredCurrency": "USD",
-        "visiblePriceUSD": "45.00",
-        "availabilityVerifiedInMainSection": true,
-        "htmlSha256": "bf48c094b1ee51484b0f18f01b721647fc736004c522f9056ffa3bee43cccea4",
-        "lastListing": "18 de Novembro de 2026"
-      },
-      "photo": {
-        "id": 284,
-        "image": "/images/products/compras-oferta-4195256.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/6f2c429074047115a3070f6a39d93ab4ceb2414f.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/camiseta-lacoste-th6709-23-031-masculino__4195256/",
-        "sha256": "382708a8c56806f4c0eb369c9e17b75e83deca781ed877785301dc46c0ed70cb",
-        "bytes": 3456
-      },
-      "catalogProduct": {
-        "id": 284,
-        "name": "Camiseta Lacoste TH6709 23 031 masculina",
-        "category": "moda",
-        "image": "/images/products/compras-oferta-4195256.webp",
-        "description": "Camiseta masculina Lacoste, referência TH6709 23 031. Consulte os tamanhos disponíveis com a equipe.",
-        "featured": false,
-        "available": true
-      },
-      "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
-      ]
-    },
-    {
-      "id": 285,
-      "name": "Camisa Calvin Klein K10K110856 YAF masculina",
-      "category": "moda",
-      "status": "verified",
-      "referenceCurrency": "USD",
-      "referenceUSD": "65.00",
-      "finalBRL": 475,
-      "markupPercent": 30,
-      "checkedOn": "2026-11-24",
-      "source": {
-        "url": "https://www.comprasparaguai.com.br/camisa-masculina-calvin-klein-k10k110856-yaf__4150142/",
-        "title": "Camisa Masculina Calvin Klein K10K110856 Yaf",
-        "storeName": "Shopping China",
-        "checkedOn": "2026-11-24",
-        "observedUSD": "65.00",
-        "declaredCurrency": "USD",
-        "visiblePriceUSD": "65.00",
-        "availabilityVerifiedInMainSection": true,
-        "htmlSha256": "acb6b8179359b6cbc984e74bb34c355e099fd8cbbae3bc7ec620b2a1aa296c5a",
-        "lastListing": "18 de Novembro de 2026"
-      },
-      "photo": {
-        "id": 285,
-        "image": "/images/products/compras-oferta-4150142.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/98cdc77de794dfd4da071fc00e15cc0a0da59362.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/camisa-masculina-calvin-klein-k10k110856-yaf__4150142/",
-        "sha256": "1bd9729f23ae1e38da0b5d98f004b9de361f986884e0effa5d955abf6de09895",
-        "bytes": 3100
-      },
-      "catalogProduct": {
-        "id": 285,
-        "name": "Camisa Calvin Klein K10K110856 YAF masculina",
-        "category": "moda",
-        "image": "/images/products/compras-oferta-4150142.webp",
-        "description": "Camisa masculina Calvin Klein, referência K10K110856 YAF. Consulte os tamanhos disponíveis com a equipe.",
-        "featured": false,
-        "available": true
-      },
-      "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
-      ]
-    },
-    {
-      "id": 286,
-      "name": "Camiseta Tommy Hilfiger WW0WW37857 YBL feminina",
-      "category": "moda",
-      "status": "verified",
-      "referenceCurrency": "USD",
-      "referenceUSD": "30.00",
-      "finalBRL": 219.23,
-      "markupPercent": 30,
-      "checkedOn": "2026-11-24",
-      "source": {
-        "url": "https://www.comprasparaguai.com.br/camiseta-tommy-hilfiger-ww0ww37857-ybl-femenino__4231259/",
-        "title": "Camiseta Tommy Hilfiger WW0WW37857 YBL Femenino",
-        "storeName": "Shopping China",
-        "checkedOn": "2026-11-24",
-        "observedUSD": "30.00",
-        "declaredCurrency": "USD",
-        "visiblePriceUSD": "30.00",
-        "availabilityVerifiedInMainSection": true,
-        "htmlSha256": "ca30bc9f8615fdf5af891283cb7baa69b5dfeef6d821708b07ac19d1e169d6f2",
-        "lastListing": "18 de Novembro de 2026"
-      },
-      "photo": {
-        "id": 286,
-        "image": "/images/products/compras-oferta-4231259.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/edabecd3789ed3b5382e3efbd10b5dabafb358b6.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/camiseta-tommy-hilfiger-ww0ww37857-ybl-femenino__4231259/",
-        "sha256": "fa70d24af47d0c056f4372b8c464c817292441a114ac5558191264462fdc1f03",
-        "bytes": 2480
-      },
-      "catalogProduct": {
-        "id": 286,
-        "name": "Camiseta Tommy Hilfiger WW0WW37857 YBL feminina",
-        "category": "moda",
-        "image": "/images/products/compras-oferta-4231259.webp",
-        "description": "Camiseta feminina Tommy Hilfiger, referência WW0WW37857 YBL. Consulte os tamanhos disponíveis com a equipe.",
-        "featured": false,
-        "available": true
-      },
-      "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
-      ]
-    },
-    {
-      "id": 287,
-      "name": "Calça Adidas Essentials French Terry 3 Stripes JE6346 masculina",
-      "category": "moda",
-      "status": "verified",
-      "referenceCurrency": "USD",
-      "referenceUSD": "39.00",
-      "finalBRL": 285,
-      "markupPercent": 30,
-      "checkedOn": "2026-11-24",
-      "source": {
-        "url": "https://www.comprasparaguai.com.br/calca-adidas-je6346-essentials-french-terry-3-stripes-masculino__5004662/",
-        "title": "Calça Adidas JE6346 Essentials French Terry 3 Stripes Masculino",
-        "storeName": "Shopping China",
-        "checkedOn": "2026-11-24",
-        "observedUSD": "39.00",
-        "declaredCurrency": "USD",
-        "visiblePriceUSD": "39.00",
-        "availabilityVerifiedInMainSection": true,
-        "htmlSha256": "82acfbe4a5f6292a5cb6621d2ac3e6ec17d7dd9e617bba49218c21a8cbad5b85",
-        "lastListing": "18 de Novembro de 2026"
-      },
-      "photo": {
-        "id": 287,
-        "image": "/images/products/compras-oferta-5004662.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/4ee956c848f059f1d7a5e34491abaf496081fda9.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/calca-adidas-je6346-essentials-french-terry-3-stripes-masculino__5004662/",
-        "sha256": "75276d681fd065c4c5353199a2ff4045a3a707d3482a12c1a62a00224b13a29d",
-        "bytes": 3750
-      },
-      "catalogProduct": {
-        "id": 287,
-        "name": "Calça Adidas Essentials French Terry 3 Stripes JE6346 masculina",
-        "category": "moda",
-        "image": "/images/products/compras-oferta-5004662.webp",
-        "description": "Calça masculina Adidas Essentials French Terry 3 Stripes, referência JE6346. Consulte os tamanhos disponíveis com a equipe.",
-        "featured": false,
-        "available": true
-      },
-      "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
-      ]
-    },
-    {
-      "id": 288,
-      "name": "Legging Adidas Essentials Color Pop JD5566 feminina",
-      "category": "moda",
-      "status": "verified",
-      "referenceCurrency": "USD",
-      "referenceUSD": "29.00",
-      "finalBRL": 211.92,
-      "markupPercent": 30,
-      "checkedOn": "2026-11-24",
-      "source": {
-        "url": "https://www.comprasparaguai.com.br/legging-adidas-jd5566-essentials-color-pop-feminino__4917888/",
-        "title": "Legging Adidas JD5566 Essentials Color Pop Feminino",
-        "storeName": "Shopping China",
-        "checkedOn": "2026-11-24",
-        "observedUSD": "29.00",
-        "declaredCurrency": "USD",
-        "visiblePriceUSD": "29.00",
-        "availabilityVerifiedInMainSection": true,
-        "htmlSha256": "a8f65923383e69a8de3bd894d945905bd00aa5a9a969e77dc887ce638ceab3d0",
-        "lastListing": "18 de Novembro de 2026"
-      },
-      "photo": {
-        "id": 288,
-        "image": "/images/products/compras-oferta-4917888.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/8d3d74a40657eef4b437f082dc2ee465100aaacf.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/legging-adidas-jd5566-essentials-color-pop-feminino__4917888/",
-        "sha256": "33ede7ed0e905c2a187b6deebf0fdb1c7d34f5dba48911833431c76bad69d778",
-        "bytes": 3112
-      },
-      "catalogProduct": {
-        "id": 288,
-        "name": "Legging Adidas Essentials Color Pop JD5566 feminina",
-        "category": "moda",
-        "image": "/images/products/compras-oferta-4917888.webp",
-        "description": "Legging feminina Adidas Essentials Color Pop, referência JD5566. Consulte os tamanhos disponíveis com a equipe.",
-        "featured": false,
-        "available": true
-      },
-      "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
-      ]
-    },
-    {
-      "id": 289,
-      "name": "Short Adidas Essentials Stash Pocket IT2281 feminino",
-      "category": "moda",
-      "status": "verified",
-      "referenceCurrency": "USD",
-      "referenceUSD": "20.00",
-      "finalBRL": 146.15,
-      "markupPercent": 30,
-      "checkedOn": "2026-11-24",
-      "source": {
-        "url": "https://www.comprasparaguai.com.br/short-adidas-it2281-essentials-stash-pocket-7-inch-feminino__4981206/",
-        "title": "Short Adidas IT2281 Essentials Stash Pocket 7-Inch Feminino",
-        "storeName": "Shopping China",
-        "checkedOn": "2026-11-24",
-        "observedUSD": "20.00",
-        "declaredCurrency": "USD",
-        "visiblePriceUSD": "20.00",
-        "availabilityVerifiedInMainSection": true,
-        "htmlSha256": "b829b0ae2a3dda8ad8767a613c4d486f57196fee6a15cc1c9e57be9fb618356b",
-        "lastListing": "18 de Novembro de 2026"
-      },
-      "photo": {
-        "id": 289,
-        "image": "/images/products/compras-oferta-4981206.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/51a465092a6ad46bc1c7388b3122a18cc40082a5.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/short-adidas-it2281-essentials-stash-pocket-7-inch-feminino__4981206/",
-        "sha256": "c512e5989c29253c7fee16c670054371598ce94d1177533d7f2d91d3444604a1",
-        "bytes": 4212
-      },
-      "catalogProduct": {
-        "id": 289,
-        "name": "Short Adidas Essentials Stash Pocket IT2281 feminino",
-        "category": "moda",
-        "image": "/images/products/compras-oferta-4981206.webp",
-        "description": "Short feminino Adidas Essentials Stash Pocket 7-Inch, referência IT2281. Consulte os tamanhos disponíveis com a equipe.",
-        "featured": false,
-        "available": true
-      },
-      "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
-      ]
-    },
-    {
-      "id": 290,
-      "name": "Moletom Tommy Hilfiger MW0MW40481 BDS masculino",
-      "category": "moda",
-      "status": "verified",
-      "referenceCurrency": "USD",
-      "referenceUSD": "120.00",
-      "finalBRL": 876.92,
-      "markupPercent": 30,
-      "checkedOn": "2026-11-24",
-      "source": {
-        "url": "https://www.comprasparaguai.com.br/moletom-tommy-hilfiger-mw0mw40481-bds-masculino__5281372/",
-        "title": "Moletom Tommy Hilfiger MW0MW40481 BDS Masculino",
-        "storeName": "Shopping China",
-        "checkedOn": "2026-11-24",
-        "observedUSD": "120.00",
-        "declaredCurrency": "USD",
-        "visiblePriceUSD": "120.00",
-        "availabilityVerifiedInMainSection": true,
-        "htmlSha256": "1d838b0c93bccc75c253425e3018da66e504fca9638fa4ba61ef5b4c17d5dab5",
-        "lastListing": "18 de Novembro de 2026"
-      },
-      "photo": {
-        "id": 290,
-        "image": "/images/products/compras-oferta-5281372.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/3eaf2b90ef6a781087a5f39cd8310cf7d6e0169f.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/moletom-tommy-hilfiger-mw0mw40481-bds-masculino__5281372/",
-        "sha256": "40ae73336ab84ddff464adcaeccd5c71cfb702b6652a951453e4e5647f784ddd",
-        "bytes": 5550
-      },
-      "catalogProduct": {
-        "id": 290,
-        "name": "Moletom Tommy Hilfiger MW0MW40481 BDS masculino",
-        "category": "moda",
-        "image": "/images/products/compras-oferta-5281372.webp",
-        "description": "Moletom masculino Tommy Hilfiger, referência MW0MW40481 BDS. Consulte os tamanhos disponíveis com a equipe.",
-        "featured": false,
-        "available": true
-      },
-      "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
-      ]
-    },
-    {
-      "id": 291,
-      "name": "Jaqueta Tommy Hilfiger MW0MW41982 BDS masculina",
-      "category": "moda",
-      "status": "verified",
-      "referenceCurrency": "USD",
-      "referenceUSD": "220.00",
-      "finalBRL": 1607.69,
-      "markupPercent": 30,
-      "checkedOn": "2026-11-24",
-      "source": {
-        "url": "https://www.comprasparaguai.com.br/jaqueta-tommy-hilfiger-mw0mw41982-bds-masculino__5281378/",
-        "title": "Jaqueta Tommy Hilfiger MW0MW41982 BDS Masculino",
-        "storeName": "Shopping China",
-        "checkedOn": "2026-11-24",
-        "observedUSD": "220.00",
-        "declaredCurrency": "USD",
-        "visiblePriceUSD": "220.00",
-        "availabilityVerifiedInMainSection": true,
-        "htmlSha256": "30d8255379ae2e7863840cde75bd6b9408a1c41eaadcd8654a7cb53f59fbf1e8",
-        "lastListing": "18 de Novembro de 2026"
-      },
-      "photo": {
-        "id": 291,
-        "image": "/images/products/compras-oferta-5281378.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/fde099dcd3a937dd41b3784aeeb37968bbcdd803.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/jaqueta-tommy-hilfiger-mw0mw41982-bds-masculino__5281378/",
-        "sha256": "65f2085d5cf4f4656699d47e58523100807fe6e15e0ca4c35e3a708e82fd7ad3",
-        "bytes": 13950
-      },
-      "catalogProduct": {
-        "id": 291,
-        "name": "Jaqueta Tommy Hilfiger MW0MW41982 BDS masculina",
-        "category": "moda",
-        "image": "/images/products/compras-oferta-5281378.webp",
-        "description": "Jaqueta masculina Tommy Hilfiger, referência MW0MW41982 BDS. Consulte os tamanhos disponíveis com a equipe.",
-        "featured": false,
-        "available": true
-      },
-      "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
-      ]
-    },
-    {
       "id": 292,
       "name": "Optimum Nutrition Micronized Creatine Powder 300 g",
       "category": "saude",
@@ -12363,6 +11934,496 @@
       "originalName": "Apple iPhone 17e 512GB",
       "reason": "O agrupador exato iPhone 17e 512GB exibe zero ofertas e nenhum preço numérico. As ofertas individuais consultadas estão indisponíveis. Não foi utilizado preço de 17e 256GB ou de acessórios relacionados.",
       "evidenceFile": "artifacts/revisao-iphones-pendentes-2026-11-24.json"
+    },
+    {
+      "id": 282,
+      "originalName": "Camisa de botões Polo Ralph Lauren 710792041001",
+      "reason": "Roupa retirada por solicitação expressa do usuário; a retirada não decorre de falta de oferta ou de preço.",
+      "removedOn": "2026-11-24",
+      "referenceSnapshot": {
+        "id": 282,
+        "name": "Camisa de botões Polo Ralph Lauren 710792041001",
+        "category": "moda",
+        "status": "verified",
+        "referenceCurrency": "USD",
+        "referenceUSD": "93.00",
+        "finalBRL": 679.61,
+        "markupPercent": 30,
+        "checkedOn": "2026-11-24",
+        "source": {
+          "url": "https://www.comprasparaguai.com.br/camisa-polo-ralph-lauren-710792041001__3129935/",
+          "title": "Camisa Polo Ralph Lauren 710792041001",
+          "storeName": "Shopping China",
+          "checkedOn": "2026-11-24",
+          "observedUSD": "93.00",
+          "declaredCurrency": "USD",
+          "visiblePriceUSD": "93.00",
+          "availabilityVerifiedInMainSection": true,
+          "htmlSha256": "25affc29da142fcdf5a7665e36484d8944bb64470bff737731cd5b09e08ba42d",
+          "lastListing": "18 de Novembro de 2026"
+        },
+        "photo": {
+          "id": 282,
+          "image": "/images/products/compras-oferta-3129935.webp",
+          "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/84bfe713e46c2ac4e21d7d1e5b9a82b5b5085314.webp",
+          "sourceUrl": "https://www.comprasparaguai.com.br/camisa-polo-ralph-lauren-710792041001__3129935/",
+          "sha256": "a48fb060cb89119c19087a1bb2f875160e6383eddf2ae71798ddbe34ed19ad87",
+          "bytes": 4150
+        },
+        "catalogProduct": {
+          "id": 282,
+          "name": "Camisa de botões Polo Ralph Lauren 710792041001",
+          "category": "moda",
+          "image": "/images/products/compras-oferta-3129935.webp",
+          "description": "Camisa da linha Polo Ralph Lauren, referência 710792041001. Consulte os tamanhos disponíveis com a equipe.",
+          "featured": false,
+          "available": true
+        },
+        "notes": [
+          "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        ]
+      }
+    },
+    {
+      "id": 283,
+      "originalName": "Camisa polo Tommy Hilfiger MW0MW04976 032 masculina",
+      "reason": "Roupa retirada por solicitação expressa do usuário; a retirada não decorre de falta de oferta ou de preço.",
+      "removedOn": "2026-11-24",
+      "referenceSnapshot": {
+        "id": 283,
+        "name": "Camisa polo Tommy Hilfiger MW0MW04976 032 masculina",
+        "category": "moda",
+        "status": "verified",
+        "referenceCurrency": "USD",
+        "referenceUSD": "27.00",
+        "finalBRL": 197.31,
+        "markupPercent": 30,
+        "checkedOn": "2026-11-24",
+        "source": {
+          "url": "https://www.comprasparaguai.com.br/camiseta-tommy-hilfiger-mw0mw04976-032-masculino__4034777/",
+          "title": "Camiseta Tommy Hilfiger MW0MW04976 032 Masculino",
+          "storeName": "Shopping China",
+          "checkedOn": "2026-11-24",
+          "observedUSD": "27.00",
+          "declaredCurrency": "USD",
+          "visiblePriceUSD": "27.00",
+          "availabilityVerifiedInMainSection": true,
+          "htmlSha256": "6224a544f4e27dfeec1c38ffcc0fc24ac1e7e1456f8975b77f877942aef1a69b",
+          "lastListing": "18 de Novembro de 2026"
+        },
+        "photo": {
+          "id": 283,
+          "image": "/images/products/compras-oferta-4034777.webp",
+          "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/e59bd52a1749fe127a07f9ec86ac553f41ada30a.webp",
+          "sourceUrl": "https://www.comprasparaguai.com.br/camiseta-tommy-hilfiger-mw0mw04976-032-masculino__4034777/",
+          "sha256": "c7382422e783fe4c30f6a40f0d57dada71cad075e00643e7fc593ccf667a152a",
+          "bytes": 3910
+        },
+        "catalogProduct": {
+          "id": 283,
+          "name": "Camisa polo Tommy Hilfiger MW0MW04976 032 masculina",
+          "category": "moda",
+          "image": "/images/products/compras-oferta-4034777.webp",
+          "description": "Camisa polo masculina Tommy Hilfiger, referência MW0MW04976 032. Consulte os tamanhos disponíveis com a equipe.",
+          "featured": false,
+          "available": true
+        },
+        "notes": [
+          "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        ]
+      }
+    },
+    {
+      "id": 284,
+      "originalName": "Camiseta Lacoste TH6709 23 031 masculina",
+      "reason": "Roupa retirada por solicitação expressa do usuário; a retirada não decorre de falta de oferta ou de preço.",
+      "removedOn": "2026-11-24",
+      "referenceSnapshot": {
+        "id": 284,
+        "name": "Camiseta Lacoste TH6709 23 031 masculina",
+        "category": "moda",
+        "status": "verified",
+        "referenceCurrency": "USD",
+        "referenceUSD": "45.00",
+        "finalBRL": 328.84,
+        "markupPercent": 30,
+        "checkedOn": "2026-11-24",
+        "source": {
+          "url": "https://www.comprasparaguai.com.br/camiseta-lacoste-th6709-23-031-masculino__4195256/",
+          "title": "Camiseta Lacoste TH6709 23 031 Masculino",
+          "storeName": "Shopping China",
+          "checkedOn": "2026-11-24",
+          "observedUSD": "45.00",
+          "declaredCurrency": "USD",
+          "visiblePriceUSD": "45.00",
+          "availabilityVerifiedInMainSection": true,
+          "htmlSha256": "bf48c094b1ee51484b0f18f01b721647fc736004c522f9056ffa3bee43cccea4",
+          "lastListing": "18 de Novembro de 2026"
+        },
+        "photo": {
+          "id": 284,
+          "image": "/images/products/compras-oferta-4195256.webp",
+          "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/6f2c429074047115a3070f6a39d93ab4ceb2414f.webp",
+          "sourceUrl": "https://www.comprasparaguai.com.br/camiseta-lacoste-th6709-23-031-masculino__4195256/",
+          "sha256": "382708a8c56806f4c0eb369c9e17b75e83deca781ed877785301dc46c0ed70cb",
+          "bytes": 3456
+        },
+        "catalogProduct": {
+          "id": 284,
+          "name": "Camiseta Lacoste TH6709 23 031 masculina",
+          "category": "moda",
+          "image": "/images/products/compras-oferta-4195256.webp",
+          "description": "Camiseta masculina Lacoste, referência TH6709 23 031. Consulte os tamanhos disponíveis com a equipe.",
+          "featured": false,
+          "available": true
+        },
+        "notes": [
+          "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        ]
+      }
+    },
+    {
+      "id": 285,
+      "originalName": "Camisa Calvin Klein K10K110856 YAF masculina",
+      "reason": "Roupa retirada por solicitação expressa do usuário; a retirada não decorre de falta de oferta ou de preço.",
+      "removedOn": "2026-11-24",
+      "referenceSnapshot": {
+        "id": 285,
+        "name": "Camisa Calvin Klein K10K110856 YAF masculina",
+        "category": "moda",
+        "status": "verified",
+        "referenceCurrency": "USD",
+        "referenceUSD": "65.00",
+        "finalBRL": 475,
+        "markupPercent": 30,
+        "checkedOn": "2026-11-24",
+        "source": {
+          "url": "https://www.comprasparaguai.com.br/camisa-masculina-calvin-klein-k10k110856-yaf__4150142/",
+          "title": "Camisa Masculina Calvin Klein K10K110856 Yaf",
+          "storeName": "Shopping China",
+          "checkedOn": "2026-11-24",
+          "observedUSD": "65.00",
+          "declaredCurrency": "USD",
+          "visiblePriceUSD": "65.00",
+          "availabilityVerifiedInMainSection": true,
+          "htmlSha256": "acb6b8179359b6cbc984e74bb34c355e099fd8cbbae3bc7ec620b2a1aa296c5a",
+          "lastListing": "18 de Novembro de 2026"
+        },
+        "photo": {
+          "id": 285,
+          "image": "/images/products/compras-oferta-4150142.webp",
+          "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/98cdc77de794dfd4da071fc00e15cc0a0da59362.webp",
+          "sourceUrl": "https://www.comprasparaguai.com.br/camisa-masculina-calvin-klein-k10k110856-yaf__4150142/",
+          "sha256": "1bd9729f23ae1e38da0b5d98f004b9de361f986884e0effa5d955abf6de09895",
+          "bytes": 3100
+        },
+        "catalogProduct": {
+          "id": 285,
+          "name": "Camisa Calvin Klein K10K110856 YAF masculina",
+          "category": "moda",
+          "image": "/images/products/compras-oferta-4150142.webp",
+          "description": "Camisa masculina Calvin Klein, referência K10K110856 YAF. Consulte os tamanhos disponíveis com a equipe.",
+          "featured": false,
+          "available": true
+        },
+        "notes": [
+          "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        ]
+      }
+    },
+    {
+      "id": 286,
+      "originalName": "Camiseta Tommy Hilfiger WW0WW37857 YBL feminina",
+      "reason": "Roupa retirada por solicitação expressa do usuário; a retirada não decorre de falta de oferta ou de preço.",
+      "removedOn": "2026-11-24",
+      "referenceSnapshot": {
+        "id": 286,
+        "name": "Camiseta Tommy Hilfiger WW0WW37857 YBL feminina",
+        "category": "moda",
+        "status": "verified",
+        "referenceCurrency": "USD",
+        "referenceUSD": "30.00",
+        "finalBRL": 219.23,
+        "markupPercent": 30,
+        "checkedOn": "2026-11-24",
+        "source": {
+          "url": "https://www.comprasparaguai.com.br/camiseta-tommy-hilfiger-ww0ww37857-ybl-femenino__4231259/",
+          "title": "Camiseta Tommy Hilfiger WW0WW37857 YBL Femenino",
+          "storeName": "Shopping China",
+          "checkedOn": "2026-11-24",
+          "observedUSD": "30.00",
+          "declaredCurrency": "USD",
+          "visiblePriceUSD": "30.00",
+          "availabilityVerifiedInMainSection": true,
+          "htmlSha256": "ca30bc9f8615fdf5af891283cb7baa69b5dfeef6d821708b07ac19d1e169d6f2",
+          "lastListing": "18 de Novembro de 2026"
+        },
+        "photo": {
+          "id": 286,
+          "image": "/images/products/compras-oferta-4231259.webp",
+          "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/edabecd3789ed3b5382e3efbd10b5dabafb358b6.webp",
+          "sourceUrl": "https://www.comprasparaguai.com.br/camiseta-tommy-hilfiger-ww0ww37857-ybl-femenino__4231259/",
+          "sha256": "fa70d24af47d0c056f4372b8c464c817292441a114ac5558191264462fdc1f03",
+          "bytes": 2480
+        },
+        "catalogProduct": {
+          "id": 286,
+          "name": "Camiseta Tommy Hilfiger WW0WW37857 YBL feminina",
+          "category": "moda",
+          "image": "/images/products/compras-oferta-4231259.webp",
+          "description": "Camiseta feminina Tommy Hilfiger, referência WW0WW37857 YBL. Consulte os tamanhos disponíveis com a equipe.",
+          "featured": false,
+          "available": true
+        },
+        "notes": [
+          "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        ]
+      }
+    },
+    {
+      "id": 287,
+      "originalName": "Calça Adidas Essentials French Terry 3 Stripes JE6346 masculina",
+      "reason": "Roupa retirada por solicitação expressa do usuário; a retirada não decorre de falta de oferta ou de preço.",
+      "removedOn": "2026-11-24",
+      "referenceSnapshot": {
+        "id": 287,
+        "name": "Calça Adidas Essentials French Terry 3 Stripes JE6346 masculina",
+        "category": "moda",
+        "status": "verified",
+        "referenceCurrency": "USD",
+        "referenceUSD": "39.00",
+        "finalBRL": 285,
+        "markupPercent": 30,
+        "checkedOn": "2026-11-24",
+        "source": {
+          "url": "https://www.comprasparaguai.com.br/calca-adidas-je6346-essentials-french-terry-3-stripes-masculino__5004662/",
+          "title": "Calça Adidas JE6346 Essentials French Terry 3 Stripes Masculino",
+          "storeName": "Shopping China",
+          "checkedOn": "2026-11-24",
+          "observedUSD": "39.00",
+          "declaredCurrency": "USD",
+          "visiblePriceUSD": "39.00",
+          "availabilityVerifiedInMainSection": true,
+          "htmlSha256": "82acfbe4a5f6292a5cb6621d2ac3e6ec17d7dd9e617bba49218c21a8cbad5b85",
+          "lastListing": "18 de Novembro de 2026"
+        },
+        "photo": {
+          "id": 287,
+          "image": "/images/products/compras-oferta-5004662.webp",
+          "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/4ee956c848f059f1d7a5e34491abaf496081fda9.webp",
+          "sourceUrl": "https://www.comprasparaguai.com.br/calca-adidas-je6346-essentials-french-terry-3-stripes-masculino__5004662/",
+          "sha256": "75276d681fd065c4c5353199a2ff4045a3a707d3482a12c1a62a00224b13a29d",
+          "bytes": 3750
+        },
+        "catalogProduct": {
+          "id": 287,
+          "name": "Calça Adidas Essentials French Terry 3 Stripes JE6346 masculina",
+          "category": "moda",
+          "image": "/images/products/compras-oferta-5004662.webp",
+          "description": "Calça masculina Adidas Essentials French Terry 3 Stripes, referência JE6346. Consulte os tamanhos disponíveis com a equipe.",
+          "featured": false,
+          "available": true
+        },
+        "notes": [
+          "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        ]
+      }
+    },
+    {
+      "id": 288,
+      "originalName": "Legging Adidas Essentials Color Pop JD5566 feminina",
+      "reason": "Roupa retirada por solicitação expressa do usuário; a retirada não decorre de falta de oferta ou de preço.",
+      "removedOn": "2026-11-24",
+      "referenceSnapshot": {
+        "id": 288,
+        "name": "Legging Adidas Essentials Color Pop JD5566 feminina",
+        "category": "moda",
+        "status": "verified",
+        "referenceCurrency": "USD",
+        "referenceUSD": "29.00",
+        "finalBRL": 211.92,
+        "markupPercent": 30,
+        "checkedOn": "2026-11-24",
+        "source": {
+          "url": "https://www.comprasparaguai.com.br/legging-adidas-jd5566-essentials-color-pop-feminino__4917888/",
+          "title": "Legging Adidas JD5566 Essentials Color Pop Feminino",
+          "storeName": "Shopping China",
+          "checkedOn": "2026-11-24",
+          "observedUSD": "29.00",
+          "declaredCurrency": "USD",
+          "visiblePriceUSD": "29.00",
+          "availabilityVerifiedInMainSection": true,
+          "htmlSha256": "a8f65923383e69a8de3bd894d945905bd00aa5a9a969e77dc887ce638ceab3d0",
+          "lastListing": "18 de Novembro de 2026"
+        },
+        "photo": {
+          "id": 288,
+          "image": "/images/products/compras-oferta-4917888.webp",
+          "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/8d3d74a40657eef4b437f082dc2ee465100aaacf.webp",
+          "sourceUrl": "https://www.comprasparaguai.com.br/legging-adidas-jd5566-essentials-color-pop-feminino__4917888/",
+          "sha256": "33ede7ed0e905c2a187b6deebf0fdb1c7d34f5dba48911833431c76bad69d778",
+          "bytes": 3112
+        },
+        "catalogProduct": {
+          "id": 288,
+          "name": "Legging Adidas Essentials Color Pop JD5566 feminina",
+          "category": "moda",
+          "image": "/images/products/compras-oferta-4917888.webp",
+          "description": "Legging feminina Adidas Essentials Color Pop, referência JD5566. Consulte os tamanhos disponíveis com a equipe.",
+          "featured": false,
+          "available": true
+        },
+        "notes": [
+          "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        ]
+      }
+    },
+    {
+      "id": 289,
+      "originalName": "Short Adidas Essentials Stash Pocket IT2281 feminino",
+      "reason": "Roupa retirada por solicitação expressa do usuário; a retirada não decorre de falta de oferta ou de preço.",
+      "removedOn": "2026-11-24",
+      "referenceSnapshot": {
+        "id": 289,
+        "name": "Short Adidas Essentials Stash Pocket IT2281 feminino",
+        "category": "moda",
+        "status": "verified",
+        "referenceCurrency": "USD",
+        "referenceUSD": "20.00",
+        "finalBRL": 146.15,
+        "markupPercent": 30,
+        "checkedOn": "2026-11-24",
+        "source": {
+          "url": "https://www.comprasparaguai.com.br/short-adidas-it2281-essentials-stash-pocket-7-inch-feminino__4981206/",
+          "title": "Short Adidas IT2281 Essentials Stash Pocket 7-Inch Feminino",
+          "storeName": "Shopping China",
+          "checkedOn": "2026-11-24",
+          "observedUSD": "20.00",
+          "declaredCurrency": "USD",
+          "visiblePriceUSD": "20.00",
+          "availabilityVerifiedInMainSection": true,
+          "htmlSha256": "b829b0ae2a3dda8ad8767a613c4d486f57196fee6a15cc1c9e57be9fb618356b",
+          "lastListing": "18 de Novembro de 2026"
+        },
+        "photo": {
+          "id": 289,
+          "image": "/images/products/compras-oferta-4981206.webp",
+          "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/51a465092a6ad46bc1c7388b3122a18cc40082a5.webp",
+          "sourceUrl": "https://www.comprasparaguai.com.br/short-adidas-it2281-essentials-stash-pocket-7-inch-feminino__4981206/",
+          "sha256": "c512e5989c29253c7fee16c670054371598ce94d1177533d7f2d91d3444604a1",
+          "bytes": 4212
+        },
+        "catalogProduct": {
+          "id": 289,
+          "name": "Short Adidas Essentials Stash Pocket IT2281 feminino",
+          "category": "moda",
+          "image": "/images/products/compras-oferta-4981206.webp",
+          "description": "Short feminino Adidas Essentials Stash Pocket 7-Inch, referência IT2281. Consulte os tamanhos disponíveis com a equipe.",
+          "featured": false,
+          "available": true
+        },
+        "notes": [
+          "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        ]
+      }
+    },
+    {
+      "id": 290,
+      "originalName": "Moletom Tommy Hilfiger MW0MW40481 BDS masculino",
+      "reason": "Roupa retirada por solicitação expressa do usuário; a retirada não decorre de falta de oferta ou de preço.",
+      "removedOn": "2026-11-24",
+      "referenceSnapshot": {
+        "id": 290,
+        "name": "Moletom Tommy Hilfiger MW0MW40481 BDS masculino",
+        "category": "moda",
+        "status": "verified",
+        "referenceCurrency": "USD",
+        "referenceUSD": "120.00",
+        "finalBRL": 876.92,
+        "markupPercent": 30,
+        "checkedOn": "2026-11-24",
+        "source": {
+          "url": "https://www.comprasparaguai.com.br/moletom-tommy-hilfiger-mw0mw40481-bds-masculino__5281372/",
+          "title": "Moletom Tommy Hilfiger MW0MW40481 BDS Masculino",
+          "storeName": "Shopping China",
+          "checkedOn": "2026-11-24",
+          "observedUSD": "120.00",
+          "declaredCurrency": "USD",
+          "visiblePriceUSD": "120.00",
+          "availabilityVerifiedInMainSection": true,
+          "htmlSha256": "1d838b0c93bccc75c253425e3018da66e504fca9638fa4ba61ef5b4c17d5dab5",
+          "lastListing": "18 de Novembro de 2026"
+        },
+        "photo": {
+          "id": 290,
+          "image": "/images/products/compras-oferta-5281372.webp",
+          "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/3eaf2b90ef6a781087a5f39cd8310cf7d6e0169f.webp",
+          "sourceUrl": "https://www.comprasparaguai.com.br/moletom-tommy-hilfiger-mw0mw40481-bds-masculino__5281372/",
+          "sha256": "40ae73336ab84ddff464adcaeccd5c71cfb702b6652a951453e4e5647f784ddd",
+          "bytes": 5550
+        },
+        "catalogProduct": {
+          "id": 290,
+          "name": "Moletom Tommy Hilfiger MW0MW40481 BDS masculino",
+          "category": "moda",
+          "image": "/images/products/compras-oferta-5281372.webp",
+          "description": "Moletom masculino Tommy Hilfiger, referência MW0MW40481 BDS. Consulte os tamanhos disponíveis com a equipe.",
+          "featured": false,
+          "available": true
+        },
+        "notes": [
+          "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        ]
+      }
+    },
+    {
+      "id": 291,
+      "originalName": "Jaqueta Tommy Hilfiger MW0MW41982 BDS masculina",
+      "reason": "Roupa retirada por solicitação expressa do usuário; a retirada não decorre de falta de oferta ou de preço.",
+      "removedOn": "2026-11-24",
+      "referenceSnapshot": {
+        "id": 291,
+        "name": "Jaqueta Tommy Hilfiger MW0MW41982 BDS masculina",
+        "category": "moda",
+        "status": "verified",
+        "referenceCurrency": "USD",
+        "referenceUSD": "220.00",
+        "finalBRL": 1607.69,
+        "markupPercent": 30,
+        "checkedOn": "2026-11-24",
+        "source": {
+          "url": "https://www.comprasparaguai.com.br/jaqueta-tommy-hilfiger-mw0mw41982-bds-masculino__5281378/",
+          "title": "Jaqueta Tommy Hilfiger MW0MW41982 BDS Masculino",
+          "storeName": "Shopping China",
+          "checkedOn": "2026-11-24",
+          "observedUSD": "220.00",
+          "declaredCurrency": "USD",
+          "visiblePriceUSD": "220.00",
+          "availabilityVerifiedInMainSection": true,
+          "htmlSha256": "30d8255379ae2e7863840cde75bd6b9408a1c41eaadcd8654a7cb53f59fbf1e8",
+          "lastListing": "18 de Novembro de 2026"
+        },
+        "photo": {
+          "id": 291,
+          "image": "/images/products/compras-oferta-5281378.webp",
+          "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/fde099dcd3a937dd41b3784aeeb37968bbcdd803.webp",
+          "sourceUrl": "https://www.comprasparaguai.com.br/jaqueta-tommy-hilfiger-mw0mw41982-bds-masculino__5281378/",
+          "sha256": "65f2085d5cf4f4656699d47e58523100807fe6e15e0ca4c35e3a708e82fd7ad3",
+          "bytes": 13950
+        },
+        "catalogProduct": {
+          "id": 291,
+          "name": "Jaqueta Tommy Hilfiger MW0MW41982 BDS masculina",
+          "category": "moda",
+          "image": "/images/products/compras-oferta-5281378.webp",
+          "description": "Jaqueta masculina Tommy Hilfiger, referência MW0MW41982 BDS. Consulte os tamanhos disponíveis com a equipe.",
+          "featured": false,
+          "available": true
+        },
+        "notes": [
+          "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        ]
+      }
     }
   ],
   "pendingProducts": [
