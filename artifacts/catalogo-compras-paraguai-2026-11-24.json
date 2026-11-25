@@ -5610,18 +5610,23 @@
         "lastListing": "24 de Novembro de 2026"
       },
       "photo": {
+        "sourceUrl": "https://www.comprasparaguai.com.br/apple-iphone-15-256gb-green-sim-card-esim-a3090-hn__5212377/",
+        "sourceTitle": "Apple iPhone 15 A3090 256 GB - Green",
+        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/577d45bfb5fc7a46a02dac4321617f24901afbe9.webp",
+        "width": 550,
+        "height": 550,
+        "bytes": 9702,
+        "sha256": "22d31d5d1c5867ddc0bec67c3b87b5d7b8459cd06c27a40a94540ca3b5401fa4",
+        "sourceHtmlSha256": "6a0e00bdae59c4fe6e2c623e0c788d7fcc69dfed2b1a7386469451e5e7904dd0",
         "id": 175,
-        "image": "/images/products/compras-oferta-5671867.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/2b5c3bd6e7de2cec96e61c06d25ea6ac5e4a88cc.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-15-256gb-cpo-green__5671867/",
-        "sha256": "309b4a61407dd432536f66e7783fbc90202e42f435c327fe75017e39ec2726f3",
-        "bytes": 2854
+        "image": "/images/products/iphone-15-256gb-green-550.webp",
+        "checkedOn": "2026-11-24"
       },
       "catalogProduct": {
         "id": 175,
         "name": "Apple iPhone 15 256GB (CPO)",
         "category": "eletronicos",
-        "image": "/images/products/compras-oferta-5671867.webp",
+        "image": "/images/products/iphone-15-256gb-green-550.webp",
         "description": "Apple iPhone 15 com 256GB de armazenamento. Apresentação do anúncio: CPO.",
         "featured": false,
         "available": true,
@@ -5630,7 +5635,8 @@
         "condition": "CPO"
       },
       "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados.",
+        "Fotografia do iPhone 15 verde atualizada de 210 × 210 para 550 × 550 pixels, com modelo, capacidade e cor conferidos visualmente. A origem da foto é independente da referência de preço e da condição comercial do cadastro."
       ]
     },
     {
