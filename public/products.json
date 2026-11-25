@@ -5802,29 +5802,6 @@
     "pricingMethod": "markup"
   },
   {
-    "id": 302,
-    "name": "Sanduicheira e Grill Mondial Premium G-09 220V",
-    "category": "casa",
-    "image": "/images/products/compras-oferta-5438791.webp",
-    "description": "Grill elétrico Mondial Premium G-09 de 1700 W e 220V, com placas antiaderentes e temperatura ajustável. Acabamento inox e preto.",
-    "featured": false,
-    "available": true,
-    "price": 248.46,
-    "pricingUpdatedOn": "2026-11-24",
-    "basePriceUSD": 34,
-    "exchangeRateBRL": 5.621276923076923,
-    "markupPercent": 30,
-    "pricingStatus": "verified",
-    "priceSource": {
-      "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/sanduicheira-grill-mondial-premium-g-09-1700-w-220v-inoxpreto__5438791/",
-      "checkedOn": "2026-11-24",
-      "referenceCurrency": "USD",
-      "storeName": "Nissei"
-    },
-    "pricingMethod": "markup"
-  },
-  {
     "id": 303,
     "name": "Stanley Quencher H2.0 FlowState 1,18 L — Black 2.0",
     "category": "casa",

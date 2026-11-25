@@ -1,6 +1,6 @@
 {
   "checkedOn": "2026-11-24",
-  "scope": "258 ofertas verificadas do Compras Paraguai e 8 produtos sob consulta. Todas as roupas foram retiradas por solicitação do usuário.",
+  "scope": "257 ofertas verificadas do Compras Paraguai e 8 produtos sob consulta. Todas as roupas foram retiradas por solicitação do usuário.",
   "criteria": [
     "Oferta individual com valor em US$ na seção principal e sem aviso de indisponibilidade.",
     "Marca, modelo, capacidade e apresentação correspondentes ao cadastro. Correções e mudanças de condição são explícitas.",
@@ -78,14 +78,14 @@
     "rawResponseSha256": "c86f5c13288f6f3c3308946b9533e72d4be2f1ea774d584ca80cfec97ba0184e"
   },
   "summary": {
-    "active": 266,
+    "active": 265,
     "recoveredFromPreviousRemoval": 22,
-    "excluded": 40,
-    "withPrice": 258,
-    "withImage": 264,
+    "excluded": 41,
+    "withPrice": 257,
+    "withImage": 263,
     "notebooks": 30,
     "medicines": 23,
-    "verified": 258,
+    "verified": 257,
     "pending": 8,
     "clothes": 0
   },
@@ -10432,49 +10432,6 @@
       ]
     },
     {
-      "id": 302,
-      "name": "Sanduicheira e Grill Mondial Premium G-09 220V",
-      "category": "casa",
-      "status": "verified",
-      "referenceCurrency": "USD",
-      "referenceUSD": "34.00",
-      "finalBRL": 248.46,
-      "markupPercent": 30,
-      "checkedOn": "2026-11-24",
-      "source": {
-        "url": "https://www.comprasparaguai.com.br/sanduicheira-grill-mondial-premium-g-09-1700-w-220v-inoxpreto__5438791/",
-        "title": "Sanduicheira Grill Mondial Premium G-09 1700 W 220V - Inox/Preto",
-        "storeName": "Nissei",
-        "checkedOn": "2026-11-24",
-        "observedUSD": "34.00",
-        "declaredCurrency": "USD",
-        "visiblePriceUSD": "34.00",
-        "availabilityVerifiedInMainSection": true,
-        "htmlSha256": "07a118de2981b62c1a66a677475cf102bdd49316fcc682e7fcbdeba72677c028",
-        "lastListing": "24 de Novembro de 2026"
-      },
-      "photo": {
-        "id": 302,
-        "image": "/images/products/compras-oferta-5438791.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/15f3b0c13fdd60403a66344c8eeeab01dafc524c.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/sanduicheira-grill-mondial-premium-g-09-1700-w-220v-inoxpreto__5438791/",
-        "sha256": "83dd22b3f55b1cbfa220fd4dbdf1397308105f3dea1b51987e06deddb863f589",
-        "bytes": 12980
-      },
-      "catalogProduct": {
-        "id": 302,
-        "name": "Sanduicheira e Grill Mondial Premium G-09 220V",
-        "category": "casa",
-        "image": "/images/products/compras-oferta-5438791.webp",
-        "description": "Grill elétrico Mondial Premium G-09 de 1700 W e 220V, com placas antiaderentes e temperatura ajustável. Acabamento inox e preto.",
-        "featured": false,
-        "available": true
-      },
-      "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
-      ]
-    },
-    {
       "id": 303,
       "name": "Stanley Quencher H2.0 FlowState 1,18 L — Black 2.0",
       "category": "casa",
@@ -12422,6 +12379,55 @@
           "category": "moda",
           "image": "/images/products/compras-oferta-5281378.webp",
           "description": "Jaqueta masculina Tommy Hilfiger, referência MW0MW41982 BDS. Consulte os tamanhos disponíveis com a equipe.",
+          "featured": false,
+          "available": true
+        },
+        "notes": [
+          "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        ]
+      }
+    },
+    {
+      "id": 302,
+      "originalName": "Sanduicheira e Grill Mondial Premium G-09 220V",
+      "reason": "Retirado por solicitação expressa do usuário.",
+      "removedOn": "2026-11-24",
+      "referenceSnapshot": {
+        "id": 302,
+        "name": "Sanduicheira e Grill Mondial Premium G-09 220V",
+        "category": "casa",
+        "status": "verified",
+        "referenceCurrency": "USD",
+        "referenceUSD": "34.00",
+        "finalBRL": 248.46,
+        "markupPercent": 30,
+        "checkedOn": "2026-11-24",
+        "source": {
+          "url": "https://www.comprasparaguai.com.br/sanduicheira-grill-mondial-premium-g-09-1700-w-220v-inoxpreto__5438791/",
+          "title": "Sanduicheira Grill Mondial Premium G-09 1700 W 220V - Inox/Preto",
+          "storeName": "Nissei",
+          "checkedOn": "2026-11-24",
+          "observedUSD": "34.00",
+          "declaredCurrency": "USD",
+          "visiblePriceUSD": "34.00",
+          "availabilityVerifiedInMainSection": true,
+          "htmlSha256": "07a118de2981b62c1a66a677475cf102bdd49316fcc682e7fcbdeba72677c028",
+          "lastListing": "24 de Novembro de 2026"
+        },
+        "photo": {
+          "id": 302,
+          "image": "/images/products/compras-oferta-5438791.webp",
+          "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/15f3b0c13fdd60403a66344c8eeeab01dafc524c.webp",
+          "sourceUrl": "https://www.comprasparaguai.com.br/sanduicheira-grill-mondial-premium-g-09-1700-w-220v-inoxpreto__5438791/",
+          "sha256": "83dd22b3f55b1cbfa220fd4dbdf1397308105f3dea1b51987e06deddb863f589",
+          "bytes": 12980
+        },
+        "catalogProduct": {
+          "id": 302,
+          "name": "Sanduicheira e Grill Mondial Premium G-09 220V",
+          "category": "casa",
+          "image": "/images/products/compras-oferta-5438791.webp",
+          "description": "Grill elétrico Mondial Premium G-09 de 1700 W e 220V, com placas antiaderentes e temperatura ajustável. Acabamento inox e preto.",
           "featured": false,
           "available": true
         },
