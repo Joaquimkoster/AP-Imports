@@ -8819,18 +8819,23 @@
         "lastListing": "24 de Novembro de 2026"
       },
       "photo": {
+        "sourceUrl": "https://www.comprasparaguai.com.br/celular-apple-iphone-se-2022-64gb_40248/",
+        "sourceTitle": "Celular Apple iPhone SE 2022 64GB",
+        "imageUrl": "https://us-ord-10.linodeobjects.com/bucket-prod/site/media/fotos/modelos/celular_apple_iphone_se_2022_64gb_145112.big.jpg",
+        "width": 540,
+        "height": 540,
+        "bytes": 21627,
+        "sha256": "0bf04cd945451ba82baeabac8747ad393b29acf5c13868399e32cbc5a81c3698",
+        "sourceHtmlSha256": "d9075dd65576cabb5b6ebdd887d222a1b149f3ede790175bc346966f7ac2cd59",
         "id": 248,
-        "image": "/images/products/compras-oferta-5361446.webp",
-        "imageUrl": "https://bucket-prod.us-ord-10.linodeobjects.com/site/media/fotos/produtos/thumbs/big/7fb402daf6e39b284e41aeb676ecff0cbee4113e.webp",
-        "sourceUrl": "https://www.comprasparaguai.com.br/iphone-se-3ra-gen-64gb__5361446/",
-        "sha256": "c85f3f5af36cc718e724295dc61b0123c2a6ded159bf9ff1e6a49ee3f99eba86",
-        "bytes": 4364
+        "image": "/images/products/iphone-se-3-geracao-64gb-540.jpg",
+        "checkedOn": "2026-11-24"
       },
       "catalogProduct": {
         "id": 248,
         "name": "Apple iPhone SE (3ª geração) 64GB",
         "category": "eletronicos",
-        "image": "/images/products/compras-oferta-5361446.webp",
+        "image": "/images/products/iphone-se-3-geracao-64gb-540.jpg",
         "description": "Apple iPhone SE (3ª geração) com 64GB de armazenamento. Condição não especificada no título da oferta; confirme com a equipe.",
         "featured": false,
         "available": true,
@@ -8839,7 +8844,8 @@
         "specificationSource": "https://support.apple.com/pt-br/108044"
       },
       "notes": [
-        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados."
+        "Preço em USD observado na seção principal da oferta; reais exibidos pelo comparador não usados.",
+        "Imagem substituída por fotografia de 540 × 540 pixels do agrupador exato do iPhone SE 2022 64GB, mostrando frente e traseira. Geração, formato do aparelho e imagem de apresentação conferidos visualmente; a origem da foto é independente da referência de preço e da condição comercial."
       ]
     },
     {
