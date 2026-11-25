@@ -59,8 +59,8 @@
   "status": "Histórico da conferência anterior à restauração dos oito produtos; ver latestCatalogCheck para o estado atual.",
   "latestCatalogCheck": {
     "checkedOn": "2026-11-24",
-    "active": 265,
-    "verifiedUSDOffers": 257,
+    "active": 264,
+    "verifiedUSDOffers": 256,
     "restoredPendingIds": [
       143,
       147,
@@ -95,7 +95,8 @@
     ],
     "clothesRemaining": 0,
     "additionalRemovedProductIds": [
-      302
+      302,
+      304
     ]
   }
 }

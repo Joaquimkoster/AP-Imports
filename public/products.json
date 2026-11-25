@@ -5825,29 +5825,6 @@
     "pricingMethod": "markup"
   },
   {
-    "id": 304,
-    "name": "Liquidificador Oster BLSTBPST-053 1,5 L 220V",
-    "category": "casa",
-    "image": "/images/products/compras-oferta-4246506.webp",
-    "description": "Liquidificador Oster BLSTBPST-053 de 1,5 litro, com potência de 700 W. Versão preta com alimentação de 220V.",
-    "featured": false,
-    "available": true,
-    "price": 767.3,
-    "pricingUpdatedOn": "2026-11-24",
-    "basePriceUSD": 105,
-    "exchangeRateBRL": 5.621276923076923,
-    "markupPercent": 30,
-    "pricingStatus": "verified",
-    "priceSource": {
-      "name": "Compras Paraguai",
-      "url": "https://www.comprasparaguai.com.br/liquidificador-oster-blstbpst-053-15l-700w-220v-preto__4246506/",
-      "checkedOn": "2026-11-24",
-      "referenceCurrency": "USD",
-      "storeName": "Shopping China"
-    },
-    "pricingMethod": "markup"
-  },
-  {
     "id": 305,
     "name": "Stanley Quencher H2.0 FlowState 1,18 L — Polar",
     "category": "casa",
