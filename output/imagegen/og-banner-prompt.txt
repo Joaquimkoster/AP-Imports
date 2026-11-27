@@ -1,0 +1,19 @@
+Tool: built-in image_gen (no API/CLI fallback).
+Reference: images/Logo.webp (existing brand identity).
+Deliverable: images/og-banner.jpg, 1200 x 630 px, JPEG.
+Postprocessing: resize to 1200 x 630 and encode JPEG.
+
+Use case: ads-marketing.
+Asset type: finished website Open Graph sharing banner for A&P Imports, horizontal 1200 x 630 pixels (aspect ratio 1.90476:1).
+Primary request: create a polished premium brand card matching this existing Brazilian imported-products catalog, whose palette is near-black #080808, warm gold #cda656, ivory #f1efeb.
+Input image 1 is a BRAND REFERENCE: the existing A&P Imports logo, showing large metallic gold serif A&P, silver metallic IMPORTS, and the small circular Brazil, USA and Paraguay flags. Preserve this brand identity faithfully in the card. The reference is not the layout to reproduce.
+Composition: spacious elegant two-column editorial layout, with the logo occupying the left third, a very fine vertical muted-gold divider, and large, highly legible typography on the right two thirds. Use generous margins around everything. Make the logo crisp and professional on the black background. Right-hand typography must be composed to fit fully with no overlap. Small uppercase widely spaced gold eyebrow, a larger elegant ivory serif headline broken into two lines, with the second line gold; a smaller ivory supporting line below. Leave clear negative space.
+Backdrop: deep matte black, a very subtle warm bronze glow near the lower left, understated thin gold border inset from the image edges. Restrained luxury, clean lighting and subtle metallic highlights; no ornate flourishes or particles.
+Text (verbatim, in Brazilian Portuguese):
+eyebrow: "PRODUTOS IMPORTADOS"
+headline line 1: "Qualidade sem"
+headline line 2: "fronteiras."
+supporting line 1: "Perfumes, eletrônicos,"
+supporting line 2: "acessórios e muito mais."
+logo text: "A&P" and "IMPORTS".
+Constraints: preserve all Portuguese accents. Use only the text specified. Strong readability at social preview size. No product photos, no people, no prices, no website URL, no invented claims, no watermarks, no mockup frame. This is the final flat banner image itself.
