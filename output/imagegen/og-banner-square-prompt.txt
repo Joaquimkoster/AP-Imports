@@ -1,0 +1,16 @@
+Tool: built-in image_gen.
+Reference: images/og-banner-v2.jpg.
+Deliverable: images/og-banner-square-v3.jpg, 1200 x 1200 px, baseline JPEG.
+Postprocessing: resize square output to 1200 x 1200 and encode JPEG.
+
+Use case: compositing / ads-marketing.
+Edit target: the attached existing A&P Imports banner.
+Create a SQUARE 1:1 version of this same brand artwork specifically for a WhatsApp compact square link thumbnail. The existing horizontal two-column artwork loses its sides when displayed as a square; recompose it into a square, with the complete logo centered in the upper half and all the existing text centered underneath. This must remain the same black-and-gold brand artwork, adapted to a square canvas, not a new brand identity.
+Preserve the original metallic gold serif A&P, silver IMPORTS, and Brazil/USA/Paraguay flag medallions; retain the full logo. Preserve the matte black background, warm subtle bronze glow, thin inset gold border, ivory-and-gold serif typography.
+Composition: one centered column, logo in the upper half, exact main headline below in large highly legible serif lettering across two lines, and supporting text at the bottom. Use the small uppercase eyebrow just above the main headline. All meaningful content must sit within the central 85% of the square. Maximize legibility at thumbnail size. No content may be clipped or outside the square.
+Text verbatim:
+Logo: "A&P" / "IMPORTS"
+Eyebrow: "PRODUTOS IMPORTADOS"
+Headline: "Qualidade sem" / "fronteiras."
+Supporting line: "Perfumes, eletrônicos," / "acessórios e muito mais."
+Make the logo and main headline prominent. Preserve all Portuguese accents. Avoid small illegible lettering. No added claims, no extra text, no website URL, no prices, no people, no product photos, no watermarks. Output only the finished flat square image, approximately 1200 x 1200 pixels.
