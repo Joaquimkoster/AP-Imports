@@ -2,7 +2,7 @@
 <html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/webp" href="/images/Logo.webp" />
+    <link rel="icon" type="image/webp" href="./images/Logo.webp" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>A&P Imports | Produtos importados</title>
     <meta name="description" content="Perfumes, eletrônicos, cosméticos e muito mais. Produtos importados selecionados com atendimento personalizado pelo WhatsApp." />
@@ -10,10 +10,72 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="A&P Imports | Produtos importados" />
     <meta property="og:description" content="Perfumes, eletrônicos, cosméticos e muito mais, com atendimento personalizado pelo WhatsApp." />
-    <meta property="og:image" content="/images/Logo.webp" />
+    <meta property="og:image" content="./images/Logo.webp" />
+    <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
+    <main>
+      <section id="catalogo" class="catalog-container" aria-labelledby="catalog-title">
+        <div class="catalog-banner" aria-labelledby="catalog-title">
+          <div class="banner-brand"><img src="./images/Logo.webp" alt="A&amp;P Imports" width="180" height="180" /></div>
+          <div class="banner-content">
+            <span class="banner-eyebrow">PRODUTOS IMPORTADOS</span>
+            <h1 id="catalog-title">Qualidade sem <span>fronteiras.</span></h1>
+            <p>Perfumes, eletrônicos, acessórios e muito mais.</p>
+            <div class="banner-benefits">
+              <span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-shield-check" aria-hidden="true"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"></path><path d="m9 12 2 2 4-4"></path></svg><span>Qualidade e<br /><strong>confiança</strong></span></span>
+              <span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-package" aria-hidden="true"><path d="M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"></path><path d="M12 22V12"></path><polyline points="3.29 7 12 12 20.71 7"></polyline><path d="m7.5 4.27 9 5.15"></path></svg><span>Produtos<br /><strong>selecionados</strong></span></span>
+              <span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-headphones" aria-hidden="true"><path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3"></path></svg><span>Atendimento<br /><strong>personalizado</strong></span></span>
+            </div>
+          </div>
+        </div>
+        <section class="products" id="produtos" aria-labelledby="products-title">
+          <div class="products-container">
+            <h2 id="products-title" class="sr-only">Catálogo de produtos</h2>
+            <div class="products-controls" id="categorias">
+              <div id="category-field" class="products-sort-field products-category-field"></div>
+              <div class="products-results-actions" hidden>
+                <div id="sort-field" class="products-sort-field"></div>
+                <button type="button" class="products-reset is-hidden" disabled aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x" aria-hidden="true"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg>Limpar filtros</button>
+              </div>
+            </div>
+            <div class="product-search">
+              <form class="navbar-search" role="search">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-search" aria-hidden="true"><path d="m21 21-4.34-4.34"></path><circle cx="11" cy="11" r="8"></circle></svg>
+                <input type="search" placeholder="Buscar produto..." aria-label="Buscar produtos" />
+                <button type="button" aria-label="Limpar busca" hidden><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x" aria-hidden="true"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg></button>
+              </form>
+            </div>
+            <div class="products-results" hidden><p class="products-count" aria-live="polite" aria-atomic="true"></p></div>
+            <div class="products-content" role="region" aria-label="Resultados do catálogo" tabindex="0">
+              <div class="products-loading" role="status">
+                <p class="sr-only">Carregando nossa seleção...</p>
+                <div class="products-grid" aria-hidden="true"><div class="product-skeleton"></div><div class="product-skeleton"></div><div class="product-skeleton"></div></div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <div class="catalog-assistance">
+          <span><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-message-circle" aria-hidden="true"><path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719"></path></svg> Dúvidas sobre algum produto? A gente ajuda você a escolher.</span>
+          <a href="#contato" data-scroll="contato">Converse com a equipe <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-down-right" aria-hidden="true"><path d="m7 7 10 10"></path><path d="M17 7v10H7"></path></svg></a>
+        </div>
+        <section id="contato" class="contact" aria-labelledby="contact-title">
+          <div class="contact-container">
+            <div class="contact-heading">
+              <span class="contact-label">ATENDIMENTO A&amp;P IMPORTS</span>
+              <h2 id="contact-title">Fale com nossa <span>equipe.</span></h2>
+            </div>
+            <div class="contact-team"></div>
+            <footer class="contact-footer">
+              <span>A&amp;P IMPORTS</span>
+              <span>© <span id="current-year"></span> A&amp;P Imports. Todos os direitos reservados.</span>
+              <a href="#catalogo" data-scroll="catalogo">Voltar ao catálogo <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-up-right" aria-hidden="true"><path d="M7 7h10v10"></path><path d="M7 17 17 7"></path></svg></a>
+            </footer>
+          </div>
+        </section>
+      </section>
+    </main>
+    <noscript><p>Ative o JavaScript para consultar os produtos e os contatos.</p></noscript>
+    <script src="./script.js"></script>
   </body>
 </html>
